@@ -1,7 +1,9 @@
+import logo from './assets/logo.svg'
+
 function App() {
   return (
-    <div className="min-h-screen bg-slate-900 flex items-center justify-center">
-      <h1 className="text-4xl font-bold text-emerald-400">Gambeta ⚽</h1>
+    <div className="min-h-screen bg-white flex items-center justify-center">
+      <img src={logo} alt="gambeta" className="h-16" />
     </div>
   )
 }
