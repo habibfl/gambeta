@@ -23,6 +23,7 @@ const GROUPS = [
 ];
 
 const SIMPLE_LINKS = [
+  { label: "Équipes", to: "/equipes" },
   { label: "Comparateur", to: "/comparateur" },
   { label: "Joueurs", to: "/joueurs" },
 ];

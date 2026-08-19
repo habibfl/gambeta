@@ -1,31 +1,87 @@
-// Trois entrées principales du site, présentées comme des cartes
+import { useEffect, useRef, useState } from "react";
+
+// Les 3 fonctionnalités mises en avant, avec leur contenu inchangé.
 const FEATURES = [
   {
     title: "Comparer les championnats",
     description:
-      "Croisez les statistiques clés (buts, possession, niveau de jeu) entre plusieurs championnats en un coup d'œil.",
+      "Croisez les statistiques clés entre plusieurs championnats en un coup d'œil.",
   },
   {
     title: "Radar des joueurs",
     description:
-      "Visualisez le profil complet d'un joueur — vitesse, passes, duels, finition — sur un graphique radar interactif.",
+      "Visualisez le profil complet d'un joueur sur un radar graphique interactif.",
   },
   {
     title: "Pépites sous-cotées",
     description:
-      "Découvrez les jeunes talents qui performent au-dessus de leur cote, repérés par nos indicateurs de progression.",
+      "Découvrez les jeunes talents qui performent au-dessus de leur cote.",
   },
 ];
 
+// Espace réservé pour l'aperçu visuel d'une fonctionnalité.
+// TODO : remplacer par une vraie capture d'écran ou un composant
+// graphique une fois développé, déposer dans frontend/src/assets/screenshots/
+function ImagePlaceholder({ title, className = "" }) {
+  return (
+    <div
+      className={`flex h-full min-h-[320px] w-full flex-col items-center justify-center gap-2 rounded-2xl border-2 border-dashed border-gray-300 bg-gray-100 p-8 text-center dark:border-gray-700 dark:bg-gray-800 ${className}`}
+    >
+      <p className="text-sm font-medium text-gray-500 dark:text-gray-400">
+        Aperçu à venir :
+      </p>
+      <p className="text-base font-semibold text-gray-600 dark:text-gray-300">
+        {title}
+      </p>
+    </div>
+  );
+}
+
 export default function FeatureGrid() {
+  // Index du bloc de texte actuellement visible au centre de l'écran :
+  // c'est lui qui pilote le contenu de l'espace réservé collé (sticky).
+  const [activeIndex, setActiveIndex] = useState(0);
+
+  // Une ref par bloc de texte, remplie via le callback `ref` ci-dessous,
+  // pour pouvoir les observer sans dépendre de leur ordre de rendu.
+  const blockRefs = useRef([]);
+
+  useEffect(() => {
+    // On ne déclenche un changement de bloc actif que lorsqu'un bloc de
+    // texte traverse une fine bande horizontale au centre de l'écran
+    // (rootMargin négatif en haut et en bas) : c'est le principe technique
+    // du "pinned narrative" façon The Pudding/NYT, sans dépendance externe.
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            setActiveIndex(Number(entry.target.dataset.index));
+          }
+        });
+      },
+      { rootMargin: "-45% 0px -45% 0px", threshold: 0 }
+    );
+
+    blockRefs.current.forEach((el) => el && observer.observe(el));
+    return () => observer.disconnect();
+  }, []);
+
   return (
     <section
       id="comparer"
       className="bg-[var(--gambeta-paper)] text-[var(--gambeta-ink)] py-24 px-6 md:px-12"
+      // Légère texture de points en arrière-plan (motif SVG "à la main" via
+      // radial-gradient répété) plutôt qu'un fond blanc plat : un point
+      // corail tous les 22px, à 5% d'opacité, donc perceptible sans distraire.
+      style={{
+        backgroundImage:
+          "radial-gradient(circle at 1px 1px, rgba(232,111,44,0.05) 1px, transparent 0)",
+        backgroundSize: "22px 22px",
+      }}
     >
       <div className="max-w-[1200px] mx-auto">
         {/* En-tête de section */}
-        <div className="mb-12">
+        <div className="mb-12 md:mb-20">
           <p className="text-[11px] font-semibold uppercase tracking-[0.14em] text-[#e86f2c] mb-2">
             Fonctionnalités
           </p>
@@ -34,27 +90,47 @@ export default function FeatureGrid() {
           </h2>
         </div>
 
-        {/* Grille : 1 colonne en mobile, 3 colonnes à partir de md.
-            Même langage visuel que les cartes de ligue de la navbar :
-            bord fin, coins arrondis, légère élévation au survol. */}
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-          {FEATURES.map((feature) => (
-            <article
-              key={feature.title}
-              className="group rounded-2xl border border-current/10 bg-current/[0.02] p-7 transition-all duration-300 hover:-translate-y-1 hover:border-[#e86f2c]/40 hover:shadow-[0_16px_40px_rgba(34,20,0,0.1)]"
-            >
-              {/* Pastille accent : repère visuel rapide, pas d'icône
-                  pour garder le composant simple */}
-              <span
-                className="inline-block w-10 h-10 rounded-lg mb-5 bg-[#e86f2c] transition-transform duration-300 group-hover:scale-110"
-                aria-hidden="true"
-              />
-              <h3 className="text-[18px] font-semibold mb-2">{feature.title}</h3>
-              <p className="text-[14px] text-current/60 leading-relaxed">
-                {feature.description}
-              </p>
-            </article>
-          ))}
+        {/* Sur desktop (md+) : deux colonnes, gauche ~45% / droite ~55%.
+            Sur mobile : une seule colonne, gérée directement dans le
+            <div className="flex flex-col"> ci-dessous (chaque bloc de
+            texte est suivi de son propre espace réservé). */}
+        <div className="md:grid md:grid-cols-[45%_55%] md:gap-12 md:items-start">
+          {/* Colonne gauche : les 3 blocs de texte empilés */}
+          <div className="flex flex-col">
+            {FEATURES.map((feature, index) => (
+              <div key={feature.title}>
+                <div
+                  ref={(el) => {
+                    blockRefs.current[index] = el;
+                  }}
+                  data-index={index}
+                  className="flex flex-col justify-center py-10 md:min-h-[80vh] md:py-0"
+                >
+                  <h3 className="text-2xl md:text-3xl font-semibold mb-3 tracking-tight">
+                    {feature.title}
+                  </h3>
+                  <p className="text-[15px] md:text-base text-current/60 leading-relaxed max-w-md">
+                    {feature.description}
+                  </p>
+                </div>
+
+                {/* Espace réservé mobile : directement sous son bloc de
+                    texte, pas de sticky (inutile sur petit écran). */}
+                <div className="mb-10 md:hidden">
+                  <ImagePlaceholder title={feature.title} />
+                </div>
+              </div>
+            ))}
+          </div>
+
+          {/* Colonne droite : espace réservé collé, visible seulement
+              à partir de md. Son contenu suit `activeIndex`. */}
+          <div className="hidden md:sticky md:top-28 md:block md:h-[70vh]">
+            <ImagePlaceholder
+              title={FEATURES[activeIndex].title}
+              className="h-full"
+            />
+          </div>
         </div>
       </div>
     </section>

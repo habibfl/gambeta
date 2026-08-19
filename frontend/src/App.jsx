@@ -1,31 +1,24 @@
 import { Route, Routes } from "react-router-dom";
 import Navbar from "./components/Navbar";
-import Hero from "./components/Hero";
-import FeatureGrid from "./components/FeatureGrid";
 import Footer from "./components/Footer";
+import Home from "./pages/Home";
+import Championnats from "./pages/Championnats";
+import ChampionnatDetail from "./pages/ChampionnatDetail";
+import Equipes from "./pages/Equipes";
+import Joueurs from "./pages/Joueurs";
+import Comparateur from "./pages/Comparateur";
 
-// Page d'accueil : regroupe le hero et la grille de fonctionnalités.
-function HomePage() {
+// Page 404 : trop simple pour mériter son propre fichier dans pages/,
+// affichée pour toute route qui ne correspond à rien ci-dessous.
+function NotFound() {
   return (
-    <>
-      <Hero />
-      <FeatureGrid />
-    </>
-  );
-}
-
-// Placeholder temporaire pour les pages pas encore construites
-// (Championnats, Compétitions, Joueurs, Comparateur...).
-// Sera remplacé progressivement au fil des phases suivantes.
-function ComingSoonPage() {
-  return (
-    <section className="flex-1 flex items-center justify-center px-6 py-32 text-center">
+    <section className="flex-1 flex items-center justify-center px-6 py-32 text-center bg-[var(--gambeta-paper)] text-[var(--gambeta-ink)]">
       <div>
         <p className="text-[12px] font-semibold uppercase tracking-[0.14em] text-[#e86f2c] mb-3">
-          Bientôt disponible
+          Erreur 404
         </p>
-        <h1 className="text-[28px] md:text-[34px] font-bold text-[var(--gambeta-ink)] tracking-[-0.02em]">
-          Cette page arrive prochainement.
+        <h1 className="text-[28px] md:text-[34px] font-bold tracking-[-0.02em]">
+          Cette page n'existe pas.
         </h1>
       </div>
     </section>
@@ -40,8 +33,13 @@ function App() {
     <div className="min-h-screen flex flex-col transition-colors duration-300">
       <Navbar />
       <Routes>
-        <Route path="/" element={<HomePage />} />
-        <Route path="*" element={<ComingSoonPage />} />
+        <Route path="/" element={<Home />} />
+        <Route path="/championnats" element={<Championnats />} />
+        <Route path="/championnats/:id" element={<ChampionnatDetail />} />
+        <Route path="/equipes" element={<Equipes />} />
+        <Route path="/joueurs" element={<Joueurs />} />
+        <Route path="/comparateur" element={<Comparateur />} />
+        <Route path="*" element={<NotFound />} />
       </Routes>
       <Footer />
     </div>
