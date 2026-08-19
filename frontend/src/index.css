@@ -1,1 +1,60 @@
 @import "tailwindcss";
+
+/* Active le mode sombre piloté par une classe ".dark" sur <html>
+   (au lieu de la préférence système par défaut de Tailwind v4),
+   pour que notre ThemeContext puisse le contrôler explicitement. */
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+   :root {
+      --gambeta-ink: #221400;
+      --gambeta-paper: #f9f9f5;
+      --gambeta-accent: #e86f2c;
+   }
+
+   /* En mode sombre, on inverse le rôle des deux tons neutres : le texte
+      devient clair, le fond devient sombre. L'accent reste identique,
+      il fonctionne aussi bien sur fond clair que sombre. */
+   :root.dark {
+      --gambeta-ink: #f5f0e8;
+      --gambeta-paper: #17110a;
+   }
+
+   html {
+      background: var(--gambeta-paper);
+      scroll-behavior: smooth;
+   }
+
+   body {
+      margin: 0;
+      background: var(--gambeta-paper);
+      color: var(--gambeta-ink);
+      -webkit-font-smoothing: antialiased;
+      text-rendering: optimizeLegibility;
+   }
+
+   ::selection {
+      background: var(--gambeta-accent);
+      color: #fff;
+   }
+}
+
+@layer components {
+   .nav-link::after {
+      content: "";
+      position: absolute;
+      right: 0;
+      bottom: -5px;
+      left: 0;
+      height: 1px;
+      background: currentColor;
+      transform: scaleX(0);
+      transform-origin: left;
+      transition: transform 220ms ease;
+   }
+
+   .nav-link:hover::after,
+   .nav-link[aria-current="page"]::after {
+      transform: scaleX(1);
+   }
+}
