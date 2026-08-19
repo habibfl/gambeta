@@ -54,7 +54,7 @@ function LeagueCard({ item, onNavigate }) {
   );
 }
 
-function ExpandedPanel({ group, leagues, loading, onNavigate }) {
+function ExpandedPanel({ group, leagues, onNavigate }) {
   const isLeagueGroup = group.id === "ligues";
   return (
     <div className="border-t border-[#221400]/10 px-5 pb-5 pt-4 md:px-7">
@@ -69,7 +69,7 @@ function ExpandedPanel({ group, leagues, loading, onNavigate }) {
 
       {isLeagueGroup ? (
         <div className="mt-4 flex gap-3 overflow-x-auto pb-1">
-          {loading ? <p className="py-5 text-sm text-[#221400]/55">Chargement des ligues...</p> : leagues.map((item) => <LeagueCard key={item.id} item={item} onNavigate={onNavigate} />)}
+          {leagues.map((item) => <LeagueCard key={item.id} item={item} onNavigate={onNavigate} />)}
         </div>
       ) : (
         <div className="mt-4 flex flex-wrap gap-2">
@@ -89,8 +89,9 @@ export default function Navbar() {
   const [hoveredMenu, setHoveredMenu] = useState(null);
   const [activeMenu, setActiveMenu] = useState(null);
   const [mobileOpen, setMobileOpen] = useState(false);
-  const [leagues, setLeagues] = useState([]);
-  const [leaguesLoaded, setLeaguesLoaded] = useState(false);
+  // Repli à initiales affiché immédiatement ; remplacé silencieusement par
+  // les vraies ligues (nom + logo) dès que l'API répond avec succès.
+  const [leagues, setLeagues] = useState(LEAGUES_FALLBACK);
   const navRef = useRef(null);
   const lastScrollY = useRef(0);
   const openMenu = hoveredMenu || activeMenu;
@@ -108,7 +109,8 @@ export default function Navbar() {
   }, [openMenu, mobileOpen]);
 
   useEffect(() => {
-    if (!openMenu || leagues.length) return undefined;
+    // Récupéré une seule fois au montage, pas à chaque ouverture du menu :
+    // le backend met déjà le résultat en cache 24h de son côté.
     let cancelled = false;
     fetch(NAV_API_URL)
       .then((response) => (response.ok ? response.json() : Promise.reject(new Error("API indisponible"))))
@@ -119,10 +121,9 @@ export default function Navbar() {
         // plutôt que d'afficher un menu vide.
         setLeagues(data.leagues?.length ? data.leagues : LEAGUES_FALLBACK);
       })
-      .catch(() => { if (!cancelled) setLeagues(LEAGUES_FALLBACK); })
-      .finally(() => { if (!cancelled) setLeaguesLoaded(true); });
+      .catch(() => { if (!cancelled) setLeagues(LEAGUES_FALLBACK); });
     return () => { cancelled = true; };
-  }, [openMenu, leagues.length]);
+  }, []);
 
   useEffect(() => {
     const handleOutside = (event) => {
@@ -178,13 +179,13 @@ export default function Navbar() {
           </div>
         </div>
 
-        <div className={`transition-[max-height,opacity] duration-300 ${openMenu ? "max-h-[520px] opacity-100" : "max-h-0 opacity-0"}`}>{openMenu ? <ExpandedPanel group={GROUPS.find((group) => group.id === openMenu)} leagues={leagues} loading={!leaguesLoaded} onNavigate={closeMenus} /> : null}</div>
+        <div className={`transition-[max-height,opacity] duration-300 ${openMenu ? "max-h-[520px] opacity-100" : "max-h-0 opacity-0"}`}>{openMenu ? <ExpandedPanel group={GROUPS.find((group) => group.id === openMenu)} leagues={leagues} onNavigate={closeMenus} /> : null}</div>
 
         <div className={`border-t border-[#221400]/10 px-6 transition-[max-height,opacity,padding] duration-300 md:hidden ${mobileOpen ? "max-h-[80vh] py-4 opacity-100" : "max-h-0 overflow-hidden py-0 opacity-0"}`}>
           <div className="flex flex-col gap-5">
             <NavLink to="/" className={linkClass} end onClick={closeMenus}>Accueil</NavLink>
             {GROUPS.map((group) => <button key={group.id} type="button" onClick={() => setActiveMenu((current) => (current === group.id ? null : group.id))} className="flex items-center justify-between text-left text-sm font-semibold uppercase tracking-wider">{group.label}<ChevronDown size={16} className={activeMenu === group.id ? "rotate-180" : ""} /></button>)}
-            {activeMenu ? <ExpandedPanel group={GROUPS.find((group) => group.id === activeMenu)} leagues={leagues} loading={!leaguesLoaded} onNavigate={closeMenus} /> : null}
+            {activeMenu ? <ExpandedPanel group={GROUPS.find((group) => group.id === activeMenu)} leagues={leagues} onNavigate={closeMenus} /> : null}
             {SIMPLE_LINKS.map((link) => <NavLink key={link.to} to={link.to} className={linkClass} onClick={closeMenus}>{link.label}</NavLink>)}
           </div>
         </div>
