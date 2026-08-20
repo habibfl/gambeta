@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
+import PageBackground from "../components/PageBackground";
 
 const LEAGUES_API_URL = "http://localhost:8000/api/leagues";
 
@@ -43,26 +44,29 @@ export default function ChampionnatDetail() {
   const displayName = league?.name ?? humanizeSlug(id);
 
   return (
-    <section className="flex-1 flex items-center justify-center px-6 py-32 text-center bg-[var(--gambeta-paper)] text-[var(--gambeta-ink)]">
-      <div>
-        <p className="text-[12px] font-semibold uppercase tracking-[0.14em] text-[#e86f2c] mb-3">
-          Championnat
-        </p>
+    <>
+      <PageBackground />
+      <section className="flex-1 flex items-center justify-center px-6 py-32 text-center text-[var(--gambeta-ink)]">
+        <div>
+          <p className="text-[12px] font-semibold uppercase tracking-[0.14em] text-[#e86f2c] mb-3">
+            Championnat
+          </p>
 
-        {loading ? (
-          <h1 className="text-[28px] md:text-[34px] font-bold tracking-[-0.02em]">
-            Chargement...
-          </h1>
-        ) : (
-          <>
-            <h1 className="text-[32px] md:text-[42px] font-bold tracking-[-0.02em]">
-              {displayName}
+          {loading ? (
+            <h1 className="text-[28px] md:text-[34px] font-bold tracking-[-0.02em]">
+              Chargement...
             </h1>
-            {league?.country && <p className="mt-2 text-current/60">{league.country}</p>}
-            <p className="mt-6 text-current/60">Classement et statistiques à venir</p>
-          </>
-        )}
-      </div>
-    </section>
+          ) : (
+            <>
+              <h1 className="text-[32px] md:text-[42px] font-bold tracking-[-0.02em]">
+                {displayName}
+              </h1>
+              {league?.country && <p className="mt-2 text-current/60">{league.country}</p>}
+              <p className="mt-6 text-current/60">Classement et statistiques à venir</p>
+            </>
+          )}
+        </div>
+      </section>
+    </>
   );
 }

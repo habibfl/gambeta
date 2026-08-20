@@ -222,7 +222,7 @@ export default function PlayerJars() {
             Classement
           </p>
           <h2 className="text-[32px] md:text-[38px] font-bold tracking-[-0.02em]">
-            Les références de la saison.
+            Les références de la saison
           </h2>
         </div>
 

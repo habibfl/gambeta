@@ -53,8 +53,9 @@ export default function Hero() {
 
           {/* Sous-texte : ce que fait concrètement le site, factuel */}
           <p className="mt-6 text-white/75 text-base md:text-lg leading-relaxed max-w-md">
-            Comparez xG, xA et des dizaines d'indicateurs avancés entre
-            joueurs, équipes et championnats européens — en quelques clics.
+            Des statistiques avancées comme le xG et le xA, croisées entre
+            joueurs, équipes et championnats européens. Une lecture du jeu
+            plus fine que le tableau de score.
           </p>
 
           {/* Deux boutons côte à côte, alignés à gauche avec le texte */}

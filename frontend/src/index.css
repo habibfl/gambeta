@@ -1,3 +1,10 @@
+/* Police du site, via Fontshare. Poids chargés : 400/500 (corps de
+   texte), 700/800 (titres, boutons, tout ce qui doit peser visuellement).
+   Doit précéder @import "tailwindcss" : les règles @import doivent toutes
+   arriver avant toute autre règle (y compris les @layer que Tailwind
+   génère), sous peine d'avertissement au build. */
+@import url('https://api.fontshare.com/v2/css?f[]=cabinet-grotesk@800,700,500,400&display=swap');
+
 @import "tailwindcss";
 
 /* Active le mode sombre piloté par une classe ".dark" sur <html>
@@ -29,8 +36,23 @@
       margin: 0;
       background: var(--gambeta-paper);
       color: var(--gambeta-ink);
+      /* Cabinet Grotesk partout ; 500 par défaut pour le corps de texte,
+         les titres remontent à 700/800 via la règle h1-h6 ci-dessous
+         (et les classes Tailwind font-bold/font-semibold existantes
+         restent prioritaires puisqu'une classe bat un sélecteur de balise). */
+      font-family: "Cabinet Grotesk", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+      font-weight: 500;
       -webkit-font-smoothing: antialiased;
       text-rendering: optimizeLegibility;
+   }
+
+   h1,
+   h2,
+   h3,
+   h4,
+   h5,
+   h6 {
+      font-weight: 700;
    }
 
    ::selection {
@@ -56,5 +78,29 @@
    .nav-link:hover::after,
    .nav-link[aria-current="page"]::after {
       transform: scaleX(1);
+   }
+
+   /* Respiration très lente pour PageBackground.jsx : un léger scale en
+      boucle douce, pour donner une sensation vivante sans jamais attirer
+      l'œil (pas de rotation, pas de mouvement rapide). */
+   .pitch-breathe {
+      animation: pitch-breathe 9s ease-in-out infinite;
+      transform-origin: center;
+   }
+
+   @media (prefers-reduced-motion: reduce) {
+      .pitch-breathe {
+         animation: none;
+      }
+   }
+}
+
+@keyframes pitch-breathe {
+   0%,
+   100% {
+      transform: scale(1);
+   }
+   50% {
+      transform: scale(1.02);
    }
 }

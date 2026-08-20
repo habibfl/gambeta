@@ -1,71 +1,122 @@
 import { useEffect, useRef, useState } from "react";
+import { Link } from "react-router-dom";
+import { ArrowRight } from "lucide-react";
 
-// Les 3 fonctionnalités mises en avant, avec leur contenu inchangé.
-const FEATURES = [
+// Les 6 fonctionnalités mises en avant, réparties en 2 groupes de 3.
+const GROUP_1 = [
   {
     title: "Comparer les championnats",
     description:
-      "Croisez les statistiques clés entre plusieurs championnats en un coup d'œil.",
+      "La Ligue 1 n'a pas le même rythme que la Premier League. Croisez buts, possession et intensité entre les cinq grands championnats européens pour voir où se joue vraiment le meilleur football.",
+    to: "/championnats",
   },
   {
     title: "Radar des joueurs",
     description:
-      "Visualisez le profil complet d'un joueur sur un radar graphique interactif.",
+      "Vitesse, passes, duels, finition. Chaque joueur a un profil unique. Le radar interactif le rend lisible en un coup d'œil, sans passer par un tableur.",
+    to: "/joueurs",
   },
   {
     title: "Pépites sous-cotées",
     description:
-      "Découvrez les jeunes talents qui performent au-dessus de leur cote.",
+      "Certains jeunes joueurs produisent déjà plus que leur valeur marchande ne le laisse penser. Notre indicateur les repère avant qu'ils ne deviennent chers.",
+    to: "/comparateur",
   },
 ];
 
-// Espace réservé pour l'aperçu visuel d'une fonctionnalité.
-// TODO : remplacer par une vraie capture d'écran ou un composant
-// graphique une fois développé, déposer dans frontend/src/assets/screenshots/
-function ImagePlaceholder({ title, className = "" }) {
+const GROUP_2 = [
+  {
+    title: "Profils d'équipes complets",
+    description:
+      "Forme, discipline, style de jeu. Chaque club a une identité statistique. Explorez-la saison après saison.",
+    to: "/equipes",
+  },
+  {
+    title: "Historique multi-saisons",
+    description:
+      "2017 à aujourd'hui, sans trou dans les données. De quoi voir une tendance se dessiner plutôt qu'un instantané isolé.",
+    to: "/championnats",
+  },
+  {
+    title: "Comparateur tête-à-tête",
+    description:
+      "Deux joueurs, une seule vue. Confrontez leurs statistiques directement, sans changer d'onglet.",
+    to: "/comparateur",
+  },
+];
+
+// Espace réservé pour l'aperçu visuel d'une carte.
+// TODO : remplacer par une vraie capture d'écran une fois disponible,
+// déposer les fichiers dans frontend/src/assets/screenshots/
+function CardImagePlaceholder() {
   return (
-    <div
-      className={`flex h-full min-h-[320px] w-full flex-col items-center justify-center gap-2 rounded-2xl border-2 border-dashed border-gray-300 bg-gray-100 p-8 text-center dark:border-gray-700 dark:bg-gray-800 ${className}`}
-    >
-      <p className="text-sm font-medium text-gray-500 dark:text-gray-400">
-        Aperçu à venir :
-      </p>
-      <p className="text-base font-semibold text-gray-600 dark:text-gray-300">
-        {title}
+    <div className="flex aspect-video w-full items-center justify-center border-b-2 border-dashed border-gray-300 bg-gray-100 dark:border-gray-700 dark:bg-gray-800">
+      <p className="text-xs font-medium uppercase tracking-wider text-gray-500 dark:text-gray-400">
+        Aperçu à venir
       </p>
     </div>
   );
 }
 
-export default function FeatureGrid() {
-  // Index du bloc de texte actuellement visible au centre de l'écran :
-  // c'est lui qui pilote le contenu de l'espace réservé collé (sticky).
-  const [activeIndex, setActiveIndex] = useState(0);
-
-  // Une ref par bloc de texte, remplie via le callback `ref` ci-dessous,
-  // pour pouvoir les observer sans dépendre de leur ordre de rendu.
-  const blockRefs = useRef([]);
+// Une carte = son propre IntersectionObserver, pour se déclencher dès
+// qu'elle entre dans le viewport (et pas toutes en même temps que la
+// section). `index` sert au décalage en cascade entre les 3 cartes d'un
+// même groupe.
+function FeatureCard({ feature, index }) {
+  const cardRef = useRef(null);
+  const [visible, setVisible] = useState(false);
 
   useEffect(() => {
-    // On ne déclenche un changement de bloc actif que lorsqu'un bloc de
-    // texte traverse une fine bande horizontale au centre de l'écran
-    // (rootMargin négatif en haut et en bas) : c'est le principe technique
-    // du "pinned narrative" façon The Pudding/NYT, sans dépendance externe.
     const observer = new IntersectionObserver(
-      (entries) => {
-        entries.forEach((entry) => {
-          if (entry.isIntersecting) {
-            setActiveIndex(Number(entry.target.dataset.index));
-          }
-        });
+      ([entry]) => {
+        if (entry.isIntersecting) {
+          setVisible(true);
+          // Une seule apparition : pas besoin de réobserver après coup.
+          observer.disconnect();
+        }
       },
-      { rootMargin: "-45% 0px -45% 0px", threshold: 0 }
+      { threshold: 0.15 }
     );
-
-    blockRefs.current.forEach((el) => el && observer.observe(el));
+    if (cardRef.current) observer.observe(cardRef.current);
     return () => observer.disconnect();
   }, []);
 
+  // Cascade entre cartes du même groupe (100ms d'écart) ; le texte suit
+  // l'image avec 100ms de retard supplémentaire pour un effet plus soigné.
+  const imageDelay = index * 100;
+  const textDelay = imageDelay + 100;
+  const hiddenState = "opacity-0 translate-y-5";
+  const visibleState = "opacity-100 translate-y-0";
+
+  return (
+    <Link
+      ref={cardRef}
+      to={feature.to}
+      className="group flex flex-col overflow-hidden rounded-2xl border border-current/10 bg-current/[0.02] transition-all duration-300 hover:-translate-y-1 hover:border-[#e86f2c]/40 hover:shadow-[0_16px_40px_rgba(34,20,0,0.1)]"
+    >
+      <div
+        className={`transition-all duration-500 ease-out ${visible ? visibleState : hiddenState}`}
+        style={{ transitionDelay: `${imageDelay}ms` }}
+      >
+        <CardImagePlaceholder />
+      </div>
+
+      <div
+        className={`flex flex-1 flex-col p-6 transition-all duration-500 ease-out ${visible ? visibleState : hiddenState}`}
+        style={{ transitionDelay: `${textDelay}ms` }}
+      >
+        <h3 className="mb-2 text-lg font-bold">{feature.title}</h3>
+        <p className="text-[14px] leading-relaxed text-current/60">{feature.description}</p>
+        <span className="mt-4 flex items-center gap-1 text-[13px] font-bold uppercase tracking-wider text-[#e86f2c]">
+          Explorer
+          <ArrowRight size={14} className="transition-transform duration-200 group-hover:translate-x-1" />
+        </span>
+      </div>
+    </Link>
+  );
+}
+
+export default function FeatureGrid() {
   return (
     <section
       id="comparer"
@@ -81,8 +132,8 @@ export default function FeatureGrid() {
     >
       <div className="max-w-[1200px] mx-auto">
         {/* En-tête de section */}
-        <div className="mb-12 md:mb-20">
-          <p className="text-[11px] font-semibold uppercase tracking-[0.14em] text-[#e86f2c] mb-2">
+        <div className="mb-12 md:mb-16">
+          <p className="text-[11px] font-bold uppercase tracking-[0.14em] text-[#e86f2c] mb-2">
             Fonctionnalités
           </p>
           <h2 className="text-[32px] md:text-[38px] font-bold tracking-[-0.02em]">
@@ -90,47 +141,18 @@ export default function FeatureGrid() {
           </h2>
         </div>
 
-        {/* Sur desktop (md+) : deux colonnes, gauche ~45% / droite ~55%.
-            Sur mobile : une seule colonne, gérée directement dans le
-            <div className="flex flex-col"> ci-dessous (chaque bloc de
-            texte est suivi de son propre espace réservé). */}
-        <div className="md:grid md:grid-cols-[45%_55%] md:gap-12 md:items-start">
-          {/* Colonne gauche : les 3 blocs de texte empilés */}
-          <div className="flex flex-col">
-            {FEATURES.map((feature, index) => (
-              <div key={feature.title}>
-                <div
-                  ref={(el) => {
-                    blockRefs.current[index] = el;
-                  }}
-                  data-index={index}
-                  className="flex flex-col justify-center py-10 md:min-h-[80vh] md:py-0"
-                >
-                  <h3 className="text-2xl md:text-3xl font-semibold mb-3 tracking-tight">
-                    {feature.title}
-                  </h3>
-                  <p className="text-[15px] md:text-base text-current/60 leading-relaxed max-w-md">
-                    {feature.description}
-                  </p>
-                </div>
+        {/* Deux groupes de 3 cartes, une section sous l'autre : 1 colonne
+            en mobile, 3 colonnes à partir de md. */}
+        <div className="grid grid-cols-1 gap-6 md:grid-cols-3">
+          {GROUP_1.map((feature, index) => (
+            <FeatureCard key={feature.title} feature={feature} index={index} />
+          ))}
+        </div>
 
-                {/* Espace réservé mobile : directement sous son bloc de
-                    texte, pas de sticky (inutile sur petit écran). */}
-                <div className="mb-10 md:hidden">
-                  <ImagePlaceholder title={feature.title} />
-                </div>
-              </div>
-            ))}
-          </div>
-
-          {/* Colonne droite : espace réservé collé, visible seulement
-              à partir de md. Son contenu suit `activeIndex`. */}
-          <div className="hidden md:sticky md:top-28 md:block md:h-[70vh]">
-            <ImagePlaceholder
-              title={FEATURES[activeIndex].title}
-              className="h-full"
-            />
-          </div>
+        <div className="mt-6 grid grid-cols-1 gap-6 md:grid-cols-3">
+          {GROUP_2.map((feature, index) => (
+            <FeatureCard key={feature.title} feature={feature} index={index} />
+          ))}
         </div>
       </div>
     </section>
