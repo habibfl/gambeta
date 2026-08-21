@@ -1,5 +1,39 @@
 import { useEffect, useRef, useState } from "react";
 
+// Photo qui alterne toutes les 5 secondes entre les joueurs vedettes du
+// championnat, avec un fondu enchaîné (crossfade) plutôt qu'un changement
+// brutal : les deux images sont superposées en position absolue, seule
+// l'opacité de celle qui doit apparaître change, la transition CSS fait le
+// reste. Rendu `null` si aucune photo n'a été fournie (championnat sans
+// config, ou config incomplète) plutôt que de casser la mise en page.
+function AlternatingStarPhoto({ images, alt }) {
+  const [index, setIndex] = useState(0);
+
+  useEffect(() => {
+    if (!images || images.length < 2) return undefined;
+    const timer = setInterval(() => {
+      setIndex((current) => (current + 1) % images.length);
+    }, 5000);
+    return () => clearInterval(timer);
+  }, [images]);
+
+  if (!images || images.length === 0) return null;
+
+  return (
+    <div className="relative h-64 w-48 shrink-0 overflow-hidden rounded-2xl border border-current/10 shadow-lg md:h-80 md:w-60">
+      {images.map((src, i) => (
+        <img
+          key={src}
+          src={src}
+          alt={alt}
+          className="absolute inset-0 h-full w-full object-cover transition-opacity duration-1000 ease-in-out"
+          style={{ opacity: i === index ? 1 : 0 }}
+        />
+      ))}
+    </div>
+  );
+}
+
 // Une Case = graphique collé (sticky) à gauche pendant que son texte
 // défile à droite. `position: sticky` gère à elle seule le "reste fixe
 // pendant que la section défile" (mécanique CSS pure, comme sur
@@ -76,18 +110,28 @@ function Case({ index, title, text, Chart, data }) {
 // reçoit ses props `playersXG`/`playersXA` : ce composant ne connaît
 // aucun championnat en particulier, c'est ChampionnatDetail.jsx qui lui
 // fournit la bonne config via data/leagueOverviews.js.
-export default function LeagueOverview({ eyebrow, title, intro, cases }) {
+export default function LeagueOverview({ eyebrow, title, intro, cases, stars }) {
   return (
     <div className="pt-24">
-      {/* Introduction, avant la première Case */}
-      <div className="mx-auto max-w-[720px] px-6 py-12 text-center md:px-12 md:py-20">
-        <p className="text-[11px] font-bold uppercase tracking-[0.14em] text-[#e86f2c]">
-          {eyebrow}
-        </p>
-        <h1 className="mt-2 text-3xl font-bold tracking-tight md:text-4xl">
-          {title}
-        </h1>
-        <p className="mt-4 text-current/60 md:text-lg">{intro}</p>
+      {/* Introduction, avant la première Case. Avec une photo (`stars`),
+          le texte passe à gauche et la photo à droite sur desktop, plutôt
+          que centrée sur toute la largeur : ça laisse la lecture du texte
+          intacte tout en donnant de la place à l'image, sans jamais la
+          faire passer devant les mots. */}
+      <div className="mx-auto max-w-[900px] px-6 py-12 md:px-12 md:py-20">
+        <div className="flex flex-col items-center gap-10 md:flex-row md:items-center md:justify-center md:gap-14">
+          <div className="text-center md:text-left">
+            <p className="text-[11px] font-bold uppercase tracking-[0.14em] text-[#e86f2c]">
+              {eyebrow}
+            </p>
+            <h1 className="mt-2 text-3xl font-bold tracking-tight md:text-4xl">
+              {title}
+            </h1>
+            <p className="mt-4 text-current/60 md:text-lg">{intro}</p>
+          </div>
+
+          <AlternatingStarPhoto images={stars} alt={`Joueur vedette de ${eyebrow}`} />
+        </div>
       </div>
 
       {cases.map((c, index) => (

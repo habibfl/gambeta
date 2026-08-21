@@ -4,6 +4,7 @@ import PageBackground from "../components/PageBackground";
 import LeagueOverview from "../components/LeagueOverview";
 import PlayerJars from "../components/PlayerJars";
 import { LEAGUE_OVERVIEWS } from "../data/leagueOverviews";
+import { COMPETITION_CHAMPIONS } from "../data/leagueMedia";
 
 const LEAGUES_API_URL = "http://localhost:8000/api/leagues";
 const COMPETITIONS_API_URL = "http://localhost:8000/api/competitions";
@@ -76,6 +77,7 @@ export default function ChampionnatDetail() {
           title={overview.title}
           intro={overview.intro}
           cases={overview.cases}
+          stars={overview.stars}
         />
         <PlayerJars
           title={overview.playerJars.title}
@@ -88,6 +90,10 @@ export default function ChampionnatDetail() {
 
   const item = items?.find((entry) => entry.id === id);
   const displayName = item?.name ?? humanizeSlug(id);
+  // Seules les 3 compétitions inter-clubs ont une photo de champion pour
+  // l'instant : les autres ids (championnats sans config détaillée, s'il y
+  // en avait) gardent la page générique telle quelle, sans logo ni photo.
+  const championPhoto = COMPETITION_CHAMPIONS[id];
 
   return (
     <>
@@ -95,7 +101,7 @@ export default function ChampionnatDetail() {
       <section className="flex-1 flex items-center justify-center px-6 py-32 text-center text-[var(--gambeta-ink)]">
         <div>
           <p className="text-[12px] font-semibold uppercase tracking-[0.14em] text-[#e86f2c] mb-3">
-            Championnat
+            {championPhoto ? "Compétition" : "Championnat"}
           </p>
 
           {loading ? (
@@ -104,10 +110,39 @@ export default function ChampionnatDetail() {
             </h1>
           ) : (
             <>
+              {championPhoto && (
+                <div className="mb-4 flex justify-center">
+                  <span className="flex h-16 w-16 items-center justify-center rounded-full border border-current/10 bg-current/[0.03] p-2">
+                    {item?.logo ? (
+                      <img src={item.logo} alt={`${displayName} logo`} className="h-full w-full object-contain" />
+                    ) : (
+                      // Repli tant que le vrai logo (API) n'est pas disponible
+                      <span className="text-[10px] font-bold text-current/50">
+                        {displayName.split(" ").map((word) => word[0]).join("").slice(0, 3).toUpperCase()}
+                      </span>
+                    )}
+                  </span>
+                </div>
+              )}
+
               <h1 className="text-[32px] md:text-[42px] font-bold tracking-[-0.02em]">
                 {displayName}
               </h1>
               {item?.country && <p className="mt-2 text-current/60">{item.country}</p>}
+
+              {championPhoto && (
+                <figure className="mt-10">
+                  <img
+                    src={championPhoto}
+                    alt={`Vainqueur de l'édition précédente de ${displayName}`}
+                    className="mx-auto h-72 w-56 rounded-2xl border border-current/10 object-cover shadow-lg md:h-96 md:w-72"
+                  />
+                  <figcaption className="mt-3 text-sm text-current/60">
+                    Vainqueur de l'édition précédente
+                  </figcaption>
+                </figure>
+              )}
+
               <p className="mt-6 text-current/60">Classement et statistiques à venir</p>
             </>
           )}

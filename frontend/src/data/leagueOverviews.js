@@ -19,6 +19,7 @@ import * as ligue1 from "./ligue1Provisional";
 import * as laLiga from "./laLigaProvisional";
 import * as serieA from "./serieAProvisional";
 import * as bundesliga from "./bundesligaProvisional";
+import { LEAGUE_STARS } from "./leagueMedia";
 
 // Construit les 5 Cases (mêmes 5 thèmes pour tous les championnats :
 // classement, xG buteurs, xA passeurs, style de jeu possession/PPDA,
@@ -38,6 +39,7 @@ export const LEAGUE_OVERVIEWS = {
   "premier-league": {
     eyebrow: "Premier League",
     title: "Anatomie d'une saison de Premier League",
+    stars: LEAGUE_STARS["premier-league"],
     intro:
       "Vingt clubs, quarante journées de bataille, et une donnée qui raconte souvent une autre histoire que le tableau de classement. Chaque week-end apporte son lot de surprises, de séries qui s'étirent et de certitudes qui s'effondrent. Voici cinq façons de lire cette saison de Premier League au-delà du simple résultat du dimanche soir.",
     cases: buildCases(premierLeague, {
@@ -62,6 +64,7 @@ export const LEAGUE_OVERVIEWS = {
   "ligue-1": {
     eyebrow: "Ligue 1",
     title: "Anatomie d'une saison de Ligue 1",
+    stars: LEAGUE_STARS["ligue-1"],
     intro:
       "Dix-huit clubs, trente-quatre journées, et un championnat qui reste avant tout un formidable laboratoire à talents. Chaque saison, de jeunes joueurs éclosent sur les pelouses françaises avant de partir briller ailleurs en Europe, pendant qu'un club continue d'écraser la concurrence de la tête et des épaules. Voici cinq façons de lire cette saison de Ligue 1 au-delà du seul duel entre le Paris Saint-Germain et le reste du championnat.",
     cases: buildCases(ligue1, {
@@ -86,6 +89,7 @@ export const LEAGUE_OVERVIEWS = {
   liga: {
     eyebrow: "La Liga",
     title: "Anatomie d'une saison de Liga",
+    stars: LEAGUE_STARS.liga,
     intro:
       "Vingt clubs se disputent le championnat espagnol, mais l'histoire de la Liga se résume trop souvent à un seul duel qui dépasse le simple cadre sportif. Real Madrid et Barcelone occupent l'essentiel de l'attention, portés par un style de jeu technique et une maîtrise du ballon reconnues dans toute l'Europe. Voici cinq façons de lire cette saison de Liga au-delà de la seule rivalité entre les deux géants espagnols.",
     cases: buildCases(laLiga, {
@@ -110,6 +114,7 @@ export const LEAGUE_OVERVIEWS = {
   "serie-a": {
     eyebrow: "Serie A",
     title: "Anatomie d'une saison de Serie A",
+    stars: LEAGUE_STARS["serie-a"],
     intro:
       "Vingt clubs, et un championnat qui reste fidèle à sa réputation de laboratoire tactique le plus exigeant d'Europe. Le calcio a bâti son identité sur l'organisation défensive, la lecture du jeu et une culture tactique transmise de génération en génération d'entraîneurs. Voici cinq façons de lire cette saison de Serie A au-delà du simple résultat du week-end.",
     cases: buildCases(serieA, {
@@ -134,6 +139,7 @@ export const LEAGUE_OVERVIEWS = {
   bundesliga: {
     eyebrow: "Bundesliga",
     title: "Anatomie d'une saison de Bundesliga",
+    stars: LEAGUE_STARS.bundesliga,
     intro:
       "Dix-huit clubs, et un championnat qui a bâti sa réputation européenne sur l'intensité physique et un pressing collectif redoutable. Le football allemand privilégie la vitesse d'exécution et la récupération immédiate du ballon, une philosophie qui se lit directement dans les statistiques défensives. Voici cinq façons de lire cette saison de Bundesliga au-delà du simple résultat du samedi après-midi.",
     cases: buildCases(bundesliga, {
