@@ -44,11 +44,23 @@ LEAGUES_WHITELIST = {
     78: {"slug": "bundesliga", "country": "Germany"},
 }
 
+# Les 3 compétitions inter-clubs UEFA. Ids vérifiés directement auprès de
+# l'API-Football (GET /leagues?search=...) au moment de l'implémentation :
+# 2 = UEFA Champions League, 3 = UEFA Europa League, 848 = UEFA Europa
+# Conference League. Toutes les trois ont "World" comme pays côté API
+# (compétitions internationales, pas rattachées à un seul pays).
+COMPETITIONS_WHITELIST = {
+    2: {"slug": "ligue-des-champions"},
+    3: {"slug": "europa-league"},
+    848: {"slug": "europa-conference-league"},
+}
+
 # Cache en mémoire très simple : un seul processus, une seule entrée.
-# Évite de rappeler l'API-Football à chaque requête du frontend et de
-# consommer le quota gratuit (100 requêtes/jour) pour rien.
+# Partagé entre /api/leagues et /api/competitions (les deux filtrent la
+# même réponse brute de l'API-Football) : un seul appel API toutes les
+# 24h suffit pour les deux routes, au lieu d'un par route.
 CACHE_TTL_SECONDS = 24 * 60 * 60
-_leagues_cache = {"data": None, "expires_at": 0.0}
+_leagues_payload_cache = {"payload": None, "expires_at": 0.0}
 
 
 @app.get("/")
@@ -89,17 +101,19 @@ def _fetch_leagues_from_api_football(api_key):
         ) from error
 
 
-@app.get("/api/leagues")
-def get_leagues():
-    """Retourne les 5 grands championnats européens (nom, pays, logo, id).
+def _get_leagues_payload():
+    """Retourne le payload brut de /leagues de l'API-Football, en le
+    récupérant depuis le cache 24h partagé si possible.
 
-    Le résultat est mis en cache 24h en mémoire : la première requête
-    après expiration (ou après redémarrage du serveur) va chercher les
-    données fraîches, les suivantes réutilisent le cache.
+    Utilisé à la fois par /api/leagues et /api/competitions : les deux
+    routes filtrent la même réponse brute, donc un seul appel API par
+    tranche de 24h suffit pour les deux, plutôt qu'un appel par route.
+
+    Renvoie (payload, depuis_le_cache).
     """
     now = time.time()
-    if _leagues_cache["data"] is not None and now < _leagues_cache["expires_at"]:
-        return {"leagues": _leagues_cache["data"], "cached": True}
+    if _leagues_payload_cache["payload"] is not None and now < _leagues_payload_cache["expires_at"]:
+        return _leagues_payload_cache["payload"], True
 
     api_key = os.getenv("API_FOOTBALL_KEY")
     if not api_key:
@@ -120,14 +134,23 @@ def get_leagues():
             detail=f"Erreur renvoyée par l'API-Football : {api_errors}",
         )
 
-    leagues = []
+    _leagues_payload_cache["payload"] = payload
+    _leagues_payload_cache["expires_at"] = now + CACHE_TTL_SECONDS
+    return payload, False
+
+
+def _filter_by_whitelist(payload, whitelist):
+    """Filtre le payload brut de /leagues sur les ids présents dans
+    `whitelist`, et reformate chaque entrée retenue pour le frontend.
+    """
+    results = []
     for item in payload.get("response", []):
         league = item.get("league", {})
         league_id = league.get("id")
-        whitelist_entry = LEAGUES_WHITELIST.get(league_id)
+        whitelist_entry = whitelist.get(league_id)
         if whitelist_entry is None:
             continue
-        leagues.append(
+        results.append(
             {
                 "id": whitelist_entry["slug"],
                 "name": league.get("name"),
@@ -135,7 +158,24 @@ def get_leagues():
                 "logo": league.get("logo"),
             }
         )
+    return results
 
-    _leagues_cache["data"] = leagues
-    _leagues_cache["expires_at"] = now + CACHE_TTL_SECONDS
-    return {"leagues": leagues, "cached": False}
+
+@app.get("/api/leagues")
+def get_leagues():
+    """Retourne les 5 grands championnats européens (nom, pays, logo, id)."""
+    payload, cached = _get_leagues_payload()
+    leagues = _filter_by_whitelist(payload, LEAGUES_WHITELIST)
+    return {"leagues": leagues, "cached": cached}
+
+
+@app.get("/api/competitions")
+def get_competitions():
+    """Retourne les 3 compétitions inter-clubs UEFA (nom, logo, id).
+
+    Pas de "country" ici : ce sont des compétitions internationales, pas
+    rattachées à un seul pays (l'API renvoie "World").
+    """
+    payload, cached = _get_leagues_payload()
+    competitions = _filter_by_whitelist(payload, COMPETITIONS_WHITELIST)
+    return {"competitions": competitions, "cached": cached}

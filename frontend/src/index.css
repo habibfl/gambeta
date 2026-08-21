@@ -6,6 +6,11 @@
 @import url('https://api.fontshare.com/v2/css?f[]=cabinet-grotesk@800,700,500,400&display=swap');
 
 @import "tailwindcss";
+@import "tw-animate-css";
+/* shadcn/tailwind.css : infrastructure requise par les composants shadcn
+   (variants data-open/data-closed/data-checked..., keyframes accordion) —
+   pas du style décoratif, à garder même si on personnalise les couleurs. */
+@import "shadcn/tailwind.css";
 
 /* Active le mode sombre piloté par une classe ".dark" sur <html>
    (au lieu de la préférence système par défaut de Tailwind v4),
@@ -34,8 +39,11 @@
 
    body {
       margin: 0;
-      background: var(--gambeta-paper);
-      color: var(--gambeta-ink);
+      /* bg-background/text-foreground (tokens shadcn) valent var(--gambeta-paper)
+         et var(--gambeta-ink) — voir leur définition plus bas — donc ceci
+         revient au même que nos anciennes valeurs directes, en passant
+         par les tokens que les composants shadcn utilisent aussi. */
+      @apply bg-background text-foreground;
       /* Cabinet Grotesk partout ; 500 par défaut pour le corps de texte,
          les titres remontent à 700/800 via la règle h1-h6 ci-dessous
          (et les classes Tailwind font-bold/font-semibold existantes
@@ -58,6 +66,12 @@
    ::selection {
       background: var(--gambeta-accent);
       color: #fff;
+   }
+
+   /* Ajouté par `shadcn init` : bordure et anneau de focus par défaut sur
+      tous les éléments, cohérent avec les tokens --border/--ring ci-dessous. */
+   * {
+      @apply border-border outline-ring/50;
    }
 }
 
@@ -103,4 +117,156 @@
    50% {
       transform: scale(1.02);
    }
+}
+
+/* Micro-interactions du menu déroulant "Ligues"/"Compétitions" (Navbar.jsx),
+   façon transitions natives iOS : ressort léger plutôt qu'un ease plat.
+   Deux animations distinctes :
+   - menu-panel-in : le panneau lui-même, dès qu'il apparaît.
+   - menu-item-in : chaque carte à l'intérieur, décalée en cascade via
+     `animation-delay` posé en style inline sur chaque élément. */
+@keyframes menu-panel-in {
+   from {
+      opacity: 0;
+      transform: translateY(-8px);
+   }
+   to {
+      opacity: 1;
+      transform: translateY(0);
+   }
+}
+
+@keyframes menu-item-in {
+   from {
+      opacity: 0;
+      transform: translateY(-12px);
+   }
+   to {
+      opacity: 1;
+      transform: translateY(0);
+   }
+}
+
+@theme inline {
+   --font-heading: var(--font-sans);
+   /* Cabinet Grotesk (voir l'@import tout en haut du fichier), pas la
+      police Geist proposée par défaut par le preset shadcn "Nova". */
+   --font-sans: "Cabinet Grotesk", ui-sans-serif, system-ui, sans-serif;
+   --color-sidebar-ring: var(--sidebar-ring);
+   --color-sidebar-border: var(--sidebar-border);
+   --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+   --color-sidebar-accent: var(--sidebar-accent);
+   --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+   --color-sidebar-primary: var(--sidebar-primary);
+   --color-sidebar-foreground: var(--sidebar-foreground);
+   --color-sidebar: var(--sidebar);
+   --color-chart-5: var(--chart-5);
+   --color-chart-4: var(--chart-4);
+   --color-chart-3: var(--chart-3);
+   --color-chart-2: var(--chart-2);
+   --color-chart-1: var(--chart-1);
+   --color-ring: var(--ring);
+   --color-input: var(--input);
+   --color-border: var(--border);
+   --color-destructive: var(--destructive);
+   --color-accent-foreground: var(--accent-foreground);
+   --color-accent: var(--accent);
+   --color-muted-foreground: var(--muted-foreground);
+   --color-muted: var(--muted);
+   --color-secondary-foreground: var(--secondary-foreground);
+   --color-secondary: var(--secondary);
+   --color-primary-foreground: var(--primary-foreground);
+   --color-primary: var(--primary);
+   --color-popover-foreground: var(--popover-foreground);
+   --color-popover: var(--popover);
+   --color-card-foreground: var(--card-foreground);
+   --color-card: var(--card);
+   --color-foreground: var(--foreground);
+   --color-background: var(--background);
+   --radius-sm: calc(var(--radius) * 0.6);
+   --radius-md: calc(var(--radius) * 0.8);
+   --radius-lg: var(--radius);
+   --radius-xl: calc(var(--radius) * 1.4);
+   --radius-2xl: calc(var(--radius) * 1.8);
+   --radius-3xl: calc(var(--radius) * 2.2);
+   --radius-4xl: calc(var(--radius) * 2.6);
+}
+
+:root {
+   /* Palette du site plutôt que les gris par défaut du preset "Nova" :
+      --background/--foreground pointent directement vers nos tokens
+      --gambeta-paper/--gambeta-ink (définis plus haut, et qui s'inversent
+      déjà tout seuls en mode sombre) ; --primary est le corail, utilisé
+      par le Button "default" et les éléments d'action. */
+   --background: var(--gambeta-paper);
+   --foreground: var(--gambeta-ink);
+   --card: #ffffff;
+   --card-foreground: var(--gambeta-ink);
+   --popover: #ffffff;
+   --popover-foreground: var(--gambeta-ink);
+   --primary: #e86f2c;
+   --primary-foreground: #ffffff;
+   --secondary: rgba(34, 20, 0, 0.05);
+   --secondary-foreground: var(--gambeta-ink);
+   --muted: rgba(34, 20, 0, 0.05);
+   --muted-foreground: rgba(34, 20, 0, 0.6);
+   --accent: rgba(232, 111, 44, 0.1);
+   --accent-foreground: #e86f2c;
+   --destructive: oklch(0.577 0.245 27.325);
+   --border: rgba(34, 20, 0, 0.1);
+   --input: rgba(34, 20, 0, 0.15);
+   --ring: rgba(232, 111, 44, 0.5);
+   --chart-1: oklch(0.87 0 0);
+   --chart-2: oklch(0.556 0 0);
+   --chart-3: oklch(0.439 0 0);
+   --chart-4: oklch(0.371 0 0);
+   --chart-5: oklch(0.269 0 0);
+   --radius: 0.75rem;
+   --sidebar: oklch(0.985 0 0);
+   --sidebar-foreground: oklch(0.145 0 0);
+   --sidebar-primary: oklch(0.205 0 0);
+   --sidebar-primary-foreground: oklch(0.985 0 0);
+   --sidebar-accent: oklch(0.97 0 0);
+   --sidebar-accent-foreground: oklch(0.205 0 0);
+   --sidebar-border: oklch(0.922 0 0);
+   --sidebar-ring: oklch(0.708 0 0);
+}
+
+.dark {
+   /* Même logique qu'en clair : --background/--foreground suivent
+      --gambeta-paper/--gambeta-ink, qui se sont déjà inversés (texte
+      clair, fond sombre) via la règle :root.dark plus haut. Le corail
+      --primary reste identique — il fonctionne aussi bien sur fond
+      sombre que clair. */
+   --background: var(--gambeta-paper);
+   --foreground: var(--gambeta-ink);
+   --card: #1f160d;
+   --card-foreground: var(--gambeta-ink);
+   --popover: #1f160d;
+   --popover-foreground: var(--gambeta-ink);
+   --primary: #e86f2c;
+   --primary-foreground: #ffffff;
+   --secondary: rgba(245, 240, 232, 0.08);
+   --secondary-foreground: var(--gambeta-ink);
+   --muted: rgba(245, 240, 232, 0.08);
+   --muted-foreground: rgba(245, 240, 232, 0.6);
+   --accent: rgba(232, 111, 44, 0.15);
+   --accent-foreground: #e86f2c;
+   --destructive: oklch(0.704 0.191 22.216);
+   --border: rgba(245, 240, 232, 0.1);
+   --input: rgba(245, 240, 232, 0.15);
+   --ring: rgba(232, 111, 44, 0.5);
+   --chart-1: oklch(0.87 0 0);
+   --chart-2: oklch(0.556 0 0);
+   --chart-3: oklch(0.439 0 0);
+   --chart-4: oklch(0.371 0 0);
+   --chart-5: oklch(0.269 0 0);
+   --sidebar: oklch(0.205 0 0);
+   --sidebar-foreground: oklch(0.985 0 0);
+   --sidebar-primary: oklch(0.488 0.243 264.376);
+   --sidebar-primary-foreground: oklch(0.985 0 0);
+   --sidebar-accent: oklch(0.269 0 0);
+   --sidebar-accent-foreground: oklch(0.985 0 0);
+   --sidebar-border: oklch(1 0 0 / 10%);
+   --sidebar-ring: oklch(0.556 0 0);
 }

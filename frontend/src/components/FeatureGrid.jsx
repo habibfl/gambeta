@@ -1,6 +1,8 @@
 import { useEffect, useRef, useState } from "react";
 import { Link } from "react-router-dom";
 import { ArrowRight } from "lucide-react";
+import { Card, CardFooter, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
+import { Skeleton } from "@/components/ui/skeleton";
 
 // Les 6 fonctionnalités mises en avant, réparties en 2 groupes de 3.
 const GROUP_1 = [
@@ -45,15 +47,21 @@ const GROUP_2 = [
   },
 ];
 
-// Espace réservé pour l'aperçu visuel d'une carte.
+// Espace réservé pour l'aperçu visuel d'une carte : un Skeleton shadcn
+// (plutôt que le rectangle gris à bordure pointillée fait main) avec un
+// petit texte "Aperçu à venir" en overlay, pour rester lisible même s'il
+// n'y a rien à charger.
 // TODO : remplacer par une vraie capture d'écran une fois disponible,
 // déposer les fichiers dans frontend/src/assets/screenshots/
 function CardImagePlaceholder() {
   return (
-    <div className="flex aspect-video w-full items-center justify-center border-b-2 border-dashed border-gray-300 bg-gray-100 dark:border-gray-700 dark:bg-gray-800">
-      <p className="text-xs font-medium uppercase tracking-wider text-gray-500 dark:text-gray-400">
-        Aperçu à venir
-      </p>
+    <div className="relative aspect-video w-full overflow-hidden">
+      <Skeleton className="h-full w-full rounded-none" />
+      <div className="absolute inset-0 flex items-center justify-center">
+        <p className="text-xs font-medium uppercase tracking-wider text-muted-foreground">
+          Aperçu à venir
+        </p>
+      </div>
     </div>
   );
 }
@@ -85,33 +93,33 @@ function FeatureCard({ feature, index }) {
   // l'image avec 100ms de retard supplémentaire pour un effet plus soigné.
   const imageDelay = index * 100;
   const textDelay = imageDelay + 100;
-  const hiddenState = "opacity-0 translate-y-5";
-  const visibleState = "opacity-100 translate-y-0";
+  const fadeClass = `transition-all duration-500 ease-out ${visible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-5"}`;
 
   return (
-    <Link
-      ref={cardRef}
-      to={feature.to}
-      className="group flex flex-col overflow-hidden rounded-2xl border border-current/10 bg-current/[0.02] transition-all duration-300 hover:-translate-y-1 hover:border-[#e86f2c]/40 hover:shadow-[0_16px_40px_rgba(34,20,0,0.1)]"
-    >
-      <div
-        className={`transition-all duration-500 ease-out ${visible ? visibleState : hiddenState}`}
-        style={{ transitionDelay: `${imageDelay}ms` }}
-      >
-        <CardImagePlaceholder />
-      </div>
+    <Link ref={cardRef} to={feature.to} className="group block">
+      {/* Card shadcn : on neutralise son fond/anneau/espacement par
+          défaut (pensés pour un contenu texte classique) pour garder
+          exactement l'apparence "carte fantôme" déjà en place ailleurs
+          sur le site (bordure fine, fond quasi transparent). */}
+      <Card className="gap-0 overflow-hidden rounded-2xl border-current/10 bg-current/[0.02] py-0 ring-0 transition-all duration-300 hover:-translate-y-1 hover:border-[#e86f2c]/40 hover:shadow-[0_16px_40px_rgba(34,20,0,0.1)]">
+        <div className={fadeClass} style={{ transitionDelay: `${imageDelay}ms` }}>
+          <CardImagePlaceholder />
+        </div>
 
-      <div
-        className={`flex flex-1 flex-col p-6 transition-all duration-500 ease-out ${visible ? visibleState : hiddenState}`}
-        style={{ transitionDelay: `${textDelay}ms` }}
-      >
-        <h3 className="mb-2 text-lg font-bold">{feature.title}</h3>
-        <p className="text-[14px] leading-relaxed text-current/60">{feature.description}</p>
-        <span className="mt-4 flex items-center gap-1 text-[13px] font-bold uppercase tracking-wider text-[#e86f2c]">
-          Explorer
-          <ArrowRight size={14} className="transition-transform duration-200 group-hover:translate-x-1" />
-        </span>
-      </div>
+        <CardHeader className={`${fadeClass} px-6 pt-6`} style={{ transitionDelay: `${textDelay}ms` }}>
+          <CardTitle className="text-lg font-bold">{feature.title}</CardTitle>
+          <CardDescription className="text-[14px] leading-relaxed text-current/60">
+            {feature.description}
+          </CardDescription>
+        </CardHeader>
+
+        <CardFooter className={`${fadeClass} border-t-0 bg-transparent px-6 pb-6 pt-4`} style={{ transitionDelay: `${textDelay}ms` }}>
+          <span className="flex items-center gap-1 text-[13px] font-bold uppercase tracking-wider text-[#e86f2c]">
+            Explorer
+            <ArrowRight size={14} className="transition-transform duration-200 group-hover:translate-x-1" />
+          </span>
+        </CardFooter>
+      </Card>
     </Link>
   );
 }

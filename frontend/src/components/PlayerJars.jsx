@@ -196,7 +196,14 @@ function Jar({ title, players, gradients, active }) {
   );
 }
 
-export default function PlayerJars() {
+// Props optionnelles pour réutiliser le composant avec des données propres
+// à une ligue (ex: ChampionnatDetail.jsx pour la Premier League) tout en
+// gardant les valeurs par défaut (données génériques) sur la page d'accueil.
+export default function PlayerJars({
+  title = "Les références de la saison",
+  playersXG = PLAYERS_XG,
+  playersXA = PLAYERS_XA,
+}) {
   const sectionRef = useRef(null);
   const [active, setActive] = useState(false);
 
@@ -222,13 +229,13 @@ export default function PlayerJars() {
             Classement
           </p>
           <h2 className="text-[32px] md:text-[38px] font-bold tracking-[-0.02em]">
-            Les références de la saison
+            {title}
           </h2>
         </div>
 
         <div className="flex flex-col md:flex-row items-center justify-center gap-16 md:gap-24">
-          <Jar title="Top xG" players={PLAYERS_XG} gradients={CORAL_GRADIENTS} active={active} />
-          <Jar title="Top xA" players={PLAYERS_XA} gradients={VIOLET_GRADIENTS} active={active} />
+          <Jar title="Top xG" players={playersXG} gradients={CORAL_GRADIENTS} active={active} />
+          <Jar title="Top xA" players={playersXA} gradients={VIOLET_GRADIENTS} active={active} />
         </div>
       </div>
     </section>

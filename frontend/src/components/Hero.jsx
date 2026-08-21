@@ -1,5 +1,7 @@
 import { Link } from "react-router-dom";
 import heroVideo from "../assets/hero-video.mp4";
+import { Badge } from "@/components/ui/badge";
+import { Button } from "@/components/ui/button";
 
 // Hero plein écran : vidéo de match en fond, voile sombre en dégradé,
 // texte calé à gauche (verticalement centré) pour laisser la vidéo
@@ -39,10 +41,14 @@ export default function Hero() {
       {/* Contenu texte : calé à gauche, centré verticalement dans l'écran */}
       <div className="relative z-10 flex items-center h-full min-h-svh px-6 md:px-16">
         <div className="max-w-xl">
-          {/* Étiquette au-dessus du titre */}
-          <p className="text-[12px] font-semibold uppercase tracking-[0.16em] text-[#e86f2c] mb-4">
+          {/* Étiquette au-dessus du titre, en Badge shadcn plutôt qu'un
+              simple texte stylé — variant "outline" recoloré en corail. */}
+          <Badge
+            variant="outline"
+            className="mb-4 border-[#e86f2c]/40 bg-[#e86f2c]/10 text-[11px] font-semibold uppercase tracking-[0.16em] text-[#e86f2c]"
+          >
             Saison 2025-2026
-          </p>
+          </Badge>
 
           {/* Titre : la promesse du site, gras et affirmé */}
           <h1 className="text-5xl md:text-6xl font-bold text-white leading-[1.05] tracking-[-0.02em]">
@@ -58,20 +64,25 @@ export default function Hero() {
             plus fine que le tableau de score.
           </p>
 
-          {/* Deux boutons côte à côte, alignés à gauche avec le texte */}
+          {/* Deux boutons shadcn côte à côte, alignés à gauche avec le
+              texte : "default" (plein corail) pour l'action principale,
+              "outline" pour la secondaire — asChild pour que ce soit le
+              <Link> react-router qui porte réellement la navigation. */}
           <div className="mt-9 flex flex-wrap items-center gap-4">
-            <Link
-              to="/comparateur"
-              className="inline-flex items-center bg-[#e86f2c] text-white px-8 py-4 text-[13px] font-semibold uppercase tracking-[0.07em] rounded-md shadow-[0_8px_24px_rgba(232,111,44,0.3)] hover:bg-[#d4611f] hover:shadow-[0_10px_28px_rgba(232,111,44,0.45)] transition-all duration-200"
+            <Button
+              asChild
+              variant="default"
+              className="h-auto rounded-md bg-[#e86f2c] px-8 py-4 text-[13px] font-semibold uppercase tracking-[0.07em] text-white shadow-[0_8px_24px_rgba(232,111,44,0.3)] hover:bg-[#d4611f] hover:shadow-[0_10px_28px_rgba(232,111,44,0.45)]"
             >
-              Explorer les données
-            </Link>
-            <Link
-              to="/joueurs"
-              className="inline-flex items-center border border-white/70 text-white px-8 py-4 text-[13px] font-semibold uppercase tracking-[0.07em] rounded-md hover:bg-white hover:text-[#221400] hover:border-white transition-colors duration-200"
+              <Link to="/comparateur">Explorer les données</Link>
+            </Button>
+            <Button
+              asChild
+              variant="outline"
+              className="h-auto rounded-md border-white/70 bg-transparent px-8 py-4 text-[13px] font-semibold uppercase tracking-[0.07em] text-white hover:border-white hover:bg-white hover:text-[#221400]"
             >
-              Voir les joueurs
-            </Link>
+              <Link to="/joueurs">Voir les joueurs</Link>
+            </Button>
           </div>
         </div>
       </div>
