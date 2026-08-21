@@ -21,31 +21,31 @@ import {
 const CASES = [
   {
     title: "Le classement de la saison",
-    text: "20 équipes, 38 journées, une seule question : qui tiendra la distance ? Voici où en est la Premier League cette saison.",
+    text: "Un classement ne dit jamais tout d'une saison. Il capture un instant, la somme de vingt journées de résultats, sans distinguer la performance solide de la simple réussite passagère. Mais à ce stade de l'exercice, les tendances commencent à se dessiner clairement : certains clubs tiennent un rythme de champion, d'autres découvrent déjà la difficulté de la lutte pour le maintien. Voici où en est chaque équipe, journée après journée.",
     Chart: StandingsTable,
     data: STANDINGS,
   },
   {
     title: "Qui marque vraiment plus que prévu ?",
-    text: "Un buteur peut planter 20 buts avec une seule vraie occasion franche par match, ou en réclamer 20 comme une évidence statistique. Le xG (buts attendus) fait la différence entre efficacité et chance.",
+    text: "Il y a les renards des surfaces qui transforment la moindre occasion en but, et ceux qui ont simplement besoin d'en avoir beaucoup pour approcher le même total. Le xG, ou buts attendus, mesure la qualité des occasions générées par un joueur, indépendamment du résultat final au tableau d'affichage. Un attaquant dont les buts réels dépassent largement son xG traverse une période de réussite qui ne dure généralement pas. À l'inverse, celui qui reste en dessous de son xG finit souvent par rattraper son retard sur la durée d'une saison.",
     Chart: LollipopChart,
     data: XG_SCORERS,
   },
   {
     title: "Les passeurs qui changent tout",
-    text: "Un but ne vient jamais de nulle part. Le xA (passes décisives attendues) identifie les joueurs qui créent le danger, même sans être sur la feuille de match des buteurs.",
+    text: "Certains buts se célèbrent à deux, voire à trois. Le xA, ou passes décisives attendues, rend justice à ceux qui construisent l'occasion, la dernière passe, le décalage dans le dos de la défense, sans jamais apparaître au tableau d'affichage à la fin du match. C'est souvent dans ce classement que se cachent les vrais chefs d'orchestre d'une équipe, ceux que l'œil du néophyte repère moins facilement qu'un buteur. Ce sont eux qui, saison après saison, rendent leurs coéquipiers meilleurs.",
     Chart: HorizontalBarChart,
     data: XA_CREATORS,
   },
   {
     title: "L'intensité, ça se mesure aussi",
-    text: "Possession, passes progressives, intensité du pressing (PPDA) : certaines équipes jouent lentement et proprement, d'autres étouffent l'adversaire dès la récupération du ballon.",
+    text: "Deux philosophies s'affrontent chaque week-end sur les pelouses anglaises. D'un côté, la possession patiente, le ballon qui circule de pied en pied jusqu'à trouver la faille. De l'autre, le pressing intense, la volonté d'étrangler l'adversaire dès la perte de balle, sans lui laisser le temps de respirer. Le PPDA, qui mesure le nombre de passes adverses autorisées avant une intervention défensive, distingue clairement ces deux écoles de pensée. Aucune des deux approches n'est intrinsèquement supérieure, mais toutes les deux laissent une empreinte statistique très reconnaissable.",
     Chart: ScatterPlot,
     data: POSSESSION_VS_PPDA,
   },
   {
     title: "Une saison qui se dessine",
-    text: "Un classement à la 10e journée ne dit pas grand-chose. Voici comment les positions évoluent, journée après journée, depuis le début de la saison.",
+    text: "Un tableau flatteur en septembre ne garantit absolument rien en mai. Le football anglais a vu trop de départs canon se transformer en saisons décevantes, et trop de débuts poussifs déboucher sur une fin de parcours triomphante. Voici comment les trajectoires de plusieurs équipes se sont vraiment dessinées, journée après journée, avec leurs accélérations, leurs passages à vide et leurs remontées parfois spectaculaires. C'est dans cette dynamique, plus que dans l'instantané du classement, que se lit la vraie force d'un collectif.",
     Chart: RankLineChart,
     data: RANK_EVOLUTION,
   },
@@ -136,9 +136,12 @@ export default function PremierLeagueOverview() {
           Anatomie d'une saison de Premier League
         </h1>
         <p className="mt-4 text-current/60 md:text-lg">
-          Vingt équipes, des centaines de milliers de passes, et des données
-          qui racontent une histoire différente du simple classement.
-          Cinq façons de lire la saison en cours.
+          Vingt clubs, quarante journées de bataille, et une donnée qui
+          raconte souvent une autre histoire que le tableau de classement.
+          Chaque week-end apporte son lot de surprises, de séries qui
+          s'étirent et de certitudes qui s'effondrent. Voici cinq façons de
+          lire cette saison de Premier League au-delà du simple résultat du
+          dimanche soir.
         </p>
       </div>
 
