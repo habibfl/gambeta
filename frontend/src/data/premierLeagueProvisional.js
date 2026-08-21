@@ -30,30 +30,32 @@ export const STANDINGS = [
 
 // TODO : graphique à réaliser en D3.js une fois les données xG par joueur
 // disponibles (source FBref). xG = buts attendus, goals = buts réels.
+// `team` (nom identique à celui utilisé dans STANDINGS) permet à la page
+// Équipe de retrouver les joueurs clés d'un club sans dupliquer la donnée.
 export const XG_SCORERS = [
-  { player: "Erling Haaland", xg: 14.2, goals: 17 },
-  { player: "Mohamed Salah", xg: 13.8, goals: 15 },
-  { player: "Alexander Isak", xg: 11.5, goals: 14 },
-  { player: "Cole Palmer", xg: 10.2, goals: 11 },
-  { player: "Chris Wood", xg: 7.1, goals: 10 },
-  { player: "Ollie Watkins", xg: 9.8, goals: 9 },
-  { player: "Bukayo Saka", xg: 8.6, goals: 8 },
-  { player: "Nicolas Jackson", xg: 8.0, goals: 7 },
-  { player: "Dominic Solanke", xg: 9.4, goals: 6 },
+  { player: "Erling Haaland", team: "Manchester City", xg: 14.2, goals: 17 },
+  { player: "Mohamed Salah", team: "Liverpool", xg: 13.8, goals: 15 },
+  { player: "Alexander Isak", team: "Newcastle United", xg: 11.5, goals: 14 },
+  { player: "Cole Palmer", team: "Chelsea", xg: 10.2, goals: 11 },
+  { player: "Chris Wood", team: "Nottingham Forest", xg: 7.1, goals: 10 },
+  { player: "Ollie Watkins", team: "Aston Villa", xg: 9.8, goals: 9 },
+  { player: "Bukayo Saka", team: "Arsenal", xg: 8.6, goals: 8 },
+  { player: "Nicolas Jackson", team: "Chelsea", xg: 8.0, goals: 7 },
+  { player: "Dominic Solanke", team: "Bournemouth", xg: 9.4, goals: 6 },
 ];
 
 // TODO : classement horizontal à réaliser en D3.js une fois les données xA
 // par joueur disponibles (source FBref).
 export const XA_CREATORS = [
-  { player: "Kevin De Bruyne", xa: 8.4 },
-  { player: "Bruno Fernandes", xa: 7.9 },
-  { player: "Cole Palmer", xa: 7.2 },
-  { player: "Mohamed Salah", xa: 6.8 },
-  { player: "Morgan Gibbs-White", xa: 6.1 },
-  { player: "Anthony Gordon", xa: 5.7 },
-  { player: "Bukayo Saka", xa: 5.4 },
-  { player: "Pascal Groß", xa: 5.0 },
-  { player: "James Maddison", xa: 4.6 },
+  { player: "Kevin De Bruyne", team: "Manchester City", xa: 8.4 },
+  { player: "Bruno Fernandes", team: "Manchester United", xa: 7.9 },
+  { player: "Cole Palmer", team: "Chelsea", xa: 7.2 },
+  { player: "Mohamed Salah", team: "Liverpool", xa: 6.8 },
+  { player: "Morgan Gibbs-White", team: "Nottingham Forest", xa: 6.1 },
+  { player: "Anthony Gordon", team: "Newcastle United", xa: 5.7 },
+  { player: "Bukayo Saka", team: "Arsenal", xa: 5.4 },
+  { player: "Pascal Groß", team: "Brighton", xa: 5.0 },
+  { player: "James Maddison", team: "Tottenham", xa: 4.6 },
 ];
 
 // TODO : nuage de points à réaliser en D3.js une fois les données de

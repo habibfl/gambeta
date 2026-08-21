@@ -1,4 +1,5 @@
 import { useEffect, useRef } from "react";
+import { useNavigate } from "react-router-dom";
 import * as d3 from "d3";
 
 // Petit hook partagé : D3 dessine directement dans le <svg> référencé,
@@ -21,11 +22,19 @@ const CORAL = "#e86f2c";
 const CORAL_SOFT = "#e86f2c66";
 
 // --- Case 1 : classement — simple tableau, pas besoin de D3 ---------------
-export function StandingsTable({ data, active }) {
+// `scrollable` (par défaut vrai, comportement historique de la Case 1 dans
+// LeagueOverview.jsx) plafonne la hauteur avec un défilement interne quand
+// le tableau est logé dans une petite colonne sticky. La page Équipes s'en
+// sert avec `scrollable={false}` pour afficher le classement complet, sans
+// boîte à défilement, sur toute la largeur de la page.
+// `getHref` (optionnel) rend chaque ligne cliquable, sans rien changer au
+// style ni au comportement existant quand elle n'est pas fournie.
+export function StandingsTable({ data, active, scrollable = true, getHref }) {
+  const navigate = useNavigate();
   return (
-    <div className="max-h-[420px] overflow-y-auto rounded-lg">
+    <div className={scrollable ? "max-h-[420px] overflow-y-auto rounded-lg" : "overflow-x-auto rounded-lg"}>
       <table className="w-full border-collapse text-left text-[13px]">
-        <thead className="sticky top-0 bg-[var(--gambeta-paper)] text-current/50">
+        <thead className={`${scrollable ? "sticky top-0 " : ""}bg-[var(--gambeta-paper)] text-current/50`}>
           <tr className="text-[11px] uppercase tracking-wider">
             <th className="py-2 pr-2 font-semibold">#</th>
             <th className="py-2 pr-2 font-semibold">Équipe</th>
@@ -39,12 +48,24 @@ export function StandingsTable({ data, active }) {
           {data.map((row, index) => (
             <tr
               key={row.team}
-              className="border-t border-current/10 transition-all duration-300 ease-out"
+              className={`border-t border-current/10 transition-all duration-300 ease-out ${
+                getHref ? "cursor-pointer hover:bg-current/[0.04]" : ""
+              }`}
               style={{
                 transitionDelay: `${index * 25}ms`,
                 opacity: active ? 1 : 0,
                 transform: active ? "translateX(0)" : "translateX(-8px)",
               }}
+              onClick={getHref ? () => navigate(getHref(row)) : undefined}
+              role={getHref ? "link" : undefined}
+              tabIndex={getHref ? 0 : undefined}
+              onKeyDown={
+                getHref
+                  ? (event) => {
+                      if (event.key === "Enter") navigate(getHref(row));
+                    }
+                  : undefined
+              }
             >
               <td className="py-1.5 pr-2 tabular-nums text-current/60">{row.rank}</td>
               <td className="py-1.5 pr-2 font-medium">{row.team}</td>

@@ -31,29 +31,31 @@ export const STANDINGS = [
 
 // TODO : croiser avec les vraies statistiques xG (Understat / FBref)
 // une fois la source de données définitive choisie.
+// `team` (nom identique à celui utilisé dans STANDINGS) permet à la page
+// Équipe de retrouver les joueurs clés d'un club sans dupliquer la donnée.
 export const XG_SCORERS = [
-  { player: "Lautaro Martínez", xg: 14.0, goals: 17 },
-  { player: "Victor Osimhen", xg: 12.5, goals: 11 },
-  { player: "Dušan Vlahović", xg: 11.2, goals: 12 },
-  { player: "Ademola Lookman", xg: 9.5, goals: 10 },
-  { player: "Romelu Lukaku", xg: 9.0, goals: 7 },
-  { player: "Gianluca Scamacca", xg: 8.8, goals: 8 },
-  { player: "Rafael Leão", xg: 8.0, goals: 9 },
-  { player: "Ciro Immobile", xg: 7.5, goals: 6 },
-  { player: "Albert Guðmundsson", xg: 6.9, goals: 8 },
+  { player: "Lautaro Martínez", team: "Inter Milan", xg: 14.0, goals: 17 },
+  { player: "Victor Osimhen", team: "Naples", xg: 12.5, goals: 11 },
+  { player: "Dušan Vlahović", team: "Juventus", xg: 11.2, goals: 12 },
+  { player: "Ademola Lookman", team: "Atalanta", xg: 9.5, goals: 10 },
+  { player: "Romelu Lukaku", team: "AS Roma", xg: 9.0, goals: 7 },
+  { player: "Gianluca Scamacca", team: "Atalanta", xg: 8.8, goals: 8 },
+  { player: "Rafael Leão", team: "AC Milan", xg: 8.0, goals: 9 },
+  { player: "Ciro Immobile", team: "Lazio", xg: 7.5, goals: 6 },
+  { player: "Albert Guðmundsson", team: "Gênes", xg: 6.9, goals: 8 },
 ];
 
 // TODO : idem, source xA à confirmer.
 export const XA_CREATORS = [
-  { player: "Hakan Çalhanoğlu", xa: 7.4 },
-  { player: "Khvicha Kvaratskhelia", xa: 6.9 },
-  { player: "Nicolò Barella", xa: 6.5 },
-  { player: "Rafael Leão", xa: 6.3 },
-  { player: "Teun Koopmeiners", xa: 5.8 },
-  { player: "Paulo Dybala", xa: 5.5 },
-  { player: "Federico Chiesa", xa: 5.0 },
-  { player: "Luis Alberto", xa: 4.8 },
-  { player: "Riccardo Orsolini", xa: 4.4 },
+  { player: "Hakan Çalhanoğlu", team: "Inter Milan", xa: 7.4 },
+  { player: "Khvicha Kvaratskhelia", team: "Naples", xa: 6.9 },
+  { player: "Nicolò Barella", team: "Inter Milan", xa: 6.5 },
+  { player: "Rafael Leão", team: "AC Milan", xa: 6.3 },
+  { player: "Teun Koopmeiners", team: "Atalanta", xa: 5.8 },
+  { player: "Paulo Dybala", team: "AS Roma", xa: 5.5 },
+  { player: "Federico Chiesa", team: "Juventus", xa: 5.0 },
+  { player: "Luis Alberto", team: "Lazio", xa: 4.8 },
+  { player: "Riccardo Orsolini", team: "Bologne", xa: 4.4 },
 ];
 
 // TODO : possession moyenne et PPDA réels par équipe (source à définir).

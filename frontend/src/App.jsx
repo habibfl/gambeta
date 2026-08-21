@@ -5,6 +5,7 @@ import Home from "./pages/Home";
 import Championnats from "./pages/Championnats";
 import ChampionnatDetail from "./pages/ChampionnatDetail";
 import Equipes from "./pages/Equipes";
+import EquipeDetail from "./pages/EquipeDetail";
 import Joueurs from "./pages/Joueurs";
 import Comparateur from "./pages/Comparateur";
 
@@ -37,6 +38,7 @@ function App() {
         <Route path="/championnats" element={<Championnats />} />
         <Route path="/championnats/:id" element={<ChampionnatDetail />} />
         <Route path="/equipes" element={<Equipes />} />
+        <Route path="/equipes/:slug" element={<EquipeDetail />} />
         <Route path="/joueurs" element={<Joueurs />} />
         <Route path="/comparateur" element={<Comparateur />} />
         <Route path="*" element={<NotFound />} />

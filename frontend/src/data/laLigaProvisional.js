@@ -31,29 +31,31 @@ export const STANDINGS = [
 
 // TODO : croiser avec les vraies statistiques xG (Understat / FBref)
 // une fois la source de données définitive choisie.
+// `team` (nom identique à celui utilisé dans STANDINGS) permet à la page
+// Équipe de retrouver les joueurs clés d'un club sans dupliquer la donnée.
 export const XG_SCORERS = [
-  { player: "Kylian Mbappé", xg: 13.5, goals: 16 },
-  { player: "Robert Lewandowski", xg: 12.8, goals: 14 },
-  { player: "Antoine Griezmann", xg: 10.5, goals: 11 },
-  { player: "Vinícius Júnior", xg: 8.8, goals: 9 },
-  { player: "Alexander Sørloth", xg: 9.2, goals: 9 },
-  { player: "Ante Budimir", xg: 8.0, goals: 10 },
-  { player: "Iago Aspas", xg: 7.5, goals: 7 },
-  { player: "Ayoze Pérez", xg: 6.8, goals: 6 },
-  { player: "Borja Iglesias", xg: 7.9, goals: 5 },
+  { player: "Kylian Mbappé", team: "Real Madrid", xg: 13.5, goals: 16 },
+  { player: "Robert Lewandowski", team: "Barcelone", xg: 12.8, goals: 14 },
+  { player: "Antoine Griezmann", team: "Atlético Madrid", xg: 10.5, goals: 11 },
+  { player: "Vinícius Júnior", team: "Real Madrid", xg: 8.8, goals: 9 },
+  { player: "Alexander Sørloth", team: "Villarreal", xg: 9.2, goals: 9 },
+  { player: "Ante Budimir", team: "Osasuna", xg: 8.0, goals: 10 },
+  { player: "Iago Aspas", team: "Celta Vigo", xg: 7.5, goals: 7 },
+  { player: "Ayoze Pérez", team: "Villarreal", xg: 6.8, goals: 6 },
+  { player: "Borja Iglesias", team: "Real Betis", xg: 7.9, goals: 5 },
 ];
 
 // TODO : idem, source xA à confirmer.
 export const XA_CREATORS = [
-  { player: "Jude Bellingham", xa: 7.6 },
-  { player: "Toni Kroos", xa: 6.8 },
-  { player: "Ilkay Gündogan", xa: 6.2 },
-  { player: "Antoine Griezmann", xa: 6.0 },
-  { player: "Nico Williams", xa: 5.6 },
-  { player: "Álex Baena", xa: 5.4 },
-  { player: "Aleix García", xa: 5.0 },
-  { player: "Isco", xa: 4.5 },
-  { player: "Take Kubo", xa: 4.3 },
+  { player: "Jude Bellingham", team: "Real Madrid", xa: 7.6 },
+  { player: "Toni Kroos", team: "Real Madrid", xa: 6.8 },
+  { player: "Ilkay Gündogan", team: "Barcelone", xa: 6.2 },
+  { player: "Antoine Griezmann", team: "Atlético Madrid", xa: 6.0 },
+  { player: "Nico Williams", team: "Athletic Bilbao", xa: 5.6 },
+  { player: "Álex Baena", team: "Villarreal", xa: 5.4 },
+  { player: "Aleix García", team: "Girona", xa: 5.0 },
+  { player: "Isco", team: "Real Betis", xa: 4.5 },
+  { player: "Take Kubo", team: "Real Sociedad", xa: 4.3 },
 ];
 
 // TODO : possession moyenne et PPDA réels par équipe (source à définir).

@@ -29,29 +29,31 @@ export const STANDINGS = [
 
 // TODO : croiser avec les vraies statistiques xG (Understat / FBref)
 // une fois la source de données définitive choisie.
+// `team` (nom identique à celui utilisé dans STANDINGS) permet à la page
+// Équipe de retrouver les joueurs clés d'un club sans dupliquer la donnée.
 export const XG_SCORERS = [
-  { player: "Harry Kane", xg: 16.5, goals: 20 },
-  { player: "Serhou Guirassy", xg: 13.0, goals: 17 },
-  { player: "Loïs Openda", xg: 11.5, goals: 13 },
-  { player: "Victor Boniface", xg: 9.8, goals: 11 },
-  { player: "Deniz Undav", xg: 7.0, goals: 9 },
-  { player: "Niclas Füllkrug", xg: 8.5, goals: 8 },
-  { player: "Marvin Ducksch", xg: 7.2, goals: 6 },
-  { player: "Jonathan Burkardt", xg: 6.8, goals: 7 },
-  { player: "Kevin Behrens", xg: 6.0, goals: 5 },
+  { player: "Harry Kane", team: "Bayern Munich", xg: 16.5, goals: 20 },
+  { player: "Serhou Guirassy", team: "VfB Stuttgart", xg: 13.0, goals: 17 },
+  { player: "Loïs Openda", team: "RB Leipzig", xg: 11.5, goals: 13 },
+  { player: "Victor Boniface", team: "Bayer Leverkusen", xg: 9.8, goals: 11 },
+  { player: "Deniz Undav", team: "VfB Stuttgart", xg: 7.0, goals: 9 },
+  { player: "Niclas Füllkrug", team: "Borussia Dortmund", xg: 8.5, goals: 8 },
+  { player: "Marvin Ducksch", team: "Werder Brême", xg: 7.2, goals: 6 },
+  { player: "Jonathan Burkardt", team: "Mayence", xg: 6.8, goals: 7 },
+  { player: "Kevin Behrens", team: "Union Berlin", xg: 6.0, goals: 5 },
 ];
 
 // TODO : idem, source xA à confirmer.
 export const XA_CREATORS = [
-  { player: "Florian Wirtz", xa: 8.5 },
-  { player: "Jamal Musiala", xa: 7.9 },
-  { player: "Xavi Simons", xa: 7.2 },
-  { player: "Alejandro Grimaldo", xa: 6.6 },
-  { player: "Angeliño", xa: 5.5 },
-  { player: "Julian Brandt", xa: 5.2 },
-  { player: "Robin Gosens", xa: 4.8 },
-  { player: "Ritsu Doan", xa: 4.5 },
-  { player: "Waldemar Anton", xa: 4.0 },
+  { player: "Florian Wirtz", team: "Bayer Leverkusen", xa: 8.5 },
+  { player: "Jamal Musiala", team: "Bayern Munich", xa: 7.9 },
+  { player: "Xavi Simons", team: "RB Leipzig", xa: 7.2 },
+  { player: "Alejandro Grimaldo", team: "Bayer Leverkusen", xa: 6.6 },
+  { player: "Angeliño", team: "RB Leipzig", xa: 5.5 },
+  { player: "Julian Brandt", team: "Borussia Dortmund", xa: 5.2 },
+  { player: "Robin Gosens", team: "Union Berlin", xa: 4.8 },
+  { player: "Ritsu Doan", team: "SC Fribourg", xa: 4.5 },
+  { player: "Waldemar Anton", team: "VfB Stuttgart", xa: 4.0 },
 ];
 
 // TODO : possession moyenne et PPDA réels par équipe (source à définir).

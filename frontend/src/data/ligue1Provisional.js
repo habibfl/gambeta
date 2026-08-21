@@ -29,29 +29,31 @@ export const STANDINGS = [
 
 // TODO : croiser avec les vraies statistiques xG (Understat / FBref)
 // une fois la source de données définitive choisie.
+// `team` (nom identique à celui utilisé dans STANDINGS) permet à la page
+// Équipe de retrouver les joueurs clés d'un club sans dupliquer la donnée.
 export const XG_SCORERS = [
-  { player: "Jonathan David", xg: 11.0, goals: 13 },
-  { player: "Bradley Barcola", xg: 9.5, goals: 12 },
-  { player: "Alexandre Lacazette", xg: 10.8, goals: 11 },
-  { player: "Wissam Ben Yedder", xg: 8.2, goals: 10 },
-  { player: "Mason Greenwood", xg: 8.5, goals: 9 },
-  { player: "Folarin Balogun", xg: 7.9, goals: 9 },
-  { player: "Terem Moffi", xg: 9.1, goals: 8 },
-  { player: "Arnaud Kalimuendo", xg: 7.0, goals: 7 },
-  { player: "Habib Diallo", xg: 6.5, goals: 6 },
+  { player: "Jonathan David", team: "Lille", xg: 11.0, goals: 13 },
+  { player: "Bradley Barcola", team: "PSG", xg: 9.5, goals: 12 },
+  { player: "Alexandre Lacazette", team: "Lyon", xg: 10.8, goals: 11 },
+  { player: "Wissam Ben Yedder", team: "Monaco", xg: 8.2, goals: 10 },
+  { player: "Mason Greenwood", team: "Marseille", xg: 8.5, goals: 9 },
+  { player: "Folarin Balogun", team: "Monaco", xg: 7.9, goals: 9 },
+  { player: "Terem Moffi", team: "Nice", xg: 9.1, goals: 8 },
+  { player: "Arnaud Kalimuendo", team: "Rennes", xg: 7.0, goals: 7 },
+  { player: "Habib Diallo", team: "Strasbourg", xg: 6.5, goals: 6 },
 ];
 
 // TODO : idem, source xA à confirmer.
 export const XA_CREATORS = [
-  { player: "Ousmane Dembélé", xa: 7.8 },
-  { player: "Vitinha", xa: 6.9 },
-  { player: "Rayan Cherki", xa: 6.5 },
-  { player: "Malick Fofana", xa: 5.9 },
-  { player: "Eliesse Ben Seghir", xa: 5.7 },
-  { player: "Amine Gouiri", xa: 5.3 },
-  { player: "Edon Zhegrova", xa: 5.0 },
-  { player: "Habib Diarra", xa: 4.6 },
-  { player: "Wissam Ben Yedder", xa: 4.2 },
+  { player: "Ousmane Dembélé", team: "PSG", xa: 7.8 },
+  { player: "Vitinha", team: "PSG", xa: 6.9 },
+  { player: "Rayan Cherki", team: "Lyon", xa: 6.5 },
+  { player: "Malick Fofana", team: "Lyon", xa: 5.9 },
+  { player: "Eliesse Ben Seghir", team: "Monaco", xa: 5.7 },
+  { player: "Amine Gouiri", team: "Rennes", xa: 5.3 },
+  { player: "Edon Zhegrova", team: "Lille", xa: 5.0 },
+  { player: "Habib Diarra", team: "Strasbourg", xa: 4.6 },
+  { player: "Wissam Ben Yedder", team: "Monaco", xa: 4.2 },
 ];
 
 // TODO : possession moyenne et PPDA réels par équipe (source à définir).
