@@ -1,9 +1,9 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import PageBackground from "../components/PageBackground";
-import PremierLeagueOverview from "../components/PremierLeagueOverview";
+import LeagueOverview from "../components/LeagueOverview";
 import PlayerJars from "../components/PlayerJars";
-import { PL_PLAYERS_XG, PL_PLAYERS_XA } from "../data/premierLeagueProvisional";
+import { LEAGUE_OVERVIEWS } from "../data/leagueOverviews";
 
 const LEAGUES_API_URL = "http://localhost:8000/api/leagues";
 const COMPETITIONS_API_URL = "http://localhost:8000/api/competitions";
@@ -30,22 +30,26 @@ function fetchItems(url, key) {
 }
 
 // Page détail d'un championnat OU d'une compétition (route
-// /championnats/:id). Pour l'instant, un seul cas a un vrai contenu
-// détaillé : la Premier League (voir PremierLeagueOverview.jsx, la
-// structure "Cases" façon pudding.cool). Tous les autres championnats
-// gardent la page générique (nom récupéré via l'API + message d'attente),
-// prête à recevoir le même traitement plus tard.
+// /championnats/:id). Les 5 grands championnats (Ligue 1, Premier
+// League, Liga, Serie A, Bundesliga) ont un vrai contenu détaillé, tous
+// construits par le même composant générique LeagueOverview.jsx (la
+// structure "Cases" façon pudding.cool), chacun alimenté par sa propre
+// config dans data/leagueOverviews.js. Les compétitions inter-clubs
+// (Ligue des champions, etc.) gardent pour l'instant la page générique
+// (nom récupéré via l'API + message d'attente), prête à recevoir le
+// même traitement plus tard.
 export default function ChampionnatDetail() {
   const { id } = useParams();
   const [items, setItems] = useState(null);
   const [loading, setLoading] = useState(true);
+  const overview = LEAGUE_OVERVIEWS[id];
 
   useEffect(() => {
-    // La Premier League n'a pas besoin de ces données (son contenu est
-    // déjà écrit "en dur" dans PremierLeagueOverview, `loading` n'est
-    // même jamais affiché sur cette branche) : pas la peine d'appeler
-    // l'API pour rien.
-    if (id === "premier-league") return undefined;
+    // Un championnat avec une config détaillée n'a pas besoin de ces
+    // données (son contenu vient déjà de data/leagueOverviews.js,
+    // `loading` n'est même jamais affiché sur cette branche) : pas la
+    // peine d'appeler l'API pour rien.
+    if (overview) return undefined;
 
     let cancelled = false;
     // Les deux routes sont indépendantes (une ligue ou une compétition
@@ -62,16 +66,21 @@ export default function ChampionnatDetail() {
     return () => {
       cancelled = true;
     };
-  }, [id]);
+  }, [id, overview]);
 
-  if (id === "premier-league") {
+  if (overview) {
     return (
       <>
-        <PremierLeagueOverview />
+        <LeagueOverview
+          eyebrow={overview.eyebrow}
+          title={overview.title}
+          intro={overview.intro}
+          cases={overview.cases}
+        />
         <PlayerJars
-          title="Les références de la Premier League"
-          playersXG={PL_PLAYERS_XG}
-          playersXA={PL_PLAYERS_XA}
+          title={overview.playerJars.title}
+          playersXG={overview.playerJars.playersXG}
+          playersXA={overview.playerJars.playersXA}
         />
       </>
     );

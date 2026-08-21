@@ -95,8 +95,11 @@ export const RANK_EVOLUTION = [
 ];
 
 // Repris dans PlayerJars.jsx pour la variante Premier League (mêmes
-// joueurs que les Cases 2 et 3 ci-dessus, pour rester cohérent).
-export const PL_PLAYERS_XG = XG_SCORERS.map(({ player }) => ({
+// joueurs que les Cases 2 et 3 ci-dessus, pour rester cohérent). Noms
+// génériques (PLAYERS_XG / PLAYERS_XA) alignés sur ceux des autres
+// championnats, pour que data/leagueOverviews.js puisse tous les
+// consommer de la même façon.
+export const PLAYERS_XG = XG_SCORERS.map(({ player }) => ({
   name: player,
   initials: player
     .split(" ")
@@ -106,7 +109,7 @@ export const PL_PLAYERS_XG = XG_SCORERS.map(({ player }) => ({
     .toUpperCase(),
 }));
 
-export const PL_PLAYERS_XA = XA_CREATORS.map(({ player }) => ({
+export const PLAYERS_XA = XA_CREATORS.map(({ player }) => ({
   name: player,
   initials: player
     .split(" ")
