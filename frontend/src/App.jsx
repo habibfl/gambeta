@@ -7,6 +7,7 @@ import ChampionnatDetail from "./pages/ChampionnatDetail";
 import Equipes from "./pages/Equipes";
 import EquipeDetail from "./pages/EquipeDetail";
 import Joueurs from "./pages/Joueurs";
+import JoueurDetail from "./pages/JoueurDetail";
 import Comparateur from "./pages/Comparateur";
 
 // Page 404 : trop simple pour mériter son propre fichier dans pages/,
@@ -40,6 +41,7 @@ function App() {
         <Route path="/equipes" element={<Equipes />} />
         <Route path="/equipes/:slug" element={<EquipeDetail />} />
         <Route path="/joueurs" element={<Joueurs />} />
+        <Route path="/joueurs/:slug" element={<JoueurDetail />} />
         <Route path="/comparateur" element={<Comparateur />} />
         <Route path="*" element={<NotFound />} />
       </Routes>
