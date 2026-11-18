@@ -1,0 +1,610 @@
+league,season,team,player,mp,starts,minutes,shots,shots_on_target,shots_on_target_pct,tackles_won,interceptions,yellow_cards,red_cards,second_yellow_cards,fouls_committed,fouls_drawn
+ITA-Serie A,2526,Atalanta,Ademola Lookman,12,9,795,27,8,29.6,3,3,0,0,0,10,8
+ITA-Serie A,2526,Atalanta,Berat Djimsiti,34,29,2525,16,2,12.5,30,42,4,0,0,17,8
+ITA-Serie A,2526,Atalanta,Charles De Ketelaere,31,26,2177,46,16,34.8,15,5,4,0,0,23,36
+ITA-Serie A,2526,Atalanta,Daniel Maldini,9,3,264,8,2,25.0,2,0,1,0,0,4,7
+ITA-Serie A,2526,Atalanta,Davide Zappacosta,35,30,2569,37,9,24.3,14,18,3,0,0,18,8
+ITA-Serie A,2526,Atalanta,Dominic Vavassori,1,0,10,0,0,,0,0,0,0,0,1,1
+ITA-Serie A,2526,Atalanta,Giacomo Raspadori,13,7,796,28,11,39.3,3,1,0,0,0,7,6
+ITA-Serie A,2526,Atalanta,Gianluca Scamacca,24,16,1315,57,22,38.6,5,3,2,0,0,26,19
+ITA-Serie A,2526,Atalanta,Giorgio Scalvini,24,23,1808,20,6,30.0,23,38,2,0,0,31,10
+ITA-Serie A,2526,Atalanta,Honest Ahanor,22,15,1377,13,4,30.8,20,24,2,1,0,24,28
+ITA-Serie A,2526,Atalanta,Isak Hien,28,20,1970,9,3,33.3,34,29,5,0,0,36,21
+ITA-Serie A,2526,Atalanta,Kamaldeen Sulemana,25,9,1011,25,10,40.0,5,2,4,0,0,14,14
+ITA-Serie A,2526,Atalanta,Lazar Samardzic,26,11,1030,25,9,36.0,8,10,1,0,0,17,10
+ITA-Serie A,2526,Atalanta,Lorenzo Bernasconi,23,17,1572,9,1,11.1,16,14,3,0,0,8,5
+ITA-Serie A,2526,Atalanta,Marco Brescianini,9,0,182,3,2,66.7,8,2,1,0,0,4,2
+ITA-Serie A,2526,Atalanta,Marco Carnesecchi,37,37,3330,0,0,,0,0,0,0,0,1,6
+ITA-Serie A,2526,Atalanta,Marco Sportiello,1,1,90,0,0,,0,0,0,0,0,0,0
+ITA-Serie A,2526,Atalanta,Mario Pašalić,33,21,1936,24,6,25.0,18,13,3,0,0,22,6
+ITA-Serie A,2526,Atalanta,Marten de Roon,34,32,2691,16,4,25.0,44,26,8,1,1,37,11
+ITA-Serie A,2526,Atalanta,Mitchel Bakker,1,0,9,0,0,,0,0,0,0,0,0,0
+ITA-Serie A,2526,Atalanta,Nicola Zalewski,33,24,1897,38,7,18.4,20,16,3,0,0,21,51
+ITA-Serie A,2526,Atalanta,Nikola Krstović,33,18,1791,99,34,34.3,12,3,4,0,0,45,27
+ITA-Serie A,2526,Atalanta,Odilon Kossounou,19,10,988,5,1,20.0,14,10,1,0,0,16,3
+ITA-Serie A,2526,Atalanta,Raoul Bellanova,24,15,1377,13,5,38.5,9,10,2,0,0,5,12
+ITA-Serie A,2526,Atalanta,Sead Kolašinac,19,15,1212,3,0,0.0,18,11,3,0,0,22,10
+ITA-Serie A,2526,Atalanta,Yunus Musah,19,4,574,7,2,28.6,5,5,1,0,0,7,16
+ITA-Serie A,2526,Atalanta,Éderson Silva,30,26,2230,35,11,31.4,35,28,3,0,0,34,40
+ITA-Serie A,2526,Bologna,Babis Lykogiannis,10,7,627,7,2,28.6,10,6,3,0,0,8,1
+ITA-Serie A,2526,Bologna,Benjamín Domínguez,15,6,547,12,2,16.7,2,2,1,0,0,6,18
+ITA-Serie A,2526,Bologna,Ciro Immobile,6,2,193,2,0,0.0,0,0,1,0,0,8,3
+ITA-Serie A,2526,Bologna,Eivind Helland,6,6,484,1,0,0.0,5,7,2,0,0,5,1
+ITA-Serie A,2526,Bologna,Emil Holm,11,8,655,8,1,12.5,13,7,3,1,1,11,14
+ITA-Serie A,2526,Bologna,Federico Bernardeschi,29,12,1217,39,13,33.3,6,6,3,0,0,13,11
+ITA-Serie A,2526,Bologna,Federico Ravaglia,17,16,1470,0,0,,1,0,4,0,0,2,3
+ITA-Serie A,2526,Bologna,Giovanni Fabbian,14,8,705,14,4,28.6,4,5,0,0,0,13,18
+ITA-Serie A,2526,Bologna,Ibrahim Sulemana,3,0,45,0,0,,0,0,1,0,0,1,0
+ITA-Serie A,2526,Bologna,Jens Odgaard,26,16,1378,35,13,37.1,12,4,1,0,0,28,28
+ITA-Serie A,2526,Bologna,Jhon Lucumí,29,26,2287,8,2,25.0,22,30,5,0,0,23,19
+ITA-Serie A,2526,Bologna,Jonathan Rowe,28,17,1605,48,17,35.4,14,9,2,0,0,23,50
+ITA-Serie A,2526,Bologna,João Mário Lopes,10,10,735,4,2,50.0,4,10,1,0,0,5,21
+ITA-Serie A,2526,Bologna,Juan Miranda,32,29,2573,13,5,38.5,31,33,6,0,0,25,35
+ITA-Serie A,2526,Bologna,Lewis Ferguson,27,17,1601,13,2,15.4,16,12,7,1,1,34,26
+ITA-Serie A,2526,Bologna,Lorenzo De Silvestri,12,6,491,0,0,,1,7,2,0,0,9,3
+ITA-Serie A,2526,Bologna,Martin Vitík,19,14,1325,8,2,25.0,22,8,3,0,0,23,4
+ITA-Serie A,2526,Bologna,Massimo Pessina,4,3,353,0,0,,0,0,0,0,0,0,1
+ITA-Serie A,2526,Bologna,Nadir Zortea,32,16,1819,11,1,9.1,17,20,2,0,0,28,17
+ITA-Serie A,2526,Bologna,Nicolò Cambiaghi,28,17,1518,24,6,25.0,20,9,3,1,0,32,71
+ITA-Serie A,2526,Bologna,Nicolò Casale,12,8,678,5,0,0.0,2,7,0,0,0,15,5
+ITA-Serie A,2526,Bologna,Nikola Moro,30,19,1799,21,2,9.5,8,19,1,0,0,18,17
+ITA-Serie A,2526,Bologna,Remo Freuler,29,26,2213,8,1,12.5,31,22,5,0,0,19,24
+ITA-Serie A,2526,Bologna,Riccardo Orsolini,35,26,2111,82,31,37.8,15,7,2,0,0,21,44
+ITA-Serie A,2526,Bologna,Santiago Castro,35,26,2359,63,20,31.7,8,1,3,0,0,35,50
+ITA-Serie A,2526,Bologna,Simon Sohm,12,9,717,4,1,25.0,5,3,1,0,0,9,3
+ITA-Serie A,2526,Bologna,Thijs Dallinga,23,9,811,24,5,20.8,4,1,2,0,0,20,9
+ITA-Serie A,2526,Bologna,Tommaso Pobega,26,17,1434,25,10,40.0,19,19,2,1,0,34,12
+ITA-Serie A,2526,Bologna,Torbjørn Heggem,27,23,2113,11,2,18.2,19,25,0,1,0,31,12
+ITA-Serie A,2526,Bologna,Łukasz Skorupski,19,19,1592,0,0,,0,0,1,1,0,1,8
+ITA-Serie A,2526,Cagliari,Adam Obert,35,33,2771,10,3,30.0,32,44,10,1,1,40,13
+ITA-Serie A,2526,Cagliari,Agustín Albarracín,2,0,33,0,0,,0,0,0,0,0,0,3
+ITA-Serie A,2526,Cagliari,Alberto Dossena,12,9,859,7,2,28.6,13,9,5,0,0,11,8
+ITA-Serie A,2526,Cagliari,Alessandro Deiola,20,17,1430,22,7,31.8,20,13,3,0,0,22,11
+ITA-Serie A,2526,Cagliari,Alessandro Di Pardo,3,0,54,1,0,0.0,1,0,0,0,0,0,1
+ITA-Serie A,2526,Cagliari,Andrea Belotti,8,3,221,6,4,66.7,1,4,0,0,0,3,10
+ITA-Serie A,2526,Cagliari,Elia Caprile,38,38,3420,0,0,,0,0,2,0,0,0,8
+ITA-Serie A,2526,Cagliari,Gabriele Zappa,31,18,1597,11,2,18.2,17,18,2,0,0,13,5
+ITA-Serie A,2526,Cagliari,Gennaro Borrelli,27,13,1275,30,12,40.0,6,3,4,0,0,43,49
+ITA-Serie A,2526,Cagliari,Gianluca Gaetano,33,21,1912,34,11,32.4,15,23,4,0,0,26,29
+ITA-Serie A,2526,Cagliari,Ibrahim Sulemana,16,7,860,11,2,18.2,13,6,2,0,0,12,10
+ITA-Serie A,2526,Cagliari,Joseph Liteta,4,4,264,0,0,,2,8,0,0,0,4,0
+ITA-Serie A,2526,Cagliari,Juan Rodríguez,17,16,1310,3,2,66.7,27,17,3,0,0,15,8
+ITA-Serie A,2526,Cagliari,Leonardo Pavoletti,13,1,227,6,1,16.7,2,1,1,0,0,10,0
+ITA-Serie A,2526,Cagliari,Luca Mazzitelli,18,9,767,15,5,33.3,11,10,3,0,0,22,13
+ITA-Serie A,2526,Cagliari,Marco Palestra,37,34,3081,29,7,24.1,35,19,3,0,0,41,108
+ITA-Serie A,2526,Cagliari,Matteo Prati,20,15,1268,19,1,5.3,12,15,4,0,0,17,3
+ITA-Serie A,2526,Cagliari,Mattia Felici,12,4,412,9,6,66.7,6,5,3,0,0,10,6
+ITA-Serie A,2526,Cagliari,Michael Folorunsho,27,24,1999,36,9,25.0,10,10,3,0,0,35,49
+ITA-Serie A,2526,Cagliari,Michel Ndary Adopo,38,33,3050,28,11,39.3,32,31,4,0,0,35,25
+ITA-Serie A,2526,Cagliari,Nicolò Cavuoti,4,0,44,0,0,,0,0,0,0,0,1,1
+ITA-Serie A,2526,Cagliari,Othniel Raterink,1,0,7,0,0,,0,0,0,0,0,0,0
+ITA-Serie A,2526,Cagliari,Paul Mendy,9,3,335,15,3,20.0,0,1,1,0,0,12,4
+ITA-Serie A,2526,Cagliari,Riyad Idrissi,23,4,783,6,6,100.0,15,9,3,0,0,9,6
+ITA-Serie A,2526,Cagliari,Sebastiano Esposito,36,34,2675,57,16,28.1,35,21,6,0,0,46,56
+ITA-Serie A,2526,Cagliari,Sebastiano Luperto,19,19,1706,7,3,42.9,12,19,3,0,0,23,17
+ITA-Serie A,2526,Cagliari,Semih Kılıçsoy,22,11,975,17,8,47.1,4,1,1,0,0,14,15
+ITA-Serie A,2526,Cagliari,Yael Trepy,8,0,91,7,2,28.6,1,0,0,0,0,1,2
+ITA-Serie A,2526,Cagliari,Yerry Mina,26,26,2150,10,3,30.0,18,26,5,1,1,26,37
+ITA-Serie A,2526,Cagliari,Zito Luvumbo,12,2,329,12,6,50.0,1,1,0,0,0,4,18
+ITA-Serie A,2526,Cagliari,Zé Pedro Figueiredo,23,20,1699,7,0,0.0,18,20,6,0,0,29,15
+ITA-Serie A,2526,Como,Alberto Moreno,19,13,1233,11,4,36.4,12,7,4,0,0,17,12
+ITA-Serie A,2526,Como,Anastasios Douvikas,38,25,2273,65,30,46.2,10,4,0,0,0,36,42
+ITA-Serie A,2526,Como,Andréa Le Borgne,1,0,1,0,0,,0,0,0,0,0,0,0
+ITA-Serie A,2526,Como,Assane Diao,17,13,1075,31,10,32.3,5,4,2,0,0,15,39
+ITA-Serie A,2526,Como,Diego Carlos,27,21,1949,8,2,25.0,18,22,8,0,0,39,7
+ITA-Serie A,2526,Como,Edoardo Goldaniga,2,0,15,0,0,,0,0,0,0,0,0,0
+ITA-Serie A,2526,Como,Ignace Van Der Brempt,20,11,931,3,0,0.0,14,8,2,0,0,19,15
+ITA-Serie A,2526,Como,Ivan Smolčić,28,19,1662,12,4,33.3,24,23,8,0,0,26,17
+ITA-Serie A,2526,Como,Jacobo Ramón,32,30,2742,39,9,23.1,32,38,11,1,0,33,12
+ITA-Serie A,2526,Como,Jayden Addai,12,7,686,13,6,46.2,2,2,4,0,0,13,14
+ITA-Serie A,2526,Como,Jean Butez,38,38,3420,0,0,,2,0,3,0,0,0,9
+ITA-Serie A,2526,Como,Jesus Rodríguez,31,18,1731,45,12,26.7,17,4,3,1,0,24,32
+ITA-Serie A,2526,Como,Lucas Da Cunha,36,31,2739,42,16,38.1,33,18,4,0,0,34,19
+ITA-Serie A,2526,Como,Marc-Oliver Kempf,34,27,2326,21,6,28.6,12,13,3,0,0,26,19
+ITA-Serie A,2526,Como,Martin Baturina,29,17,1569,28,9,32.1,14,5,0,0,0,15,44
+ITA-Serie A,2526,Como,Maxence Caqueret,30,17,1485,18,4,22.2,23,14,3,0,0,26,23
+ITA-Serie A,2526,Como,Máximo Perrone,36,33,2742,18,9,50.0,38,21,8,0,0,43,23
+ITA-Serie A,2526,Como,Mërgim Vojvoda,30,19,1591,18,7,38.9,4,14,2,0,0,15,12
+ITA-Serie A,2526,Como,Nicolas-Gerrit Kühn,23,6,665,8,3,37.5,6,5,0,0,0,6,2
+ITA-Serie A,2526,Como,Nicolás Paz,35,33,2878,121,48,39.7,56,27,5,0,0,54,41
+ITA-Serie A,2526,Como,Sergi Roberto,20,5,544,7,2,28.6,7,5,3,0,0,9,9
+ITA-Serie A,2526,Como,Stefan Posch,14,3,393,8,3,37.5,3,4,1,0,0,9,6
+ITA-Serie A,2526,Como,Álex Valle,28,23,2026,11,2,18.2,31,24,3,0,0,34,19
+ITA-Serie A,2526,Como,Álvaro Morata,26,9,930,23,8,34.8,11,1,4,1,1,16,33
+ITA-Serie A,2526,Cremonese,Alberto Grassi,30,18,1753,13,4,30.8,11,35,4,1,0,17,30
+ITA-Serie A,2526,Cremonese,Alessio Zerbin,32,17,1646,21,7,33.3,20,3,1,0,0,37,20
+ITA-Serie A,2526,Cremonese,Antonio Sanabria,25,10,945,12,4,33.3,2,1,2,0,0,15,15
+ITA-Serie A,2526,Cremonese,Dachi Lordkipanidze,1,0,29,0,0,,0,0,0,0,0,0,0
+ITA-Serie A,2526,Cremonese,David Okereke,10,3,403,8,5,62.5,0,1,0,1,0,1,4
+ITA-Serie A,2526,Cremonese,Dennis Johnsen,11,5,390,5,2,40.0,2,0,0,0,0,2,4
+ITA-Serie A,2526,Cremonese,Emil Audero,34,34,3060,0,0,,0,0,0,0,0,0,6
+ITA-Serie A,2526,Cremonese,Faris Pemi Moumbagna,5,0,93,2,0,0.0,0,0,0,0,0,1,0
+ITA-Serie A,2526,Cremonese,Federico Baschirotto,29,29,2540,12,5,41.7,13,24,2,0,0,45,9
+ITA-Serie A,2526,Cremonese,Federico Bonazzoli,35,31,2510,75,32,42.7,16,12,4,0,0,26,80
+ITA-Serie A,2526,Cremonese,Federico Ceccherini,9,6,476,5,2,40.0,2,7,1,1,0,10,9
+ITA-Serie A,2526,Cremonese,Filippo Terracciano,36,33,3011,14,4,28.6,23,56,6,0,0,18,26
+ITA-Serie A,2526,Cremonese,Francesco Folino,18,7,722,2,1,50.0,4,2,1,0,0,11,9
+ITA-Serie A,2526,Cremonese,Franco Vázquez,15,4,524,12,4,33.3,12,4,1,0,0,9,16
+ITA-Serie A,2526,Cremonese,Giuseppe Pezzella,31,30,2585,6,0,0.0,32,11,8,1,0,49,32
+ITA-Serie A,2526,Cremonese,Jamie Vardy,29,24,2105,30,14,46.7,10,3,5,0,0,19,21
+ITA-Serie A,2526,Cremonese,Jari Vandeputte,32,23,1944,20,8,40.0,21,18,3,0,0,34,25
+ITA-Serie A,2526,Cremonese,Jeremy Sarmiento,7,0,142,2,2,100.0,2,2,0,0,0,0,1
+ITA-Serie A,2526,Cremonese,Manuel De Luca,2,0,16,2,2,100.0,0,0,0,0,0,1,1
+ITA-Serie A,2526,Cremonese,Marco Silvestri,4,4,360,0,0,,0,0,0,0,0,0,0
+ITA-Serie A,2526,Cremonese,Martín Payero,25,16,1457,23,8,34.8,9,10,8,0,0,37,34
+ITA-Serie A,2526,Cremonese,Matteo Bianchetti,27,25,2192,7,1,14.3,30,19,4,0,0,28,15
+ITA-Serie A,2526,Cremonese,Michele Collocolo,8,5,362,2,1,50.0,3,1,1,0,0,2,2
+ITA-Serie A,2526,Cremonese,Mikayil Ngor Faye,8,2,254,2,0,0.0,6,5,1,0,0,2,4
+ITA-Serie A,2526,Cremonese,Milan Đurić,11,3,386,10,5,50.0,0,0,1,1,0,4,8
+ITA-Serie A,2526,Cremonese,Morten Thorsby,11,8,643,11,4,36.4,6,3,2,0,0,10,6
+ITA-Serie A,2526,Cremonese,Romano Floriani,28,12,1168,5,1,20.0,14,6,2,0,0,21,5
+ITA-Serie A,2526,Cremonese,Sebastiano Luperto,15,15,1307,5,2,40.0,9,12,1,0,0,9,12
+ITA-Serie A,2526,Cremonese,Simone Lottici Tessadri,1,0,6,1,0,0.0,0,0,0,0,0,0,0
+ITA-Serie A,2526,Cremonese,Tommaso Barbieri,29,18,1707,16,2,12.5,26,14,8,0,0,40,26
+ITA-Serie A,2526,Cremonese,Warren Bondo,27,22,1762,8,2,25.0,16,9,5,0,0,39,33
+ITA-Serie A,2526,Cremonese,Youssef Maleh,14,14,1100,15,3,20.0,11,9,2,1,0,27,10
+ITA-Serie A,2526,Fiorentina,Abdelhamid Sabiri,1,0,27,1,0,0.0,2,0,0,0,0,1,1
+ITA-Serie A,2526,Fiorentina,Albert Guðmundsson,33,27,2250,41,15,36.6,4,3,4,1,0,34,30
+ITA-Serie A,2526,Fiorentina,Amir Richardson,2,0,42,1,0,0.0,1,0,0,0,0,1,3
+ITA-Serie A,2526,Fiorentina,Cher Ndour,33,20,1876,24,8,33.3,17,15,2,0,0,26,23
+ITA-Serie A,2526,Fiorentina,Christian Kouamé,2,0,27,0,0,,1,1,0,0,0,0,0
+ITA-Serie A,2526,Fiorentina,Daniele Rugani,6,4,327,1,0,0.0,4,5,2,0,0,7,0
+ITA-Serie A,2526,Fiorentina,David de Gea,37,37,3330,0,0,,0,0,0,0,0,0,6
+ITA-Serie A,2526,Fiorentina,Dodô,36,36,3134,25,4,16.0,18,31,7,0,0,22,53
+ITA-Serie A,2526,Fiorentina,Eddy Kouadio,3,0,72,0,0,,3,0,0,0,0,1,1
+ITA-Serie A,2526,Fiorentina,Edin Džeko,11,2,244,4,1,25.0,1,1,1,0,0,2,5
+ITA-Serie A,2526,Fiorentina,Fabiano Parisi,23,18,1520,24,7,29.2,14,17,6,0,0,14,66
+ITA-Serie A,2526,Fiorentina,Giovanni Fabbian,15,4,468,7,2,28.6,2,1,2,0,0,6,9
+ITA-Serie A,2526,Fiorentina,Hans Nicolussi Caviglia,11,7,585,4,1,25.0,7,3,4,0,0,15,15
+ITA-Serie A,2526,Fiorentina,Jack Harrison,15,10,981,13,4,30.8,6,2,1,0,0,9,7
+ITA-Serie A,2526,Fiorentina,Jacopo Fazzini,20,5,584,9,1,11.1,10,5,2,0,0,12,15
+ITA-Serie A,2526,Fiorentina,Luca Lezzerini,1,0,4,0,0,,0,0,0,0,0,0,0
+ITA-Serie A,2526,Fiorentina,Luca Ranieri,34,29,2458,18,3,16.7,24,24,8,1,0,22,27
+ITA-Serie A,2526,Fiorentina,Luís Balbo,6,1,212,0,0,,5,1,0,0,0,2,6
+ITA-Serie A,2526,Fiorentina,Manor Solomon,16,9,890,11,4,36.4,11,0,1,0,0,2,16
+ITA-Serie A,2526,Fiorentina,Marco Brescianini,17,10,862,10,2,20.0,2,1,1,0,0,13,9
+ITA-Serie A,2526,Fiorentina,Marin Pongračić,35,33,2918,8,1,12.5,17,36,12,0,0,69,21
+ITA-Serie A,2526,Fiorentina,Mattia Viti,10,2,265,0,0,,4,3,3,1,1,9,4
+ITA-Serie A,2526,Fiorentina,Moise Kean,26,23,2036,98,27,27.6,4,7,4,0,0,29,44
+ITA-Serie A,2526,Fiorentina,Niccolò Fortini,16,2,541,8,2,25.0,9,4,0,0,0,5,18
+ITA-Serie A,2526,Fiorentina,Nicolò Fagioli,33,30,2554,33,7,21.2,31,18,5,0,0,23,45
+ITA-Serie A,2526,Fiorentina,Oliver Christensen,1,1,86,0,0,,0,0,0,0,0,0,1
+ITA-Serie A,2526,Fiorentina,Pablo Marí,11,9,808,2,0,0.0,8,19,3,0,0,17,8
+ITA-Serie A,2526,Fiorentina,Pietro Comuzzo,27,18,1696,10,2,20.0,16,24,2,0,0,24,4
+ITA-Serie A,2526,Fiorentina,Riccardo Braschi,2,1,105,3,0,0.0,0,0,0,0,0,0,0
+ITA-Serie A,2526,Fiorentina,Roberto Piccoli,32,16,1672,47,15,31.9,1,4,1,0,0,34,40
+ITA-Serie A,2526,Fiorentina,Robin Gosens,26,24,1881,18,7,38.9,18,23,2,0,0,24,25
+ITA-Serie A,2526,Fiorentina,Rolando Mandragora,34,30,2421,64,18,28.1,24,15,7,0,0,37,56
+ITA-Serie A,2526,Fiorentina,Simon Sohm,16,9,708,5,0,0.0,7,6,2,0,0,15,11
+ITA-Serie A,2526,Fiorentina,Tariq Lamptey,2,1,25,0,0,,2,0,0,0,0,0,0
+ITA-Serie A,2526,Genoa,Aarón Martín,33,26,2156,11,4,36.4,28,10,2,0,0,31,27
+ITA-Serie A,2526,Genoa,Albert Grønbaek,4,1,103,1,1,100.0,2,0,1,0,0,1,1
+ITA-Serie A,2526,Genoa,Alessandro Marcandalli,32,29,2597,5,2,40.0,24,18,4,0,0,23,11
+ITA-Serie A,2526,Genoa,Amorim,11,6,552,2,0,0.0,6,7,1,0,0,7,18
+ITA-Serie A,2526,Genoa,Brooke Norton-Cuffy,27,25,2212,15,6,40.0,31,11,5,1,1,23,16
+ITA-Serie A,2526,Genoa,Caleb Ekuban,31,6,994,29,10,34.5,1,5,0,0,0,16,29
+ITA-Serie A,2526,Genoa,Daniele Sommariva,2,1,176,0,0,,0,0,0,0,0,0,1
+ITA-Serie A,2526,Genoa,Filippo Carbone,1,0,8,0,0,,3,0,0,0,0,0,1
+ITA-Serie A,2526,Genoa,Gael Lafont,1,0,8,0,0,,0,0,0,0,0,0,0
+ITA-Serie A,2526,Genoa,Jacopo Grossi,1,0,22,1,0,0.0,0,0,0,0,0,0,0
+ITA-Serie A,2526,Genoa,Jean Onana,3,0,45,1,0,0.0,3,1,0,0,0,4,0
+ITA-Serie A,2526,Genoa,Jeff Ekhator,30,9,956,20,5,25.0,8,2,3,0,0,20,19
+ITA-Serie A,2526,Genoa,Johan Vásquez,36,36,3215,24,6,25.0,38,46,2,0,0,23,46
+ITA-Serie A,2526,Genoa,Joi Nuredini,1,0,2,0,0,,0,0,0,0,0,0,0
+ITA-Serie A,2526,Genoa,Junior Messias,20,5,685,19,7,36.8,10,5,1,0,0,10,22
+ITA-Serie A,2526,Genoa,Justin Bijlow,16,16,1395,0,0,,0,0,1,0,0,1,1
+ITA-Serie A,2526,Genoa,Latif Ouedraogo,2,0,51,0,0,,1,1,0,0,0,2,2
+ITA-Serie A,2526,Genoa,Leo Østigård,30,30,2622,22,12,54.5,27,30,7,0,0,38,15
+ITA-Serie A,2526,Genoa,Lorenzo Colombo,38,30,2326,66,27,40.9,12,1,2,0,0,41,55
+ITA-Serie A,2526,Genoa,Lorenzo Venturino,2,0,40,1,1,100.0,0,0,0,0,0,1,0
+ITA-Serie A,2526,Genoa,Mamedi Doucouré,1,0,9,0,0,,0,0,0,0,0,0,0
+ITA-Serie A,2526,Genoa,Maxwel Cornet,8,1,118,4,2,50.0,4,0,0,0,0,6,1
+ITA-Serie A,2526,Genoa,Mikael Ellertsson,36,31,2767,26,6,23.1,26,14,1,1,0,28,42
+ITA-Serie A,2526,Genoa,Morten Frendrup,36,35,3081,8,3,37.5,71,41,5,0,0,41,39
+ITA-Serie A,2526,Genoa,Morten Thorsby,13,8,731,10,4,40.0,1,3,2,0,0,15,5
+ITA-Serie A,2526,Genoa,Nicola Leali,22,21,1847,0,0,,0,1,2,1,0,2,2
+ITA-Serie A,2526,Genoa,Nicolae Stanciu,4,2,180,5,0,0.0,3,3,0,0,0,1,2
+ITA-Serie A,2526,Genoa,Nils Zätterström,3,2,181,0,0,,0,2,0,0,0,3,0
+ITA-Serie A,2526,Genoa,Patrizio Masini,28,13,1413,18,5,27.8,39,26,5,0,0,39,45
+ITA-Serie A,2526,Genoa,Ruslan Malinovskyi,34,28,2235,55,15,27.3,19,16,10,0,0,36,26
+ITA-Serie A,2526,Genoa,Sebastian Otoa,13,9,829,3,2,66.7,10,9,1,0,0,5,13
+ITA-Serie A,2526,Genoa,Seydou Fini,1,0,32,0,0,,0,0,0,0,0,1,0
+ITA-Serie A,2526,Genoa,Stefano Sabelli,16,12,913,8,0,0.0,14,3,0,0,0,6,19
+ITA-Serie A,2526,Genoa,Tommaso Baldanzi,8,5,399,9,3,33.3,6,3,0,0,0,2,6
+ITA-Serie A,2526,Genoa,Valentin Carboni,12,3,359,6,2,33.3,8,2,2,0,0,11,5
+ITA-Serie A,2526,Genoa,Vitinha,35,28,2226,65,20,30.8,32,14,5,0,0,33,68
+ITA-Serie A,2526,Hellas Verona,Abdou Harroui,23,11,907,12,2,16.7,17,1,3,0,0,22,1
+ITA-Serie A,2526,Hellas Verona,Al-Musrati,18,8,844,9,1,11.1,7,11,6,1,1,15,3
+ITA-Serie A,2526,Hellas Verona,Amin Sarr,34,9,1102,19,6,31.6,9,4,2,1,1,25,22
+ITA-Serie A,2526,Hellas Verona,Andrias Edmundsson,15,15,1319,4,1,25.0,20,28,3,0,0,13,7
+ITA-Serie A,2526,Hellas Verona,Antoine Bernede,32,29,2301,21,4,19.0,39,16,2,0,0,55,20
+ITA-Serie A,2526,Hellas Verona,Armel Bella Kotchap,19,14,1347,3,0,0.0,12,29,3,0,0,22,17
+ITA-Serie A,2526,Hellas Verona,Cheikh Niasse,19,11,970,6,1,16.7,14,15,1,0,0,20,15
+ITA-Serie A,2526,Hellas Verona,Daniel Mosquera,22,5,597,16,5,31.3,2,2,1,0,0,22,6
+ITA-Serie A,2526,Hellas Verona,Daniel Oyegoke,15,8,594,3,1,33.3,9,7,2,0,0,13,5
+ITA-Serie A,2526,Hellas Verona,Domagoj Bradarić,29,23,1966,13,6,46.2,20,9,2,0,0,8,10
+ITA-Serie A,2526,Hellas Verona,Enzo Ebosse,4,3,214,1,0,0.0,1,0,1,0,0,5,1
+ITA-Serie A,2526,Hellas Verona,Fallou Cham,6,3,228,5,2,40.0,9,4,0,0,0,7,5
+ITA-Serie A,2526,Hellas Verona,Gift Orban,28,23,2027,85,28,32.9,3,3,4,1,0,22,20
+ITA-Serie A,2526,Hellas Verona,Giovane,21,19,1533,47,25,53.2,9,5,2,0,0,21,15
+ITA-Serie A,2526,Hellas Verona,Grigoris Kastanos,6,0,44,1,0,0.0,3,3,0,0,0,3,1
+ITA-Serie A,2526,Hellas Verona,Ioan Vermeșan,6,0,80,4,1,25.0,0,0,0,0,0,0,1
+ITA-Serie A,2526,Hellas Verona,Isaac,3,0,40,0,0,,0,0,0,0,0,1,2
+ITA-Serie A,2526,Hellas Verona,Jean-Daniel Akpa-Akpro,22,17,1504,13,4,30.8,32,22,9,0,0,39,15
+ITA-Serie A,2526,Hellas Verona,Junior Ajayi,1,0,1,0,0,,0,0,0,0,0,0,0
+ITA-Serie A,2526,Hellas Verona,Kieron Bowie,14,14,1200,33,11,33.3,3,0,1,0,0,34,27
+ITA-Serie A,2526,Hellas Verona,Lorenzo Montipò,35,35,3150,0,0,,0,0,0,0,0,0,8
+ITA-Serie A,2526,Hellas Verona,Martin Frese,31,27,2408,21,11,52.4,54,30,8,0,0,46,20
+ITA-Serie A,2526,Hellas Verona,Nicolás Valentini,21,15,1409,16,7,43.8,18,16,8,1,1,30,7
+ITA-Serie A,2526,Hellas Verona,Pol Lirola,6,3,305,0,0,,3,2,1,0,0,3,0
+ITA-Serie A,2526,Hellas Verona,Rafik Belghali,26,22,1920,21,6,28.6,13,17,6,0,0,20,10
+ITA-Serie A,2526,Hellas Verona,Roberto Gagliardini,29,25,2272,15,3,20.0,40,56,9,0,0,45,35
+ITA-Serie A,2526,Hellas Verona,Sandi Lovrić,7,3,309,2,1,50.0,6,5,1,0,0,5,3
+ITA-Serie A,2526,Hellas Verona,Simone Perilli,3,3,270,0,0,,0,0,0,0,0,0,0
+ITA-Serie A,2526,Hellas Verona,Suat Serdar,20,12,1108,19,7,36.8,20,10,3,0,0,19,12
+ITA-Serie A,2526,Hellas Verona,Tobias Slotsager,8,4,446,3,1,33.3,7,3,0,0,0,3,5
+ITA-Serie A,2526,Hellas Verona,Tomáš Suslov,11,5,446,12,4,33.3,6,1,1,1,0,9,12
+ITA-Serie A,2526,Hellas Verona,Unai Núñez,17,15,1265,7,1,14.3,18,23,6,0,0,27,10
+ITA-Serie A,2526,Hellas Verona,Victor Nelsson,38,37,3315,8,1,12.5,45,75,4,0,0,44,20
+ITA-Serie A,2526,Hellas Verona,Yellu Santiago,2,0,6,2,1,50.0,0,0,0,0,0,0,1
+ITA-Serie A,2526,Inter,Alessandro Bastoni,28,28,2239,17,8,47.1,39,21,6,0,0,45,20
+ITA-Serie A,2526,Inter,Andy Diouf,19,4,493,10,3,30.0,6,1,1,0,0,5,3
+ITA-Serie A,2526,Inter,Ange-Yoan Bonny,33,10,1142,22,9,40.9,9,1,1,0,0,17,24
+ITA-Serie A,2526,Inter,Benjamin Pavard,1,1,90,1,1,100.0,1,2,0,0,0,1,0
+ITA-Serie A,2526,Inter,Carlos Augusto,34,18,1763,20,6,30.0,22,19,6,0,0,26,13
+ITA-Serie A,2526,Inter,Davide Frattesi,22,3,569,16,4,25.0,7,3,0,0,0,9,11
+ITA-Serie A,2526,Inter,Denzel Dumfries,20,15,1325,23,5,21.7,9,7,2,0,0,20,13
+ITA-Serie A,2526,Inter,Federico Dimarco,35,30,2698,65,22,33.8,31,30,3,0,0,41,23
+ITA-Serie A,2526,Inter,Francesco Acerbi,18,15,1378,3,1,33.3,9,18,3,0,0,17,13
+ITA-Serie A,2526,Inter,Francesco Esposito,35,15,1571,57,23,40.4,5,5,1,0,0,29,50
+ITA-Serie A,2526,Inter,Hakan Çalhanoğlu,22,20,1639,50,17,34.0,17,19,7,0,0,28,11
+ITA-Serie A,2526,Inter,Henrikh Mkhitaryan,30,16,1560,43,14,32.6,27,15,5,0,0,28,17
+ITA-Serie A,2526,Inter,Josep Martinez,5,5,450,0,0,,0,0,0,0,0,0,0
+ITA-Serie A,2526,Inter,Lautaro Martínez,30,27,2159,92,39,42.4,13,6,4,0,0,47,47
+ITA-Serie A,2526,Inter,Luis Henrique,30,18,1624,15,7,46.7,16,7,1,0,0,5,0
+ITA-Serie A,2526,Inter,Luka Topalović,1,0,10,0,0,,0,0,0,0,0,0,0
+ITA-Serie A,2526,Inter,Manuel Akanji,33,31,2821,23,6,26.1,24,37,4,0,0,26,18
+ITA-Serie A,2526,Inter,Marcus Thuram,29,24,1900,74,29,39.2,13,1,2,0,0,43,41
+ITA-Serie A,2526,Inter,Matteo Cocchi,1,0,17,0,0,,0,0,0,0,0,0,0
+ITA-Serie A,2526,Inter,Matteo Darmian,6,2,248,0,0,,3,1,0,0,0,4,2
+ITA-Serie A,2526,Inter,Matteo Lavelli,1,0,8,0,0,,0,0,0,0,0,0,0
+ITA-Serie A,2526,Inter,Mattia Mosconi,2,0,27,2,0,0.0,0,0,0,0,0,1,2
+ITA-Serie A,2526,Inter,Nicolò Barella,34,31,2517,35,5,14.3,31,9,7,0,0,33,22
+ITA-Serie A,2526,Inter,Petar Sučić,34,21,1765,22,6,27.3,25,9,5,0,0,30,25
+ITA-Serie A,2526,Inter,Piotr Zieliński,34,22,2045,29,10,34.5,19,7,3,0,0,18,18
+ITA-Serie A,2526,Inter,Raffaele Di Gennaro,1,0,10,0,0,,0,0,0,0,0,0,0
+ITA-Serie A,2526,Inter,Stefan de Vrij,11,8,670,6,2,33.3,12,7,1,0,0,5,5
+ITA-Serie A,2526,Inter,Yann Aurel Bisseck,23,21,1922,25,12,48.0,18,23,2,0,0,21,16
+ITA-Serie A,2526,Inter,Yann Sommer,33,33,2960,0,0,,0,0,0,0,0,0,2
+ITA-Serie A,2526,Juventus,Andrea Cambiaso,36,35,2769,26,13,50.0,39,20,3,1,0,29,21
+ITA-Serie A,2526,Juventus,Arkadiusz Milik,2,0,36,2,2,100.0,0,0,0,0,0,1,0
+ITA-Serie A,2526,Juventus,Daniele Rugani,6,3,250,0,0,,3,5,0,0,0,2,0
+ITA-Serie A,2526,Juventus,Dušan Vlahović,19,11,968,49,18,36.7,3,2,0,0,0,9,18
+ITA-Serie A,2526,Juventus,Edon Zhegrova,19,0,382,19,9,47.4,3,0,1,0,0,4,6
+ITA-Serie A,2526,Juventus,Emil Holm,7,2,230,5,1,20.0,5,3,0,0,0,0,5
+ITA-Serie A,2526,Juventus,Fabio Miretti,23,5,617,18,5,27.8,9,4,1,0,0,15,7
+ITA-Serie A,2526,Juventus,Federico Gatti,21,12,1093,14,6,42.9,10,12,3,0,0,17,6
+ITA-Serie A,2526,Juventus,Filip Kostić,18,4,479,9,4,44.4,10,4,1,0,0,8,5
+ITA-Serie A,2526,Juventus,Francisco Conceição,31,27,2078,73,23,31.5,26,7,3,0,0,32,40
+ITA-Serie A,2526,Juventus,Gleison Bremer,26,25,2171,23,9,39.1,14,30,5,0,0,21,10
+ITA-Serie A,2526,Juventus,Jeremie Boga,15,6,679,24,12,50.0,3,2,1,0,0,3,7
+ITA-Serie A,2526,Juventus,Jonathan David,35,20,1781,41,16,39.0,10,6,0,0,0,30,26
+ITA-Serie A,2526,Juventus,João Mário Lopes,10,2,258,3,0,0.0,3,3,1,0,0,5,10
+ITA-Serie A,2526,Juventus,Juan David Cabal,12,2,296,5,2,40.0,5,4,1,0,0,4,1
+ITA-Serie A,2526,Juventus,Kenan Yıldız,36,33,2825,97,40,41.2,14,7,2,0,0,23,56
+ITA-Serie A,2526,Juventus,Khéphren Thuram,35,30,2442,50,15,30.0,32,12,2,0,0,38,12
+ITA-Serie A,2526,Juventus,Lloyd Kelly,35,33,2996,17,3,17.6,33,14,4,0,0,43,20
+ITA-Serie A,2526,Juventus,Loïs Openda,24,6,666,26,6,23.1,4,1,0,0,0,8,21
+ITA-Serie A,2526,Juventus,Manuel Locatelli,36,36,2994,46,12,26.1,66,38,9,0,0,55,44
+ITA-Serie A,2526,Juventus,Mattia Perin,9,9,765,0,0,,0,0,0,0,0,0,2
+ITA-Serie A,2526,Juventus,Michele Di Gregorio,30,29,2655,0,0,,0,0,1,0,0,0,5
+ITA-Serie A,2526,Juventus,Nicolás González,2,0,19,2,0,0.0,0,0,0,0,0,0,3
+ITA-Serie A,2526,Juventus,Pierre Kalulu,37,37,3281,13,4,30.8,35,24,4,1,1,34,16
+ITA-Serie A,2526,Juventus,Teun Koopmeiners,33,18,1827,28,7,25.0,13,18,5,0,0,33,11
+ITA-Serie A,2526,Juventus,Vasilije Adžić,10,1,171,6,4,66.7,2,3,0,0,0,3,2
+ITA-Serie A,2526,Juventus,Weston McKennie,36,32,2835,43,16,37.2,24,26,5,0,0,44,11
+ITA-Serie A,2526,Lazio,Adam Marušić,33,32,2778,16,7,43.8,16,33,1,1,0,22,18
+ITA-Serie A,2526,Lazio,Adrian Przyborek,1,0,9,1,0,0.0,0,0,0,0,0,0,0
+ITA-Serie A,2526,Lazio,Alessio Furlanetto,2,2,180,0,0,,0,0,0,0,0,0,0
+ITA-Serie A,2526,Lazio,Alessio Romagnoli,32,31,2666,9,4,44.4,14,32,6,1,0,18,15
+ITA-Serie A,2526,Lazio,Boulaye Dia,27,14,1253,12,7,58.3,7,3,1,0,0,19,14
+ITA-Serie A,2526,Lazio,Daniel Maldini,12,9,687,15,5,33.3,9,4,0,0,0,14,20
+ITA-Serie A,2526,Lazio,Danilo Cataldi,27,24,1985,26,7,26.9,22,21,6,0,0,22,12
+ITA-Serie A,2526,Lazio,Edoardo Motta,9,9,810,0,0,,0,0,1,0,0,1,1
+ITA-Serie A,2526,Lazio,Elseid Hysaj,5,1,174,0,0,,0,2,0,0,0,0,1
+ITA-Serie A,2526,Lazio,Fisayo Dele-Bashiru,24,11,1187,9,2,22.2,15,4,0,0,0,8,3
+ITA-Serie A,2526,Lazio,Gustav Isaksen,30,18,1593,48,19,39.6,8,7,0,0,0,18,57
+ITA-Serie A,2526,Lazio,Ivan Provedel,27,27,2430,0,0,,0,0,1,0,0,0,2
+ITA-Serie A,2526,Lazio,Kenneth Taylor,17,17,1394,16,6,37.5,11,9,5,0,0,17,13
+ITA-Serie A,2526,Lazio,Luca Pellegrini,24,17,1469,7,5,71.4,15,17,8,0,0,26,12
+ITA-Serie A,2526,Lazio,Manuel Lazzari,23,9,938,4,2,50.0,9,6,2,0,0,10,19
+ITA-Serie A,2526,Lazio,Mario Gila,31,31,2472,12,3,25.0,34,26,4,1,0,19,25
+ITA-Serie A,2526,Lazio,Matteo Cancellieri,30,21,1725,41,17,41.5,28,24,6,0,0,39,67
+ITA-Serie A,2526,Lazio,Mattia Zaccagni,26,26,2104,34,14,41.2,21,20,6,1,0,30,82
+ITA-Serie A,2526,Lazio,Mattéo Guendouzi,16,16,1428,16,8,50.0,8,11,5,1,0,17,21
+ITA-Serie A,2526,Lazio,Matías Vecino,13,5,603,7,1,14.3,9,7,1,0,0,8,3
+ITA-Serie A,2526,Lazio,Nicolò Rovella,11,6,512,1,0,0.0,10,9,2,1,0,7,12
+ITA-Serie A,2526,Lazio,Nuno Tavares,23,17,1473,16,1,6.3,21,18,5,0,0,20,22
+ITA-Serie A,2526,Lazio,Oliver Nielsen,26,13,1536,6,2,33.3,6,16,3,0,0,14,9
+ITA-Serie A,2526,Lazio,Patric,14,6,667,5,0,0.0,0,3,2,0,0,4,2
+ITA-Serie A,2526,Lazio,Pedro,29,9,982,22,11,50.0,6,4,4,0,0,10,26
+ITA-Serie A,2526,Lazio,Petar Ratkov,8,2,233,6,1,16.7,2,1,0,0,0,0,3
+ITA-Serie A,2526,Lazio,Reda Belahyane,13,5,609,3,1,33.3,8,3,1,1,0,11,3
+ITA-Serie A,2526,Lazio,Tijjani Noslin,29,9,1148,35,13,37.1,6,3,6,1,1,19,23
+ITA-Serie A,2526,Lazio,Toma Bašić,23,23,1735,30,12,40.0,16,9,0,1,0,20,19
+ITA-Serie A,2526,Lazio,Valentín Castellanos,11,8,692,20,8,40.0,3,3,2,0,0,9,18
+ITA-Serie A,2526,Lecce,Antonino Gallo,37,34,3056,6,1,16.7,37,15,3,0,0,7,13
+ITA-Serie A,2526,Lecce,Balthazar Pierret,3,0,27,0,0,,1,0,0,0,0,0,2
+ITA-Serie A,2526,Lecce,Christ-Owen Kouassi,4,3,228,0,0,,6,1,0,0,0,1,3
+ITA-Serie A,2526,Lecce,Corrie Ndaba,14,6,543,2,0,0.0,4,3,0,0,0,2,0
+ITA-Serie A,2526,Lecce,Danilo Veiga,36,33,3020,6,2,33.3,53,32,9,0,0,46,47
+ITA-Serie A,2526,Lecce,Francesco Camarda,21,7,687,16,3,18.8,1,0,1,0,0,12,4
+ITA-Serie A,2526,Lecce,Gaby Jean,7,1,197,0,0,,3,1,1,0,0,1,2
+ITA-Serie A,2526,Lecce,Jamil Siebert,21,18,1701,6,2,33.3,15,15,3,0,0,22,7
+ITA-Serie A,2526,Lecce,Kialonda,23,21,1830,9,1,11.1,9,19,6,1,0,13,22
+ITA-Serie A,2526,Lecce,Konan N'dri,27,1,544,19,5,26.3,4,2,3,0,0,9,18
+ITA-Serie A,2526,Lecce,Lameck Banda,32,21,1752,38,15,39.5,17,7,6,1,0,44,49
+ITA-Serie A,2526,Lecce,Lassana Coulibaly,33,31,2689,28,8,28.6,28,9,4,0,0,34,52
+ITA-Serie A,2526,Lecce,Matías Pérez,1,1,31,0,0,,0,0,0,0,0,0,0
+ITA-Serie A,2526,Lecce,Medon Berisha,13,12,871,24,5,20.8,12,5,0,0,0,11,10
+ITA-Serie A,2526,Lecce,Mohamed Kaba,15,5,633,9,4,44.4,7,4,1,0,0,12,21
+ITA-Serie A,2526,Lecce,Nikola Štulić,34,20,1709,33,9,27.3,7,2,1,0,0,37,26
+ITA-Serie A,2526,Lecce,Olaf Gorter,2,0,28,0,0,,1,0,0,0,0,1,0
+ITA-Serie A,2526,Lecce,Omri Gandelman,19,10,975,10,3,30.0,6,4,0,0,0,13,3
+ITA-Serie A,2526,Lecce,Oumar Ngom,15,10,842,5,2,40.0,15,12,1,0,0,15,6
+ITA-Serie A,2526,Lecce,Riccardo Sottil,21,13,1066,20,3,15.0,2,2,1,0,0,10,27
+ITA-Serie A,2526,Lecce,Sadik Fofana,5,1,84,2,0,0.0,2,0,0,0,0,3,1
+ITA-Serie A,2526,Lecce,Santiago Pierotti,37,31,2597,33,8,24.2,51,21,4,0,0,67,23
+ITA-Serie A,2526,Lecce,Tete Morente,16,9,859,14,2,14.3,9,3,2,0,0,13,12
+ITA-Serie A,2526,Lecce,Tiago Gabriel,37,36,3219,20,4,20.0,40,46,7,0,0,29,40
+ITA-Serie A,2526,Lecce,Walid Cheddira,17,11,1000,25,10,40.0,3,1,2,0,0,20,25
+ITA-Serie A,2526,Lecce,Wladimiro Falcone,38,38,3420,0,0,,2,0,2,0,0,0,8
+ITA-Serie A,2526,Lecce,Ylber Ramadani,37,37,3203,34,5,14.7,50,44,10,0,0,43,59
+ITA-Serie A,2526,Lecce,Youssef Maleh,9,5,460,7,1,14.3,4,7,2,0,0,9,8
+ITA-Serie A,2526,Lecce,Álex Sala,9,2,167,4,2,50.0,2,3,0,0,0,6,5
+ITA-Serie A,2526,Lecce,Þórir Jóhann Helgason,8,1,147,3,2,66.7,0,3,0,0,0,0,0
+ITA-Serie A,2526,Milan,Adrien Rabiot,29,28,2550,46,12,26.1,31,20,6,1,1,35,55
+ITA-Serie A,2526,Milan,Alexis Saelemaekers,35,33,2788,43,11,25.6,38,30,5,0,0,26,64
+ITA-Serie A,2526,Milan,Ardon Jashari,14,7,701,7,2,28.6,11,5,0,0,0,11,8
+ITA-Serie A,2526,Milan,Cheveyo Muy,2,0,5,1,0,0.0,0,0,0,0,0,0,0
+ITA-Serie A,2526,Milan,Christian Pulisic,30,18,1609,54,25,46.3,8,3,0,0,0,11,23
+ITA-Serie A,2526,Milan,Christopher Nkunku,32,15,1356,29,16,55.2,2,2,0,0,0,9,22
+ITA-Serie A,2526,Milan,David Odogu,2,0,6,0,0,,0,0,0,0,0,0,0
+ITA-Serie A,2526,Milan,Davide Bartesaghi,31,27,2441,22,7,31.8,35,15,3,0,0,18,14
+ITA-Serie A,2526,Milan,Fikayo Tomori,33,31,2554,9,2,22.2,40,28,8,1,1,36,7
+ITA-Serie A,2526,Milan,Koni De Winter,26,19,1800,7,1,14.3,19,13,1,0,0,27,8
+ITA-Serie A,2526,Milan,Luka Modrić,34,32,2811,20,8,40.0,27,35,4,0,0,23,33
+ITA-Serie A,2526,Milan,Matteo Gabbia,30,28,2530,19,3,15.8,14,13,4,0,0,25,6
+ITA-Serie A,2526,Milan,Mike Maignan,37,37,3295,0,0,,0,1,4,0,0,0,6
+ITA-Serie A,2526,Milan,Niclas Füllkrug,20,3,659,16,5,31.3,2,3,0,0,0,8,8
+ITA-Serie A,2526,Milan,Pervis Estupiñán,19,13,1034,9,1,11.1,9,11,5,1,0,17,8
+ITA-Serie A,2526,Milan,Pietro Terracciano,2,1,125,0,0,,0,0,0,0,0,0,0
+ITA-Serie A,2526,Milan,Rafael Leão,29,23,1851,63,24,38.1,3,5,5,0,0,19,34
+ITA-Serie A,2526,Milan,Ruben Loftus-Cheek,28,12,1133,29,6,20.7,8,5,2,0,0,23,19
+ITA-Serie A,2526,Milan,Samuel Chukwueze,1,0,26,0,0,,0,0,0,0,0,0,3
+ITA-Serie A,2526,Milan,Samuele Ricci,31,11,1312,18,6,33.3,9,9,3,0,0,17,33
+ITA-Serie A,2526,Milan,Santiago Giménez,16,11,892,27,9,33.3,5,1,2,0,0,10,15
+ITA-Serie A,2526,Milan,Strahinja Pavlović,34,33,2869,26,6,23.1,26,20,4,0,0,30,27
+ITA-Serie A,2526,Milan,Youssouf Fofana,33,28,2203,45,18,40.0,19,19,4,0,0,21,16
+ITA-Serie A,2526,Milan,Yunus Musah,1,1,90,0,0,,1,0,0,0,0,2,2
+ITA-Serie A,2526,Milan,Zachary Athekame,27,7,833,13,4,30.8,8,4,3,0,0,16,12
+ITA-Serie A,2526,Milan,Álex Jiménez,1,0,45,0,0,,0,0,1,0,0,0,1
+ITA-Serie A,2526,Napoli,Alessandro Buongiorno,33,28,2521,8,3,37.5,22,40,3,0,0,50,26
+ITA-Serie A,2526,Napoli,Alex Meret,11,11,979,0,0,,0,1,1,0,0,1,1
+ITA-Serie A,2526,Napoli,Alisson Santos,14,9,834,29,16,55.2,8,2,1,0,0,4,8
+ITA-Serie A,2526,Napoli,Amir Rrahmani,21,21,1795,15,4,26.7,12,22,2,0,0,20,16
+ITA-Serie A,2526,Napoli,Antonio Vergara,12,8,612,10,3,30.0,9,4,2,0,0,17,20
+ITA-Serie A,2526,Napoli,Billy Gilmour,17,8,805,10,3,30.0,8,11,1,0,0,9,7
+ITA-Serie A,2526,Napoli,David Neres,16,10,922,17,4,23.5,5,1,3,0,0,19,7
+ITA-Serie A,2526,Napoli,Elif Elmas,33,20,1783,27,9,33.3,13,7,3,0,0,18,13
+ITA-Serie A,2526,Napoli,Frank Anguissa,18,14,1258,23,9,39.1,14,13,1,0,0,18,18
+ITA-Serie A,2526,Napoli,Giovane,12,2,338,9,2,22.2,0,1,0,0,0,3,9
+ITA-Serie A,2526,Napoli,Giovanni Di Lorenzo,26,26,2276,25,9,36.0,26,9,1,0,0,33,23
+ITA-Serie A,2526,Napoli,Giuseppe Ambrosino,3,0,38,0,0,,0,0,0,0,0,1,1
+ITA-Serie A,2526,Napoli,Juan Jesus,24,19,1675,3,0,0.0,22,26,10,1,1,39,2
+ITA-Serie A,2526,Napoli,Kevin De Bruyne,18,13,1165,27,11,40.7,8,5,1,0,0,8,6
+ITA-Serie A,2526,Napoli,Leonardo Spinazzola,32,22,1901,21,7,33.3,10,4,2,0,0,9,10
+ITA-Serie A,2526,Napoli,Lorenzo Lucca,16,4,408,15,5,33.3,0,0,1,0,0,17,12
+ITA-Serie A,2526,Napoli,Luca Marianucci,2,1,119,1,0,0.0,2,1,0,0,0,2,0
+ITA-Serie A,2526,Napoli,Mathías Olivera,25,15,1370,8,3,37.5,22,16,3,0,0,17,10
+ITA-Serie A,2526,Napoli,Matteo Politano,34,26,2200,49,13,26.5,10,5,4,0,0,19,28
+ITA-Serie A,2526,Napoli,Miguel Gutiérrez,28,15,1488,15,5,33.3,22,7,0,0,0,19,28
+ITA-Serie A,2526,Napoli,Nikita Contini,1,0,11,0,0,,0,0,0,0,0,0,0
+ITA-Serie A,2526,Napoli,Noa Lang,18,7,666,9,4,44.4,8,2,2,0,0,5,11
+ITA-Serie A,2526,Napoli,Pasquale Mazzocchi,16,2,310,2,1,50.0,1,4,0,1,0,1,0
+ITA-Serie A,2526,Napoli,Rasmus Højlund,33,32,2750,60,25,41.7,1,0,1,0,0,37,53
+ITA-Serie A,2526,Napoli,Romelu Lukaku,5,0,44,2,1,50.0,0,0,1,0,0,2,0
+ITA-Serie A,2526,Napoli,Sam Beukema,24,18,1681,8,4,50.0,17,14,2,0,0,19,5
+ITA-Serie A,2526,Napoli,Scott McTominay,33,31,2791,101,34,33.7,13,23,1,0,0,24,73
+ITA-Serie A,2526,Napoli,Stanislav Lobotka,32,29,2431,8,4,50.0,16,16,3,0,0,13,45
+ITA-Serie A,2526,Napoli,Vanja Milinković-Savić,27,27,2430,0,0,,0,0,0,0,0,1,6
+ITA-Serie A,2526,Parma,Abdoulaye Ndiaye,11,9,780,6,0,0.0,10,11,5,1,1,13,12
+ITA-Serie A,2526,Parma,Adrian Benedyczak,14,5,490,8,3,37.5,6,1,1,0,0,9,6
+ITA-Serie A,2526,Parma,Adrian Bernabe,32,31,2470,50,12,24.0,23,17,0,0,0,15,61
+ITA-Serie A,2526,Parma,Alessandro Cardinali,1,0,45,0,0,,0,0,0,0,0,0,0
+ITA-Serie A,2526,Parma,Alessandro Circati,31,31,2664,8,1,12.5,25,27,6,0,0,30,18
+ITA-Serie A,2526,Parma,Ben Cremaschi,8,2,132,1,0,0.0,1,0,0,0,0,2,0
+ITA-Serie A,2526,Parma,Christian Ordoñez,28,12,1091,10,2,20.0,13,9,5,1,1,16,11
+ITA-Serie A,2526,Parma,Daniel Mikołajewski,3,1,70,1,0,0.0,0,0,0,0,0,2,2
+ITA-Serie A,2526,Parma,Edoardo Corvi,17,17,1530,0,0,,0,0,1,0,0,0,5
+ITA-Serie A,2526,Parma,Emanuele Valeri,34,29,2643,23,5,21.7,32,20,2,0,0,23,26
+ITA-Serie A,2526,Parma,Enrico Delprato,35,34,2951,18,9,50.0,21,24,5,0,0,16,10
+ITA-Serie A,2526,Parma,Filippo Rinaldi,1,1,90,0,0,,0,0,1,0,0,0,0
+ITA-Serie A,2526,Parma,Franco Carboni,7,1,114,0,0,,1,2,0,0,0,3,0
+ITA-Serie A,2526,Parma,Gabriel Strefezza,14,13,1007,24,7,29.2,12,5,3,0,0,21,28
+ITA-Serie A,2526,Parma,Gaetano Oristanio,20,8,859,24,4,16.7,6,2,1,0,0,13,20
+ITA-Serie A,2526,Parma,Hans Nicolussi Caviglia,15,10,869,16,2,12.5,8,3,0,0,0,8,9
+ITA-Serie A,2526,Parma,Hernani,4,0,73,1,0,0.0,0,1,0,0,0,2,3
+ITA-Serie A,2526,Parma,Jacob Ondrejka,16,9,773,21,7,33.3,2,2,2,0,0,8,14
+ITA-Serie A,2526,Parma,Lautaro Valenti,27,25,2252,17,4,23.5,30,26,7,0,0,25,17
+ITA-Serie A,2526,Parma,Mandela Keita,37,36,2979,16,5,31.3,48,43,1,0,0,30,57
+ITA-Serie A,2526,Parma,Mariano Troilo,21,18,1625,9,2,22.2,18,16,8,2,1,27,20
+ITA-Serie A,2526,Parma,Mateo Pellegrino,37,34,2984,73,22,30.1,10,4,5,0,0,87,71
+ITA-Serie A,2526,Parma,Mathias Løvik,9,5,471,3,0,0.0,8,7,0,0,0,3,2
+ITA-Serie A,2526,Parma,Milan Đurić,12,0,74,5,0,0.0,0,0,0,0,0,2,1
+ITA-Serie A,2526,Parma,Nahuel Estévez,32,9,1049,9,1,11.1,10,5,2,0,0,11,13
+ITA-Serie A,2526,Parma,Nesta Elphege,9,2,309,6,3,50.0,0,0,0,0,0,3,0
+ITA-Serie A,2526,Parma,Oliver Jensen,34,19,1840,15,3,20.0,8,17,2,0,0,13,20
+ITA-Serie A,2526,Parma,Patrick Cutrone,15,11,888,25,7,28.0,1,3,0,0,0,7,16
+ITA-Serie A,2526,Parma,Pontus Almqvist,13,4,457,5,2,40.0,6,6,0,0,0,6,14
+ITA-Serie A,2526,Parma,Sascha Britschgi,29,22,2095,13,3,23.1,18,8,7,1,1,18,23
+ITA-Serie A,2526,Parma,Tjaš Begić,1,0,1,0,0,,0,0,0,0,0,0,0
+ITA-Serie A,2526,Parma,Zion Suzuki,20,20,1800,0,0,,0,0,1,0,0,0,4
+ITA-Serie A,2526,Pisa,Adrian Šemper,25,25,2250,0,0,,0,0,0,0,0,0,6
+ITA-Serie A,2526,Pisa,Antonio Caracciolo,35,34,3073,25,6,24.0,44,57,10,0,0,41,11
+ITA-Serie A,2526,Pisa,Arturo Calabresi,26,17,1514,4,1,25.0,13,19,8,0,0,33,25
+ITA-Serie A,2526,Pisa,Brando Bettazzi,1,0,14,0,0,,1,0,0,0,0,1,1
+ITA-Serie A,2526,Pisa,Calvin Stengs,4,0,46,2,1,50.0,0,0,0,0,0,0,2
+ITA-Serie A,2526,Pisa,Daniel Denoon,2,2,122,0,0,,2,1,1,0,0,4,3
+ITA-Serie A,2526,Pisa,Ebenezer Akinsanmiro,24,16,1444,13,3,23.1,25,27,2,0,0,30,28
+ITA-Serie A,2526,Pisa,Felipe Loyola,11,6,538,9,1,11.1,7,6,0,1,0,8,2
+ITA-Serie A,2526,Pisa,Filip Stojilković,13,8,658,10,4,40.0,1,0,0,0,0,8,0
+ITA-Serie A,2526,Pisa,Francesco Coppola,7,5,458,2,0,0.0,5,5,3,0,0,7,8
+ITA-Serie A,2526,Pisa,Gabriele Piccinini,25,5,875,19,7,36.8,16,2,3,0,0,11,12
+ITA-Serie A,2526,Pisa,Giovanni Bonfanti,9,6,494,6,1,16.7,6,7,1,0,0,10,3
+ITA-Serie A,2526,Pisa,Henrik Meister,28,15,1515,20,8,40.0,3,1,2,0,0,26,17
+ITA-Serie A,2526,Pisa,Idrissa Touré,32,26,2279,29,8,27.6,28,25,4,1,0,23,19
+ITA-Serie A,2526,Pisa,Juan Cuadrado,19,2,506,10,2,20.0,10,5,3,0,0,9,16
+ITA-Serie A,2526,Pisa,Lorran,9,0,122,3,1,33.3,3,3,0,0,0,0,3
+ITA-Serie A,2526,Pisa,Louis Buffon,4,0,32,0,0,,0,0,0,0,0,1,1
+ITA-Serie A,2526,Pisa,M'Bala Nzola,16,11,1052,28,7,25.0,2,1,1,1,0,18,17
+ITA-Serie A,2526,Pisa,Malthe Hojholt,17,9,850,4,2,50.0,8,9,2,0,0,13,5
+ITA-Serie A,2526,Pisa,Marius Marin,23,18,1281,3,0,0.0,26,14,7,0,0,36,20
+ITA-Serie A,2526,Pisa,Mateus Lusuardi,3,3,198,4,0,0.0,2,0,1,0,0,4,0
+ITA-Serie A,2526,Pisa,Mattéo Tramoni,27,21,1600,28,9,32.1,21,15,3,0,0,16,15
+ITA-Serie A,2526,Pisa,Mehdi Léris,34,21,1900,25,7,28.0,37,23,2,0,0,27,22
+ITA-Serie A,2526,Pisa,Michel Aebischer,35,33,2892,19,5,26.3,37,35,8,0,0,44,38
+ITA-Serie A,2526,Pisa,Nícolas Andrade,6,6,540,0,0,,0,0,0,0,0,0,3
+ITA-Serie A,2526,Pisa,Rafiu Durosinmi,12,4,432,9,5,55.6,0,1,1,1,0,15,2
+ITA-Serie A,2526,Pisa,Raúl Albiol,8,5,500,1,0,0.0,4,7,1,0,0,6,2
+ITA-Serie A,2526,Pisa,Rosen Bozhinov,9,8,610,3,1,33.3,5,12,3,1,1,12,1
+ITA-Serie A,2526,Pisa,Samuel Iling-Junior,5,1,110,0,0,,2,0,0,0,0,1,0
+ITA-Serie A,2526,Pisa,Samuele Angori,35,30,2599,14,3,21.4,25,23,2,0,0,17,54
+ITA-Serie A,2526,Pisa,Simone Canestrelli,37,36,3201,16,3,18.8,25,33,4,0,0,42,22
+ITA-Serie A,2526,Pisa,Simone Scuffet,7,7,630,0,0,,0,0,0,0,0,0,4
+ITA-Serie A,2526,Pisa,Stefano Moreo,37,29,2307,52,20,38.5,11,21,2,0,0,22,20
+ITA-Serie A,2526,Pisa,Tomás Esteves,1,0,14,0,0,,0,0,0,0,0,0,0
+ITA-Serie A,2526,Pisa,İsak Vural,15,9,752,6,1,16.7,7,2,4,0,0,16,33
+ITA-Serie A,2526,Roma,Alessandro Romano,2,0,8,0,0,,0,0,0,0,0,2,0
+ITA-Serie A,2526,Roma,Angeliño,7,5,416,5,2,40.0,7,3,2,0,0,5,2
+ITA-Serie A,2526,Roma,Antonio Arena,2,0,23,2,0,0.0,0,0,0,0,0,0,0
+ITA-Serie A,2526,Roma,Artem Dovbyk,14,3,393,12,6,50.0,3,0,0,0,0,11,6
+ITA-Serie A,2526,Roma,Bryan Cristante,37,36,3094,44,8,18.2,43,28,6,0,0,63,9
+ITA-Serie A,2526,Roma,Bryan Zaragoza,4,2,135,1,1,100.0,1,0,1,0,0,5,5
+ITA-Serie A,2526,Roma,Daniele Ghilardi,23,9,1097,3,0,0.0,15,22,1,0,0,23,17
+ITA-Serie A,2526,Roma,Devyne Rensch,24,12,1184,6,2,33.3,15,16,1,0,0,6,18
+ITA-Serie A,2526,Roma,Donyell Malen,18,18,1467,70,31,44.3,3,3,1,0,0,12,17
+ITA-Serie A,2526,Roma,Evan Ferguson,16,10,773,27,15,55.6,4,1,1,0,0,11,9
+ITA-Serie A,2526,Roma,Gianluca Mancini,36,36,3059,20,8,40.0,28,47,9,0,0,71,42
+ITA-Serie A,2526,Roma,Jan Ziółkowski,18,5,517,2,0,0.0,14,7,3,0,0,12,8
+ITA-Serie A,2526,Roma,Kostas Tsimikas,18,6,644,7,0,0.0,5,8,1,0,0,9,8
+ITA-Serie A,2526,Roma,Leon Bailey,7,1,186,3,1,33.3,0,0,0,0,0,2,1
+ITA-Serie A,2526,Roma,Lorenzo Pellegrini,24,20,1463,32,12,37.5,5,15,2,0,0,20,39
+ITA-Serie A,2526,Roma,Lorenzo Venturino,10,1,207,4,0,0.0,0,0,0,0,0,0,3
+ITA-Serie A,2526,Roma,Manu Koné,29,28,2456,21,5,23.8,27,20,2,0,0,47,53
+ITA-Serie A,2526,Roma,Mario Hermoso,27,25,2085,20,6,30.0,20,30,9,0,0,40,19
+ITA-Serie A,2526,Roma,Matìas Soulé,33,28,2139,52,18,34.6,15,9,1,0,0,7,41
+ITA-Serie A,2526,Roma,Mile Svilar,38,38,3420,0,0,,1,1,0,0,0,0,8
+ITA-Serie A,2526,Roma,Neil El Aynaoui,25,8,999,6,4,66.7,10,18,5,0,0,23,10
+ITA-Serie A,2526,Roma,Niccolò Pisilli,25,13,1295,19,5,26.3,13,24,3,0,0,20,4
+ITA-Serie A,2526,Roma,Obite N'Dicka,31,31,2680,23,6,26.1,16,45,5,0,0,32,35
+ITA-Serie A,2526,Roma,Paulo Dybala,22,15,1354,43,18,41.9,6,5,0,0,0,11,40
+ITA-Serie A,2526,Roma,Robinio Vaz,12,0,216,5,2,40.0,0,2,0,0,0,2,12
+ITA-Serie A,2526,Roma,Stephan El Shaarawy,20,5,666,18,7,38.9,7,6,4,0,0,10,7
+ITA-Serie A,2526,Roma,Tommaso Baldanzi,10,3,386,11,4,36.4,1,3,2,0,0,8,18
+ITA-Serie A,2526,Roma,Wesley,30,28,2448,25,13,52.0,40,23,7,2,1,36,57
+ITA-Serie A,2526,Roma,Zeki Çelik,34,32,2723,22,4,18.2,40,24,2,1,0,35,18
+ITA-Serie A,2526,Sassuolo,Alieu Fadera,28,8,987,13,4,30.8,23,5,5,0,0,36,36
+ITA-Serie A,2526,Sassuolo,Andrea Ghion,1,0,10,0,0,,1,0,0,0,0,0,0
+ITA-Serie A,2526,Sassuolo,Andrea Pinamonti,36,32,2552,73,30,41.1,5,2,2,1,0,14,33
+ITA-Serie A,2526,Sassuolo,Arijanet Muric,32,32,2880,0,0,,0,0,4,0,0,1,3
+ITA-Serie A,2526,Sassuolo,Armand Lauriente,38,33,2592,71,26,36.6,15,7,4,0,0,42,47
+ITA-Serie A,2526,Sassuolo,Aster Vranckx,16,9,690,3,1,33.3,9,0,2,0,0,16,17
+ITA-Serie A,2526,Sassuolo,Cas Odenthal,1,0,1,0,0,,0,0,0,0,0,0,0
+ITA-Serie A,2526,Sassuolo,Christian Frangella,1,0,3,0,0,,0,1,0,0,0,0,0
+ITA-Serie A,2526,Sassuolo,Cristian Volpato,24,11,1064,21,7,33.3,11,6,4,0,0,19,11
+ITA-Serie A,2526,Sassuolo,Daniel Boloca,2,2,135,2,0,0.0,2,2,0,0,0,0,1
+ITA-Serie A,2526,Sassuolo,Darryl Bakola,6,1,128,3,1,33.3,1,1,0,0,0,2,3
+ITA-Serie A,2526,Sassuolo,Domenico Berardi,26,24,1958,40,21,52.5,17,24,2,1,0,31,34
+ITA-Serie A,2526,Sassuolo,Edoardo Iannoni,15,1,260,3,1,33.3,3,3,3,0,0,11,0
+ITA-Serie A,2526,Sassuolo,Fali Candé,12,5,509,3,0,0.0,9,2,2,0,0,9,6
+ITA-Serie A,2526,Sassuolo,Filippo Romagna,5,4,313,2,0,0.0,1,5,0,0,0,0,1
+ITA-Serie A,2526,Sassuolo,Gioele Zacchi,1,0,8,0,0,,0,0,0,0,0,0,0
+ITA-Serie A,2526,Sassuolo,Ismaël Koné,35,33,2737,23,10,43.5,18,12,5,1,1,25,54
+ITA-Serie A,2526,Sassuolo,Jay Idzes,35,35,3061,5,0,0.0,15,38,2,0,0,33,14
+ITA-Serie A,2526,Sassuolo,Josh Doig,30,22,1917,11,4,36.4,20,22,5,0,0,16,19
+ITA-Serie A,2526,Sassuolo,Kristian Thorstvedt,32,27,2460,43,13,30.2,20,31,9,0,0,34,57
+ITA-Serie A,2526,Sassuolo,Laurs Skjellerup,1,0,10,1,0,0.0,0,0,0,0,0,0,0
+ITA-Serie A,2526,Sassuolo,Luca Lipani,24,10,1034,12,3,25.0,17,15,3,0,0,28,8
+ITA-Serie A,2526,Sassuolo,Luca Moro,14,1,211,6,1,16.7,4,2,1,0,0,7,9
+ITA-Serie A,2526,Sassuolo,M'Bala Nzola,14,4,473,11,4,36.4,2,1,1,0,0,11,9
+ITA-Serie A,2526,Sassuolo,Nemanja Matić,34,31,2660,11,4,36.4,28,27,7,1,0,24,39
+ITA-Serie A,2526,Sassuolo,Nicholas Pierini,11,0,142,5,2,40.0,4,2,1,0,0,1,3
+ITA-Serie A,2526,Sassuolo,Pedro Felipe,3,1,129,0,0,,1,2,0,0,0,2,1
+ITA-Serie A,2526,Sassuolo,Sebastian Walukiewicz,34,33,2852,7,0,0.0,34,23,7,0,0,35,13
+ITA-Serie A,2526,Sassuolo,Stefano Turati,6,6,532,0,0,,0,1,0,0,0,0,1
+ITA-Serie A,2526,Sassuolo,Tarik Muharemovic,32,32,2835,20,7,35.0,24,45,7,0,0,24,20
+ITA-Serie A,2526,Sassuolo,Tommaso Macchioni,1,1,90,1,0,0.0,0,2,1,0,0,1,0
+ITA-Serie A,2526,Sassuolo,Ulisses Garcia,13,10,943,2,1,50.0,10,8,3,0,0,11,2
+ITA-Serie A,2526,Sassuolo,Walid Cheddira,16,1,221,8,2,25.0,0,0,1,0,0,7,9
+ITA-Serie A,2526,Sassuolo,Woyo Coulibaly,20,9,1054,6,1,16.7,14,10,2,0,0,15,12
+ITA-Serie A,2526,Torino,Adam Masina,5,2,235,0,0,,4,5,0,0,0,6,2
+ITA-Serie A,2526,Torino,Adrien Tameze,24,12,1120,5,0,0.0,12,19,3,0,0,16,7
+ITA-Serie A,2526,Torino,Alberto Paleari,29,29,2610,0,0,,0,1,1,0,0,0,7
+ITA-Serie A,2526,Torino,Ali Dembélé,2,0,21,1,0,0.0,0,0,0,0,0,0,0
+ITA-Serie A,2526,Torino,Alieu Njie,15,2,299,6,3,50.0,2,0,2,0,0,8,8
+ITA-Serie A,2526,Torino,Ardian Ismajli,25,21,1906,6,4,66.7,14,36,5,0,0,21,18
+ITA-Serie A,2526,Torino,Cesare Casadei,33,19,1997,35,17,48.6,16,9,5,0,0,52,16
+ITA-Serie A,2526,Torino,Ché Adams,33,19,1893,53,18,34.0,9,1,0,0,0,18,15
+ITA-Serie A,2526,Torino,Cristiano Biraghi,14,5,517,2,0,0.0,7,3,0,0,0,9,6
+ITA-Serie A,2526,Torino,Cyril Ngonge,20,11,994,24,12,50.0,4,2,2,0,0,20,18
+ITA-Serie A,2526,Torino,Duván Zapata,28,11,1103,34,15,44.1,2,1,0,0,0,15,24
+ITA-Serie A,2526,Torino,Emirhan İlkhan,19,13,1001,13,3,23.1,19,13,2,1,0,11,18
+ITA-Serie A,2526,Torino,Enzo Ebosse,13,13,1115,0,0,,6,10,3,0,0,16,9
+ITA-Serie A,2526,Torino,Faustino Anjorin,15,1,289,4,1,25.0,5,7,1,0,0,8,1
+ITA-Serie A,2526,Torino,Franco Israel,9,9,810,0,0,,0,0,1,0,0,0,3
+ITA-Serie A,2526,Torino,Giovanni Simeone,32,27,2230,78,28,35.9,9,5,1,0,0,31,41
+ITA-Serie A,2526,Torino,Guillermo Maripán,27,24,2145,18,8,44.4,28,27,4,0,0,27,7
+ITA-Serie A,2526,Torino,Gvidas Gineitis,29,23,1756,27,5,18.5,28,23,5,0,0,43,32
+ITA-Serie A,2526,Torino,Ivan Ilić,8,5,416,0,0,,5,5,2,0,0,9,4
+ITA-Serie A,2526,Torino,Kristjan Asllani,15,13,1129,20,4,20.0,14,12,3,0,0,7,14
+ITA-Serie A,2526,Torino,Luca Marianucci,10,6,575,1,0,0.0,5,8,2,0,0,9,3
+ITA-Serie A,2526,Torino,Marcus Pedersen,29,23,2134,15,3,20.0,14,10,3,0,0,31,6
+ITA-Serie A,2526,Torino,Matteo Prati,13,7,614,12,0,0.0,3,5,2,0,0,12,7
+ITA-Serie A,2526,Torino,Niels Nkounkou,11,3,355,4,1,25.0,11,8,3,0,0,4,3
+ITA-Serie A,2526,Torino,Nikola Vlašić,37,36,3043,49,17,34.7,39,22,7,0,0,44,45
+ITA-Serie A,2526,Torino,Rafel Obrador,16,14,1116,7,2,28.6,8,12,1,0,0,7,5
+ITA-Serie A,2526,Torino,Sandro Kulenović,13,3,300,5,2,40.0,2,1,2,0,0,11,4
+ITA-Serie A,2526,Torino,Saúl Coco,35,35,3088,15,4,26.7,34,41,3,0,0,46,34
+ITA-Serie A,2526,Torino,Valentino Lazaro,31,26,2252,8,2,25.0,25,22,4,0,0,37,9
+ITA-Serie A,2526,Torino,Zakaria Aboukhlal,15,6,511,7,2,28.6,12,1,4,0,0,12,11
+ITA-Serie A,2526,Udinese,Abdoulaye Camara,1,0,12,0,0,,0,0,0,0,0,0,0
+ITA-Serie A,2526,Udinese,Adam Buksa,25,6,922,12,6,50.0,8,3,3,0,0,24,15
+ITA-Serie A,2526,Udinese,Alessandro Zanoli,19,16,1280,3,1,33.3,18,7,1,0,0,16,5
+ITA-Serie A,2526,Udinese,Arthur Atta,32,29,2557,57,20,35.1,17,23,3,0,0,23,32
+ITA-Serie A,2526,Udinese,Branimir Mlacic,7,2,166,1,0,0.0,3,2,2,0,0,4,0
+ITA-Serie A,2526,Udinese,Christian Kabasele,30,28,2247,9,6,66.7,13,33,5,1,0,33,25
+ITA-Serie A,2526,Udinese,Daniele Padelli,2,2,180,0,0,,0,0,0,0,0,0,0
+ITA-Serie A,2526,Udinese,Hassane Kamara,26,22,1861,16,5,31.3,20,25,5,0,0,16,11
+ITA-Serie A,2526,Udinese,Idrissa Guèye,19,1,421,20,6,30.0,4,3,2,0,0,15,9
+ITA-Serie A,2526,Udinese,Iker Bravo,8,3,206,4,1,25.0,1,0,1,0,0,3,1
+ITA-Serie A,2526,Udinese,Jakub Piotrowski,33,20,1696,36,9,25.0,25,15,2,0,0,29,29
+ITA-Serie A,2526,Udinese,Jesper Karlström,36,36,3146,20,3,15.0,34,37,6,0,0,42,30
+ITA-Serie A,2526,Udinese,Jordan Zemura,17,13,1127,5,1,20.0,17,6,3,0,0,26,11
+ITA-Serie A,2526,Udinese,Juan Arizala,10,1,191,1,1,100.0,3,1,0,0,0,1,1
+ITA-Serie A,2526,Udinese,Jurgen Ekkelenkamp,31,27,2186,33,15,45.5,27,18,1,0,0,22,19
+ITA-Serie A,2526,Udinese,Keinan Davis,30,27,2065,50,25,50.0,5,1,5,0,0,41,47
+ITA-Serie A,2526,Udinese,Kingsley Ehizibue,32,20,1811,9,2,22.2,31,13,5,0,0,34,24
+ITA-Serie A,2526,Udinese,Lennon Miller,24,9,996,9,1,11.1,12,9,4,0,0,14,17
+ITA-Serie A,2526,Udinese,Maduka Okoye,30,30,2616,0,0,,0,0,1,1,0,2,4
+ITA-Serie A,2526,Udinese,Matteo Palma,5,1,120,0,0,,0,3,0,0,0,3,0
+ITA-Serie A,2526,Udinese,Nicolò Bertola,28,18,1763,13,4,30.8,21,24,3,0,0,19,12
+ITA-Serie A,2526,Udinese,Nicolò Zaniolo,32,28,2257,72,22,30.6,21,4,8,0,0,61,61
+ITA-Serie A,2526,Udinese,Oier Zarraga,24,2,475,4,1,25.0,6,7,2,0,0,8,5
+ITA-Serie A,2526,Udinese,Oumar Solet,35,34,2959,33,6,18.2,57,47,1,0,0,30,29
+ITA-Serie A,2526,Udinese,Razvan Sava,7,6,620,0,0,,0,0,1,0,0,0,0
+ITA-Serie A,2526,Udinese,Rui Modesto,3,0,119,1,1,100.0,4,1,0,0,0,0,0
+ITA-Serie A,2526,Udinese,Saba Goglichidze,8,4,424,3,1,33.3,8,8,2,0,0,5,4
+ITA-Serie A,2526,Udinese,Sandi Lovrić,6,1,161,3,1,33.3,4,4,1,0,0,4,1
+ITA-Serie A,2526,Udinese,Thomas Kristensen,28,28,2472,11,6,54.5,15,27,4,0,0,24,9
+ITA-Serie A,2526,Udinese,Vakoun Bayo,15,4,453,14,2,14.3,1,0,0,0,0,15,6

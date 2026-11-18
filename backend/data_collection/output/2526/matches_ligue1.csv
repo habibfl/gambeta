@@ -1,0 +1,309 @@
+date,week,home_team,away_team,home_goals,away_goals
+2025-08-15,1,Rennes,Marseille,1,0
+2025-08-16,1,Lens,Lyon,0,1
+2025-08-16,1,Monaco,Le Havre,3,1
+2025-08-16,1,Nice,Toulouse,0,1
+2025-08-17,1,Metz,Strasbourg,0,1
+2025-08-17,1,Brest,Lille,3,3
+2025-08-17,1,Nantes,PSG,0,1
+2025-08-17,1,Angers,Paris FC,1,0
+2025-08-17,1,Auxerre,Lorient,1,0
+2025-08-22,2,PSG,Angers,1,0
+2025-08-23,2,Lyon,Metz,3,0
+2025-08-23,2,Marseille,Paris FC,5,2
+2025-08-23,2,Nice,Auxerre,3,1
+2025-08-24,2,Strasbourg,Nantes,1,0
+2025-08-24,2,Le Havre,Lens,1,2
+2025-08-24,2,Lille,Monaco,1,0
+2025-08-24,2,Lorient,Rennes,4,0
+2025-08-24,2,Toulouse,Brest,2,0
+2025-08-29,3,Lens,Brest,3,1
+2025-08-30,3,Lorient,Lille,1,7
+2025-08-30,3,Nantes,Auxerre,1,0
+2025-08-30,3,Toulouse,PSG,3,6
+2025-08-31,3,Angers,Rennes,1,1
+2025-08-31,3,Le Havre,Nice,3,1
+2025-08-31,3,Lyon,Marseille,1,0
+2025-08-31,3,Monaco,Strasbourg,3,2
+2025-08-31,3,Paris FC,Metz,3,2
+2025-09-12,4,Marseille,Lorient,4,0
+2025-09-13,4,Nice,Nantes,1,0
+2025-09-13,4,Auxerre,Monaco,1,2
+2025-09-14,4,Brest,Paris FC,1,2
+2025-09-14,4,Lille,Toulouse,2,1
+2025-09-14,4,Metz,Angers,1,1
+2025-09-14,4,PSG,Lens,2,0
+2025-09-14,4,Rennes,Lyon,3,1
+2025-09-14,4,Strasbourg,Le Havre,1,0
+2025-09-19,5,Lyon,Angers,1,0
+2025-09-20,5,Nantes,Rennes,2,2
+2025-09-20,5,Lens,Lille,3,0
+2025-09-20,5,Brest,Nice,4,1
+2025-09-21,5,Auxerre,Toulouse,1,0
+2025-09-21,5,Le Havre,Lorient,1,1
+2025-09-21,5,Monaco,Metz,5,2
+2025-09-21,5,Paris FC,Strasbourg,2,3
+2025-09-22,5,Marseille,PSG,1,0
+2025-09-26,6,Strasbourg,Marseille,1,2
+2025-09-27,6,Lorient,Monaco,3,1
+2025-09-27,6,PSG,Auxerre,2,0
+2025-09-27,6,Toulouse,Nantes,2,2
+2025-09-28,6,Rennes,Lens,0,0
+2025-09-28,6,Nice,Paris FC,1,1
+2025-09-28,6,Angers,Brest,0,2
+2025-09-28,6,Lille,Lyon,0,1
+2025-09-28,6,Metz,Le Havre,0,0
+2025-10-03,7,Paris FC,Lorient,2,0
+2025-10-04,7,Auxerre,Lens,1,2
+2025-10-04,7,Brest,Nantes,0,0
+2025-10-04,7,Metz,Marseille,0,3
+2025-10-05,7,Strasbourg,Angers,5,0
+2025-10-05,7,Monaco,Nice,2,2
+2025-10-05,7,Le Havre,Rennes,2,2
+2025-10-05,7,Lille,PSG,1,1
+2025-10-05,7,Lyon,Toulouse,1,2
+2025-10-17,8,PSG,Strasbourg,3,3
+2025-10-18,8,Angers,Monaco,1,1
+2025-10-18,8,Marseille,Le Havre,6,2
+2025-10-18,8,Nice,Lyon,3,2
+2025-10-19,8,Toulouse,Metz,4,0
+2025-10-19,8,Rennes,Auxerre,2,2
+2025-10-19,8,Nantes,Lille,0,2
+2025-10-19,8,Lens,Paris FC,2,1
+2025-10-19,8,Lorient,Brest,3,3
+2025-10-24,9,Paris FC,Nantes,1,2
+2025-10-25,9,Brest,PSG,0,3
+2025-10-25,9,Lens,Marseille,2,1
+2025-10-25,9,Monaco,Toulouse,1,0
+2025-10-26,9,Rennes,Nice,1,2
+2025-10-26,9,Lyon,Strasbourg,2,1
+2025-10-26,9,Angers,Lorient,2,0
+2025-10-26,9,Auxerre,Le Havre,0,1
+2025-10-26,9,Lille,Metz,6,1
+2025-10-29,10,Le Havre,Brest,1,0
+2025-10-29,10,Lorient,PSG,1,1
+2025-10-29,10,Marseille,Angers,2,2
+2025-10-29,10,Metz,Lens,2,0
+2025-10-29,10,Nantes,Monaco,3,5
+2025-10-29,10,Nice,Lille,2,0
+2025-10-29,10,Paris FC,Lyon,3,3
+2025-10-29,10,Strasbourg,Auxerre,3,0
+2025-10-29,10,Toulouse,Rennes,2,2
+2025-11-01,11,Auxerre,Marseille,0,1
+2025-11-01,11,Monaco,Paris FC,0,1
+2025-11-01,11,PSG,Nice,1,0
+2025-11-02,11,Toulouse,Le Havre,0,0
+2025-11-02,11,Rennes,Strasbourg,4,1
+2025-11-02,11,Nantes,Metz,0,2
+2025-11-02,11,Lens,Lorient,3,0
+2025-11-02,11,Brest,Lyon,0,0
+2025-11-02,11,Lille,Angers,1,0
+2025-11-07,12,Paris FC,Rennes,0,1
+2025-11-08,12,Le Havre,Nantes,1,1
+2025-11-08,12,Marseille,Brest,3,0
+2025-11-08,12,Monaco,Lens,1,4
+2025-11-09,12,Lorient,Toulouse,1,1
+2025-11-09,12,Angers,Auxerre,2,0
+2025-11-09,12,Lyon,PSG,2,3
+2025-11-09,12,Metz,Nice,2,1
+2025-11-09,12,Strasbourg,Lille,2,0
+2025-11-21,13,Nice,Marseille,1,5
+2025-11-22,13,Lens,Strasbourg,1,0
+2025-11-22,13,PSG,Le Havre,3,0
+2025-11-22,13,Rennes,Monaco,4,1
+2025-11-23,13,Nantes,Lorient,1,1
+2025-11-23,13,Lille,Paris FC,4,2
+2025-11-23,13,Toulouse,Angers,0,1
+2025-11-23,13,Auxerre,Lyon,0,0
+2025-11-23,13,Brest,Metz,3,2
+2025-11-28,14,Metz,Rennes,0,1
+2025-11-29,14,Marseille,Toulouse,2,2
+2025-11-29,14,Monaco,PSG,1,0
+2025-11-29,14,Paris FC,Auxerre,1,1
+2025-11-30,14,Strasbourg,Brest,1,2
+2025-11-30,14,Lyon,Nantes,3,0
+2025-11-30,14,Lorient,Nice,3,1
+2025-11-30,14,Le Havre,Lille,0,1
+2025-11-30,14,Angers,Lens,1,2
+2025-12-05,15,Brest,Monaco,1,0
+2025-12-05,15,Lille,Marseille,1,0
+2025-12-06,15,Nantes,Lens,1,2
+2025-12-06,15,PSG,Rennes,5,0
+2025-12-06,15,Toulouse,Strasbourg,1,0
+2025-12-07,15,Lorient,Lyon,1,0
+2025-12-07,15,Nice,Angers,0,1
+2025-12-07,15,Auxerre,Metz,3,1
+2025-12-07,15,Le Havre,Paris FC,0,0
+2025-12-12,16,Angers,Nantes,4,1
+2025-12-13,16,Metz,PSG,2,3
+2025-12-13,16,Paris FC,Toulouse,0,3
+2025-12-13,16,Rennes,Brest,3,1
+2025-12-14,16,Marseille,Monaco,1,0
+2025-12-14,16,Lyon,Le Havre,1,0
+2025-12-14,16,Strasbourg,Lorient,0,0
+2025-12-14,16,Auxerre,Lille,3,4
+2025-12-14,16,Lens,Nice,2,0
+2026-01-02,17,Toulouse,Lens,0,3
+2026-01-03,17,Lille,Rennes,0,2
+2026-01-03,17,Monaco,Lyon,1,3
+2026-01-03,17,Nice,Strasbourg,1,1
+2026-01-04,17,PSG,Paris FC,2,1
+2026-01-04,17,Brest,Auxerre,2,0
+2026-01-04,17,Le Havre,Angers,2,1
+2026-01-04,17,Lorient,Metz,1,1
+2026-01-04,17,Marseille,Nantes,0,2
+2026-01-16,18,PSG,Lille,3,0
+2026-01-16,18,Monaco,Lorient,1,3
+2026-01-17,18,Angers,Marseille,2,5
+2026-01-17,18,Lens,Auxerre,1,0
+2026-01-17,18,Toulouse,Nice,5,1
+2026-01-18,18,Lyon,Brest,2,1
+2026-01-18,18,Nantes,Paris FC,1,2
+2026-01-18,18,Rennes,Le Havre,1,1
+2026-01-18,18,Strasbourg,Metz,2,1
+2026-01-23,19,Auxerre,PSG,0,1
+2026-01-24,19,Rennes,Lorient,0,2
+2026-01-24,19,Le Havre,Monaco,0,0
+2026-01-24,19,Marseille,Lens,3,1
+2026-01-25,19,Brest,Toulouse,0,2
+2026-01-25,19,Lille,Strasbourg,1,4
+2026-01-25,19,Metz,Lyon,2,5
+2026-01-25,19,Nantes,Nice,1,4
+2026-01-25,19,Paris FC,Angers,0,0
+2026-01-30,20,Lens,Le Havre,1,0
+2026-01-31,20,Paris FC,Marseille,2,2
+2026-01-31,20,Monaco,Rennes,4,0
+2026-01-31,20,Lorient,Nantes,2,1
+2026-02-01,20,Angers,Metz,1,0
+2026-02-01,20,Lyon,Lille,1,0
+2026-02-01,20,Nice,Brest,2,2
+2026-02-01,20,Strasbourg,PSG,1,2
+2026-02-01,20,Toulouse,Auxerre,0,0
+2026-02-06,21,Metz,Lille,0,0
+2026-02-07,21,Nantes,Lyon,0,1
+2026-02-07,21,Lens,Rennes,3,1
+2026-02-07,21,Brest,Lorient,2,0
+2026-02-08,21,Angers,Toulouse,1,0
+2026-02-08,21,Auxerre,Paris FC,0,0
+2026-02-08,21,Le Havre,Strasbourg,2,1
+2026-02-08,21,Nice,Monaco,0,0
+2026-02-08,21,PSG,Marseille,5,0
+2026-02-13,22,Monaco,Nantes,3,1
+2026-02-13,22,Rennes,PSG,3,1
+2026-02-14,22,Paris FC,Lens,0,5
+2026-02-14,22,Marseille,Strasbourg,2,2
+2026-02-14,22,Lille,Brest,1,1
+2026-02-15,22,Le Havre,Toulouse,2,1
+2026-02-15,22,Lorient,Angers,2,0
+2026-02-15,22,Lyon,Nice,2,0
+2026-02-15,22,Metz,Auxerre,1,3
+2026-02-20,23,Brest,Marseille,2,0
+2026-02-21,23,Lens,Monaco,2,3
+2026-02-21,23,PSG,Metz,3,0
+2026-02-21,23,Toulouse,Paris FC,1,1
+2026-02-22,23,Strasbourg,Lyon,3,1
+2026-02-22,23,Nice,Lorient,3,3
+2026-02-22,23,Angers,Lille,0,1
+2026-02-22,23,Auxerre,Rennes,0,3
+2026-02-22,23,Nantes,Le Havre,2,0
+2026-02-27,24,Strasbourg,Lens,1,1
+2026-02-28,24,Le Havre,PSG,0,1
+2026-02-28,24,Monaco,Angers,2,0
+2026-02-28,24,Rennes,Toulouse,1,0
+2026-03-01,24,Paris FC,Nice,1,0
+2026-03-01,24,Metz,Brest,0,1
+2026-03-01,24,Lille,Nantes,1,0
+2026-03-01,24,Lorient,Auxerre,2,2
+2026-03-01,24,Marseille,Lyon,3,2
+2026-03-06,25,PSG,Monaco,1,3
+2026-03-07,25,Auxerre,Strasbourg,0,0
+2026-03-07,25,Nantes,Angers,0,1
+2026-03-07,25,Toulouse,Marseille,0,1
+2026-03-08,25,Brest,Le Havre,2,0
+2026-03-08,25,Lens,Metz,3,0
+2026-03-08,25,Lille,Lorient,1,1
+2026-03-08,25,Lyon,Paris FC,1,1
+2026-03-08,25,Nice,Rennes,0,4
+2026-03-13,26,Marseille,Auxerre,1,0
+2026-03-14,26,Monaco,Brest,2,0
+2026-03-14,26,Angers,Nice,0,2
+2026-03-14,26,Lorient,Lens,2,1
+2026-03-15,26,Strasbourg,Paris FC,0,0
+2026-03-15,26,Rennes,Lille,1,2
+2026-03-15,26,Metz,Toulouse,3,4
+2026-03-15,26,Le Havre,Lyon,0,0
+2026-03-20,27,Lens,Angers,5,1
+2026-03-21,27,Auxerre,Brest,3,0
+2026-03-21,27,Nice,PSG,0,4
+2026-03-21,27,Toulouse,Lorient,1,0
+2026-03-22,27,Rennes,Metz,0,0
+2026-03-22,27,Paris FC,Le Havre,3,2
+2026-03-22,27,Nantes,Strasbourg,2,3
+2026-03-22,27,Marseille,Lille,1,2
+2026-03-22,27,Lyon,Monaco,1,2
+2026-04-03,28,PSG,Toulouse,3,1
+2026-04-04,28,Brest,Rennes,3,4
+2026-04-04,28,Lille,Lens,3,0
+2026-04-04,28,Strasbourg,Nice,3,1
+2026-04-05,28,Metz,Nantes,0,0
+2026-04-05,28,Lorient,Paris FC,1,1
+2026-04-05,28,Monaco,Marseille,2,1
+2026-04-05,28,Angers,Lyon,0,0
+2026-04-05,28,Le Havre,Auxerre,1,1
+2026-04-10,29,Marseille,Metz,3,1
+2026-04-10,29,Paris FC,Monaco,4,1
+2026-04-11,29,Auxerre,Nantes,0,0
+2026-04-11,29,Rennes,Angers,2,1
+2026-04-12,29,Lyon,Lorient,2,0
+2026-04-12,29,Nice,Le Havre,1,1
+2026-04-12,29,Toulouse,Lille,0,4
+2026-04-17,30,Lens,Toulouse,3,2
+2026-04-18,30,Lorient,Marseille,2,0
+2026-04-18,30,Angers,Le Havre,1,1
+2026-04-18,30,Lille,Nice,0,0
+2026-04-19,30,Metz,Paris FC,1,3
+2026-04-19,30,Monaco,Auxerre,2,2
+2026-04-19,30,Nantes,Brest,1,1
+2026-04-19,30,PSG,Lyon,1,2
+2026-04-19,30,Strasbourg,Rennes,0,3
+2026-04-22,26,PSG,Nantes,3,0
+2026-04-24,31,Brest,Lens,3,3
+2026-04-25,31,Toulouse,Monaco,2,2
+2026-04-25,31,Angers,PSG,0,3
+2026-04-25,31,Lyon,Auxerre,3,2
+2026-04-26,31,Le Havre,Metz,4,4
+2026-04-26,31,Lorient,Strasbourg,2,3
+2026-04-26,31,Marseille,Nice,1,1
+2026-04-26,31,Paris FC,Lille,0,1
+2026-04-26,31,Rennes,Nantes,2,1
+2026-05-02,32,PSG,Lorient,2,2
+2026-05-02,32,Metz,Monaco,1,2
+2026-05-02,32,Nantes,Marseille,3,0
+2026-05-02,32,Nice,Lens,1,1
+2026-05-03,32,Paris FC,Brest,4,0
+2026-05-03,32,Lyon,Rennes,4,2
+2026-05-03,32,Strasbourg,Toulouse,1,2
+2026-05-03,32,Auxerre,Angers,3,1
+2026-05-03,32,Lille,Le Havre,1,1
+2026-05-08,33,Lens,Nantes,1,0
+2026-05-10,33,Toulouse,Lyon,2,1
+2026-05-10,33,Rennes,Paris FC,2,1
+2026-05-10,33,PSG,Brest,1,0
+2026-05-10,33,Monaco,Lille,0,1
+2026-05-10,33,Auxerre,Nice,2,1
+2026-05-10,33,Le Havre,Marseille,0,1
+2026-05-10,33,Angers,Strasbourg,1,1
+2026-05-10,33,Metz,Lorient,0,4
+2026-05-13,29,Brest,Strasbourg,1,2
+2026-05-13,29,Lens,PSG,0,2
+2026-05-17,34,Nantes,Toulouse,0,0
+2026-05-17,34,Nice,Metz,0,0
+2026-05-17,34,Marseille,Rennes,3,1
+2026-05-17,34,Paris FC,PSG,2,1
+2026-05-17,34,Lorient,Le Havre,0,2
+2026-05-17,34,Lille,Auxerre,0,2
+2026-05-17,34,Brest,Angers,1,1
+2026-05-17,34,Lyon,Lens,0,4
+2026-05-17,34,Strasbourg,Monaco,5,4
+2026-05-26,,Saint-Étienne,Nice,0,0
+2026-05-29,,Nice,Saint-Étienne,4,1

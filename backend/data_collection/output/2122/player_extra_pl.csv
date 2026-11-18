@@ -1,0 +1,547 @@
+league,season,team,player,mp,starts,minutes,shots,shots_on_target,shots_on_target_pct,tackles_won,interceptions,yellow_cards,red_cards,second_yellow_cards,fouls_committed,fouls_drawn
+ENG-Premier League,2122,Arsenal,Aaron Ramsdale,34,34,3060,0,0,,1,0,1,0,0,0,5
+ENG-Premier League,2122,Arsenal,Ainsley Maitland-Niles,8,2,268,2,0,0.0,4,4,0,0,0,4,3
+ENG-Premier League,2122,Arsenal,Albert Sambi Lokonga,19,12,1134,20,8,40.0,16,13,5,0,0,12,15
+ENG-Premier League,2122,Arsenal,Alexandre Lacazette,30,20,1782,46,15,32.6,10,4,0,0,0,32,29
+ENG-Premier League,2122,Arsenal,Ben White,32,32,2880,12,4,33.3,21,44,3,0,0,19,27
+ENG-Premier League,2122,Arsenal,Bernd Leno,4,4,360,0,0,,1,0,0,0,0,0,0
+ENG-Premier League,2122,Arsenal,Bukayo Saka,38,36,2978,97,31,32.0,23,22,6,0,0,38,59
+ENG-Premier League,2122,Arsenal,Calum Chambers,2,2,170,2,0,0.0,3,0,0,0,0,2,1
+ENG-Premier League,2122,Arsenal,Cédric Soares,21,16,1486,12,1,8.3,28,15,3,0,0,15,6
+ENG-Premier League,2122,Arsenal,Eddie Nketiah,21,8,835,28,12,42.9,5,5,3,0,0,17,14
+ENG-Premier League,2122,Arsenal,Emile Smith Rowe,33,21,1921,40,23,57.5,7,13,1,0,0,5,21
+ENG-Premier League,2122,Arsenal,Folarin Balogun,2,1,70,3,0,0.0,1,0,0,0,0,0,1
+ENG-Premier League,2122,Arsenal,Gabriel Magalhães,35,35,3063,29,12,41.4,31,14,8,1,1,23,38
+ENG-Premier League,2122,Arsenal,Gabriel Martinelli,29,21,1860,52,16,30.8,20,19,3,1,1,23,20
+ENG-Premier League,2122,Arsenal,Granit Xhaka,27,27,2327,27,5,18.5,18,21,10,1,0,29,19
+ENG-Premier League,2122,Arsenal,Kieran Tierney,22,22,1915,15,5,33.3,14,16,0,0,0,5,16
+ENG-Premier League,2122,Arsenal,Martin Ødegaard,36,32,2785,53,21,39.6,19,10,4,0,0,27,20
+ENG-Premier League,2122,Arsenal,Mohamed Elneny,14,8,806,8,2,25.0,8,15,1,0,0,5,5
+ENG-Premier League,2122,Arsenal,Nicolas Pépé,20,5,696,23,8,34.8,5,7,0,0,0,8,3
+ENG-Premier League,2122,Arsenal,Nuno Tavares,22,13,1176,23,2,8.7,13,10,2,0,0,23,13
+ENG-Premier League,2122,Arsenal,Pablo Marí,2,2,180,1,0,0.0,3,3,1,0,0,1,1
+ENG-Premier League,2122,Arsenal,Pierre-Emerick Aubameyang,14,12,1037,35,18,51.4,5,0,3,0,0,15,8
+ENG-Premier League,2122,Arsenal,Reiss Nelson,1,0,20,1,0,0.0,0,0,0,0,0,0,0
+ENG-Premier League,2122,Arsenal,Rob Holding,15,9,845,4,1,25.0,9,11,4,1,1,9,3
+ENG-Premier League,2122,Arsenal,Sead Kolašinac,2,1,91,0,0,,0,4,1,0,0,2,0
+ENG-Premier League,2122,Arsenal,Takehiro Tomiyasu,21,20,1679,11,2,18.2,16,23,2,0,0,16,14
+ENG-Premier League,2122,Arsenal,Thomas Partey,24,23,2028,44,10,22.7,28,25,6,0,0,33,17
+ENG-Premier League,2122,Aston Villa,Anwar El Ghazi,9,4,386,8,3,37.5,4,1,2,0,0,8,5
+ENG-Premier League,2122,Aston Villa,Ashley Young,24,10,1250,10,3,30.0,6,13,2,0,0,16,33
+ENG-Premier League,2122,Aston Villa,Axel Tuanzebe,9,6,508,2,1,50.0,3,5,1,0,0,3,3
+ENG-Premier League,2122,Aston Villa,Bertrand Traoré,9,1,220,8,1,12.5,3,0,0,0,0,0,4
+ENG-Premier League,2122,Aston Villa,Calum Chambers,11,9,831,3,1,33.3,8,5,1,0,0,12,2
+ENG-Premier League,2122,Aston Villa,Cameron Archer,3,0,27,1,0,0.0,0,0,0,0,0,3,0
+ENG-Premier League,2122,Aston Villa,Carney Chukwuemeka,12,2,301,4,1,25.0,0,2,0,0,0,3,9
+ENG-Premier League,2122,Aston Villa,Danny Ings,30,22,1898,49,18,36.7,18,5,4,0,0,16,12
+ENG-Premier League,2122,Aston Villa,Douglas Luiz,34,31,2715,23,8,34.8,36,34,7,0,0,38,42
+ENG-Premier League,2122,Aston Villa,Emi Buendía,35,22,1899,44,13,29.5,18,11,1,0,0,17,44
+ENG-Premier League,2122,Aston Villa,Emiliano Martínez,36,36,3240,0,0,,0,0,4,0,0,0,3
+ENG-Premier League,2122,Aston Villa,Ezri Konsa,29,29,2477,15,6,40.0,15,16,6,2,1,18,36
+ENG-Premier League,2122,Aston Villa,Jacob Ramsey,34,29,2467,34,11,32.4,44,20,6,0,0,32,44
+ENG-Premier League,2122,Aston Villa,Jaden Philogene Bidace,1,0,5,0,0,,0,0,0,0,0,0,1
+ENG-Premier League,2122,Aston Villa,Jed Steer,1,1,90,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2122,Aston Villa,John McGinn,35,35,3090,43,16,37.2,63,32,8,0,0,57,80
+ENG-Premier League,2122,Aston Villa,Keinan Davis,1,0,12,0,0,,0,0,0,0,0,0,1
+ENG-Premier League,2122,Aston Villa,Kortney Hause,7,4,397,2,2,100.0,3,6,0,0,0,6,2
+ENG-Premier League,2122,Aston Villa,Leon Bailey,18,7,761,21,8,38.1,11,2,3,0,0,12,11
+ENG-Premier League,2122,Aston Villa,Lucas Digne,16,16,1269,9,2,22.2,9,22,2,0,0,18,16
+ENG-Premier League,2122,Aston Villa,Marvelous Nakamba,16,10,904,0,0,,19,11,5,0,0,16,9
+ENG-Premier League,2122,Aston Villa,Matt Targett,17,17,1431,7,2,28.6,18,23,2,0,0,15,11
+ENG-Premier League,2122,Aston Villa,Matty Cash,38,38,3377,37,13,35.1,50,44,8,0,0,38,37
+ENG-Premier League,2122,Aston Villa,Morgan Sanson,10,3,356,1,0,0.0,8,10,0,0,0,3,13
+ENG-Premier League,2122,Aston Villa,Ollie Watkins,35,33,2952,77,32,41.6,13,12,7,0,0,32,39
+ENG-Premier League,2122,Aston Villa,Philippe Coutinho,19,16,1329,43,16,37.2,11,6,0,0,0,8,20
+ENG-Premier League,2122,Aston Villa,Robin Olsen,1,1,90,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2122,Aston Villa,Tim Iroegbunam,3,1,92,1,0,0.0,4,1,1,0,0,2,0
+ENG-Premier League,2122,Aston Villa,Trézéguet,1,0,11,1,0,0.0,0,0,0,0,0,0,0
+ENG-Premier League,2122,Aston Villa,Tyrone Mings,36,35,3189,21,5,23.8,12,45,11,0,0,27,24
+ENG-Premier League,2122,Aston Villa,Wesley Moraes,1,0,1,0,0,,0,0,0,0,0,1,0
+ENG-Premier League,2122,Brentford,Bryan Mbeumo,35,34,2905,77,22,28.6,16,12,4,0,0,20,38
+ENG-Premier League,2122,Brentford,Charlie Goode,6,4,450,2,0,0.0,5,2,3,0,0,5,7
+ENG-Premier League,2122,Brentford,Christian Eriksen,11,10,939,22,9,40.9,6,8,1,0,0,5,3
+ENG-Premier League,2122,Brentford,Christian Nørgaard,35,35,3054,27,9,33.3,58,63,8,0,0,56,33
+ENG-Premier League,2122,Brentford,David Raya,24,24,2160,0,0,,0,0,1,0,0,1,2
+ENG-Premier League,2122,Brentford,Dominic Thompson,2,2,146,1,0,0.0,0,2,0,0,0,1,0
+ENG-Premier League,2122,Brentford,Ethan Pinnock,32,32,2694,16,9,56.3,34,42,1,0,0,9,14
+ENG-Premier League,2122,Brentford,Finley Stevens,1,0,15,0,0,,1,0,0,0,0,0,0
+ENG-Premier League,2122,Brentford,Frank Onyeka,20,12,1045,16,5,31.3,18,14,4,0,0,33,24
+ENG-Premier League,2122,Brentford,Ivan Toney,33,32,2909,88,30,34.1,21,15,8,0,0,50,80
+ENG-Premier League,2122,Brentford,Jonas Lössl,2,2,180,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2122,Brentford,Josh Dasilva,9,2,257,1,0,0.0,1,1,0,1,0,4,3
+ENG-Premier League,2122,Brentford,Kristoffer Ajer,24,23,1995,7,1,14.3,18,25,5,0,0,12,16
+ENG-Premier League,2122,Brentford,Mads Bech Sørensen,11,9,835,2,0,0.0,6,5,3,0,0,8,4
+ENG-Premier League,2122,Brentford,Mads Bidstrup,4,0,41,0,0,,0,1,0,0,0,1,0
+ENG-Premier League,2122,Brentford,Mads Roerslev,21,12,1240,5,2,40.0,12,16,1,0,0,18,8
+ENG-Premier League,2122,Brentford,Marcus Forss,7,1,209,5,0,0.0,3,1,0,0,0,3,1
+ENG-Premier League,2122,Brentford,Mathias Jensen,31,19,1601,19,5,26.3,18,22,0,0,0,19,7
+ENG-Premier League,2122,Brentford,Mathias Jørgensen,8,6,518,2,1,50.0,3,11,2,0,0,10,1
+ENG-Premier League,2122,Brentford,Nathan Young-Coombes,1,0,4,0,0,,0,0,0,0,0,1,0
+ENG-Premier League,2122,Brentford,Pontus Jansson,37,37,3321,22,11,50.0,21,52,7,0,0,15,8
+ENG-Premier League,2122,Brentford,Rico Henry,34,33,2776,14,5,35.7,19,27,2,0,0,20,27
+ENG-Premier League,2122,Brentford,Saman Ghoddos,17,4,536,8,3,37.5,9,3,2,0,0,12,10
+ENG-Premier League,2122,Brentford,Sergi Canós,31,25,2083,33,13,39.4,27,21,8,1,1,28,15
+ENG-Premier League,2122,Brentford,Shandon Baptiste,22,9,910,12,4,33.3,3,10,2,1,1,6,11
+ENG-Premier League,2122,Brentford,Tariqe Fosu,1,0,17,1,1,100.0,0,0,0,0,0,0,1
+ENG-Premier League,2122,Brentford,Vitaly Janelt,31,27,2298,30,11,36.7,32,24,3,0,0,26,25
+ENG-Premier League,2122,Brentford,Yoane Wissa,30,12,1284,32,13,40.6,6,8,0,0,0,8,22
+ENG-Premier League,2122,Brentford,Álvaro Fernández,12,12,1080,0,0,,0,0,0,0,0,0,3
+ENG-Premier League,2122,Brighton,Aaron Connolly,4,1,156,2,0,0.0,0,0,0,0,0,0,6
+ENG-Premier League,2122,Brighton,Adam Lallana,24,18,1561,19,4,21.1,18,15,4,0,0,11,17
+ENG-Premier League,2122,Brighton,Adam Webster,22,16,1434,8,3,37.5,8,16,5,0,0,15,4
+ENG-Premier League,2122,Brighton,Alexis Mac Allister,33,22,2123,60,11,18.3,41,12,4,0,0,30,39
+ENG-Premier League,2122,Brighton,Dan Burn,13,12,1022,7,4,57.1,12,23,4,0,0,15,0
+ENG-Premier League,2122,Brighton,Danny Welbeck,25,15,1478,43,22,51.2,6,4,0,0,0,17,13
+ENG-Premier League,2122,Brighton,Enock Mwepu,18,12,996,19,8,42.1,12,13,2,0,0,18,15
+ENG-Premier League,2122,Brighton,Evan Ferguson,1,0,23,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2122,Brighton,Jakub Moder,28,19,1701,28,6,21.4,26,10,1,0,0,19,11
+ENG-Premier League,2122,Brighton,Jason Steele,1,1,90,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2122,Brighton,Jeremy Sarmiento,5,1,48,0,0,,1,0,0,0,0,0,2
+ENG-Premier League,2122,Brighton,Joël Veltman,34,33,2874,12,3,25.0,49,41,6,0,0,39,37
+ENG-Premier League,2122,Brighton,Jürgen Locadia,1,0,23,1,0,0.0,0,0,0,0,0,1,1
+ENG-Premier League,2122,Brighton,Leandro Trossard,34,32,2805,74,27,36.5,20,16,2,0,0,24,26
+ENG-Premier League,2122,Brighton,Lewis Dunk,29,29,2573,19,7,36.8,8,28,3,1,0,10,4
+ENG-Premier League,2122,Brighton,Marc Cucurella,35,35,3089,18,3,16.7,61,30,6,0,0,28,30
+ENG-Premier League,2122,Brighton,Moisés Caicedo,8,8,660,10,4,40.0,10,11,2,0,0,7,11
+ENG-Premier League,2122,Brighton,Neal Maupay,32,25,2276,61,15,24.6,10,2,7,0,0,33,31
+ENG-Premier League,2122,Brighton,Pascal Groß,29,24,2038,23,8,34.8,13,16,1,0,0,15,6
+ENG-Premier League,2122,Brighton,Robert Sánchez,37,37,3329,0,0,,1,0,3,1,0,1,2
+ENG-Premier League,2122,Brighton,Shane Duffy,18,15,1436,22,6,27.3,11,14,7,0,0,15,5
+ENG-Premier League,2122,Brighton,Solly March,31,17,1746,21,11,52.4,16,18,1,0,0,31,20
+ENG-Premier League,2122,Brighton,Steven Alzate,9,5,404,1,1,100.0,5,11,0,0,0,6,4
+ENG-Premier League,2122,Brighton,Tariq Lamptey,30,16,1561,19,4,21.1,24,21,4,0,0,27,50
+ENG-Premier League,2122,Brighton,Taylor Richards,2,0,25,1,0,0.0,0,0,0,0,0,1,1
+ENG-Premier League,2122,Brighton,Yves Bissouma,26,25,2111,21,5,23.8,48,47,10,0,0,30,19
+ENG-Premier League,2122,Burnley,Aaron Lennon,28,17,1551,12,4,33.3,16,9,2,0,0,19,20
+ENG-Premier League,2122,Burnley,Ashley Barnes,23,8,808,16,6,37.5,2,2,4,0,0,21,12
+ENG-Premier League,2122,Burnley,Ashley Westwood,27,26,2287,14,2,14.3,11,31,7,0,0,29,22
+ENG-Premier League,2122,Burnley,Ben Mee,21,21,1839,19,4,21.1,11,25,3,0,0,9,8
+ENG-Premier League,2122,Burnley,Charlie Taylor,31,30,2731,7,0,0.0,27,58,3,0,0,17,42
+ENG-Premier League,2122,Burnley,Chris Wood,17,17,1367,30,12,40.0,4,0,1,0,0,14,7
+ENG-Premier League,2122,Burnley,Connor Roberts,21,19,1692,6,4,66.7,14,20,2,0,0,7,29
+ENG-Premier League,2122,Burnley,Dale Stephens,3,1,124,1,0,0.0,1,1,1,0,0,5,0
+ENG-Premier League,2122,Burnley,Dwight McNeil,38,35,3107,52,15,28.8,53,33,1,0,0,16,36
+ENG-Premier League,2122,Burnley,Erik Pieters,12,8,730,7,0,0.0,14,10,1,0,0,14,5
+ENG-Premier League,2122,Burnley,Jack Cork,20,20,1670,7,2,28.6,8,17,4,0,0,32,10
+ENG-Premier League,2122,Burnley,James Tarkowski,35,35,3106,23,7,30.4,44,49,11,0,0,30,19
+ENG-Premier League,2122,Burnley,Jay Rodriguez,29,13,1382,41,11,26.8,12,4,3,0,0,32,16
+ENG-Premier League,2122,Burnley,Josh Brownhill,35,32,2955,29,9,31.0,36,67,10,0,0,39,20
+ENG-Premier League,2122,Burnley,Jóhann Berg Guðmundsson,18,13,1102,19,5,26.3,6,11,2,0,0,15,14
+ENG-Premier League,2122,Burnley,Kevin Long,6,4,410,4,0,0.0,2,1,1,0,0,4,3
+ENG-Premier League,2122,Burnley,Matthew Lowton,25,20,1772,10,2,20.0,24,24,3,1,0,13,6
+ENG-Premier League,2122,Burnley,Matěj Vydra,22,5,679,19,7,36.8,6,0,1,0,0,9,8
+ENG-Premier League,2122,Burnley,Maxwel Cornet,26,21,1766,47,22,46.8,9,10,2,0,0,20,20
+ENG-Premier League,2122,Burnley,Nathan Collins,19,18,1670,14,4,28.6,15,24,2,1,0,20,12
+ENG-Premier League,2122,Burnley,Nick Pope,36,36,3240,0,0,,0,2,1,0,0,0,2
+ENG-Premier League,2122,Burnley,Wayne Hennessey,2,2,180,0,0,,0,1,0,0,0,0,1
+ENG-Premier League,2122,Burnley,Wout Weghorst,20,17,1450,30,9,30.0,8,6,3,0,0,29,18
+ENG-Premier League,2122,Chelsea,Andreas Christensen,19,17,1496,5,0,0.0,9,32,2,0,0,11,7
+ENG-Premier League,2122,Chelsea,Antonio Rüdiger,34,34,3035,48,13,27.1,27,26,9,0,0,35,13
+ENG-Premier League,2122,Chelsea,Ben Chilwell,7,6,542,13,6,46.2,3,4,0,0,0,10,15
+ENG-Premier League,2122,Chelsea,Callum Hudson-Odoi,15,11,962,18,7,38.9,10,2,1,0,0,10,17
+ENG-Premier League,2122,Chelsea,Christian Pulisic,22,13,1290,28,11,39.3,7,5,2,0,0,15,31
+ENG-Premier League,2122,Chelsea,César Azpilicueta,27,24,2070,11,4,36.4,30,22,3,0,0,25,5
+ENG-Premier League,2122,Chelsea,Emerson Palmieri,1,0,5,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2122,Chelsea,Hakim Ziyech,23,14,1319,52,19,36.5,13,12,3,0,0,23,28
+ENG-Premier League,2122,Chelsea,Jorginho,29,26,2273,16,9,56.3,36,35,5,0,0,30,38
+ENG-Premier League,2122,Chelsea,Kai Havertz,29,22,1809,56,23,41.1,9,5,3,0,0,40,25
+ENG-Premier League,2122,Chelsea,Kenedy,1,1,58,1,0,0.0,2,0,0,0,0,0,0
+ENG-Premier League,2122,Chelsea,Kepa Arrizabalaga,4,4,360,0,0,,0,0,0,0,0,0,1
+ENG-Premier League,2122,Chelsea,Malang Sarr,8,6,546,1,0,0.0,7,11,2,0,0,8,1
+ENG-Premier League,2122,Chelsea,Marcos Alonso,28,25,2167,43,11,25.6,28,37,8,0,0,25,28
+ENG-Premier League,2122,Chelsea,Mason Mount,32,27,2363,76,29,38.2,18,12,4,0,0,30,23
+ENG-Premier League,2122,Chelsea,Mateo Kovačić,25,16,1558,22,6,27.3,30,6,4,0,0,24,19
+ENG-Premier League,2122,Chelsea,N'Golo Kanté,26,21,1773,17,9,52.9,33,30,2,0,0,22,11
+ENG-Premier League,2122,Chelsea,Reece James,26,22,1864,37,10,27.0,24,15,4,1,0,20,31
+ENG-Premier League,2122,Chelsea,Romelu Lukaku,26,16,1589,43,15,34.9,1,0,1,0,0,8,12
+ENG-Premier League,2122,Chelsea,Ross Barkley,6,1,179,9,4,44.4,0,1,0,0,0,2,4
+ENG-Premier League,2122,Chelsea,Ruben Loftus-Cheek,24,13,1394,19,6,31.6,10,10,1,0,0,18,41
+ENG-Premier League,2122,Chelsea,Saúl Ñíguez,10,5,480,5,1,20.0,9,7,1,0,0,9,0
+ENG-Premier League,2122,Chelsea,Thiago Silva,32,28,2650,18,5,27.8,21,43,2,0,0,12,12
+ENG-Premier League,2122,Chelsea,Timo Werner,21,15,1283,45,16,35.6,4,1,1,0,0,11,12
+ENG-Premier League,2122,Chelsea,Trevoh Chalobah,20,17,1449,9,7,77.8,28,19,2,0,0,19,14
+ENG-Premier League,2122,Chelsea,Édouard Mendy,34,34,3060,0,0,,0,0,3,0,0,1,3
+ENG-Premier League,2122,Crystal Palace,Cheikhou Kouyaté,27,23,1974,7,0,0.0,37,39,3,0,0,29,21
+ENG-Premier League,2122,Crystal Palace,Christian Benteke,25,11,1145,38,13,34.2,2,2,3,0,0,16,16
+ENG-Premier League,2122,Crystal Palace,Conor Gallagher,34,33,2845,52,22,42.3,35,26,10,0,0,65,66
+ENG-Premier League,2122,Crystal Palace,Eberechi Eze,13,6,605,10,1,10.0,6,5,1,0,0,5,12
+ENG-Premier League,2122,Crystal Palace,Jack Butland,9,8,765,0,0,,0,0,0,0,0,0,2
+ENG-Premier League,2122,Crystal Palace,James McArthur,21,15,1439,9,3,33.3,25,27,4,0,0,24,20
+ENG-Premier League,2122,Crystal Palace,James Tomkins,8,6,547,4,2,50.0,3,4,2,0,0,7,2
+ENG-Premier League,2122,Crystal Palace,Jaïro Riedewald,3,1,118,0,0,,1,1,0,0,0,1,0
+ENG-Premier League,2122,Crystal Palace,Jean-Philippe Mateta,22,13,1145,37,18,48.6,3,4,2,0,0,15,7
+ENG-Premier League,2122,Crystal Palace,Jeffrey Schlupp,32,20,1851,33,9,27.3,25,18,1,0,0,26,22
+ENG-Premier League,2122,Crystal Palace,Jesurun Rak Sakyi,2,1,80,0,0,,0,1,0,0,0,1,3
+ENG-Premier League,2122,Crystal Palace,Joachim Andersen,34,32,2916,8,3,37.5,22,41,4,0,0,19,8
+ENG-Premier League,2122,Crystal Palace,Joel Ward,28,27,2487,10,1,10.0,27,30,8,0,0,22,21
+ENG-Premier League,2122,Crystal Palace,Jordan Ayew,31,23,2019,35,8,22.9,30,16,2,0,0,38,66
+ENG-Premier League,2122,Crystal Palace,Luka Milivojević,15,9,774,8,0,0.0,9,10,1,0,0,16,10
+ENG-Premier League,2122,Crystal Palace,Marc Guéhi,36,36,3222,19,5,26.3,20,30,4,0,0,14,35
+ENG-Premier League,2122,Crystal Palace,Michael Olise,26,12,1141,19,10,52.6,19,7,4,0,0,16,27
+ENG-Premier League,2122,Crystal Palace,Nathan Ferguson,1,0,9,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2122,Crystal Palace,Nathaniel Clyne,16,15,1351,3,2,66.7,10,16,1,0,0,3,5
+ENG-Premier League,2122,Crystal Palace,Odsonne Édouard,28,18,1564,40,18,45.0,12,1,4,0,0,25,6
+ENG-Premier League,2122,Crystal Palace,Tyrick Mitchell,36,35,3101,4,0,0.0,54,40,1,0,0,16,14
+ENG-Premier League,2122,Crystal Palace,Vicente Guaita,30,30,2655,0,0,,0,2,2,0,0,1,2
+ENG-Premier League,2122,Crystal Palace,Wilfried Zaha,33,31,2760,69,32,46.4,21,5,6,1,1,38,100
+ENG-Premier League,2122,Crystal Palace,Will Hughes,16,13,1053,6,0,0.0,14,9,6,0,0,18,17
+ENG-Premier League,2122,Everton,Abdoulaye Doucouré,30,29,2537,34,11,32.4,43,27,6,0,0,39,16
+ENG-Premier League,2122,Everton,Alex Iwobi,28,22,2035,24,6,25.0,21,20,1,0,0,16,7
+ENG-Premier League,2122,Everton,Allan,28,25,2183,7,3,42.9,46,23,7,1,0,30,22
+ENG-Premier League,2122,Everton,Andros Townsend,21,17,1455,21,10,47.6,15,14,3,0,0,10,39
+ENG-Premier League,2122,Everton,André Gomes,14,7,619,14,4,28.6,4,1,3,0,0,24,8
+ENG-Premier League,2122,Everton,Anthony Gordon,35,25,2285,44,18,40.9,30,20,4,0,0,25,64
+ENG-Premier League,2122,Everton,Anwar El Ghazi,2,0,13,0,0,,1,0,0,0,0,0,0
+ENG-Premier League,2122,Everton,Asmir Begović,3,3,270,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2122,Everton,Ben Godfrey,23,23,2029,18,7,38.9,32,14,6,0,0,17,12
+ENG-Premier League,2122,Everton,Cenk Tosun,1,0,7,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2122,Everton,Dele Alli,11,1,338,3,0,0.0,2,6,3,0,0,9,7
+ENG-Premier League,2122,Everton,Demarai Gray,34,28,2338,65,17,26.2,20,15,3,0,0,12,32
+ENG-Premier League,2122,Everton,Dominic Calvert-Lewin,17,15,1283,33,13,39.4,8,3,2,0,0,17,16
+ENG-Premier League,2122,Everton,Donny van de Beek,7,5,483,5,1,20.0,7,6,1,0,0,7,1
+ENG-Premier League,2122,Everton,Ellis Simms,1,1,61,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2122,Everton,Fabian Delph,11,8,662,2,0,0.0,16,16,2,0,0,8,6
+ENG-Premier League,2122,Everton,Isaac Price,1,0,14,1,0,0.0,0,0,0,0,0,0,0
+ENG-Premier League,2122,Everton,Jarrad Branthwaite,6,4,388,3,2,66.7,2,1,0,1,0,3,4
+ENG-Premier League,2122,Everton,Jean-Philippe Gbamin,3,1,67,0,0,,1,1,0,0,0,0,1
+ENG-Premier League,2122,Everton,Jonjoe Kenny,15,11,1018,5,0,0.0,8,20,3,1,1,9,6
+ENG-Premier League,2122,Everton,Jordan Pickford,35,35,3150,0,0,,1,0,2,0,0,0,6
+ENG-Premier League,2122,Everton,Lewis Dobbin,3,0,32,0,0,,1,0,1,0,0,1,1
+ENG-Premier League,2122,Everton,Lucas Digne,13,13,1170,9,1,11.1,19,14,4,0,0,14,9
+ENG-Premier League,2122,Everton,Mason Holgate,25,23,2134,7,3,42.9,19,27,7,1,0,26,15
+ENG-Premier League,2122,Everton,Michael Keane,32,31,2792,20,6,30.0,24,61,4,1,1,16,7
+ENG-Premier League,2122,Everton,Moise Kean,1,0,1,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2122,Everton,Richarlison,30,28,2523,73,23,31.5,23,12,9,0,0,36,68
+ENG-Premier League,2122,Everton,Salomón Rondón,20,8,790,21,6,28.6,1,0,3,1,0,12,4
+ENG-Premier League,2122,Everton,Séamus Coleman,30,30,2656,8,1,12.5,36,32,4,0,0,15,17
+ENG-Premier League,2122,Everton,Tom Davies,6,2,234,6,2,33.3,1,2,1,0,0,4,3
+ENG-Premier League,2122,Everton,Tyler Onyango,3,0,28,1,0,0.0,0,0,0,0,0,0,0
+ENG-Premier League,2122,Everton,Vitaliy Mykolenko,13,12,1055,8,2,25.0,14,16,0,0,0,13,9
+ENG-Premier League,2122,Everton,Yerry Mina,13,11,846,6,2,33.3,9,9,3,0,0,5,9
+ENG-Premier League,2122,Leeds United,Adam Forshaw,22,17,1530,14,4,28.6,21,18,5,0,0,26,15
+ENG-Premier League,2122,Leeds United,Charlie Cresswell,5,1,141,1,0,0.0,2,2,1,0,0,3,0
+ENG-Premier League,2122,Leeds United,Cody Drameh,3,1,128,0,0,,3,1,1,0,0,2,0
+ENG-Premier League,2122,Leeds United,Crysencio Summerville,6,0,130,2,0,0.0,3,2,0,0,0,1,1
+ENG-Premier League,2122,Leeds United,Daniel James,32,29,2366,50,17,34.0,14,8,7,1,0,30,38
+ENG-Premier League,2122,Leeds United,Diego Llorente,28,28,2340,10,3,30.0,32,39,7,0,0,23,21
+ENG-Premier League,2122,Leeds United,Hélder Costa,1,0,22,1,0,0.0,0,0,0,0,0,1,2
+ENG-Premier League,2122,Leeds United,Illan Meslier,38,38,3384,0,0,,1,0,2,0,0,0,5
+ENG-Premier League,2122,Leeds United,Jack Harrison,35,32,2639,43,17,39.5,38,21,3,0,0,29,23
+ENG-Premier League,2122,Leeds United,Jamie Shackleton,14,7,709,4,1,25.0,17,7,4,0,0,13,6
+ENG-Premier League,2122,Leeds United,Joe Gelhardt,20,5,746,23,10,43.5,3,0,4,0,0,17,24
+ENG-Premier League,2122,Leeds United,Junior Firpo,24,19,1711,11,1,9.1,27,22,11,0,0,40,15
+ENG-Premier League,2122,Leeds United,Kalvin Phillips,20,18,1596,15,3,20.0,24,23,4,0,0,33,20
+ENG-Premier League,2122,Leeds United,Kristoffer Klaesson,1,0,36,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2122,Leeds United,Leo Fuhr Hjelde,2,0,150,0,0,,4,4,0,0,0,1,0
+ENG-Premier League,2122,Leeds United,Lewis Bate,3,1,146,1,0,0.0,0,1,0,0,0,3,1
+ENG-Premier League,2122,Leeds United,Liam Cooper,21,21,1814,6,1,16.7,25,41,5,0,0,19,9
+ENG-Premier League,2122,Leeds United,Liam McCarron,1,0,10,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2122,Leeds United,Luke Ayling,26,26,2272,19,4,21.1,45,26,4,1,0,22,19
+ENG-Premier League,2122,Leeds United,Mateusz Klich,33,26,2073,42,18,42.9,26,11,5,0,0,40,15
+ENG-Premier League,2122,Leeds United,Pascal Struijk,29,22,2055,11,4,36.4,38,37,6,1,0,25,7
+ENG-Premier League,2122,Leeds United,Patrick Bamford,9,7,559,20,5,25.0,0,1,2,0,0,5,5
+ENG-Premier League,2122,Leeds United,Raphinha,35,34,2915,87,25,28.7,28,28,7,0,0,39,47
+ENG-Premier League,2122,Leeds United,Robin Koch,20,17,1574,13,1,7.7,13,18,3,0,0,22,10
+ENG-Premier League,2122,Leeds United,Rodrigo,31,27,2265,47,18,38.3,9,10,9,0,0,21,30
+ENG-Premier League,2122,Leeds United,Sam Greenwood,7,1,237,4,0,0.0,5,2,0,0,0,7,2
+ENG-Premier League,2122,Leeds United,Stuart Dallas,34,34,2919,30,9,30.0,61,55,5,0,0,33,30
+ENG-Premier League,2122,Leeds United,Stuart McKinstry,1,0,4,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2122,Leeds United,Tyler Roberts,23,7,987,30,13,43.3,8,5,5,0,0,14,19
+ENG-Premier League,2122,Leicester City,Ademola Lookman,26,16,1453,26,12,46.2,14,9,2,0,0,27,33
+ENG-Premier League,2122,Leicester City,Ayoze Pérez,14,6,445,11,6,54.5,2,2,0,1,0,6,7
+ENG-Premier League,2122,Leicester City,Boubakary Soumaré,19,12,1102,6,2,33.3,13,11,0,0,0,16,17
+ENG-Premier League,2122,Leicester City,Daniel Amartey,28,23,2123,2,1,50.0,14,22,4,0,0,14,8
+ENG-Premier League,2122,Leicester City,Danny Ward,1,1,90,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2122,Leicester City,Hamza Choudhury,6,4,285,1,0,0.0,2,12,1,0,0,4,5
+ENG-Premier League,2122,Leicester City,Harvey Barnes,32,24,2101,66,24,36.4,15,4,2,0,0,19,20
+ENG-Premier League,2122,Leicester City,James Justin,13,11,998,5,1,20.0,14,17,0,0,0,7,12
+ENG-Premier League,2122,Leicester City,James Maddison,35,28,2459,72,34,47.2,21,9,3,0,0,22,64
+ENG-Premier League,2122,Leicester City,Jamie Vardy,25,20,1806,54,26,48.1,5,1,2,0,0,13,12
+ENG-Premier League,2122,Leicester City,Jannik Vestergaard,10,6,567,1,0,0.0,9,8,2,0,0,4,1
+ENG-Premier League,2122,Leicester City,Jonny Evans,18,16,1348,3,2,66.7,13,20,3,0,0,15,11
+ENG-Premier League,2122,Leicester City,Kasey McAteer,1,0,3,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2122,Leicester City,Kasper Schmeichel,37,37,3330,0,0,,0,1,2,0,0,0,2
+ENG-Premier League,2122,Leicester City,Kelechi Iheanacho,26,13,1264,31,12,38.7,6,5,1,0,0,17,11
+ENG-Premier League,2122,Leicester City,Kiernan Dewsbury-Hall,28,23,2105,21,3,14.3,23,20,4,0,0,20,29
+ENG-Premier League,2122,Leicester City,Lewis Brunt,1,0,24,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2122,Leicester City,Luke Thomas,22,21,1912,4,0,0.0,31,42,2,0,0,15,15
+ENG-Premier League,2122,Leicester City,Marc Albrighton,17,11,1132,4,1,25.0,21,14,3,0,0,6,13
+ENG-Premier League,2122,Leicester City,Nampalys Mendy,14,12,1032,1,1,100.0,8,10,3,0,0,17,18
+ENG-Premier League,2122,Leicester City,Patson Daka,23,13,1159,26,16,61.5,10,2,2,0,0,17,14
+ENG-Premier League,2122,Leicester City,Ricardo Pereira,14,13,991,10,2,20.0,21,16,3,0,0,6,15
+ENG-Premier League,2122,Leicester City,Ryan Bertrand,4,4,337,0,0,,5,1,1,0,0,3,1
+ENG-Premier League,2122,Leicester City,Timothy Castagne,27,22,2127,7,3,42.9,33,28,1,0,0,15,7
+ENG-Premier League,2122,Leicester City,Wesley Fofana,7,7,630,3,1,33.3,8,7,2,0,0,7,7
+ENG-Premier League,2122,Leicester City,Wilfred Ndidi,19,18,1618,14,4,28.6,29,43,4,0,0,30,22
+ENG-Premier League,2122,Leicester City,Youri Tielemans,32,29,2631,59,17,28.8,39,21,3,0,0,32,36
+ENG-Premier League,2122,Leicester City,Çağlar Söyüncü,28,28,2497,8,1,12.5,31,33,5,0,0,24,14
+ENG-Premier League,2122,Liverpool,Alex Oxlade-Chamberlain,17,9,785,21,3,14.3,11,5,0,0,0,10,3
+ENG-Premier League,2122,Liverpool,Alisson,36,36,3240,0,0,,1,0,0,0,0,0,2
+ENG-Premier League,2122,Liverpool,Andy Robertson,29,29,2537,19,8,42.1,21,26,5,1,0,20,9
+ENG-Premier League,2122,Liverpool,Caoimhín Kelleher,2,2,180,0,0,,1,0,0,0,0,0,1
+ENG-Premier League,2122,Liverpool,Curtis Jones,15,10,851,20,7,35.0,10,8,0,0,0,10,19
+ENG-Premier League,2122,Liverpool,Diogo Jota,35,27,2364,90,33,36.7,18,6,3,0,0,40,40
+ENG-Premier League,2122,Liverpool,Divock Origi,7,0,133,10,5,50.0,0,1,0,0,0,2,1
+ENG-Premier League,2122,Liverpool,Fabinho,29,26,2314,21,10,47.6,29,38,7,0,0,41,28
+ENG-Premier League,2122,Liverpool,Harvey Elliott,6,4,346,10,1,10.0,0,4,0,0,0,2,6
+ENG-Premier League,2122,Liverpool,Ibrahima Konaté,11,11,990,4,0,0.0,11,17,2,0,0,10,3
+ENG-Premier League,2122,Liverpool,James Milner,24,9,853,10,2,20.0,17,15,2,0,0,17,14
+ENG-Premier League,2122,Liverpool,Joe Gomez,8,4,331,1,0,0.0,6,6,2,0,0,5,2
+ENG-Premier League,2122,Liverpool,Jordan Henderson,35,29,2597,31,6,19.4,20,25,3,0,0,24,7
+ENG-Premier League,2122,Liverpool,Joël Matip,31,31,2790,34,9,26.5,35,45,2,0,0,13,11
+ENG-Premier League,2122,Liverpool,Kaide Gordon,1,0,9,1,1,100.0,0,0,0,0,0,1,0
+ENG-Premier League,2122,Liverpool,Kostas Tsimikas,13,9,877,8,2,25.0,12,9,3,0,0,20,6
+ENG-Premier League,2122,Liverpool,Luis Díaz,13,11,958,38,13,34.2,7,4,0,0,0,14,14
+ENG-Premier League,2122,Liverpool,Mohamed Salah,35,30,2762,139,60,43.2,8,5,1,0,0,12,23
+ENG-Premier League,2122,Liverpool,Naby Keïta,23,14,1173,26,7,26.9,22,13,3,0,0,22,9
+ENG-Premier League,2122,Liverpool,Neco Williams,1,0,8,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2122,Liverpool,Roberto Firmino,20,10,990,30,11,36.7,16,4,3,0,0,6,6
+ENG-Premier League,2122,Liverpool,Sadio Mané,34,32,2819,98,40,40.8,19,7,5,0,0,49,50
+ENG-Premier League,2122,Liverpool,Takumi Minamino,11,1,186,7,4,57.1,2,1,1,0,0,4,4
+ENG-Premier League,2122,Liverpool,Thiago Alcántara,25,17,1534,25,6,24.0,26,27,2,0,0,19,13
+ENG-Premier League,2122,Liverpool,Trent Alexander-Arnold,32,32,2853,51,15,29.4,24,44,2,0,0,12,7
+ENG-Premier League,2122,Liverpool,Tyler Morton,2,1,66,0,0,,0,3,1,0,0,1,0
+ENG-Premier League,2122,Liverpool,Virgil van Dijk,34,34,3060,35,14,40.0,11,31,3,0,0,9,8
+ENG-Premier League,2122,Manchester City,Aymeric Laporte,33,33,2828,35,8,22.9,15,19,5,1,0,14,10
+ENG-Premier League,2122,Manchester City,Benjamin Mendy,1,1,78,0,0,,2,0,0,0,0,2,0
+ENG-Premier League,2122,Manchester City,Bernardo Silva,35,33,2857,48,20,41.7,31,18,6,0,0,30,33
+ENG-Premier League,2122,Manchester City,CJ Egan-Riley,1,0,4,0,0,,1,0,0,0,0,0,0
+ENG-Premier League,2122,Manchester City,Cole Palmer,4,1,123,4,1,25.0,2,1,0,0,0,1,1
+ENG-Premier League,2122,Manchester City,Ederson Moraes,37,37,3330,0,0,,1,0,3,0,0,1,4
+ENG-Premier League,2122,Manchester City,Fernandinho,19,10,964,18,4,22.2,10,8,1,0,0,14,10
+ENG-Premier League,2122,Manchester City,Ferran Torres,4,4,303,13,4,30.8,2,0,0,0,0,1,1
+ENG-Premier League,2122,Manchester City,Gabriel Jesus,28,21,1877,64,25,39.1,13,13,1,0,0,26,26
+ENG-Premier League,2122,Manchester City,Jack Grealish,26,22,1914,44,15,34.1,16,7,3,0,0,17,54
+ENG-Premier League,2122,Manchester City,James Mcatee,2,0,20,1,0,0.0,0,0,0,0,0,1,0
+ENG-Premier League,2122,Manchester City,John Stones,14,12,1119,9,5,55.6,3,13,0,0,0,3,6
+ENG-Premier League,2122,Manchester City,João Cancelo,36,36,3227,81,23,28.4,53,56,7,0,0,34,27
+ENG-Premier League,2122,Manchester City,Kayky Chagas,1,0,7,0,0,,0,0,0,0,0,1,0
+ENG-Premier League,2122,Manchester City,Kevin De Bruyne,30,25,2201,77,31,40.3,16,7,2,0,0,21,27
+ENG-Premier League,2122,Manchester City,Kyle Walker,20,20,1755,8,2,25.0,6,13,1,0,0,7,12
+ENG-Premier League,2122,Manchester City,Liam Delap,1,0,10,0,0,,0,0,0,0,0,1,1
+ENG-Premier League,2122,Manchester City,Nathan Aké,14,10,923,5,2,40.0,9,7,0,0,0,9,2
+ENG-Premier League,2122,Manchester City,Oleksandr Zinchenko,15,10,1047,12,4,33.3,13,15,0,0,0,11,2
+ENG-Premier League,2122,Manchester City,Phil Foden,28,24,2128,57,22,38.6,9,12,1,0,0,14,23
+ENG-Premier League,2122,Manchester City,Raheem Sterling,30,23,2128,58,28,48.3,10,10,1,0,0,19,37
+ENG-Premier League,2122,Manchester City,Riyad Mahrez,28,15,1498,61,23,37.7,5,5,0,0,0,10,15
+ENG-Premier League,2122,Manchester City,Rodri,33,33,2884,45,14,31.1,46,29,5,0,0,43,20
+ENG-Premier League,2122,Manchester City,Rúben Dias,29,27,2402,18,3,16.7,20,24,5,0,0,27,10
+ENG-Premier League,2122,Manchester City,Zack Steffen,1,1,90,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2122,Manchester City,İlkay Gündoğan,27,20,1857,55,19,34.5,11,14,1,0,0,13,10
+ENG-Premier League,2122,Manchester Utd,Aaron Wan-Bissaka,20,20,1793,5,1,20.0,36,34,2,0,0,15,13
+ENG-Premier League,2122,Manchester Utd,Alejandro Garnacho,2,0,13,0,0,,0,0,0,0,0,1,0
+ENG-Premier League,2122,Manchester Utd,Alex Telles,21,18,1660,10,3,30.0,27,26,1,0,0,22,9
+ENG-Premier League,2122,Manchester Utd,Anthony Elanga,21,14,1214,21,7,33.3,18,8,0,0,0,8,22
+ENG-Premier League,2122,Manchester Utd,Anthony Martial,8,2,212,5,3,60.0,0,0,0,0,0,0,4
+ENG-Premier League,2122,Manchester Utd,Bruno Fernandes,36,35,3111,89,29,32.6,27,16,10,0,0,34,47
+ENG-Premier League,2122,Manchester Utd,Cristiano Ronaldo,30,27,2456,110,43,39.1,7,1,8,0,0,16,18
+ENG-Premier League,2122,Manchester Utd,Daniel James,2,2,126,4,1,25.0,1,0,0,0,0,1,0
+ENG-Premier League,2122,Manchester Utd,David de Gea,38,38,3420,0,0,,0,0,0,0,0,0,1
+ENG-Premier League,2122,Manchester Utd,Diogo Dalot,24,19,1801,13,4,30.8,39,28,4,0,0,18,4
+ENG-Premier League,2122,Manchester Utd,Donny van de Beek,8,0,75,2,1,50.0,5,2,0,0,0,2,2
+ENG-Premier League,2122,Manchester Utd,Edinson Cavani,15,7,766,18,8,44.4,1,2,0,0,0,7,5
+ENG-Premier League,2122,Manchester Utd,Eric Bailly,4,3,217,0,0,,4,3,1,0,0,2,0
+ENG-Premier League,2122,Manchester Utd,Fred,28,24,2028,15,9,60.0,27,31,5,0,0,31,30
+ENG-Premier League,2122,Manchester Utd,Hannibal Mejbri,2,1,68,1,1,100.0,1,0,2,0,0,3,0
+ENG-Premier League,2122,Manchester Utd,Harry Maguire,30,28,2515,23,10,43.5,21,33,9,1,1,21,19
+ENG-Premier League,2122,Manchester Utd,Jadon Sancho,29,20,1900,26,9,34.6,8,13,0,0,0,4,7
+ENG-Premier League,2122,Manchester Utd,Jesse Lingard,16,2,367,8,6,75.0,7,0,1,0,0,5,4
+ENG-Premier League,2122,Manchester Utd,Juan Mata,7,2,235,5,1,20.0,4,1,0,0,0,2,4
+ENG-Premier League,2122,Manchester Utd,Luke Shaw,20,19,1601,6,1,16.7,12,9,8,0,0,32,16
+ENG-Premier League,2122,Manchester Utd,Marcus Rashford,25,13,1235,22,12,54.5,5,5,2,0,0,13,18
+ENG-Premier League,2122,Manchester Utd,Mason Greenwood,18,16,1271,48,19,39.6,8,1,1,0,0,15,16
+ENG-Premier League,2122,Manchester Utd,Nemanja Matić,23,16,1382,6,1,16.7,17,30,3,0,0,26,3
+ENG-Premier League,2122,Manchester Utd,Paul Pogba,20,16,1349,32,8,25.0,9,13,7,1,0,39,29
+ENG-Premier League,2122,Manchester Utd,Phil Jones,4,2,163,0,0,,5,3,0,0,0,0,2
+ENG-Premier League,2122,Manchester Utd,Raphaël Varane,22,20,1831,9,1,11.1,20,17,0,0,0,5,7
+ENG-Premier League,2122,Manchester Utd,Scott McTominay,30,28,2387,27,7,25.9,34,32,9,0,0,55,33
+ENG-Premier League,2122,Manchester Utd,Shola Shoretire,1,0,16,0,0,,0,0,0,0,0,0,1
+ENG-Premier League,2122,Manchester Utd,Victor Lindelöf,28,26,2355,3,2,66.7,11,25,4,0,0,19,6
+ENG-Premier League,2122,Newcastle,Allan Saint-Maximin,35,31,2804,64,26,40.6,7,11,6,0,0,22,47
+ENG-Premier League,2122,Newcastle,Bruno Guimarães,17,11,1034,23,12,52.2,27,11,4,0,0,13,36
+ENG-Premier League,2122,Newcastle,Callum Wilson,18,16,1386,35,15,42.9,8,1,4,0,0,27,22
+ENG-Premier League,2122,Newcastle,Chris Wood,17,15,1327,21,7,33.3,0,2,0,0,0,19,10
+ENG-Premier League,2122,Newcastle,Ciaran Clark,13,12,1014,7,1,14.3,9,15,2,1,0,6,5
+ENG-Premier League,2122,Newcastle,Dan Burn,16,16,1440,11,1,9.1,11,18,4,0,0,10,6
+ENG-Premier League,2122,Newcastle,Dwight Gayle,8,0,38,2,0,0.0,0,1,1,0,0,2,2
+ENG-Premier League,2122,Newcastle,Emil Krafth,20,18,1634,6,2,33.3,16,25,5,0,0,22,11
+ENG-Premier League,2122,Newcastle,Fabian Schär,25,25,2158,20,7,35.0,11,36,4,0,0,24,11
+ENG-Premier League,2122,Newcastle,Federico Fernández,7,5,523,6,1,16.7,0,5,0,0,0,1,2
+ENG-Premier League,2122,Newcastle,Freddie Woodman,4,4,360,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2122,Newcastle,Isaac Hayden,14,12,1002,5,1,20.0,14,13,5,0,0,14,8
+ENG-Premier League,2122,Newcastle,Jacob Murphy,33,13,1473,27,5,18.5,26,23,4,0,0,16,15
+ENG-Premier League,2122,Newcastle,Jamaal Lascelles,26,22,2058,17,4,23.5,7,24,5,0,0,17,4
+ENG-Premier League,2122,Newcastle,Jamal Lewis,5,4,262,0,0,,6,3,1,0,0,2,2
+ENG-Premier League,2122,Newcastle,Javier Manquillo,19,15,1257,4,2,50.0,30,9,5,0,0,9,17
+ENG-Premier League,2122,Newcastle,Jeff Hendrick,3,0,72,1,1,100.0,0,0,0,0,0,1,0
+ENG-Premier League,2122,Newcastle,Joe Willock,29,24,2038,35,11,31.4,37,19,0,0,0,34,26
+ENG-Premier League,2122,Newcastle,Joelinton,35,30,2558,45,14,31.1,36,35,8,0,0,64,33
+ENG-Premier League,2122,Newcastle,Jonjo Shelvey,24,22,1983,30,14,46.7,20,25,7,1,1,18,8
+ENG-Premier League,2122,Newcastle,Karl Darlow,8,8,720,0,0,,0,1,1,0,0,1,1
+ENG-Premier League,2122,Newcastle,Kieran Trippier,6,5,429,2,2,100.0,9,10,0,0,0,3,3
+ENG-Premier League,2122,Newcastle,Martin Dúbravka,26,26,2340,0,0,,1,1,1,0,0,0,5
+ENG-Premier League,2122,Newcastle,Matt Ritchie,18,14,1337,10,1,10.0,15,13,5,0,0,13,10
+ENG-Premier League,2122,Newcastle,Matt Targett,16,16,1440,6,4,66.7,29,23,1,0,0,9,12
+ENG-Premier League,2122,Newcastle,Miguel Almirón,30,19,1716,32,7,21.9,29,20,2,0,0,17,25
+ENG-Premier League,2122,Newcastle,Paul Dummett,3,2,198,0,0,,3,3,2,0,0,3,3
+ENG-Premier League,2122,Newcastle,Ryan Fraser,27,18,1465,24,8,33.3,4,11,3,0,0,9,24
+ENG-Premier League,2122,Newcastle,Sean Longstaff,24,15,1464,15,2,13.3,32,9,1,0,0,14,17
+ENG-Premier League,2122,Norwich City,Adam Idah,17,6,625,14,4,28.6,7,2,0,0,0,7,10
+ENG-Premier League,2122,Norwich City,Andrew Omobamidele,5,4,382,2,1,50.0,5,5,1,0,0,3,5
+ENG-Premier League,2122,Norwich City,Angus Gunn,9,9,810,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2122,Norwich City,Bali Mumba,1,0,45,0,0,,1,0,0,0,0,0,0
+ENG-Premier League,2122,Norwich City,Ben Gibson,28,28,2494,8,4,50.0,17,28,5,1,1,12,9
+ENG-Premier League,2122,Norwich City,Billy Gilmour,24,21,1855,18,3,16.7,21,16,2,0,0,28,23
+ENG-Premier League,2122,Norwich City,Brandon Williams,26,23,2120,4,1,25.0,36,40,8,0,0,22,44
+ENG-Premier League,2122,Norwich City,Christoph Zimmermann,3,2,157,2,1,50.0,3,1,0,0,0,1,2
+ENG-Premier League,2122,Norwich City,Christos Tzolis,14,3,336,6,2,33.3,3,1,0,0,0,2,4
+ENG-Premier League,2122,Norwich City,Dimitris Giannoulis,18,14,1169,2,1,50.0,21,19,2,0,0,16,22
+ENG-Premier League,2122,Norwich City,Grant Hanley,33,33,2897,20,4,20.0,26,56,2,0,0,22,22
+ENG-Premier League,2122,Norwich City,Jakob Sørensen,10,6,604,5,1,20.0,11,10,0,0,0,7,1
+ENG-Premier League,2122,Norwich City,Jonathan Rowe,13,0,223,3,2,66.7,2,2,0,0,0,4,7
+ENG-Premier League,2122,Norwich City,Josh Sargent,26,18,1572,23,3,13.0,17,10,1,0,0,9,23
+ENG-Premier League,2122,Norwich City,Kenny McLean,31,29,2706,33,6,18.2,21,32,3,0,0,16,38
+ENG-Premier League,2122,Norwich City,Kieran Dowell,19,11,912,8,2,25.0,7,7,0,0,0,19,3
+ENG-Premier League,2122,Norwich City,Lukas Rupp,19,7,769,12,2,16.7,5,10,0,0,0,7,7
+ENG-Premier League,2122,Norwich City,Mathias Normann,23,20,1645,26,5,19.2,22,19,6,0,0,37,28
+ENG-Premier League,2122,Norwich City,Max Aarons,34,32,2881,13,2,15.4,45,26,8,0,0,26,52
+ENG-Premier League,2122,Norwich City,Milot Rashica,31,25,2229,44,17,38.6,20,14,0,0,0,23,47
+ENG-Premier League,2122,Norwich City,Ozan Kabak,11,11,922,5,2,40.0,5,16,2,0,0,10,9
+ENG-Premier League,2122,Norwich City,Pierre Lees-Melou,33,27,2265,33,9,27.3,36,23,5,0,0,35,23
+ENG-Premier League,2122,Norwich City,Przemysław Płacheta,12,6,504,8,7,87.5,3,2,1,0,0,1,6
+ENG-Premier League,2122,Norwich City,Sam Byram,15,11,1027,7,2,28.6,15,21,3,0,0,12,4
+ENG-Premier League,2122,Norwich City,Teemu Pukki,37,37,3253,71,27,38.0,11,4,4,0,0,31,25
+ENG-Premier League,2122,Norwich City,Tim Krul,29,29,2610,0,0,,1,0,1,0,0,0,0
+ENG-Premier League,2122,Norwich City,Todd Cantwell,8,5,441,5,0,0.0,13,3,2,0,0,4,12
+ENG-Premier League,2122,Norwich City,Tony Springett,3,1,141,1,1,100.0,1,0,1,0,0,1,4
+ENG-Premier League,2122,Southampton,Adam Armstrong,23,17,1413,47,14,29.8,3,3,1,0,0,13,6
+ENG-Premier League,2122,Southampton,Alex McCarthy,17,17,1530,0,0,,0,0,1,0,0,0,0
+ENG-Premier League,2122,Southampton,Armando Broja,32,21,1975,45,20,44.4,7,3,2,0,0,28,26
+ENG-Premier League,2122,Southampton,Ché Adams,30,23,2039,49,24,49.0,6,8,0,0,0,29,40
+ENG-Premier League,2122,Southampton,Fraser Forster,19,19,1710,0,0,,0,0,1,0,0,0,3
+ENG-Premier League,2122,Southampton,Ibrahima Diallo,23,10,1023,8,4,50.0,11,7,1,0,0,8,15
+ENG-Premier League,2122,Southampton,Jack Stephens,11,9,811,0,0,,12,19,3,0,0,8,2
+ENG-Premier League,2122,Southampton,James Ward-Prowse,36,36,3215,55,24,43.6,25,39,3,1,0,23,15
+ENG-Premier League,2122,Southampton,Jan Bednarek,31,30,2629,19,7,36.8,16,73,10,0,0,30,15
+ENG-Premier League,2122,Southampton,Kyle Walker-Peters,32,29,2633,26,7,26.9,39,37,5,0,0,27,47
+ENG-Premier League,2122,Southampton,Lyanco,15,9,911,6,1,16.7,15,14,2,0,0,13,7
+ENG-Premier League,2122,Southampton,Mohamed Elyounoussi,30,23,2042,43,19,44.2,17,12,4,0,0,28,18
+ENG-Premier League,2122,Southampton,Mohammed Salisu,34,33,2972,24,10,41.7,46,76,10,1,1,38,7
+ENG-Premier League,2122,Southampton,Moussa Djenepo,12,5,457,11,1,9.1,4,2,3,0,0,9,10
+ENG-Premier League,2122,Southampton,Nathan Redmond,27,20,1833,26,9,34.6,11,7,0,0,0,16,15
+ENG-Premier League,2122,Southampton,Nathan Tella,14,10,804,12,5,41.7,9,7,2,0,0,17,22
+ENG-Premier League,2122,Southampton,Oriol Romeu,36,34,2889,24,4,16.7,43,50,9,0,0,46,24
+ENG-Premier League,2122,Southampton,Romain Perraud,20,18,1623,19,3,15.8,21,17,3,0,0,31,16
+ENG-Premier League,2122,Southampton,Shane Long,13,3,308,9,5,55.6,4,0,1,0,0,9,8
+ENG-Premier League,2122,Southampton,Stuart Armstrong,25,15,1473,38,9,23.7,18,8,1,0,0,11,20
+ENG-Premier League,2122,Southampton,Theo Walcott,9,5,379,6,0,0.0,2,6,0,0,0,1,6
+ENG-Premier League,2122,Southampton,Tino Livramento,28,25,2202,12,3,25.0,30,47,2,0,0,12,36
+ENG-Premier League,2122,Southampton,William Smallbone,4,2,133,1,0,0.0,4,2,0,0,0,2,1
+ENG-Premier League,2122,Southampton,Willy Caballero,2,2,180,0,0,,0,0,1,0,0,0,0
+ENG-Premier League,2122,Southampton,Yan Valery,5,3,370,2,0,0.0,6,7,0,0,0,3,3
+ENG-Premier League,2122,Tottenham,Ben Davies,29,28,2538,18,7,38.9,21,30,6,0,0,31,18
+ENG-Premier League,2122,Tottenham,Bryan Gil,9,0,94,1,1,100.0,0,0,0,0,0,1,4
+ENG-Premier League,2122,Tottenham,Cristian Romero,22,21,1844,6,2,33.3,41,32,8,0,0,28,15
+ENG-Premier League,2122,Tottenham,Dane Scarlett,1,0,4,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2122,Tottenham,Davinson Sánchez,23,17,1631,13,3,23.1,22,29,4,0,0,16,12
+ENG-Premier League,2122,Tottenham,Dejan Kulusevski,18,14,1261,26,10,38.5,12,13,3,0,0,20,15
+ENG-Premier League,2122,Tottenham,Dele Alli,10,8,657,4,3,75.0,8,6,1,0,0,12,11
+ENG-Premier League,2122,Tottenham,Emerson,31,26,2286,15,4,26.7,44,24,5,0,0,28,45
+ENG-Premier League,2122,Tottenham,Eric Dier,35,35,3071,13,5,38.5,8,26,1,0,0,12,9
+ENG-Premier League,2122,Tottenham,Giovani Lo Celso,9,2,238,9,1,11.1,4,0,0,0,0,2,6
+ENG-Premier League,2122,Tottenham,Harry Kane,37,36,3232,133,55,41.4,5,2,5,0,0,42,54
+ENG-Premier League,2122,Tottenham,Harry Winks,19,9,912,3,1,33.3,10,13,2,0,0,11,13
+ENG-Premier League,2122,Tottenham,Hugo Lloris,38,38,3420,0,0,,1,1,2,0,0,0,2
+ENG-Premier League,2122,Tottenham,Japhet Tanganga,11,10,735,7,2,28.6,9,9,4,1,1,19,8
+ENG-Premier League,2122,Tottenham,Joe Rodon,3,0,89,0,0,,0,0,0,0,0,0,1
+ENG-Premier League,2122,Tottenham,Lucas Moura,34,19,1775,37,11,29.7,10,16,4,0,0,20,37
+ENG-Premier League,2122,Tottenham,Matt Doherty,15,9,875,16,6,37.5,11,13,0,0,0,11,5
+ENG-Premier League,2122,Tottenham,Oliver Skipp,18,14,1350,4,1,25.0,21,13,6,0,0,16,16
+ENG-Premier League,2122,Tottenham,Pierre Højbjerg,36,36,3196,31,11,35.5,42,46,3,0,0,28,38
+ENG-Premier League,2122,Tottenham,Rodrigo Bentancur,17,16,1361,14,2,14.3,19,21,5,0,0,22,13
+ENG-Premier League,2122,Tottenham,Ryan Sessegnon,15,13,1047,6,1,16.7,21,7,2,0,0,19,7
+ENG-Premier League,2122,Tottenham,Sergio Reguilón,25,22,1916,21,9,42.9,25,28,4,0,0,21,24
+ENG-Premier League,2122,Tottenham,Son Heung-min,35,35,3006,86,49,57.0,7,12,2,0,0,14,36
+ENG-Premier League,2122,Tottenham,Steven Bergwijn,25,4,565,19,10,52.6,3,1,1,0,0,10,9
+ENG-Premier League,2122,Tottenham,Tanguy Ndombele,9,6,484,9,3,33.3,7,1,1,0,0,3,9
+ENG-Premier League,2122,Watford,Adam Masina,15,13,1077,5,0,0.0,12,19,0,0,0,14,4
+ENG-Premier League,2122,Watford,Ashley Fletcher,3,0,30,2,1,50.0,1,0,0,0,0,1,0
+ENG-Premier League,2122,Watford,Ben Foster,26,26,2340,0,0,,0,0,0,0,0,1,3
+ENG-Premier League,2122,Watford,Christian Kabasele,16,12,1193,7,0,0.0,5,14,0,0,0,5,3
+ENG-Premier League,2122,Watford,Craig Cathcart,31,27,2396,3,0,0.0,15,25,3,0,0,12,4
+ENG-Premier League,2122,Watford,Cucho,25,11,1147,33,11,33.3,5,7,3,0,0,12,12
+ENG-Premier League,2122,Watford,Dan Gosling,4,2,166,2,1,50.0,1,1,0,0,0,2,5
+ENG-Premier League,2122,Watford,Daniel Bachmann,12,12,1080,0,0,,0,1,0,0,0,1,1
+ENG-Premier League,2122,Watford,Danny Rose,8,7,689,4,1,25.0,14,14,4,0,0,10,14
+ENG-Premier League,2122,Watford,Edo Kayembe,13,9,799,6,0,0.0,14,9,0,0,0,3,5
+ENG-Premier League,2122,Watford,Emmanuel Dennis,33,30,2581,60,26,43.3,34,15,9,1,1,58,40
+ENG-Premier League,2122,Watford,Francisco Sierralta,5,5,427,1,1,100.0,3,6,0,0,0,4,3
+ENG-Premier League,2122,Watford,Hassane Kamara,19,18,1623,5,1,20.0,34,69,5,1,1,24,14
+ENG-Premier League,2122,Watford,Imran Louza,20,17,1416,17,4,23.5,22,42,6,0,0,24,14
+ENG-Premier League,2122,Watford,Ismaila Sarr,22,21,1861,39,17,43.6,7,9,2,0,0,17,47
+ENG-Premier League,2122,Watford,Jeremy Ngakia,16,9,903,5,0,0.0,19,16,0,0,0,10,6
+ENG-Premier League,2122,Watford,Joshua King,32,27,2248,49,17,34.7,14,8,5,0,0,42,21
+ENG-Premier League,2122,Watford,João Pedro,28,15,1644,47,16,34.0,15,12,1,0,0,15,30
+ENG-Premier League,2122,Watford,Juraj Kucka,26,22,1920,46,11,23.9,40,30,5,1,1,46,49
+ENG-Premier League,2122,Watford,Ken Sema,18,7,852,3,1,33.3,6,6,1,0,0,15,7
+ENG-Premier League,2122,Watford,Kiko Femenía,27,26,2142,3,1,33.3,23,37,2,0,0,12,13
+ENG-Premier League,2122,Watford,Moussa Sissoko,36,36,3220,25,8,32.0,27,34,5,0,0,36,12
+ENG-Premier League,2122,Watford,Nicolas Nkoulou,3,2,168,0,0,,0,2,0,0,0,1,0
+ENG-Premier League,2122,Watford,Oghenekaro Etebo,9,4,401,3,0,0.0,6,5,3,0,0,8,3
+ENG-Premier League,2122,Watford,Ozan Tufan,7,4,334,3,0,0.0,2,2,0,0,0,9,0
+ENG-Premier League,2122,Watford,Samir Santos,19,19,1673,8,2,25.0,10,40,4,0,0,17,16
+ENG-Premier League,2122,Watford,Samuel Kalu,4,2,222,4,1,25.0,2,3,0,0,0,0,4
+ENG-Premier League,2122,Watford,Tom Cleverley,28,20,1616,12,7,58.3,22,18,2,0,0,28,19
+ENG-Premier League,2122,Watford,Troy Deeney,2,0,25,2,0,0.0,0,0,0,0,0,0,0
+ENG-Premier League,2122,Watford,William Troost-Ekong,17,15,1390,2,0,0.0,8,9,3,0,0,13,2
+ENG-Premier League,2122,West Ham,Aaron Cresswell,31,31,2726,18,4,22.2,19,32,3,0,0,14,10
+ENG-Premier League,2122,West Ham,Alex Král,1,0,1,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2122,West Ham,Alphonse Areola,1,1,90,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2122,West Ham,Andriy Yarmolenko,19,1,316,11,5,45.5,2,0,1,0,0,1,4
+ENG-Premier League,2122,West Ham,Angelo Ogbonna,11,11,921,3,1,33.3,4,9,1,0,0,5,3
+ENG-Premier League,2122,West Ham,Arthur Masuaku,13,6,650,4,1,25.0,24,11,1,0,0,8,4
+ENG-Premier League,2122,West Ham,Ben Johnson,20,16,1397,5,1,20.0,15,21,1,0,0,10,4
+ENG-Premier League,2122,West Ham,Craig Dawson,34,30,2754,25,6,24.0,16,30,5,1,0,39,12
+ENG-Premier League,2122,West Ham,Daniel Chesters,1,0,1,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2122,West Ham,Declan Rice,36,35,3179,26,8,30.8,41,60,8,0,0,28,10
+ENG-Premier League,2122,West Ham,Harrison Ashby,1,0,7,0,0,,0,1,0,0,0,0,0
+ENG-Premier League,2122,West Ham,Issa Diop,13,10,963,2,2,100.0,8,6,0,0,0,5,5
+ENG-Premier League,2122,West Ham,Jarrod Bowen,36,34,2983,80,35,43.8,20,20,6,0,0,25,43
+ENG-Premier League,2122,West Ham,Kurt Zouma,24,24,2078,6,3,50.0,6,30,1,0,0,11,6
+ENG-Premier League,2122,West Ham,Manuel Lanzini,30,19,1786,16,7,43.8,15,20,2,0,0,11,18
+ENG-Premier League,2122,West Ham,Mark Noble,11,3,332,2,2,100.0,2,4,0,0,0,3,4
+ENG-Premier League,2122,West Ham,Michail Antonio,36,34,2971,83,29,34.9,17,4,8,1,1,52,52
+ENG-Premier League,2122,West Ham,Nikola Vlašić,19,6,560,7,3,42.9,5,2,0,0,0,8,16
+ENG-Premier League,2122,West Ham,Pablo Fornals,36,32,2795,43,12,27.9,26,23,4,0,0,24,28
+ENG-Premier League,2122,West Ham,Ryan Fredericks,7,3,307,0,0,,2,4,1,0,0,3,1
+ENG-Premier League,2122,West Ham,Saïd Benrahma,32,26,2168,63,22,34.9,17,8,0,0,0,10,15
+ENG-Premier League,2122,West Ham,Sonny Perkins,1,0,4,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2122,West Ham,Tomáš Souček,35,34,3062,45,12,26.7,31,51,3,0,0,38,18
+ENG-Premier League,2122,West Ham,Vladimír Coufal,28,25,2209,11,5,45.5,25,21,5,1,1,29,15
+ENG-Premier League,2122,West Ham,Łukasz Fabiański,37,37,3330,0,0,,0,1,2,0,0,1,5
+ENG-Premier League,2122,Wolves,Adama Traoré,20,10,1067,23,5,21.7,5,2,0,0,0,10,26
+ENG-Premier League,2122,Wolves,Chem Campbell,1,0,13,0,0,,1,0,0,0,0,0,0
+ENG-Premier League,2122,Wolves,Chiquinho,8,1,208,5,2,40.0,6,1,0,0,0,9,7
+ENG-Premier League,2122,Wolves,Conor Coady,38,38,3361,12,4,33.3,14,29,4,0,0,20,2
+ENG-Premier League,2122,Wolves,Daniel Podence,26,15,1484,35,15,42.9,10,9,2,0,0,8,25
+ENG-Premier League,2122,Wolves,Fernando Marçal,18,17,1449,11,1,9.1,22,27,3,0,0,28,9
+ENG-Premier League,2122,Wolves,Francisco Trincão,28,16,1336,32,14,43.8,14,10,0,0,0,13,22
+ENG-Premier League,2122,Wolves,Fábio Silva,22,6,572,19,5,26.3,2,1,0,0,0,13,8
+ENG-Premier League,2122,Wolves,Hwang Hee-chan,30,20,1816,27,12,44.4,12,13,2,0,0,29,41
+ENG-Premier League,2122,Wolves,John Ruddy,2,1,135,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2122,Wolves,Jonny Castro,13,10,1024,10,5,50.0,14,11,1,0,0,10,16
+ENG-Premier League,2122,Wolves,José Sá,37,37,3285,0,0,,1,2,3,0,0,3,11
+ENG-Premier League,2122,Wolves,João Moutinho,35,34,2970,20,7,35.0,40,28,4,0,0,37,15
+ENG-Premier League,2122,Wolves,Ki-Jana Hoever,8,4,308,1,0,0.0,8,5,1,0,0,5,4
+ENG-Premier League,2122,Wolves,Leander Dendoncker,30,21,1950,23,10,43.5,17,10,4,0,0,13,6
+ENG-Premier League,2122,Wolves,Luke Cundle,4,2,180,0,0,,3,1,0,0,0,3,1
+ENG-Premier League,2122,Wolves,Max Kilman,30,30,2687,13,4,30.8,26,43,3,0,0,17,10
+ENG-Premier League,2122,Wolves,Morgan Gibbs-White,2,0,9,2,0,0.0,0,0,1,0,0,2,0
+ENG-Premier League,2122,Wolves,Nélson Semedo,25,25,2131,19,4,21.1,40,20,1,0,0,22,23
+ENG-Premier League,2122,Wolves,Pedro Neto,13,5,466,17,4,23.5,5,5,3,0,0,2,6
+ENG-Premier League,2122,Wolves,Rayan Aït-Nouri,23,20,1828,13,4,30.8,37,19,4,0,0,14,20
+ENG-Premier League,2122,Wolves,Raúl Jiménez,34,30,2631,57,16,28.1,14,10,9,2,2,43,48
+ENG-Premier League,2122,Wolves,Romain Saïss,31,31,2705,18,6,33.3,29,56,6,0,0,30,15
+ENG-Premier League,2122,Wolves,Rúben Neves,33,31,2661,42,16,38.1,37,37,9,0,0,25,12
+ENG-Premier League,2122,Wolves,Toti Gomes,4,4,360,1,0,0.0,7,7,1,0,0,2,3
+ENG-Premier League,2122,Wolves,Willy Boly,10,10,900,2,1,50.0,18,15,1,0,0,7,2

@@ -1,4 +1,4 @@
-import { Route, Routes } from "react-router-dom";
+import { Navigate, Route, Routes } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Home from "./pages/Home";
@@ -6,12 +6,15 @@ import Championnats from "./pages/Championnats";
 import ChampionnatDetail from "./pages/ChampionnatDetail";
 import Equipes from "./pages/Equipes";
 import EquipeDetail from "./pages/EquipeDetail";
-import Joueurs from "./pages/Joueurs";
 import JoueurDetail from "./pages/JoueurDetail";
 import Comparateur from "./pages/Comparateur";
+import Analyses from "./pages/Analyses";
+import EtudeCas from "./pages/EtudeCas";
+import Methodologie from "./pages/Methodologie";
+import Explorer from "./pages/Explorer";
+import Modeles from "./pages/Modeles";
 
-// Page 404 : trop simple pour mériter son propre fichier dans pages/,
-// affichée pour toute route qui ne correspond à rien ci-dessous.
+// Page 404 : trop simple pour mériter son propre fichier dans pages/
 function NotFound() {
   return (
     <section className="flex-1 flex items-center justify-center px-6 py-32 text-center bg-[var(--gambeta-paper)] text-[var(--gambeta-ink)]">
@@ -29,8 +32,7 @@ function NotFound() {
 
 function App() {
   // Le fond et la couleur de texte de base viennent de --gambeta-paper /
-  // --gambeta-ink, définies globalement dans index.css (et qui s'inversent
-  // automatiquement en mode sombre) : pas besoin de les redéfinir ici.
+  // gambeta-ink, définies globalement dans index.css
   return (
     <div className="min-h-screen flex flex-col transition-colors duration-300">
       <Navbar />
@@ -40,9 +42,14 @@ function App() {
         <Route path="/championnats/:id" element={<ChampionnatDetail />} />
         <Route path="/equipes" element={<Equipes />} />
         <Route path="/equipes/:slug" element={<EquipeDetail />} />
-        <Route path="/joueurs" element={<Joueurs />} />
+        <Route path="/joueurs" element={<Navigate to="/explorateur" replace />} />
         <Route path="/joueurs/:slug" element={<JoueurDetail />} />
         <Route path="/comparateur" element={<Comparateur />} />
+        <Route path="/explorateur" element={<Explorer />} />
+        <Route path="/modeles" element={<Modeles />} />
+        <Route path="/analyses" element={<Analyses />} />
+        <Route path="/etude-de-cas" element={<EtudeCas />} />
+        <Route path="/methodologie" element={<Methodologie />} />
         <Route path="*" element={<NotFound />} />
       </Routes>
       <Footer />

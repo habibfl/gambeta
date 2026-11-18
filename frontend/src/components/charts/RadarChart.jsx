@@ -1,9 +1,8 @@
 import { useEffect, useRef } from "react";
 import * as d3 from "d3";
+import PlayerPhoto from "../PlayerPhoto";
 
-// Même petit hook que dans PremierLeagueCharts.jsx : D3 dessine dans le
-// <svg> référencé, React ne fait que fournir le conteneur et relance le
-// dessin quand `active` passe à vrai (visibilité au scroll).
+// Même petit hook que dans PremierLeagueCharts.jsx : D3 dessine dans le <svg> référencé
 function useD3(renderFn, dependencies) {
   const ref = useRef(null);
   useEffect(() => {
@@ -17,23 +16,10 @@ const SIZE = 360;
 const CENTER = SIZE / 2;
 const RADIUS = 130;
 
-// Couleurs par défaut pour le mode multi-séries (comparateur) : corail pour
-// le 1er joueur, puis les teintes secondaires déjà utilisées ailleurs sur
-// le site (violet des bocaux xA de PlayerJars, vert des avatars de
-// teamsRegistry.js) pour rester cohérent avec la palette existante.
+// Couleurs par défaut pour le mode multi-séries (comparateur) : corail pour le 1er joueur
 const SERIES_COLORS = [CORAL, "#6c5ce7", "#2f6f4f"];
 
-// Radar générique, à N axes (5 pour un club, 6 pour un joueur), valeurs
-// attendues sur 100. Calcul manuel des positions par trigonométrie plutôt
-// que d3.lineRadial, pour rester simple avec un nombre de points fixe.
-//
-// Deux modes :
-// - `data` (tableau de {axis, value}) : un seul profil, comportement
-//   historique inchangé (EquipeDetail.jsx, JoueurDetail.jsx).
-// - `series` (tableau de {name, color, values}) : plusieurs profils
-//   superposés avec une légende, pour le comparateur de joueurs. Tous les
-//   éléments de `series` doivent partager les mêmes axes (mêmes libellés,
-//   même ordre).
+// Radar générique, à N axes (5 pour un club, 6 pour un joueur), valeurs attendues sur 100.
 export default function RadarChart({ data, series, active }) {
   const axes = series ? series[0].values.map((v) => v.axis) : data.map((d) => d.axis);
 
@@ -73,8 +59,8 @@ export default function RadarChart({ data, series, active }) {
           .attr("stroke-opacity", 0.1);
       });
 
-      // Étiquettes des axes, légèrement décalées vers l'extérieur du dernier
-      // anneau pour ne jamais chevaucher le tracé des valeurs.
+      // Étiquettes des axes, légèrement décalées vers l'extérieur du dernier anneau pour ne jamais
+      // chevaucher le tracé des valeurs.
       axes.forEach((axis, i) => {
         const [x, y] = pointFor(i, 1.22);
         g.append("text")
@@ -93,10 +79,7 @@ export default function RadarChart({ data, series, active }) {
         values.map((v, i) => pointFor(i, ratioFn(v))).map((p) => p.join(",")).join(" ");
 
       if (series) {
-        // Mode comparateur : une forme + un jeu de points par joueur, pas
-        // d'étiquette de valeur individuelle sur les axes (ça deviendrait
-        // illisible à 2-3 profils superposés) : la légende HTML sous le
-        // graphique et le tableau comparatif suffisent à lire les chiffres.
+        // Mode comparateur : une forme + un jeu de points par joueur
         series.forEach((s, si) => {
           const color = s.color ?? SERIES_COLORS[si % SERIES_COLORS.length];
 
@@ -130,9 +113,7 @@ export default function RadarChart({ data, series, active }) {
         return;
       }
 
-      // Mode simple : le tracé part du centre (toutes valeurs à 0) puis
-      // s'anime vers ses vraies valeurs, avec la valeur numérique affichée
-      // sous chaque étiquette d'axe une fois active.
+      // Mode simple : le tracé part du centre
       data.forEach((d, i) => {
         const [x, y] = pointFor(i, 1.22);
         g.append("text")
@@ -181,14 +162,17 @@ export default function RadarChart({ data, series, active }) {
     <>
       <svg ref={ref} viewBox={`0 0 ${SIZE} ${SIZE}`} className="w-full text-[var(--gambeta-ink)]" />
       {series && (
-        <div className="mt-3 flex flex-wrap justify-center gap-4 text-xs">
+        <div className="mt-4 flex flex-wrap justify-center gap-5 text-sm">
           {series.map((s, i) => (
             <span key={s.name} className="flex items-center gap-1.5 font-medium">
+              {/* Visage du joueur entouré de la couleur de sa courbe */}
               <span
-                className="inline-block h-2.5 w-2.5 rounded-full"
-                style={{ backgroundColor: s.color ?? SERIES_COLORS[i % SERIES_COLORS.length] }}
-              />
-              {s.name}
+                className="inline-flex rounded-full"
+                style={{ boxShadow: `0 0 0 3px ${s.color ?? SERIES_COLORS[i % SERIES_COLORS.length]}` }}
+              >
+                <PlayerPhoto name={s.name} league={s.league} size={34} ring={false} />
+              </span>
+              <span className="ml-1">{s.name}</span>
             </span>
           ))}
         </div>

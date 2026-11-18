@@ -1,11 +1,10 @@
 import { useEffect, useRef } from "react";
 import { useNavigate } from "react-router-dom";
 import * as d3 from "d3";
+import Crest from "../Crest";
+import { appendSticker } from "../../lib/svgSticker";
 
-// Petit hook partagé : D3 dessine directement dans le <svg> référencé,
-// React se contente de fournir le conteneur et de relancer le dessin
-// quand les dépendances changent (typiquement `active`, pour ne dessiner
-// qu'une fois le graphique visible à l'écran).
+// Petit hook partagé : D3 dessine directement dans le <svg> référencé
 function useD3(renderFn, dependencies) {
   const ref = useRef(null);
   useEffect(() => {
@@ -14,22 +13,13 @@ function useD3(renderFn, dependencies) {
   return ref;
 }
 
-// Couleurs communes aux graphiques : corail pour la donnée "réelle" mise
-// en avant, un ton neutre (dérivé du texte via currentColor) pour tout
-// le reste — ainsi les axes/labels suivent automatiquement le mode sombre
-// sans dessiner deux fois le graphique.
+// Couleurs communes aux graphiques : corail pour la donnée "réelle" mise en avant, un ton neutre
 const CORAL = "#e86f2c";
 const CORAL_SOFT = "#e86f2c66";
 
-// --- Case 1 : classement — simple tableau, pas besoin de D3 ---------------
-// `scrollable` (par défaut vrai, comportement historique de la Case 1 dans
-// LeagueOverview.jsx) plafonne la hauteur avec un défilement interne quand
-// le tableau est logé dans une petite colonne sticky. La page Équipes s'en
-// sert avec `scrollable={false}` pour afficher le classement complet, sans
-// boîte à défilement, sur toute la largeur de la page.
-// `getHref` (optionnel) rend chaque ligne cliquable, sans rien changer au
-// style ni au comportement existant quand elle n'est pas fournie.
-export function StandingsTable({ data, active, scrollable = true, getHref }) {
+// Case 1 : classement — simple tableau, pas besoin de D3
+// `scrollable`
+export function StandingsTable({ data, active, scrollable = true, getHref, logoFor, league, zones = false }) {
   const navigate = useNavigate();
   return (
     <div className={scrollable ? "max-h-[420px] overflow-y-auto rounded-lg" : "overflow-x-auto rounded-lg"}>
@@ -67,8 +57,33 @@ export function StandingsTable({ data, active, scrollable = true, getHref }) {
                   : undefined
               }
             >
-              <td className="py-1.5 pr-2 tabular-nums text-current/60">{row.rank}</td>
-              <td className="py-1.5 pr-2 font-medium">{row.team}</td>
+              <td
+                className="py-1.5 pl-2 pr-2 tabular-nums text-current/60"
+                style={
+                  zones
+                    ? {
+                        boxShadow:
+                          row.rank <= 4
+                            ? "inset 3px 0 0 #2a78d6"
+                            : row.rank > data.length - 3
+                              ? "inset 3px 0 0 #d94f27"
+                              : undefined,
+                      }
+                    : undefined
+                }
+              >
+                {row.rank}
+              </td>
+              <td className="py-1.5 pr-2 font-medium">
+                {logoFor ? (
+                  <span className="flex items-center gap-2.5">
+                    <Crest team={row.team} league={league} logo={logoFor(row.team)} size={22} />
+                    {row.team}
+                  </span>
+                ) : (
+                  row.team
+                )}
+              </td>
               <td className="py-1.5 pr-2 text-right tabular-nums text-current/60">{row.gp}</td>
               <td className="py-1.5 pr-2 text-right tabular-nums text-current/60">{row.w}-{row.d}-{row.l}</td>
               <td className="py-1.5 pr-2 text-right tabular-nums text-current/60">{row.gf}-{row.ga}</td>
@@ -81,16 +96,18 @@ export function StandingsTable({ data, active, scrollable = true, getHref }) {
   );
 }
 
-// --- Case 2 : lollipop chart (xG vs buts réels) ---------------------------
+// Case 2 : lollipop chart (xG vs buts réels)
 const WIDTH = 560;
 
-export function LollipopChart({ data, active }) {
-  const height = data.length * 34 + 30;
+export function LollipopChart({ data, active, photoFor = () => null, league }) {
+  const height = data.length * 38 + 30;
+  // Signature des photos disponibles : redessine quand un visage arrive
+  const photoSig = data.map((d) => photoFor(d.player) || "").join("|");
 
   const ref = useD3(
     (svg) => {
       svg.selectAll("*").remove();
-      const margin = { top: 10, right: 20, bottom: 24, left: 130 };
+      const margin = { top: 10, right: 52, bottom: 24, left: 130 };
       const innerWidth = WIDTH - margin.left - margin.right;
       const innerHeight = height - margin.top - margin.bottom;
 
@@ -140,6 +157,24 @@ export function LollipopChart({ data, active }) {
         .attr("class", "row")
         .attr("transform", (d) => `translate(0,${y(d.player) + y.bandwidth() / 2})`);
 
+      // Écart buts - xG affiché au bout de la ligne : corail si le joueur marque plus que prévu
+      rows
+        .append("text")
+        .attr("x", innerWidth + 8)
+        .attr("y", 4)
+        .attr("fill", (d) => (d.goals - d.xg >= 0 ? "#e86f2c" : "currentColor"))
+        .attr("opacity", 0)
+        .style("font-size", "11px")
+        .style("font-weight", 700)
+        .text((d) => {
+          const diff = d.goals - d.xg;
+          return `${diff >= 0 ? "+" : "−"}${Math.abs(diff).toFixed(1)}`;
+        })
+        .transition()
+        .duration(active ? 400 : 0)
+        .delay((_, i) => 300 + i * 40)
+        .attr("opacity", (d) => (d.goals - d.xg >= 0 ? 1 : 0.55));
+
       // Ligne reliant xG (attendu) et buts réels
       rows
         .append("line")
@@ -167,18 +202,20 @@ export function LollipopChart({ data, active }) {
         .delay((_, i) => i * 40)
         .attr("r", 6);
 
-      // Point buts réels — plein, corail
-      rows
-        .append("circle")
-        .attr("cx", (d) => x(d.goals))
-        .attr("r", 0)
-        .attr("fill", CORAL)
+      // Buts réels : le visage du joueur en autocollant
+      const faces = rows
+        .append("g")
+        .attr("transform", (d) => `translate(${x(d.xg)},0) scale(0.2)`)
+        .attr("opacity", 0);
+      appendSticker(faces, (d) => ({ href: photoFor(d.player), label: d.player, league, kind: "face", ring: CORAL }), 12);
+      faces
         .transition()
-        .duration(active ? 400 : 0)
+        .duration(active ? 600 : 0)
         .delay((_, i) => i * 40 + 200)
-        .attr("r", 6);
+        .attr("transform", (d) => `translate(${x(d.goals)},0) scale(1)`)
+        .attr("opacity", 1);
     },
-    [active, data, height]
+    [active, data, height, photoSig]
   );
 
   return (
@@ -189,21 +226,22 @@ export function LollipopChart({ data, active }) {
           <span className="inline-block h-2.5 w-2.5 rounded-full border-2 border-current/50" /> xG (attendu)
         </span>
         <span className="flex items-center gap-1.5">
-          <span className="inline-block h-2.5 w-2.5 rounded-full" style={{ backgroundColor: CORAL }} /> Buts réels
+          <span className="inline-block h-3 w-3 rounded-full bg-white" style={{ boxShadow: `0 0 0 2px ${CORAL}` }} /> Buts réels (visage du joueur)
         </span>
       </div>
     </>
   );
 }
 
-// --- Case 3 : classement horizontal (barres) par xA -----------------------
-export function HorizontalBarChart({ data, active }) {
-  const height = data.length * 32 + 20;
+// Case 3 : classement horizontal (barres) par xA
+export function HorizontalBarChart({ data, active, photoFor = () => null, league }) {
+  const height = data.length * 36 + 20;
+  const photoSig = data.map((d) => photoFor(d.player) || "").join("|");
 
   const ref = useD3(
     (svg) => {
       svg.selectAll("*").remove();
-      const margin = { top: 10, right: 36, bottom: 10, left: 140 };
+      const margin = { top: 10, right: 60, bottom: 10, left: 140 };
       const innerWidth = WIDTH - margin.left - margin.right;
       const innerHeight = height - margin.top - margin.bottom;
 
@@ -248,25 +286,38 @@ export function HorizontalBarChart({ data, active }) {
         .transition()
         .duration(active ? 400 : 0)
         .delay((_, i) => i * 50 + 400)
-        .attr("x", (d) => x(d.xa) + 8)
+        .attr("x", (d) => x(d.xa) + 30)
+        .attr("opacity", 1);
+
+      // Visage du passeur au bout de sa barre
+      const faces = g
+        .selectAll(".face")
+        .data(data)
+        .join("g")
+        .attr("transform", (d) => `translate(12,${y(d.player) + y.bandwidth() / 2})`)
+        .attr("opacity", 0);
+      appendSticker(faces, (d) => ({ href: photoFor(d.player), label: d.player, league, kind: "face" }), 12);
+      faces
+        .transition()
+        .duration(active ? 700 : 0)
+        .delay((_, i) => i * 50)
+        .attr("transform", (d) => `translate(${Math.max(x(d.xa), 12)},${y(d.player) + y.bandwidth() / 2})`)
         .attr("opacity", 1);
     },
-    [active, data, height]
+    [active, data, height, photoSig]
   );
 
   return <svg ref={ref} viewBox={`0 0 ${WIDTH} ${height}`} className="w-full text-[var(--gambeta-ink)]" />;
 }
 
-// --- Case 4 : nuage de points possession × PPDA ----------------------------
+// Case 4 : nuage de points possession × PPDA
 export function ScatterPlot({ data, active }) {
   const height = 420;
 
   const ref = useD3(
     (svg) => {
       svg.selectAll("*").remove();
-      // right généreux : les points à forte possession affichent leur
-      // étiquette juste à droite du point, il leur faut de la place pour
-      // ne pas être rognés par le bord du viewBox (ex: "Man City").
+      // right généreux : les points à forte possession affichent leur étiquette juste à droite du point
       const margin = { top: 16, right: 70, bottom: 40, left: 40 };
       const innerWidth = WIDTH - margin.left - margin.right;
       const innerHeight = height - margin.top - margin.bottom;
@@ -349,17 +400,18 @@ export function ScatterPlot({ data, active }) {
   return <svg ref={ref} viewBox={`0 0 ${WIDTH} ${height}`} className="w-full text-[var(--gambeta-ink)]" />;
 }
 
-// --- Case 5 : évolution du classement journée par journée -----------------
-const LINE_COLORS = ["#e86f2c", "#221400", "#8a5a3a", "#c98a5f", "#b23a1f"];
+// Case 5 : évolution du classement journée par journée
+const LINE_COLORS = ["#e86f2c", "#221400", "#6c5ce7", "#8a5a3a", "#2f6f4f", "#b23a1f"];
 
-export function RankLineChart({ data, active }) {
+export function RankLineChart({ data, active, logoFor = () => null, league, xLabels = null }) {
+  const logoSig = data.map((d) => logoFor(d.team) || "").join("|");
   const height = 420;
   const matchdays = data[0]?.ranks.length ?? 0;
 
   const ref = useD3(
     (svg) => {
       svg.selectAll("*").remove();
-      const margin = { top: 16, right: 90, bottom: 30, left: 30 };
+      const margin = { top: 20, right: 110, bottom: 30, left: 30 };
       const innerWidth = WIDTH - margin.left - margin.right;
       const innerHeight = height - margin.top - margin.bottom;
 
@@ -371,7 +423,11 @@ export function RankLineChart({ data, active }) {
 
       g.append("g")
         .attr("transform", `translate(0,${innerHeight})`)
-        .call(d3.axisBottom(x).ticks(Math.min(matchdays, 10)).tickFormat((d) => `J${d}`))
+        .call(
+          xLabels
+            ? d3.axisBottom(x).tickValues(xLabels.map((_, i) => i + 1)).tickFormat((d) => xLabels[d - 1])
+            : d3.axisBottom(x).ticks(Math.min(matchdays, 10)).tickFormat((d) => `J${d}`)
+        )
         .call((axisGroup) => axisGroup.select(".domain").attr("stroke", "currentColor").attr("stroke-opacity", 0.2))
         .selectAll("text")
         .attr("fill", "currentColor")
@@ -388,6 +444,7 @@ export function RankLineChart({ data, active }) {
 
       const line = d3
         .line()
+        .defined((d) => d != null)
         .x((_, i) => x(i + 1))
         .y((d) => y(d))
         .curve(d3.curveMonotoneX);
@@ -412,9 +469,29 @@ export function RankLineChart({ data, active }) {
           .delay(seriesIndex * 120)
           .attr("stroke-dashoffset", 0);
 
+        // Saisons : un écusson à chaque saison jouée ; journées : à l'arrivée
+        if (xLabels) {
+          const dots = g
+            .selectAll(null)
+            .data(series.ranks.map((r, i) => ({ r, i, team: series.team })).filter((d) => d.r != null))
+            .join("g")
+            .attr("transform", (d) => `translate(${x(d.i + 1)},${y(d.r)})`)
+            .attr("opacity", 0);
+          appendSticker(dots, (d) => ({ href: logoFor(d.team), label: `${d.team} : ${d.r}ᵉ`, league, ring: color }), 9);
+          dots.transition().duration(400).delay(seriesIndex * 120 + 500).attr("opacity", 1);
+        }
+        const lastRank = [...series.ranks].reverse().find((r) => r != null);
+        const end = g
+          .append("g")
+          .datum(series)
+          .attr("transform", `translate(${innerWidth},${y(lastRank)})`)
+          .attr("opacity", 0);
+        appendSticker(end, (d) => ({ href: logoFor(d.team), label: d.team, league, ring: color }), 11);
+        end.transition().duration(400).delay(seriesIndex * 120 + 700).attr("opacity", 1);
+
         g.append("text")
-          .attr("x", innerWidth + 8)
-          .attr("y", y(series.ranks[series.ranks.length - 1]))
+          .attr("x", innerWidth + 18)
+          .attr("y", y(lastRank))
           .attr("dy", "0.35em")
           .attr("fill", color)
           .style("font-size", "10px")
@@ -427,7 +504,7 @@ export function RankLineChart({ data, active }) {
           .attr("opacity", 1);
       });
     },
-    [active, data, matchdays]
+    [active, data, matchdays, logoSig]
   );
 
   return <svg ref={ref} viewBox={`0 0 ${WIDTH} ${height}`} className="w-full text-[var(--gambeta-ink)]" />;

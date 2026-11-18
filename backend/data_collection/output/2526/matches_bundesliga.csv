@@ -1,0 +1,309 @@
+date,week,home_team,away_team,home_goals,away_goals
+2025-08-22,1,Bayern Munich,RB Leipzig,6,0
+2025-08-23,1,Frankfurt,Werder Bremen,4,1
+2025-08-23,1,Freiburg,Augsburg,1,3
+2025-08-23,1,Heidenheim,Wolfsburg,1,3
+2025-08-23,1,Leverkusen,Hoffenheim,1,2
+2025-08-23,1,St Pauli,Dortmund,3,3
+2025-08-23,1,Union Berlin,Stuttgart,2,1
+2025-08-24,1,Gladbach,Hamburger SV,0,0
+2025-08-24,1,Mainz 05,Köln,0,1
+2025-08-29,2,Hamburger SV,St Pauli,0,2
+2025-08-30,2,Werder Bremen,Leverkusen,3,3
+2025-08-30,2,Stuttgart,Gladbach,1,0
+2025-08-30,2,Augsburg,Bayern Munich,2,3
+2025-08-30,2,Hoffenheim,Frankfurt,1,3
+2025-08-30,2,RB Leipzig,Heidenheim,2,0
+2025-08-31,2,Dortmund,Union Berlin,3,0
+2025-08-31,2,Köln,Freiburg,4,1
+2025-08-31,2,Wolfsburg,Mainz 05,1,1
+2025-09-12,3,Leverkusen,Frankfurt,3,1
+2025-09-13,3,Union Berlin,Hoffenheim,2,4
+2025-09-13,3,Wolfsburg,Köln,3,3
+2025-09-13,3,Mainz 05,RB Leipzig,0,1
+2025-09-13,3,Bayern Munich,Hamburger SV,5,0
+2025-09-13,3,Freiburg,Stuttgart,3,1
+2025-09-13,3,Heidenheim,Dortmund,0,2
+2025-09-14,3,Gladbach,Werder Bremen,0,4
+2025-09-14,3,St Pauli,Augsburg,2,1
+2025-09-19,4,Stuttgart,St Pauli,2,0
+2025-09-20,4,Augsburg,Mainz 05,1,4
+2025-09-20,4,Hamburger SV,Heidenheim,2,1
+2025-09-20,4,Hoffenheim,Bayern Munich,1,4
+2025-09-20,4,RB Leipzig,Köln,3,1
+2025-09-20,4,Werder Bremen,Freiburg,0,3
+2025-09-21,4,Dortmund,Wolfsburg,1,0
+2025-09-21,4,Frankfurt,Union Berlin,3,4
+2025-09-21,4,Leverkusen,Gladbach,1,1
+2025-09-26,5,Bayern Munich,Werder Bremen,4,0
+2025-09-27,5,Wolfsburg,RB Leipzig,0,1
+2025-09-27,5,St Pauli,Leverkusen,1,2
+2025-09-27,5,Gladbach,Frankfurt,4,6
+2025-09-27,5,Heidenheim,Augsburg,2,1
+2025-09-27,5,Mainz 05,Dortmund,0,2
+2025-09-28,5,Freiburg,Hoffenheim,1,1
+2025-09-28,5,Köln,Stuttgart,1,2
+2025-09-28,5,Union Berlin,Hamburger SV,0,0
+2025-10-03,6,Hoffenheim,Köln,0,1
+2025-10-04,6,Augsburg,Wolfsburg,3,1
+2025-10-04,6,Dortmund,RB Leipzig,1,1
+2025-10-04,6,Leverkusen,Union Berlin,2,0
+2025-10-04,6,Werder Bremen,St Pauli,1,0
+2025-10-04,6,Frankfurt,Bayern Munich,0,3
+2025-10-05,6,Gladbach,Freiburg,0,0
+2025-10-05,6,Hamburger SV,Mainz 05,4,0
+2025-10-05,6,Stuttgart,Heidenheim,1,0
+2025-10-17,7,Union Berlin,Gladbach,3,1
+2025-10-18,7,Mainz 05,Leverkusen,3,4
+2025-10-18,7,RB Leipzig,Hamburger SV,2,1
+2025-10-18,7,Wolfsburg,Stuttgart,0,3
+2025-10-18,7,Köln,Augsburg,1,1
+2025-10-18,7,Bayern Munich,Dortmund,2,1
+2025-10-18,7,Heidenheim,Werder Bremen,2,2
+2025-10-19,7,Freiburg,Frankfurt,2,2
+2025-10-19,7,St Pauli,Hoffenheim,0,3
+2025-10-24,8,Werder Bremen,Union Berlin,1,0
+2025-10-25,8,Augsburg,RB Leipzig,0,6
+2025-10-25,8,Dortmund,Köln,1,0
+2025-10-25,8,Frankfurt,St Pauli,2,0
+2025-10-25,8,Gladbach,Bayern Munich,0,3
+2025-10-25,8,Hamburger SV,Wolfsburg,0,1
+2025-10-25,8,Hoffenheim,Heidenheim,3,1
+2025-10-26,8,Leverkusen,Freiburg,2,0
+2025-10-26,8,Stuttgart,Mainz 05,2,1
+2025-10-31,9,Augsburg,Dortmund,0,1
+2025-11-01,9,Union Berlin,Freiburg,0,0
+2025-11-01,9,St Pauli,Gladbach,0,4
+2025-11-01,9,RB Leipzig,Stuttgart,3,1
+2025-11-01,9,Mainz 05,Werder Bremen,1,1
+2025-11-01,9,Heidenheim,Frankfurt,1,1
+2025-11-01,9,Bayern Munich,Leverkusen,3,0
+2025-11-02,9,Köln,Hamburger SV,4,1
+2025-11-02,9,Wolfsburg,Hoffenheim,2,3
+2025-11-07,10,Werder Bremen,Wolfsburg,2,1
+2025-11-08,10,Union Berlin,Bayern Munich,2,2
+2025-11-08,10,Leverkusen,Heidenheim,6,0
+2025-11-08,10,Hoffenheim,RB Leipzig,3,1
+2025-11-08,10,Hamburger SV,Dortmund,1,1
+2025-11-08,10,Gladbach,Köln,3,1
+2025-11-09,10,Frankfurt,Mainz 05,1,0
+2025-11-09,10,Freiburg,St Pauli,2,1
+2025-11-09,10,Stuttgart,Augsburg,3,2
+2025-11-21,11,Mainz 05,Hoffenheim,1,1
+2025-11-22,11,Wolfsburg,Leverkusen,1,3
+2025-11-22,11,Köln,Frankfurt,3,4
+2025-11-22,11,Dortmund,Stuttgart,3,3
+2025-11-22,11,Bayern Munich,Freiburg,6,2
+2025-11-22,11,Augsburg,Hamburger SV,1,0
+2025-11-22,11,Heidenheim,Gladbach,0,3
+2025-11-23,11,RB Leipzig,Werder Bremen,2,0
+2025-11-23,11,St Pauli,Union Berlin,0,1
+2025-11-28,12,Gladbach,RB Leipzig,0,0
+2025-11-29,12,Bayern Munich,St Pauli,3,1
+2025-11-29,12,Hoffenheim,Augsburg,3,0
+2025-11-29,12,Leverkusen,Dortmund,1,2
+2025-11-29,12,Union Berlin,Heidenheim,1,2
+2025-11-29,12,Werder Bremen,Köln,1,1
+2025-11-30,12,Hamburger SV,Stuttgart,2,1
+2025-11-30,12,Frankfurt,Wolfsburg,1,1
+2025-11-30,12,Freiburg,Mainz 05,4,0
+2025-12-05,13,Mainz 05,Gladbach,0,1
+2025-12-06,13,Wolfsburg,Union Berlin,3,1
+2025-12-06,13,RB Leipzig,Frankfurt,6,0
+2025-12-06,13,Stuttgart,Bayern Munich,0,5
+2025-12-06,13,Heidenheim,Freiburg,2,1
+2025-12-06,13,Augsburg,Leverkusen,2,0
+2025-12-06,13,Köln,St Pauli,1,1
+2025-12-07,13,Dortmund,Hoffenheim,2,0
+2025-12-07,13,Hamburger SV,Werder Bremen,3,2
+2025-12-12,14,Union Berlin,RB Leipzig,3,1
+2025-12-13,14,St Pauli,Heidenheim,2,1
+2025-12-13,14,Leverkusen,Köln,2,0
+2025-12-13,14,Hoffenheim,Hamburger SV,4,1
+2025-12-13,14,Frankfurt,Augsburg,1,0
+2025-12-13,14,Gladbach,Wolfsburg,1,3
+2025-12-14,14,Bayern Munich,Mainz 05,2,2
+2025-12-14,14,Freiburg,Dortmund,1,1
+2025-12-14,14,Werder Bremen,Stuttgart,0,4
+2025-12-19,15,Dortmund,Gladbach,2,0
+2025-12-20,15,Wolfsburg,Freiburg,3,4
+2025-12-20,15,RB Leipzig,Leverkusen,1,3
+2025-12-20,15,Stuttgart,Hoffenheim,0,0
+2025-12-20,15,Hamburger SV,Frankfurt,1,1
+2025-12-20,15,Augsburg,Werder Bremen,0,0
+2025-12-20,15,Köln,Union Berlin,0,1
+2025-12-21,15,Heidenheim,Bayern Munich,0,4
+2025-12-21,15,Mainz 05,St Pauli,0,0
+2026-01-09,16,Frankfurt,Dortmund,3,3
+2026-01-10,16,Freiburg,Hamburger SV,2,1
+2026-01-10,16,Heidenheim,Köln,2,2
+2026-01-10,16,Leverkusen,Stuttgart,1,4
+2026-01-10,16,Union Berlin,Mainz 05,2,2
+2026-01-11,16,Gladbach,Augsburg,4,0
+2026-01-11,16,Bayern Munich,Wolfsburg,8,1
+2026-01-13,17,Dortmund,Werder Bremen,3,0
+2026-01-13,17,Mainz 05,Heidenheim,2,1
+2026-01-13,17,Stuttgart,Frankfurt,3,2
+2026-01-14,17,Hoffenheim,Gladbach,5,1
+2026-01-14,17,Köln,Bayern Munich,1,3
+2026-01-14,17,RB Leipzig,Freiburg,2,0
+2026-01-14,17,Wolfsburg,St Pauli,2,1
+2026-01-15,17,Augsburg,Union Berlin,1,1
+2026-01-16,18,Werder Bremen,Frankfurt,3,3
+2026-01-17,18,RB Leipzig,Bayern Munich,1,5
+2026-01-17,18,Wolfsburg,Heidenheim,1,1
+2026-01-17,18,Köln,Mainz 05,2,1
+2026-01-17,18,Hoffenheim,Leverkusen,1,0
+2026-01-17,18,Hamburger SV,Gladbach,0,0
+2026-01-17,18,Dortmund,St Pauli,3,2
+2026-01-18,18,Augsburg,Freiburg,2,2
+2026-01-18,18,Stuttgart,Union Berlin,1,1
+2026-01-23,19,St Pauli,Hamburger SV,0,0
+2026-01-24,19,Union Berlin,Dortmund,0,3
+2026-01-24,19,Leverkusen,Werder Bremen,1,0
+2026-01-24,19,Mainz 05,Wolfsburg,3,1
+2026-01-24,19,Frankfurt,Hoffenheim,1,3
+2026-01-24,19,Bayern Munich,Augsburg,1,2
+2026-01-24,19,Heidenheim,RB Leipzig,0,3
+2026-01-25,19,Freiburg,Köln,2,1
+2026-01-25,19,Gladbach,Stuttgart,0,3
+2026-01-27,16,St Pauli,RB Leipzig,1,1
+2026-01-27,16,Werder Bremen,Hoffenheim,0,2
+2026-01-30,20,Köln,Wolfsburg,1,0
+2026-01-31,20,RB Leipzig,Mainz 05,1,2
+2026-01-31,20,Werder Bremen,Gladbach,1,1
+2026-01-31,20,Hoffenheim,Union Berlin,3,1
+2026-01-31,20,Frankfurt,Leverkusen,1,3
+2026-01-31,20,Augsburg,St Pauli,2,1
+2026-01-31,20,Hamburger SV,Bayern Munich,2,2
+2026-02-01,20,Dortmund,Heidenheim,3,2
+2026-02-01,20,Stuttgart,Freiburg,1,0
+2026-02-06,21,Union Berlin,Frankfurt,1,1
+2026-02-07,21,Freiburg,Werder Bremen,1,0
+2026-02-07,21,Gladbach,Leverkusen,1,1
+2026-02-07,21,Heidenheim,Hamburger SV,0,2
+2026-02-07,21,Mainz 05,Augsburg,2,0
+2026-02-07,21,St Pauli,Stuttgart,2,1
+2026-02-07,21,Wolfsburg,Dortmund,1,2
+2026-02-08,21,Bayern Munich,Hoffenheim,5,1
+2026-02-08,21,Köln,RB Leipzig,1,2
+2026-02-13,22,Dortmund,Mainz 05,4,0
+2026-02-14,22,Werder Bremen,Bayern Munich,0,3
+2026-02-14,22,Leverkusen,St Pauli,4,0
+2026-02-14,22,Stuttgart,Köln,3,1
+2026-02-14,22,Hamburger SV,Union Berlin,3,2
+2026-02-14,22,Hoffenheim,Freiburg,3,0
+2026-02-14,22,Frankfurt,Gladbach,3,0
+2026-02-15,22,Augsburg,Heidenheim,1,0
+2026-02-15,22,RB Leipzig,Wolfsburg,2,2
+2026-02-20,23,Mainz 05,Hamburger SV,1,1
+2026-02-21,23,Wolfsburg,Augsburg,2,3
+2026-02-21,23,Union Berlin,Leverkusen,1,0
+2026-02-21,23,RB Leipzig,Dortmund,2,2
+2026-02-21,23,Köln,Hoffenheim,2,2
+2026-02-21,23,Bayern Munich,Frankfurt,3,2
+2026-02-22,23,Freiburg,Gladbach,2,1
+2026-02-22,23,Heidenheim,Stuttgart,3,3
+2026-02-22,23,St Pauli,Werder Bremen,2,1
+2026-02-27,24,Augsburg,Köln,2,0
+2026-02-28,24,Leverkusen,Mainz 05,1,1
+2026-02-28,24,Hoffenheim,St Pauli,0,1
+2026-02-28,24,Werder Bremen,Heidenheim,2,0
+2026-02-28,24,Dortmund,Bayern Munich,2,3
+2026-02-28,24,Gladbach,Union Berlin,1,0
+2026-03-01,24,Frankfurt,Freiburg,2,0
+2026-03-01,24,Hamburger SV,RB Leipzig,1,2
+2026-03-01,24,Stuttgart,Wolfsburg,4,0
+2026-03-04,17,Hamburger SV,Leverkusen,0,1
+2026-03-06,25,Bayern Munich,Gladbach,4,1
+2026-03-07,25,Wolfsburg,Hamburger SV,1,2
+2026-03-07,25,RB Leipzig,Augsburg,2,1
+2026-03-07,25,Mainz 05,Stuttgart,2,2
+2026-03-07,25,Heidenheim,Hoffenheim,2,4
+2026-03-07,25,Freiburg,Leverkusen,3,3
+2026-03-07,25,Köln,Dortmund,1,2
+2026-03-08,25,St Pauli,Frankfurt,0,0
+2026-03-08,25,Union Berlin,Werder Bremen,1,4
+2026-03-13,26,Gladbach,St Pauli,2,0
+2026-03-14,26,Leverkusen,Bayern Munich,1,1
+2026-03-14,26,Dortmund,Augsburg,2,0
+2026-03-14,26,Frankfurt,Heidenheim,1,0
+2026-03-14,26,Hamburger SV,Köln,1,1
+2026-03-14,26,Hoffenheim,Wolfsburg,1,1
+2026-03-15,26,Werder Bremen,Mainz 05,0,2
+2026-03-15,26,Freiburg,Union Berlin,0,1
+2026-03-15,26,Stuttgart,RB Leipzig,1,0
+2026-03-20,27,RB Leipzig,Hoffenheim,5,0
+2026-03-21,27,Bayern Munich,Union Berlin,4,0
+2026-03-21,27,Dortmund,Hamburger SV,3,2
+2026-03-21,27,Heidenheim,Leverkusen,3,3
+2026-03-21,27,Köln,Gladbach,3,3
+2026-03-21,27,Wolfsburg,Werder Bremen,0,1
+2026-03-22,27,St Pauli,Freiburg,1,2
+2026-03-22,27,Mainz 05,Frankfurt,2,1
+2026-03-22,27,Augsburg,Stuttgart,2,5
+2026-04-04,28,Freiburg,Bayern Munich,2,3
+2026-04-04,28,Gladbach,Heidenheim,2,2
+2026-04-04,28,Hamburger SV,Augsburg,1,1
+2026-04-04,28,Hoffenheim,Mainz 05,1,2
+2026-04-04,28,Leverkusen,Wolfsburg,6,3
+2026-04-04,28,Stuttgart,Dortmund,0,2
+2026-04-04,28,Werder Bremen,RB Leipzig,1,2
+2026-04-05,28,Union Berlin,St Pauli,1,1
+2026-04-05,28,Frankfurt,Köln,2,2
+2026-04-10,29,Augsburg,Hoffenheim,2,2
+2026-04-11,29,Dortmund,Leverkusen,0,1
+2026-04-11,29,Heidenheim,Union Berlin,3,1
+2026-04-11,29,RB Leipzig,Gladbach,1,0
+2026-04-11,29,St Pauli,Bayern Munich,0,5
+2026-04-11,29,Wolfsburg,Frankfurt,1,2
+2026-04-12,29,Stuttgart,Hamburger SV,4,0
+2026-04-12,29,Köln,Werder Bremen,3,1
+2026-04-12,29,Mainz 05,Freiburg,0,1
+2026-04-17,30,St Pauli,Köln,1,1
+2026-04-18,30,Frankfurt,RB Leipzig,1,3
+2026-04-18,30,Hoffenheim,Dortmund,2,1
+2026-04-18,30,Leverkusen,Augsburg,1,2
+2026-04-18,30,Union Berlin,Wolfsburg,1,2
+2026-04-18,30,Werder Bremen,Hamburger SV,3,1
+2026-04-19,30,Freiburg,Heidenheim,2,1
+2026-04-19,30,Bayern Munich,Stuttgart,4,2
+2026-04-19,30,Gladbach,Mainz 05,1,1
+2026-04-24,31,RB Leipzig,Union Berlin,3,1
+2026-04-25,31,Augsburg,Frankfurt,1,1
+2026-04-25,31,Hamburger SV,Hoffenheim,1,2
+2026-04-25,31,Heidenheim,St Pauli,2,0
+2026-04-25,31,Köln,Leverkusen,1,2
+2026-04-25,31,Mainz 05,Bayern Munich,3,4
+2026-04-25,31,Wolfsburg,Gladbach,0,0
+2026-04-26,31,Dortmund,Freiburg,4,0
+2026-04-26,31,Stuttgart,Werder Bremen,1,1
+2026-05-02,32,Werder Bremen,Augsburg,1,3
+2026-05-02,32,Union Berlin,Köln,2,2
+2026-05-02,32,Leverkusen,RB Leipzig,4,1
+2026-05-02,32,Bayern Munich,Heidenheim,3,3
+2026-05-02,32,Frankfurt,Hamburger SV,1,2
+2026-05-02,32,Hoffenheim,Stuttgart,3,3
+2026-05-03,32,Gladbach,Dortmund,1,0
+2026-05-03,32,Freiburg,Wolfsburg,1,1
+2026-05-03,32,St Pauli,Mainz 05,1,2
+2026-05-08,33,Dortmund,Frankfurt,3,2
+2026-05-09,33,Augsburg,Gladbach,3,1
+2026-05-09,33,Hoffenheim,Werder Bremen,1,0
+2026-05-09,33,RB Leipzig,St Pauli,2,1
+2026-05-09,33,Stuttgart,Leverkusen,3,1
+2026-05-09,33,Wolfsburg,Bayern Munich,0,1
+2026-05-10,33,Hamburger SV,Freiburg,3,2
+2026-05-10,33,Köln,Heidenheim,1,3
+2026-05-10,33,Mainz 05,Union Berlin,1,3
+2026-05-16,34,St Pauli,Wolfsburg,1,3
+2026-05-16,34,Leverkusen,Hamburger SV,1,1
+2026-05-16,34,Heidenheim,Mainz 05,0,2
+2026-05-16,34,Bayern Munich,Köln,5,1
+2026-05-16,34,Freiburg,RB Leipzig,4,1
+2026-05-16,34,Frankfurt,Stuttgart,2,2
+2026-05-16,34,Union Berlin,Augsburg,4,0
+2026-05-16,34,Gladbach,Hoffenheim,4,0
+2026-05-16,34,Werder Bremen,Dortmund,0,2
+2026-05-21,,Wolfsburg,Paderborn 07,0,0
+2026-05-25,,Paderborn 07,Wolfsburg,2,1

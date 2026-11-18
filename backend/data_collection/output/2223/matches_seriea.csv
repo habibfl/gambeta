@@ -1,0 +1,382 @@
+date,week,home_team,away_team,home_goals,away_goals
+2022-08-13,1,Lecce,Inter,1,2
+2022-08-13,1,Milan,Udinese,4,2
+2022-08-13,1,Monza,Torino,1,2
+2022-08-13,1,Sampdoria,Atalanta,0,2
+2022-08-14,1,Fiorentina,Cremonese,3,2
+2022-08-14,1,Lazio,Bologna,2,1
+2022-08-14,1,Salernitana,Roma,0,1
+2022-08-14,1,Spezia,Empoli,1,0
+2022-08-15,1,Hellas Verona,Napoli,2,5
+2022-08-15,1,Juventus,Sassuolo,3,0
+2022-08-20,2,Udinese,Salernitana,0,0
+2022-08-20,2,Torino,Lazio,0,0
+2022-08-20,2,Sassuolo,Lecce,1,0
+2022-08-20,2,Inter,Spezia,3,0
+2022-08-21,2,Atalanta,Milan,1,1
+2022-08-21,2,Bologna,Hellas Verona,1,1
+2022-08-21,2,Empoli,Fiorentina,0,0
+2022-08-21,2,Napoli,Monza,4,0
+2022-08-22,2,Roma,Cremonese,1,0
+2022-08-22,2,Sampdoria,Juventus,0,0
+2022-08-26,3,Lazio,Inter,3,1
+2022-08-26,3,Monza,Udinese,1,2
+2022-08-27,3,Spezia,Sassuolo,2,2
+2022-08-27,3,Milan,Bologna,2,0
+2022-08-27,3,Juventus,Roma,1,1
+2022-08-27,3,Cremonese,Torino,1,2
+2022-08-28,3,Fiorentina,Napoli,0,0
+2022-08-28,3,Hellas Verona,Atalanta,0,1
+2022-08-28,3,Lecce,Empoli,1,1
+2022-08-28,3,Salernitana,Sampdoria,4,0
+2022-08-30,4,Inter,Cremonese,3,1
+2022-08-30,4,Roma,Monza,3,0
+2022-08-30,4,Sassuolo,Milan,0,0
+2022-08-31,4,Udinese,Fiorentina,1,0
+2022-08-31,4,Napoli,Lecce,1,1
+2022-08-31,4,Sampdoria,Lazio,1,1
+2022-08-31,4,Empoli,Hellas Verona,1,1
+2022-08-31,4,Juventus,Spezia,2,0
+2022-09-01,4,Atalanta,Torino,3,1
+2022-09-01,4,Bologna,Salernitana,1,1
+2022-09-03,5,Fiorentina,Juventus,1,1
+2022-09-03,5,Lazio,Napoli,1,2
+2022-09-03,5,Milan,Inter,3,2
+2022-09-04,5,Udinese,Roma,4,0
+2022-09-04,5,Cremonese,Sassuolo,0,0
+2022-09-04,5,Hellas Verona,Sampdoria,2,1
+2022-09-04,5,Spezia,Bologna,2,2
+2022-09-05,5,Torino,Lecce,1,0
+2022-09-05,5,Monza,Atalanta,0,2
+2022-09-05,5,Salernitana,Empoli,2,2
+2022-09-10,6,Inter,Torino,1,0
+2022-09-10,6,Napoli,Spezia,1,0
+2022-09-10,6,Sampdoria,Milan,1,2
+2022-09-11,6,Atalanta,Cremonese,1,1
+2022-09-11,6,Bologna,Fiorentina,2,1
+2022-09-11,6,Juventus,Salernitana,2,2
+2022-09-11,6,Lazio,Hellas Verona,2,0
+2022-09-11,6,Lecce,Monza,1,1
+2022-09-11,6,Sassuolo,Udinese,1,3
+2022-09-12,6,Empoli,Roma,1,2
+2022-09-16,7,Salernitana,Lecce,1,2
+2022-09-17,7,Bologna,Empoli,0,1
+2022-09-17,7,Spezia,Sampdoria,2,1
+2022-09-17,7,Torino,Sassuolo,0,1
+2022-09-18,7,Cremonese,Lazio,0,4
+2022-09-18,7,Fiorentina,Hellas Verona,2,0
+2022-09-18,7,Milan,Napoli,1,2
+2022-09-18,7,Monza,Juventus,1,0
+2022-09-18,7,Roma,Atalanta,0,1
+2022-09-18,7,Udinese,Inter,3,1
+2022-10-01,8,Napoli,Torino,3,1
+2022-10-01,8,Inter,Roma,1,2
+2022-10-01,8,Empoli,Milan,1,3
+2022-10-02,8,Atalanta,Fiorentina,1,0
+2022-10-02,8,Juventus,Bologna,3,0
+2022-10-02,8,Lazio,Spezia,4,0
+2022-10-02,8,Lecce,Cremonese,1,1
+2022-10-02,8,Sampdoria,Monza,0,3
+2022-10-02,8,Sassuolo,Salernitana,5,0
+2022-10-03,8,Hellas Verona,Udinese,1,2
+2022-10-08,9,Milan,Juventus,2,0
+2022-10-08,9,Sassuolo,Inter,1,2
+2022-10-08,9,Bologna,Sampdoria,1,1
+2022-10-09,9,Cremonese,Napoli,1,4
+2022-10-09,9,Monza,Spezia,2,0
+2022-10-09,9,Roma,Lecce,2,1
+2022-10-09,9,Salernitana,Hellas Verona,2,1
+2022-10-09,9,Torino,Empoli,1,1
+2022-10-09,9,Udinese,Atalanta,2,2
+2022-10-10,9,Fiorentina,Lazio,0,4
+2022-10-15,10,Empoli,Monza,1,0
+2022-10-15,10,Atalanta,Sassuolo,2,1
+2022-10-15,10,Torino,Juventus,0,1
+2022-10-16,10,Spezia,Cremonese,2,2
+2022-10-16,10,Napoli,Bologna,3,2
+2022-10-16,10,Lazio,Udinese,0,0
+2022-10-16,10,Inter,Salernitana,2,0
+2022-10-16,10,Hellas Verona,Milan,1,2
+2022-10-17,10,Lecce,Fiorentina,1,1
+2022-10-17,10,Sampdoria,Roma,0,1
+2022-10-21,11,Juventus,Empoli,4,0
+2022-10-22,11,Fiorentina,Inter,3,4
+2022-10-22,11,Milan,Monza,4,1
+2022-10-22,11,Salernitana,Spezia,1,0
+2022-10-23,11,Roma,Napoli,0,1
+2022-10-23,11,Udinese,Torino,1,2
+2022-10-23,11,Atalanta,Lazio,0,2
+2022-10-23,11,Bologna,Lecce,2,0
+2022-10-24,11,Cremonese,Sampdoria,0,1
+2022-10-24,11,Sassuolo,Hellas Verona,2,1
+2022-10-29,12,Inter,Sampdoria,3,0
+2022-10-29,12,Lecce,Juventus,0,1
+2022-10-29,12,Napoli,Sassuolo,4,0
+2022-10-30,12,Torino,Milan,2,1
+2022-10-30,12,Cremonese,Udinese,0,0
+2022-10-30,12,Empoli,Atalanta,0,2
+2022-10-30,12,Lazio,Salernitana,1,3
+2022-10-30,12,Spezia,Fiorentina,1,2
+2022-10-31,12,Monza,Bologna,1,2
+2022-10-31,12,Hellas Verona,Roma,1,3
+2022-11-04,13,Udinese,Lecce,1,1
+2022-11-05,13,Atalanta,Napoli,1,2
+2022-11-05,13,Empoli,Sassuolo,1,0
+2022-11-05,13,Milan,Spezia,2,1
+2022-11-05,13,Salernitana,Cremonese,2,2
+2022-11-06,13,Bologna,Torino,2,1
+2022-11-06,13,Juventus,Inter,2,0
+2022-11-06,13,Monza,Hellas Verona,2,0
+2022-11-06,13,Roma,Lazio,0,1
+2022-11-06,13,Sampdoria,Fiorentina,0,2
+2022-11-08,14,Spezia,Udinese,1,1
+2022-11-08,14,Cremonese,Milan,0,0
+2022-11-08,14,Napoli,Empoli,2,0
+2022-11-09,14,Fiorentina,Salernitana,2,1
+2022-11-09,14,Inter,Bologna,6,1
+2022-11-09,14,Lecce,Atalanta,2,1
+2022-11-09,14,Sassuolo,Roma,1,1
+2022-11-09,14,Torino,Sampdoria,2,0
+2022-11-10,14,Hellas Verona,Juventus,0,1
+2022-11-10,14,Lazio,Monza,1,0
+2022-11-11,15,Empoli,Cremonese,2,0
+2022-11-12,15,Napoli,Udinese,3,2
+2022-11-12,15,Sampdoria,Lecce,0,2
+2022-11-12,15,Bologna,Sassuolo,3,0
+2022-11-13,15,Atalanta,Inter,2,3
+2022-11-13,15,Hellas Verona,Spezia,1,2
+2022-11-13,15,Juventus,Lazio,3,0
+2022-11-13,15,Milan,Fiorentina,2,1
+2022-11-13,15,Monza,Salernitana,3,0
+2022-11-13,15,Roma,Torino,1,1
+2023-01-04,16,Udinese,Empoli,1,1
+2023-01-04,16,Torino,Hellas Verona,1,1
+2023-01-04,16,Spezia,Atalanta,2,2
+2023-01-04,16,Sassuolo,Sampdoria,1,2
+2023-01-04,16,Salernitana,Milan,1,2
+2023-01-04,16,Lecce,Lazio,2,1
+2023-01-04,16,Inter,Napoli,1,0
+2023-01-04,16,Fiorentina,Monza,1,1
+2023-01-04,16,Cremonese,Juventus,0,1
+2023-01-04,16,Roma,Bologna,1,0
+2023-01-07,17,Fiorentina,Sassuolo,2,1
+2023-01-07,17,Juventus,Udinese,1,0
+2023-01-07,17,Monza,Inter,2,2
+2023-01-08,17,Spezia,Lecce,0,0
+2023-01-08,17,Sampdoria,Napoli,0,2
+2023-01-08,17,Salernitana,Torino,1,1
+2023-01-08,17,Milan,Roma,2,2
+2023-01-08,17,Lazio,Empoli,2,2
+2023-01-09,17,Bologna,Atalanta,1,2
+2023-01-09,17,Hellas Verona,Cremonese,2,0
+2023-01-13,18,Napoli,Juventus,5,1
+2023-01-14,18,Cremonese,Monza,2,3
+2023-01-14,18,Inter,Hellas Verona,1,0
+2023-01-14,18,Lecce,Milan,2,2
+2023-01-15,18,Udinese,Bologna,1,2
+2023-01-15,18,Sassuolo,Lazio,0,2
+2023-01-15,18,Torino,Spezia,0,1
+2023-01-15,18,Atalanta,Salernitana,8,2
+2023-01-15,18,Roma,Fiorentina,2,0
+2023-01-16,18,Empoli,Sampdoria,1,0
+2023-01-21,19,Fiorentina,Torino,0,1
+2023-01-21,19,Hellas Verona,Lecce,2,0
+2023-01-21,19,Salernitana,Napoli,0,2
+2023-01-22,19,Juventus,Atalanta,3,3
+2023-01-22,19,Monza,Sassuolo,1,1
+2023-01-22,19,Sampdoria,Udinese,0,1
+2023-01-22,19,Spezia,Roma,0,2
+2023-01-23,19,Bologna,Cremonese,1,1
+2023-01-23,19,Inter,Empoli,0,1
+2023-01-24,19,Lazio,Milan,4,0
+2023-01-27,20,Lecce,Salernitana,1,2
+2023-01-27,20,Bologna,Spezia,2,0
+2023-01-28,20,Atalanta,Sampdoria,2,0
+2023-01-28,20,Cremonese,Inter,1,2
+2023-01-28,20,Empoli,Torino,2,2
+2023-01-29,20,Juventus,Monza,0,2
+2023-01-29,20,Lazio,Fiorentina,1,1
+2023-01-29,20,Milan,Sassuolo,2,5
+2023-01-29,20,Napoli,Roma,2,1
+2023-01-30,20,Udinese,Hellas Verona,1,1
+2023-02-04,21,Cremonese,Lecce,0,2
+2023-02-04,21,Roma,Empoli,2,0
+2023-02-04,21,Sassuolo,Atalanta,1,0
+2023-02-05,21,Torino,Udinese,1,0
+2023-02-05,21,Spezia,Napoli,0,3
+2023-02-05,21,Fiorentina,Bologna,1,2
+2023-02-05,21,Inter,Milan,1,0
+2023-02-06,21,Hellas Verona,Lazio,1,1
+2023-02-06,21,Monza,Sampdoria,2,2
+2023-02-07,21,Salernitana,Juventus,0,3
+2023-02-10,22,Milan,Torino,1,0
+2023-02-11,22,Empoli,Spezia,2,2
+2023-02-11,22,Lazio,Atalanta,0,2
+2023-02-11,22,Lecce,Roma,1,1
+2023-02-12,22,Udinese,Sassuolo,2,2
+2023-02-12,22,Napoli,Cremonese,3,0
+2023-02-12,22,Juventus,Fiorentina,1,0
+2023-02-12,22,Bologna,Monza,0,1
+2023-02-13,22,Hellas Verona,Salernitana,1,0
+2023-02-13,22,Sampdoria,Inter,0,0
+2023-02-17,23,Sassuolo,Napoli,0,2
+2023-02-18,23,Inter,Udinese,3,1
+2023-02-18,23,Monza,Milan,0,1
+2023-02-18,23,Sampdoria,Bologna,1,2
+2023-02-19,23,Spezia,Juventus,0,2
+2023-02-19,23,Roma,Hellas Verona,1,0
+2023-02-19,23,Salernitana,Lazio,0,2
+2023-02-19,23,Atalanta,Lecce,1,2
+2023-02-19,23,Fiorentina,Empoli,1,1
+2023-02-20,23,Torino,Cremonese,2,2
+2023-02-25,24,Empoli,Napoli,0,2
+2023-02-25,24,Lecce,Sassuolo,0,1
+2023-02-26,24,Bologna,Inter,1,0
+2023-02-26,24,Milan,Atalanta,2,0
+2023-02-26,24,Salernitana,Monza,3,0
+2023-02-26,24,Udinese,Spezia,2,2
+2023-02-27,24,Lazio,Sampdoria,1,0
+2023-02-27,24,Hellas Verona,Fiorentina,0,3
+2023-02-28,24,Juventus,Torino,4,2
+2023-02-28,24,Cremonese,Roma,2,1
+2023-03-03,25,Napoli,Lazio,0,1
+2023-03-04,25,Atalanta,Udinese,0,0
+2023-03-04,25,Fiorentina,Milan,2,1
+2023-03-04,25,Monza,Empoli,2,1
+2023-03-05,25,Inter,Lecce,2,0
+2023-03-05,25,Roma,Juventus,1,0
+2023-03-05,25,Sampdoria,Salernitana,0,0
+2023-03-05,25,Spezia,Hellas Verona,0,0
+2023-03-06,25,Sassuolo,Cremonese,3,2
+2023-03-06,25,Torino,Bologna,1,0
+2023-03-10,26,Spezia,Inter,2,1
+2023-03-11,26,Napoli,Atalanta,2,0
+2023-03-11,26,Bologna,Lazio,0,0
+2023-03-11,26,Empoli,Udinese,0,1
+2023-03-12,26,Cremonese,Fiorentina,0,2
+2023-03-12,26,Hellas Verona,Monza,1,1
+2023-03-12,26,Juventus,Sampdoria,4,2
+2023-03-12,26,Lecce,Torino,0,2
+2023-03-12,26,Roma,Sassuolo,3,4
+2023-03-13,26,Milan,Salernitana,1,1
+2023-03-17,27,Sassuolo,Spezia,1,0
+2023-03-17,27,Atalanta,Empoli,2,1
+2023-03-18,27,Udinese,Milan,3,1
+2023-03-18,27,Monza,Cremonese,1,1
+2023-03-18,27,Salernitana,Bologna,2,2
+2023-03-19,27,Fiorentina,Lecce,1,0
+2023-03-19,27,Inter,Juventus,0,1
+2023-03-19,27,Lazio,Roma,1,0
+2023-03-19,27,Sampdoria,Hellas Verona,3,1
+2023-03-19,27,Torino,Napoli,0,4
+2023-04-01,28,Cremonese,Atalanta,1,3
+2023-04-01,28,Inter,Fiorentina,0,1
+2023-04-01,28,Juventus,Hellas Verona,1,0
+2023-04-02,28,Monza,Lazio,0,2
+2023-04-02,28,Spezia,Salernitana,1,1
+2023-04-02,28,Roma,Sampdoria,3,0
+2023-04-02,28,Bologna,Udinese,3,0
+2023-04-02,28,Napoli,Milan,0,4
+2023-04-03,28,Empoli,Lecce,1,0
+2023-04-03,28,Sassuolo,Torino,1,1
+2023-04-07,29,Milan,Empoli,0,0
+2023-04-07,29,Lecce,Napoli,1,2
+2023-04-07,29,Salernitana,Inter,1,1
+2023-04-08,29,Torino,Roma,0,1
+2023-04-08,29,Udinese,Monza,2,2
+2023-04-08,29,Sampdoria,Cremonese,2,3
+2023-04-08,29,Lazio,Juventus,2,1
+2023-04-08,29,Hellas Verona,Sassuolo,2,1
+2023-04-08,29,Fiorentina,Spezia,1,1
+2023-04-08,29,Atalanta,Bologna,0,2
+2023-04-14,30,Cremonese,Empoli,1,0
+2023-04-14,30,Spezia,Lazio,0,3
+2023-04-15,30,Bologna,Milan,1,1
+2023-04-15,30,Inter,Monza,0,1
+2023-04-15,30,Napoli,Hellas Verona,0,0
+2023-04-16,30,Sassuolo,Juventus,1,0
+2023-04-16,30,Torino,Salernitana,1,1
+2023-04-16,30,Lecce,Sampdoria,1,1
+2023-04-16,30,Roma,Udinese,3,0
+2023-04-17,30,Fiorentina,Atalanta,1,1
+2023-04-21,31,Hellas Verona,Bologna,2,1
+2023-04-22,31,Lazio,Torino,0,1
+2023-04-22,31,Salernitana,Sassuolo,3,0
+2023-04-22,31,Sampdoria,Spezia,1,1
+2023-04-23,31,Empoli,Inter,0,3
+2023-04-23,31,Juventus,Napoli,0,1
+2023-04-23,31,Milan,Lecce,2,0
+2023-04-23,31,Monza,Fiorentina,3,2
+2023-04-23,31,Udinese,Cremonese,3,0
+2023-04-24,31,Atalanta,Roma,3,1
+2023-04-28,32,Spezia,Monza,0,2
+2023-04-28,32,Lecce,Udinese,1,0
+2023-04-29,32,Roma,Milan,1,1
+2023-04-29,32,Torino,Atalanta,1,2
+2023-04-30,32,Bologna,Juventus,1,1
+2023-04-30,32,Cremonese,Hellas Verona,1,1
+2023-04-30,32,Fiorentina,Sampdoria,5,0
+2023-04-30,32,Inter,Lazio,3,1
+2023-04-30,32,Napoli,Salernitana,1,1
+2023-04-30,32,Sassuolo,Empoli,2,1
+2023-05-03,33,Sampdoria,Torino,0,2
+2023-05-03,33,Salernitana,Fiorentina,3,3
+2023-05-03,33,Monza,Roma,1,1
+2023-05-03,33,Milan,Cremonese,1,1
+2023-05-03,33,Lazio,Sassuolo,2,0
+2023-05-03,33,Juventus,Lecce,2,1
+2023-05-03,33,Hellas Verona,Inter,0,6
+2023-05-03,33,Atalanta,Spezia,3,2
+2023-05-04,33,Empoli,Bologna,3,1
+2023-05-04,33,Udinese,Napoli,1,1
+2023-05-06,34,Cremonese,Spezia,2,0
+2023-05-06,34,Milan,Lazio,2,0
+2023-05-06,34,Roma,Inter,0,2
+2023-05-07,34,Torino,Monza,1,1
+2023-05-07,34,Napoli,Fiorentina,1,0
+2023-05-07,34,Atalanta,Juventus,0,2
+2023-05-07,34,Lecce,Hellas Verona,0,1
+2023-05-08,34,Empoli,Salernitana,2,1
+2023-05-08,34,Sassuolo,Bologna,1,1
+2023-05-08,34,Udinese,Sampdoria,2,0
+2023-05-12,35,Lazio,Lecce,2,2
+2023-05-13,35,Inter,Sassuolo,4,2
+2023-05-13,35,Salernitana,Atalanta,1,0
+2023-05-13,35,Spezia,Milan,2,0
+2023-05-14,35,Monza,Napoli,2,0
+2023-05-14,35,Hellas Verona,Torino,0,1
+2023-05-14,35,Juventus,Cremonese,2,0
+2023-05-14,35,Bologna,Roma,0,0
+2023-05-14,35,Fiorentina,Udinese,2,0
+2023-05-15,35,Sampdoria,Empoli,1,1
+2023-05-19,36,Sassuolo,Monza,1,2
+2023-05-20,36,Atalanta,Hellas Verona,3,1
+2023-05-20,36,Cremonese,Bologna,1,5
+2023-05-20,36,Milan,Sampdoria,5,1
+2023-05-21,36,Udinese,Lazio,0,1
+2023-05-21,36,Lecce,Spezia,0,0
+2023-05-21,36,Torino,Fiorentina,1,1
+2023-05-21,36,Napoli,Inter,3,1
+2023-05-22,36,Roma,Salernitana,2,2
+2023-05-22,36,Empoli,Juventus,4,1
+2023-05-26,37,Sampdoria,Sassuolo,2,2
+2023-05-27,37,Fiorentina,Roma,2,1
+2023-05-27,37,Inter,Atalanta,3,2
+2023-05-27,37,Salernitana,Udinese,3,2
+2023-05-27,37,Spezia,Torino,0,4
+2023-05-28,37,Bologna,Napoli,2,2
+2023-05-28,37,Hellas Verona,Empoli,1,1
+2023-05-28,37,Juventus,Milan,0,1
+2023-05-28,37,Lazio,Cremonese,3,2
+2023-05-28,37,Monza,Lecce,0,1
+2023-06-02,38,Sassuolo,Fiorentina,1,3
+2023-06-03,38,Cremonese,Salernitana,2,0
+2023-06-03,38,Empoli,Lazio,0,2
+2023-06-03,38,Torino,Inter,0,1
+2023-06-04,38,Roma,Spezia,2,1
+2023-06-04,38,Napoli,Sampdoria,2,0
+2023-06-04,38,Udinese,Juventus,0,1
+2023-06-04,38,Lecce,Bologna,2,3
+2023-06-04,38,Atalanta,Monza,5,2
+2023-06-04,38,Milan,Hellas Verona,3,1
+2023-06-11,,Spezia,Hellas Verona,1,3

@@ -1,17 +1,18 @@
 import { useEffect, useRef, useState } from "react";
-import PageBackground from "../components/PageBackground";
+import { apiUrl } from "../lib/api";
+import PageHero, { HeroStat } from "../components/PageHero";
+import { useTeamLogos } from "../hooks/useTeamLogos";
 import { StandingsTable } from "../components/charts/PremierLeagueCharts";
-import { slugify } from "../data/teamsRegistry";
-import * as ligue1 from "../data/ligue1Provisional";
-import * as premierLeague from "../data/premierLeagueProvisional";
-import * as laLiga from "../data/laLigaProvisional";
-import * as serieA from "../data/serieAProvisional";
-import * as bundesliga from "../data/bundesligaProvisional";
+import { ApiError, ApiSkeleton } from "../components/ApiState";
+import { useApiData } from "../hooks/useApiData";
+import insights from "../data/insights.json";
+import PeriodFilter from "../components/story/PeriodFilter";
+import { PageBody, FilterBar } from "../components/layout/PageKit";
+import { periodSeasons, periodLabel, lastSeasonPeriod } from "../lib/period";
 
-const LEAGUES_API_URL = "http://localhost:8000/api/leagues";
+const LEAGUES_API_URL = apiUrl("/api/leagues");
 
-// Même repli que Navbar.jsx (même ids, mêmes initiales) : garantit un
-// affichage correct même si le backend ou la clé API-Football manque.
+// Même repli que Navbar.jsx (même ids, mêmes initiales)
 const LEAGUES_FALLBACK = [
   { id: "ligue-1", name: "Ligue 1", logo: null, initials: "L1" },
   { id: "premier-league", name: "Premier League", logo: null, initials: "PL" },
@@ -20,20 +21,28 @@ const LEAGUES_FALLBACK = [
   { id: "bundesliga", name: "Bundesliga", logo: null, initials: "BL" },
 ];
 
-// Classement de chaque championnat, repris tel quel des fichiers de
-// données déjà existants (aucune donnée recréée ici).
-const LEAGUE_STANDINGS = {
-  "ligue-1": ligue1.STANDINGS,
-  "premier-league": premierLeague.STANDINGS,
-  liga: laLiga.STANDINGS,
-  "serie-a": serieA.STANDINGS,
-  bundesliga: bundesliga.STANDINGS,
-};
+// Adapte une ligne de /api/data/standings/{slug} au format attendu par StandingsTable
+function mapStandingRow(row) {
+  return {
+    rank: row.rank,
+    team: row.team,
+    teamSlug: row.team_slug,
+    gp: row.matches_played,
+    w: row.wins,
+    d: row.draws,
+    l: row.losses,
+    gf: row.goals_for,
+    ga: row.goals_against,
+    pts: row.points,
+  };
+}
 
-// Un tableau de classement = une section qui déclenche sa propre animation
-// d'entrée (lignes qui glissent depuis la gauche) une fois visible à
-// l'écran, même mécanique IntersectionObserver que les autres pages.
-function LeagueSection({ league, standings }) {
+// Un tableau de classement = une section qui déclenche sa propre animation d'entrée
+function LeagueSection({ league, chosen, label }) {
+  // Une saison : son classement final ; une période : le classement cumulé
+  const query = chosen.length > 1 ? `?seasons=${chosen.join(",")}` : `?season=${chosen[0]}`;
+  const standings = useApiData(`/api/data/standings/${league.id}${query}`);
+  const logoFor = useTeamLogos();
   const sectionRef = useRef(null);
   const [active, setActive] = useState(false);
 
@@ -52,41 +61,55 @@ function LeagueSection({ league, standings }) {
   }, []);
 
   return (
-    <section ref={sectionRef}>
-      {/* Titre de section : logo du championnat (récupéré via l'API, avec
-          repli sur les initiales) + nom */}
-      <div className="mb-6 flex items-center gap-3">
-        <span className="flex h-10 w-10 items-center justify-center rounded-full border border-current/10 bg-current/[0.03] p-1.5">
-          {league.logo ? (
-            <img src={league.logo} alt={`${league.name} logo`} className="h-full w-full object-contain" />
-          ) : (
-            <span className="text-[9px] font-bold text-current/50">{league.initials}</span>
-          )}
+    <section ref={sectionRef} className="border-t border-current/10 py-14 first:border-t-0 md:py-16">
+      <div className="mb-6 flex flex-wrap items-end justify-between gap-4">
+        <div>
+          <p className="font-mono text-xs uppercase tracking-[0.2em] text-[#e86f2c]">
+            {chosen.length > 1 ? `Classement cumulé · ${label}` : `Classement · ${label}`}
+          </p>
+          <h2 className="mt-2 flex items-center gap-3 text-3xl font-extrabold leading-[1.1] tracking-tight md:text-4xl">
+            <span className="flex h-11 w-11 items-center justify-center rounded-xl bg-white p-1.5 shadow-sm">
+              {league.logo ? (
+                <img src={league.logo} alt="" className="h-full w-full object-contain" />
+              ) : (
+                <span className="text-[9px] font-bold text-[#221400]/60">{league.initials}</span>
+              )}
+            </span>
+            {league.name}
+          </h2>
+        </div>
+        <span className="flex gap-3 font-mono text-[11px] uppercase tracking-wide text-current/55">
+          <span className="flex items-center gap-1.5"><span className="h-3 w-1 rounded-full bg-[#2a78d6]" /> Top 4</span>
+          <span className="flex items-center gap-1.5"><span className="h-3 w-1 rounded-full bg-[#d94f27]" /> Relégation</span>
         </span>
-        <h2 className="text-xl font-bold md:text-2xl">{league.name}</h2>
       </div>
-
-      {/* Tableau pleine largeur, sans plafond de hauteur : c'est le contenu
-          principal de la page, contrairement à la Case 1 de LeagueOverview
-          où le même composant tient dans une petite colonne sticky. */}
       <div className="rounded-2xl border border-current/10 bg-current/[0.02] p-4 md:p-6">
-        <StandingsTable
-          data={standings}
-          active={active}
-          scrollable={false}
-          getHref={(row) => `/equipes/${slugify(row.team)}`}
-        />
+        {standings.loading ? (
+          <ApiSkeleton className="h-96 w-full" />
+        ) : standings.error ? (
+          <ApiError message={`Impossible de charger le classement ${league.name} depuis l'API.`} />
+        ) : (
+          <StandingsTable
+            data={standings.data.standings.map(mapStandingRow)}
+            active={active}
+            scrollable={false}
+            getHref={(row) => `/equipes/${row.teamSlug}`}
+            logoFor={logoFor}
+            league={league.id}
+            zones
+          />
+        )}
       </div>
     </section>
   );
 }
 
-// Page "Équipes" : les 5 classements des grands championnats, empilés
-// verticalement, chacun avec le même tableau que la Case 1 de
-// LeagueOverview.jsx mais affiché en pleine largeur. Chaque ligne d'équipe
-// mène vers sa fiche détaillée (/equipes/:slug, EquipeDetail.jsx).
+// Page "Équipes" : les 5 classements des grands championnats, empilés verticalement
 export default function Equipes() {
   const [leagues, setLeagues] = useState(LEAGUES_FALLBACK);
+  const [period, setPeriod] = useState(() => lastSeasonPeriod(insights.seasons));
+  const chosen = periodSeasons(insights.seasons, period);
+  const label = periodLabel(period);
 
   useEffect(() => {
     let cancelled = false;
@@ -104,35 +127,26 @@ export default function Equipes() {
 
   return (
     <>
-      <PageBackground />
-      <section className="flex-1 px-6 py-32 md:px-12 text-[var(--gambeta-ink)]">
-        <div className="mx-auto max-w-[1200px]">
-          <div className="mb-14 text-center">
-            <p className="text-[11px] font-semibold uppercase tracking-[0.14em] text-[#e86f2c] mb-2">
-              Les classements
-            </p>
-            <h1 className="text-[32px] md:text-[42px] font-bold tracking-[-0.02em]">Équipes</h1>
-            <p className="mt-4 text-current/60">
-              Le classement des cinq grands championnats couverts par Gambeta. Cliquez sur une
-              équipe pour ouvrir sa fiche détaillée.
-            </p>
-          </div>
-
-          {/* Les 5 classements, un par championnat, avec un espacement
-              généreux et une ligne de séparation entre chacun pour que la
-              page reste lisible plutôt qu'un simple mur de chiffres. */}
-          <div className="space-y-16">
-            {LEAGUES_FALLBACK.map(({ id }, index) => {
-              const league = leagues.find((item) => item.id === id) ?? LEAGUES_FALLBACK[index];
-              return (
-                <div key={id} className={index > 0 ? "border-t border-current/10 pt-16" : ""}>
-                  <LeagueSection league={league} standings={LEAGUE_STANDINGS[id]} />
-                </div>
-              );
-            })}
-          </div>
+      <PageHero
+        eyebrow="Les classements"
+        title="Équipes"
+        subtitle="Les classements des cinq grands championnats, de 2021-22 à 2025-26 : choisissez une saison, ou une période pour un classement cumulé. Cliquez sur un club pour ouvrir sa fiche : forme, bilan domicile/extérieur, historique sur 5 saisons et effectif complet."
+      >
+        <div className="flex flex-wrap gap-3">
+          <HeroStat value="96" label="clubs" />
+          <HeroStat value="5" label="championnats" />
+          <HeroStat value="5" label="saisons d'historique" />
         </div>
-      </section>
+      </PageHero>
+      <FilterBar>
+        <PeriodFilter seasons={insights.seasons} value={period} onChange={setPeriod} />
+      </FilterBar>
+      <PageBody>
+        {LEAGUES_FALLBACK.map(({ id }, index) => {
+          const league = leagues.find((item) => item.id === id) ?? LEAGUES_FALLBACK[index];
+          return <LeagueSection key={id} league={league} chosen={chosen} label={label} />;
+        })}
+      </PageBody>
     </>
   );
 }

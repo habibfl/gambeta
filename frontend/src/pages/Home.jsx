@@ -1,16 +1,12 @@
 import Hero from "../components/Hero";
-import FeatureGrid from "../components/FeatureGrid";
-import PlayerJars from "../components/PlayerJars";
+import LuckStory from "../components/story/LuckStory";
 
-// Page d'accueil : hero, section scrollytelling des fonctionnalités,
-// puis les bocaux de joueurs en tout dernier. Contenu et ordre identiques
-// à l'ancien HomePage() qui vivait directement dans App.jsx.
+// Page d'accueil : en-tête puis l'étude « points attendus et points réels »
 export default function Home() {
   return (
     <>
       <Hero />
-      <FeatureGrid />
-      <PlayerJars />
+      <LuckStory />
     </>
   );
 }

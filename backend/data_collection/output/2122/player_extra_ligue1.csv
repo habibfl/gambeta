@@ -1,0 +1,605 @@
+league,season,team,player,mp,starts,minutes,shots,shots_on_target,shots_on_target_pct,tackles_won,interceptions,yellow_cards,red_cards,second_yellow_cards,fouls_committed,fouls_drawn
+FRA-Ligue 1,2122,Angers,Abdoulaye Bamba,10,4,458,1,0,0.0,5,8,1,0,0,5,6
+FRA-Ligue 1,2122,Angers,Angelo Fulgini,36,35,2929,58,17,29.3,26,17,6,0,0,36,84
+FRA-Ligue 1,2122,Angers,Anthony Mandrea,10,10,900,0,0,,0,0,0,0,0,0,2
+FRA-Ligue 1,2122,Angers,Antonin Bobichon,4,0,38,0,0,,0,0,0,0,0,0,0
+FRA-Ligue 1,2122,Angers,Azzedine Ounahi,32,16,1633,26,4,15.4,18,23,2,0,0,20,25
+FRA-Ligue 1,2122,Angers,Batista Mendy,34,27,2413,14,6,42.9,31,34,5,0,0,52,11
+FRA-Ligue 1,2122,Angers,Bilal Brahimi,9,3,338,6,2,33.3,1,1,0,0,0,2,9
+FRA-Ligue 1,2122,Angers,Casimir Ninga,16,3,409,9,2,22.2,1,1,2,0,0,11,13
+FRA-Ligue 1,2122,Angers,Danijel Petković,15,15,1350,0,0,,0,1,1,0,0,0,3
+FRA-Ligue 1,2122,Angers,Enzo Ebosse,27,21,1890,3,0,0.0,16,15,1,0,0,14,21
+FRA-Ligue 1,2122,Angers,Farid El Melali,2,0,14,1,0,0.0,0,0,0,0,0,0,0
+FRA-Ligue 1,2122,Angers,Guédé Nadje,1,0,3,0,0,,0,0,0,0,0,0,0
+FRA-Ligue 1,2122,Angers,Ismaël Traoré,37,36,3215,25,10,40.0,16,42,1,0,0,15,6
+FRA-Ligue 1,2122,Angers,Jason Mbock,1,0,17,0,0,,0,0,1,0,0,0,2
+FRA-Ligue 1,2122,Angers,Jimmy Cabot,24,24,2008,11,3,27.3,49,33,4,0,0,33,32
+FRA-Ligue 1,2122,Angers,Marin Jakoliš,10,2,229,9,3,33.3,1,1,0,0,0,5,2
+FRA-Ligue 1,2122,Angers,Mathias Pereira Lage,24,11,1040,19,6,31.6,9,21,0,0,0,23,14
+FRA-Ligue 1,2122,Angers,Mohamed Ali Cho,32,21,1837,42,16,38.1,6,7,6,2,2,33,44
+FRA-Ligue 1,2122,Angers,Nabil Bentaleb,18,18,1515,16,8,50.0,25,28,4,0,0,29,13
+FRA-Ligue 1,2122,Angers,Noah Fatar,3,0,5,0,0,,0,1,0,0,0,0,1
+FRA-Ligue 1,2122,Angers,Paul Bernardoni,13,13,1170,0,0,,2,0,0,0,0,0,2
+FRA-Ligue 1,2122,Angers,Pierrick Capelle,30,12,1193,17,1,5.9,25,15,1,0,0,22,5
+FRA-Ligue 1,2122,Angers,Romain Thomas,30,29,2563,14,5,35.7,40,43,9,0,0,38,19
+FRA-Ligue 1,2122,Angers,Sada Thioub,1,0,3,0,0,,0,0,0,0,0,0,0
+FRA-Ligue 1,2122,Angers,Sofiane Boufal,29,28,2330,63,27,42.9,27,5,6,0,0,44,79
+FRA-Ligue 1,2122,Angers,Souleyman Doumbia,27,27,2219,15,3,20.0,20,38,10,1,0,22,25
+FRA-Ligue 1,2122,Angers,Stéphane Bahoken,29,12,1099,23,13,56.5,8,2,0,0,0,22,14
+FRA-Ligue 1,2122,Angers,Thomas Mangani,33,25,2193,17,9,52.9,35,37,6,0,0,25,14
+FRA-Ligue 1,2122,Angers,Vincent Manceau,28,25,2361,3,0,0.0,18,33,2,1,1,13,14
+FRA-Ligue 1,2122,Angers,Waniss Taibi,7,1,132,1,0,0.0,7,2,2,0,0,6,2
+FRA-Ligue 1,2122,Bordeaux,Abdel Jalil Medioub,10,6,622,3,0,0.0,5,15,0,0,0,3,1
+FRA-Ligue 1,2122,Bordeaux,Alberth Elis,20,16,1409,31,12,38.7,8,7,2,0,0,22,21
+FRA-Ligue 1,2122,Bordeaux,Amadou Traore,1,0,19,0,0,,0,0,0,0,0,1,0
+FRA-Ligue 1,2122,Bordeaux,Anel Ahmedhodžić,15,15,1350,8,4,50.0,26,21,6,0,0,20,11
+FRA-Ligue 1,2122,Bordeaux,Benoît Costil,25,25,2250,0,0,,0,0,1,0,0,0,3
+FRA-Ligue 1,2122,Bordeaux,Danylo Ihnatenko,11,7,692,12,1,8.3,10,5,3,1,0,17,7
+FRA-Ligue 1,2122,Bordeaux,Dilane Bakwa,5,0,43,2,1,50.0,1,0,0,0,0,2,1
+FRA-Ligue 1,2122,Bordeaux,Enock Kwateng,29,22,2002,7,3,42.9,36,43,6,1,1,22,16
+FRA-Ligue 1,2122,Bordeaux,Fransérgio,26,14,1258,14,2,14.3,10,22,7,0,0,26,11
+FRA-Ligue 1,2122,Bordeaux,Gaëtan Poussin,13,13,1170,0,0,,1,0,3,0,0,0,1
+FRA-Ligue 1,2122,Bordeaux,Gideon Mensah,23,13,1208,2,0,0.0,24,13,1,1,0,16,5
+FRA-Ligue 1,2122,Bordeaux,Hwang Ui-jo,32,29,2508,55,22,40.0,4,5,3,0,0,17,23
+FRA-Ligue 1,2122,Bordeaux,Issouf Sissokho,7,6,436,3,2,66.7,9,6,3,1,1,12,7
+FRA-Ligue 1,2122,Bordeaux,Javairô Dilrosun,32,19,1732,41,10,24.4,4,10,3,0,0,12,30
+FRA-Ligue 1,2122,Bordeaux,Jean Onana,23,23,1832,21,4,19.0,52,35,3,1,0,39,36
+FRA-Ligue 1,2122,Bordeaux,Jimmy Briand,17,1,226,10,4,40.0,0,1,1,0,0,5,0
+FRA-Ligue 1,2122,Bordeaux,Johaneko Louisjean,1,0,12,0,0,,,,,,,,
+FRA-Ligue 1,2122,Bordeaux,Josh Maja,2,0,9,0,0,,0,0,0,0,0,0,0
+FRA-Ligue 1,2122,Bordeaux,Josuha Guilavogui,15,15,1331,9,3,33.3,17,35,4,0,0,22,13
+FRA-Ligue 1,2122,Bordeaux,Junior Mwanga,1,1,90,0,0,,2,0,0,0,0,0,0
+FRA-Ligue 1,2122,Bordeaux,Laurent Koscielny,11,11,933,0,0,,8,11,2,0,0,11,9
+FRA-Ligue 1,2122,Bordeaux,Loris Benito,1,1,61,0,0,,0,1,0,0,0,1,0
+FRA-Ligue 1,2122,Bordeaux,M'Baye Niang,22,7,777,26,11,42.3,0,1,3,0,0,23,19
+FRA-Ligue 1,2122,Bordeaux,Marcelo,11,11,898,3,0,0.0,5,11,4,0,0,7,2
+FRA-Ligue 1,2122,Bordeaux,Mehdi Zerkane,6,0,83,1,0,0.0,0,2,0,0,0,1,2
+FRA-Ligue 1,2122,Bordeaux,Mexer,16,14,1227,5,1,20.0,9,19,2,0,0,4,7
+FRA-Ligue 1,2122,Bordeaux,Otávio,16,13,1147,12,3,25.0,22,16,3,0,0,21,10
+FRA-Ligue 1,2122,Bordeaux,Paul Baysse,2,0,11,0,0,,1,0,0,0,0,0,0
+FRA-Ligue 1,2122,Bordeaux,Remi Oudin,33,20,1737,57,16,28.1,19,25,6,0,0,12,14
+FRA-Ligue 1,2122,Bordeaux,Ricardo Mangas,29,27,2353,17,5,29.4,22,25,2,0,0,25,29
+FRA-Ligue 1,2122,Bordeaux,Rubén Pardo,1,0,6,0,0,,0,0,0,0,0,0,0
+FRA-Ligue 1,2122,Bordeaux,Samuel Kalu,11,3,328,13,8,61.5,5,3,1,0,0,3,7
+FRA-Ligue 1,2122,Bordeaux,Sekou Mara,26,8,905,39,18,46.2,4,2,2,0,0,22,24
+FRA-Ligue 1,2122,Bordeaux,Stian Rode Gregersen,24,22,1953,6,1,16.7,26,35,7,0,0,25,23
+FRA-Ligue 1,2122,Bordeaux,Thibault Klidje,5,0,86,1,0,0.0,0,2,0,0,0,3,5
+FRA-Ligue 1,2122,Bordeaux,Timothee Pembele,26,17,1414,18,5,27.8,8,15,3,0,0,19,17
+FRA-Ligue 1,2122,Bordeaux,Tom Lacoux,13,11,907,2,0,0.0,14,10,5,0,0,18,6
+FRA-Ligue 1,2122,Bordeaux,Toma Bašić,3,3,209,2,0,0.0,2,2,0,0,0,6,2
+FRA-Ligue 1,2122,Bordeaux,Yacine Adli,36,25,2260,32,15,46.9,28,33,5,0,0,21,27
+FRA-Ligue 1,2122,Brest,Brendan Chardonnet,32,31,2686,13,7,53.8,25,60,6,1,0,26,25
+FRA-Ligue 1,2122,Brest,Christophe Hérelle,23,23,1932,6,2,33.3,28,44,6,0,0,20,24
+FRA-Ligue 1,2122,Brest,Dénys Bain,2,2,180,0,0,,3,2,0,0,0,4,2
+FRA-Ligue 1,2122,Brest,Franck Honorat,34,34,2899,59,30,50.8,38,16,3,0,0,24,21
+FRA-Ligue 1,2122,Brest,Haris Belkebla,31,26,2310,5,1,20.0,25,49,2,0,0,27,39
+FRA-Ligue 1,2122,Brest,Hianga'a Mbock,14,9,799,9,0,0.0,12,5,3,0,0,20,8
+FRA-Ligue 1,2122,Brest,Hugo Magnetti,28,16,1463,17,2,11.8,33,24,4,0,0,26,19
+FRA-Ligue 1,2122,Brest,Irvin Cardona,32,13,1334,26,12,46.2,7,6,2,0,0,16,14
+FRA-Ligue 1,2122,Brest,Jean-Kevin Duverne,37,33,3007,12,3,25.0,40,53,1,0,0,35,31
+FRA-Ligue 1,2122,Brest,Jere Uronen,15,10,878,4,1,25.0,16,17,0,0,0,4,9
+FRA-Ligue 1,2122,Brest,Julien Faussurier,16,4,489,4,2,50.0,6,4,1,0,0,5,8
+FRA-Ligue 1,2122,Brest,Jérémy Le Douaron,32,16,1446,34,16,47.1,7,4,0,0,0,17,27
+FRA-Ligue 1,2122,Brest,Lilian Brassier,31,23,2263,11,2,18.2,25,33,4,0,0,23,18
+FRA-Ligue 1,2122,Brest,Lucien Agoume,27,21,1868,15,1,6.7,33,49,6,0,0,31,15
+FRA-Ligue 1,2122,Brest,Marco Bizot,38,38,3420,0,0,,2,0,1,0,0,0,3
+FRA-Ligue 1,2122,Brest,Martin Satriano,15,11,932,24,9,37.5,2,2,5,0,0,14,13
+FRA-Ligue 1,2122,Brest,Paul Lasne,15,9,847,7,1,14.3,14,22,1,0,0,11,15
+FRA-Ligue 1,2122,Brest,Rafiki Said,14,0,122,6,2,33.3,2,0,1,0,0,6,3
+FRA-Ligue 1,2122,Brest,Romain Del Castillo,19,13,975,12,3,25.0,13,7,1,1,0,16,20
+FRA-Ligue 1,2122,Brest,Romain Faivre,21,20,1795,38,18,47.4,16,11,1,0,0,16,27
+FRA-Ligue 1,2122,Brest,Romain Philippoteaux,1,0,24,0,0,,1,0,0,0,0,0,0
+FRA-Ligue 1,2122,Brest,Ronaël Pierre-Gabriel,30,29,2548,5,2,40.0,45,47,6,0,0,27,28
+FRA-Ligue 1,2122,Brest,Steve Mounié,35,25,2312,75,25,33.3,6,6,2,0,0,42,28
+FRA-Ligue 1,2122,Brest,Youcef Belaïli,13,11,825,17,8,47.1,1,6,2,0,0,12,19
+FRA-Ligue 1,2122,Brest,Youssouph Badji,9,1,135,2,0,0.0,0,0,0,0,0,4,0
+FRA-Ligue 1,2122,Clermont Foot,Aboubakar Sidibé,1,0,6,0,0,,0,0,0,0,0,0,0
+FRA-Ligue 1,2122,Clermont Foot,Akim Zedadka,38,37,3337,31,6,19.4,48,60,5,0,0,27,88
+FRA-Ligue 1,2122,Clermont Foot,Alidu Seidu,21,16,1410,9,1,11.1,20,32,7,2,1,17,28
+FRA-Ligue 1,2122,Clermont Foot,Arial Mendy,18,9,792,10,3,30.0,3,7,1,0,0,6,11
+FRA-Ligue 1,2122,Clermont Foot,Arthur Desmas,15,15,1304,0,0,,0,0,0,0,0,0,4
+FRA-Ligue 1,2122,Clermont Foot,Cédric Hountondji,23,23,2034,8,3,37.5,18,36,2,0,0,12,7
+FRA-Ligue 1,2122,Clermont Foot,Elba Rashani,29,22,1759,30,12,40.0,23,11,3,0,0,38,30
+FRA-Ligue 1,2122,Clermont Foot,Florent Ogier,30,29,2429,7,3,42.9,17,33,6,0,0,18,13
+FRA-Ligue 1,2122,Clermont Foot,Grejohn Kyei,14,4,396,11,3,27.3,2,0,1,0,0,14,8
+FRA-Ligue 1,2122,Clermont Foot,Jason Berthomier,29,22,1732,23,5,21.7,17,6,0,0,0,14,15
+FRA-Ligue 1,2122,Clermont Foot,Jean-Claude Billong,15,10,980,5,1,20.0,10,9,2,0,0,7,9
+FRA-Ligue 1,2122,Clermont Foot,Jim Allevinah,30,13,1488,43,15,34.9,14,6,1,0,0,16,34
+FRA-Ligue 1,2122,Clermont Foot,Jodel Dossou,35,23,2008,52,17,32.7,17,7,4,0,0,26,38
+FRA-Ligue 1,2122,Clermont Foot,Johan Gastien,32,32,2746,24,7,29.2,34,53,8,2,0,29,33
+FRA-Ligue 1,2122,Clermont Foot,Jonathan Iglesias,15,5,579,1,0,0.0,11,5,0,0,0,11,11
+FRA-Ligue 1,2122,Clermont Foot,Jordan Tell,15,1,290,8,3,37.5,5,0,1,0,0,3,3
+FRA-Ligue 1,2122,Clermont Foot,Josué Albert,2,0,22,1,0,0.0,0,1,0,0,0,1,0
+FRA-Ligue 1,2122,Clermont Foot,Jérôme Phojo,1,0,6,0,0,,1,0,0,0,0,0,0
+FRA-Ligue 1,2122,Clermont Foot,Lucas Da Cunha,15,11,836,18,6,33.3,11,1,0,0,0,6,5
+FRA-Ligue 1,2122,Clermont Foot,Mohamed Lamine Bayo,32,27,2413,66,29,43.9,5,6,1,0,0,19,5
+FRA-Ligue 1,2122,Clermont Foot,Oriol Busquets,9,2,201,1,0,0.0,3,1,0,0,0,2,0
+FRA-Ligue 1,2122,Clermont Foot,Ouparine Djoco,24,23,2116,0,0,,0,1,1,0,0,1,4
+FRA-Ligue 1,2122,Clermont Foot,Pierre-Yves Hamel,17,6,523,13,4,30.8,7,0,2,0,0,13,9
+FRA-Ligue 1,2122,Clermont Foot,Salis Abdul Samed,31,29,2462,18,5,27.8,26,40,12,3,2,43,37
+FRA-Ligue 1,2122,Clermont Foot,Saîf-Eddine Khaoui,23,9,927,20,7,35.0,11,13,1,0,0,11,15
+FRA-Ligue 1,2122,Clermont Foot,Vital N'Simba,34,31,2789,19,5,26.3,46,27,4,0,0,28,48
+FRA-Ligue 1,2122,Clermont Foot,Yadaly Diaby,5,0,67,2,0,0.0,0,1,1,1,0,2,1
+FRA-Ligue 1,2122,Clermont Foot,Yohann Magnin,24,19,1717,19,3,15.8,33,20,2,0,0,21,25
+FRA-Ligue 1,2122,Lens,Arnaud Kalimuendo,32,27,2148,61,31,50.8,7,8,1,1,0,14,33
+FRA-Ligue 1,2122,Lens,Brayann Pereira,2,0,15,0,0,,1,0,0,0,0,0,0
+FRA-Ligue 1,2122,Lens,Charles Boli,4,0,32,0,0,,1,0,0,0,0,0,2
+FRA-Ligue 1,2122,Lens,Cheick Doucouré,34,33,2946,31,11,35.5,41,63,7,1,0,42,24
+FRA-Ligue 1,2122,Lens,Christopher Wooh,14,11,1050,8,3,37.5,13,23,2,0,0,9,11
+FRA-Ligue 1,2122,Lens,Corentin Jean,17,1,255,7,2,28.6,6,1,2,0,0,7,5
+FRA-Ligue 1,2122,Lens,David Costa,33,16,1464,25,8,32.0,12,12,2,0,0,9,14
+FRA-Ligue 1,2122,Lens,Deiver Machado,22,5,523,2,0,0.0,14,4,1,0,0,4,11
+FRA-Ligue 1,2122,Lens,Facundo Medina,31,30,2593,9,2,22.2,43,35,11,0,0,37,12
+FRA-Ligue 1,2122,Lens,Florian Sotoca,35,28,2480,71,26,36.6,19,26,7,0,0,37,34
+FRA-Ligue 1,2122,Lens,Gaël Kakuta,29,20,1673,41,15,36.6,13,3,1,0,0,15,32
+FRA-Ligue 1,2122,Lens,Ibrahima Baldé,4,0,58,0,0,,0,0,0,0,0,0,0
+FRA-Ligue 1,2122,Lens,Ignatius Ganago,28,11,1024,30,11,36.7,3,2,2,0,0,9,10
+FRA-Ligue 1,2122,Lens,Ismaël Boura,5,1,95,1,0,0.0,2,3,0,0,0,0,0
+FRA-Ligue 1,2122,Lens,Jean-Louis Leca,27,27,2313,0,0,,0,1,3,1,0,2,3
+FRA-Ligue 1,2122,Lens,Jonathan Clauss,37,35,3046,40,17,42.5,36,71,3,0,0,38,15
+FRA-Ligue 1,2122,Lens,Jonathan Gradit,35,35,3067,5,0,0.0,32,67,7,0,0,40,35
+FRA-Ligue 1,2122,Lens,Jonathan Varane,1,0,1,0,0,,0,0,0,0,0,0,0
+FRA-Ligue 1,2122,Lens,Kevin Danso,33,32,2790,13,4,30.8,31,40,9,2,1,43,36
+FRA-Ligue 1,2122,Lens,Massadio Haïdara,20,12,1076,5,2,40.0,20,24,5,1,0,20,11
+FRA-Ligue 1,2122,Lens,Patrick Berg,14,2,307,1,0,0.0,4,6,0,0,0,5,1
+FRA-Ligue 1,2122,Lens,Przemysław Frankowski,37,28,2448,33,14,42.4,39,27,5,0,0,36,9
+FRA-Ligue 1,2122,Lens,Seko Fofana,38,38,3357,97,32,33.0,18,26,2,0,0,27,45
+FRA-Ligue 1,2122,Lens,Simon Banza,4,1,124,6,4,66.7,1,2,0,0,0,3,7
+FRA-Ligue 1,2122,Lens,Steven Fortes,1,1,90,0,0,,1,0,0,0,0,2,0
+FRA-Ligue 1,2122,Lens,Wesley Saïd,21,7,654,25,11,44.0,4,2,2,0,0,17,6
+FRA-Ligue 1,2122,Lens,Wuilker Faríñez,13,11,1105,0,0,,0,0,0,0,0,0,0
+FRA-Ligue 1,2122,Lens,Yannick Cahuzac,17,6,618,1,0,0.0,2,8,1,1,0,6,1
+FRA-Ligue 1,2122,Lille,Amadou Onana,32,11,1359,15,6,40.0,30,26,2,1,0,31,25
+FRA-Ligue 1,2122,Lille,Angel Gomes,24,12,954,14,2,14.3,13,3,3,0,0,13,15
+FRA-Ligue 1,2122,Lille,Benjamin André,33,33,2752,16,5,31.3,73,46,12,1,1,67,57
+FRA-Ligue 1,2122,Lille,Burak Yılmaz,31,25,2211,71,28,39.4,3,2,9,1,0,24,23
+FRA-Ligue 1,2122,Lille,Cheikh Niasse,4,0,44,0,0,,2,0,1,0,0,1,1
+FRA-Ligue 1,2122,Lille,Domagoj Bradarić,15,2,417,1,0,0.0,8,10,2,0,0,5,7
+FRA-Ligue 1,2122,Lille,Edon Zhegrova,13,5,481,15,7,46.7,7,1,2,1,1,5,4
+FRA-Ligue 1,2122,Lille,Gabriel Gudmundsson,30,15,1344,19,6,31.6,31,18,3,0,0,27,20
+FRA-Ligue 1,2122,Lille,Hatem Ben Arfa,7,4,314,3,1,33.3,2,0,1,0,0,7,4
+FRA-Ligue 1,2122,Lille,Isaac Lihadji,13,2,238,3,2,66.7,3,2,1,0,0,4,5
+FRA-Ligue 1,2122,Lille,Ivo Grbić,21,21,1890,0,0,,0,0,3,0,0,0,6
+FRA-Ligue 1,2122,Lille,Jonathan Bamba,31,28,2428,51,12,23.5,12,18,3,0,0,11,56
+FRA-Ligue 1,2122,Lille,Jonathan David,38,32,2804,70,33,47.1,11,6,3,0,0,25,47
+FRA-Ligue 1,2122,Lille,Jonathan Ikone,18,13,1062,22,8,36.4,3,3,1,0,0,13,7
+FRA-Ligue 1,2122,Lille,José Fonte,38,38,3420,23,6,26.1,15,43,4,0,0,23,8
+FRA-Ligue 1,2122,Lille,Jérémy Pied,2,0,13,0,0,,0,1,0,0,0,0,0
+FRA-Ligue 1,2122,Lille,Leny Yoro,1,0,13,0,0,,0,0,0,0,0,0,0
+FRA-Ligue 1,2122,Lille,Léo Jardim,17,17,1530,0,0,,0,1,0,0,0,0,4
+FRA-Ligue 1,2122,Lille,Reinildo Mandava,18,18,1524,6,3,50.0,24,36,7,0,0,33,27
+FRA-Ligue 1,2122,Lille,Renato Sanches,25,20,1651,22,4,18.2,7,13,8,1,1,29,27
+FRA-Ligue 1,2122,Lille,Sven Botman,25,25,2250,15,5,33.3,12,27,4,0,0,16,12
+FRA-Ligue 1,2122,Lille,Tiago Djaló,28,26,2329,12,5,41.7,38,22,4,0,0,23,22
+FRA-Ligue 1,2122,Lille,Timothy Weah,29,17,1616,33,8,24.2,8,9,2,1,0,11,20
+FRA-Ligue 1,2122,Lille,Xeka,23,19,1619,22,5,22.7,26,22,10,0,0,32,17
+FRA-Ligue 1,2122,Lille,Yusuf Yazıcı,15,5,509,10,6,60.0,5,2,3,0,0,7,8
+FRA-Ligue 1,2122,Lille,Zeki Çelik,32,30,2696,22,3,13.6,36,37,10,0,0,39,15
+FRA-Ligue 1,2122,Lorient,Adrian Grbić,16,4,518,12,7,58.3,1,0,0,0,0,6,9
+FRA-Ligue 1,2122,Lorient,Armand Lauriente,35,28,2477,86,37,43.0,18,12,5,0,0,44,41
+FRA-Ligue 1,2122,Lorient,Baptiste Mouazan,3,1,96,1,0,0.0,3,1,0,0,0,3,0
+FRA-Ligue 1,2122,Lorient,Bonke Innocent,12,11,874,3,1,33.3,18,16,4,0,0,20,6
+FRA-Ligue 1,2122,Lorient,Dango Ouattara,25,7,812,23,7,30.4,15,12,4,0,0,21,19
+FRA-Ligue 1,2122,Lorient,Enzo Le Fée,36,25,2194,34,9,26.5,45,29,2,0,0,31,51
+FRA-Ligue 1,2122,Lorient,Fabien Lemoine,21,13,1117,4,0,0.0,22,14,5,0,0,26,18
+FRA-Ligue 1,2122,Lorient,Houboulang Mendes,36,36,3220,21,5,23.8,29,39,5,1,1,40,17
+FRA-Ligue 1,2122,Lorient,Ibrahima Koné,16,6,732,14,8,57.1,4,1,2,0,0,13,11
+FRA-Ligue 1,2122,Lorient,Igor Carioca,28,17,1578,14,6,42.9,16,22,3,0,0,25,23
+FRA-Ligue 1,2122,Lorient,Julien Laporte,33,33,2891,17,3,17.6,44,51,7,0,0,28,26
+FRA-Ligue 1,2122,Lorient,Jérémy Morel,9,6,604,1,0,0.0,8,6,0,0,0,5,5
+FRA-Ligue 1,2122,Lorient,Jérôme Hergault,8,5,352,1,0,0.0,3,4,2,2,1,7,3
+FRA-Ligue 1,2122,Lorient,Laurent Abergel,34,34,2956,30,7,23.3,63,54,9,0,0,41,69
+FRA-Ligue 1,2122,Lorient,Léo Pétrot,22,21,1815,5,3,60.0,17,22,0,0,0,7,10
+FRA-Ligue 1,2122,Lorient,Matthieu Dreyer,16,16,1440,0,0,,1,0,0,0,0,0,2
+FRA-Ligue 1,2122,Lorient,Moritz Jenz,17,16,1381,9,1,11.1,12,28,5,1,1,24,2
+FRA-Ligue 1,2122,Lorient,Paul Nardi,22,22,1980,0,0,,0,0,1,0,0,0,3
+FRA-Ligue 1,2122,Lorient,Pierre-Yves Hamel,3,0,30,0,0,,0,1,1,0,0,1,1
+FRA-Ligue 1,2122,Lorient,Quentin Boisgard,25,9,958,16,8,50.0,12,5,3,0,0,11,9
+FRA-Ligue 1,2122,Lorient,Redwan Bourles,4,0,16,0,0,,0,0,0,0,0,0,0
+FRA-Ligue 1,2122,Lorient,Sambou Soumano,21,4,447,18,4,22.2,0,1,1,0,0,13,10
+FRA-Ligue 1,2122,Lorient,Samuel Loric,3,3,269,0,0,,5,4,0,0,0,4,5
+FRA-Ligue 1,2122,Lorient,Stéphane Diarra,15,5,525,13,5,38.5,9,7,2,0,0,6,8
+FRA-Ligue 1,2122,Lorient,Terem Moffi,37,34,2711,60,23,38.3,10,3,1,0,0,25,19
+FRA-Ligue 1,2122,Lorient,Thomas Fontaine,2,2,167,0,0,,0,2,1,0,0,4,1
+FRA-Ligue 1,2122,Lorient,Thomas Monconduit,34,26,2248,36,12,33.3,25,23,5,0,0,47,33
+FRA-Ligue 1,2122,Lorient,Théo Le Bris,4,0,61,0,0,,1,0,0,0,0,0,0
+FRA-Ligue 1,2122,Lorient,Vincent Le Goff,34,34,3060,26,4,15.4,41,36,1,0,0,23,21
+FRA-Ligue 1,2122,Lyon,Anthony Lopes,34,34,2982,0,0,,0,4,1,1,0,1,4
+FRA-Ligue 1,2122,Lyon,Bradley Barcola,11,2,263,5,2,40.0,4,2,0,0,0,5,0
+FRA-Ligue 1,2122,Lyon,Bruno Guimarães,20,19,1634,11,2,18.2,32,22,2,0,0,30,59
+FRA-Ligue 1,2122,Lyon,Castello Lukeba,24,24,2095,6,3,50.0,18,38,1,0,0,18,13
+FRA-Ligue 1,2122,Lyon,Damien Da Silva,17,13,1126,11,1,9.1,7,20,5,1,1,19,4
+FRA-Ligue 1,2122,Lyon,Emerson Palmieri,29,26,2264,16,5,31.3,26,27,3,1,0,15,23
+FRA-Ligue 1,2122,Lyon,Habib Keita,3,0,7,2,2,100.0,0,0,0,0,0,0,0
+FRA-Ligue 1,2122,Lyon,Henrique,18,12,1105,5,0,0.0,8,21,3,0,0,13,14
+FRA-Ligue 1,2122,Lyon,Houssem Aouar,36,29,2504,76,24,31.6,30,21,1,0,0,27,39
+FRA-Ligue 1,2122,Lyon,Islam Slimani,12,6,573,12,4,33.3,3,2,3,0,0,6,5
+FRA-Ligue 1,2122,Lyon,Jason Denayer,15,12,1002,6,4,66.7,4,15,2,0,0,7,5
+FRA-Ligue 1,2122,Lyon,Jeff Reine-Adélaïde,10,1,198,3,1,33.3,3,0,0,0,0,3,3
+FRA-Ligue 1,2122,Lyon,Julian Pollersbeck,6,4,436,0,0,,0,1,0,0,0,0,1
+FRA-Ligue 1,2122,Lyon,Jérôme Boateng,24,19,1622,5,3,60.0,15,17,6,0,0,13,3
+FRA-Ligue 1,2122,Lyon,Karl Toko Ekambi,30,26,2296,76,38,50.0,8,19,3,0,0,16,16
+FRA-Ligue 1,2122,Lyon,Leo Dubois,23,20,1742,10,1,10.0,30,20,5,0,0,18,14
+FRA-Ligue 1,2122,Lyon,Lucas Paquetá,35,32,2699,87,34,39.1,40,9,3,0,0,63,64
+FRA-Ligue 1,2122,Lyon,Malo Gusto,30,21,1884,11,0,0.0,36,28,3,0,0,26,20
+FRA-Ligue 1,2122,Lyon,Marcelo,2,2,180,2,0,0.0,3,4,1,0,0,3,1
+FRA-Ligue 1,2122,Lyon,Maxence Caqueret,31,26,2335,15,2,13.3,49,45,5,0,0,43,28
+FRA-Ligue 1,2122,Lyon,Maxwel Cornet,1,1,63,0,0,,1,1,2,1,1,2,1
+FRA-Ligue 1,2122,Lyon,Moussa Dembélé,30,25,2207,87,45,51.7,9,7,6,0,0,30,19
+FRA-Ligue 1,2122,Lyon,Rayan Cherki,16,3,440,14,3,21.4,2,1,1,0,0,4,8
+FRA-Ligue 1,2122,Lyon,Romain Faivre,14,9,889,20,6,30.0,5,3,0,0,0,14,17
+FRA-Ligue 1,2122,Lyon,Sinaly Diomande,11,5,579,3,0,0.0,4,12,2,0,0,5,4
+FRA-Ligue 1,2122,Lyon,Tanguy Ndombele,11,7,701,5,0,0.0,16,3,3,0,0,12,19
+FRA-Ligue 1,2122,Lyon,Tetê,9,7,583,17,7,41.2,6,3,1,0,0,4,18
+FRA-Ligue 1,2122,Lyon,Thiago Mendes,29,21,1863,16,5,31.3,22,32,3,1,0,24,15
+FRA-Ligue 1,2122,Lyon,Tino Kadewere,15,3,506,18,7,38.9,5,4,0,1,0,6,5
+FRA-Ligue 1,2122,Lyon,Xherdan Shaqiri,11,9,679,13,5,38.5,2,2,0,0,0,8,2
+FRA-Ligue 1,2122,Marseille,Amine Harit,23,12,1165,14,6,42.9,9,3,1,0,0,18,34
+FRA-Ligue 1,2122,Marseille,Arkadiusz Milik,23,15,1416,52,19,36.5,2,3,1,0,0,19,8
+FRA-Ligue 1,2122,Marseille,Bamba Dieng,25,11,975,34,18,52.9,10,4,0,1,0,13,12
+FRA-Ligue 1,2122,Marseille,Boubacar Kamara,34,31,2778,21,3,14.3,39,43,5,0,0,40,42
+FRA-Ligue 1,2122,Marseille,Cengiz Ünder,32,25,2200,58,20,34.5,13,14,2,1,1,11,32
+FRA-Ligue 1,2122,Marseille,Cédric Bakambu,12,5,356,18,7,38.9,0,0,1,0,0,5,2
+FRA-Ligue 1,2122,Marseille,Darío Benedetto,2,0,54,3,0,0.0,0,0,0,0,0,0,0
+FRA-Ligue 1,2122,Marseille,Dimitri Payet,31,28,2592,64,22,34.4,6,8,3,0,0,9,42
+FRA-Ligue 1,2122,Marseille,Duje Ćaleta-Car,26,24,2057,12,4,33.3,10,22,6,0,0,9,5
+FRA-Ligue 1,2122,Marseille,Gerson,35,29,2544,45,18,40.0,18,14,3,0,0,43,63
+FRA-Ligue 1,2122,Marseille,Jordan Amavi,2,2,128,0,0,,5,1,0,0,0,3,1
+FRA-Ligue 1,2122,Marseille,Konrad De La Fuente,16,9,785,15,4,26.7,8,2,1,0,0,2,6
+FRA-Ligue 1,2122,Marseille,Leonardo Balerdi,17,10,950,2,0,0.0,7,21,4,1,0,10,5
+FRA-Ligue 1,2122,Marseille,Luan Peres Petroni,34,29,2679,3,0,0.0,35,43,6,0,0,18,18
+FRA-Ligue 1,2122,Marseille,Luis Henrique,20,7,699,6,2,33.3,3,4,0,0,0,6,4
+FRA-Ligue 1,2122,Marseille,Mattéo Guendouzi,38,35,3152,47,18,38.3,30,13,6,0,0,28,67
+FRA-Ligue 1,2122,Marseille,Nemanja Radonjić,1,0,18,0,0,,0,0,0,0,0,0,0
+FRA-Ligue 1,2122,Marseille,Oussama Targhalline,2,0,5,0,0,,0,0,1,0,0,0,0
+FRA-Ligue 1,2122,Marseille,Pape Gueye,28,17,1528,31,4,12.9,20,24,7,0,0,28,41
+FRA-Ligue 1,2122,Marseille,Pau López,29,29,2610,0,0,,0,1,4,0,0,0,3
+FRA-Ligue 1,2122,Marseille,Pol Lirola,34,19,1770,13,2,15.4,16,12,1,0,0,11,13
+FRA-Ligue 1,2122,Marseille,Salim Ben Seghir,1,0,1,0,0,,0,0,0,0,0,0,0
+FRA-Ligue 1,2122,Marseille,Sead Kolašinac,14,6,440,0,0,,5,0,0,0,0,5,3
+FRA-Ligue 1,2122,Marseille,Steve Mandanda,9,9,810,0,0,,0,1,0,0,0,0,0
+FRA-Ligue 1,2122,Marseille,Valentin Rongier,32,25,2194,27,8,29.6,48,31,3,0,0,33,26
+FRA-Ligue 1,2122,Marseille,William Saliba,36,36,3240,16,2,12.5,29,43,5,0,0,17,10
+FRA-Ligue 1,2122,Marseille,Álvaro González,6,5,451,2,0,0.0,3,1,1,0,0,7,7
+FRA-Ligue 1,2122,Metz,Alexandre Oukidja,21,21,1875,0,0,,0,1,2,1,0,1,10
+FRA-Ligue 1,2122,Metz,Amadou Mbengue,12,5,610,3,0,0.0,10,11,4,0,0,12,1
+FRA-Ligue 1,2122,Metz,Amine Bassi,5,2,184,4,1,25.0,3,0,0,0,0,4,4
+FRA-Ligue 1,2122,Metz,Boubacar Traoré,27,17,1726,22,5,22.7,28,22,9,1,1,52,15
+FRA-Ligue 1,2122,Metz,Boubakar Kouyaté,30,30,2665,22,6,27.3,48,80,8,1,0,35,28
+FRA-Ligue 1,2122,Metz,Cheikh Tidiane Sabaly,6,2,150,2,1,50.0,3,0,0,0,0,0,1
+FRA-Ligue 1,2122,Metz,Didier Lamkel Zé,9,8,605,14,7,50.0,2,1,2,0,0,8,14
+FRA-Ligue 1,2122,Metz,Dylan Bronn,30,28,2545,15,8,53.3,29,42,10,1,1,31,11
+FRA-Ligue 1,2122,Metz,Fabien Centonze,19,18,1586,15,7,46.7,20,31,3,0,0,16,30
+FRA-Ligue 1,2122,Metz,Fali Candé,11,11,973,6,2,33.3,18,6,2,0,0,11,11
+FRA-Ligue 1,2122,Metz,Farid Boulaya,24,18,1526,19,6,31.6,9,11,1,1,0,7,17
+FRA-Ligue 1,2122,Metz,Georges Mikautadze,1,0,1,2,0,0.0,0,0,0,0,0,0,0
+FRA-Ligue 1,2122,Metz,Habib Maïga,17,16,1267,11,5,45.5,29,13,6,0,0,29,10
+FRA-Ligue 1,2122,Metz,Ibrahim Amadou,10,10,812,3,2,66.7,8,11,4,0,0,11,4
+FRA-Ligue 1,2122,Metz,Ibrahima Niane,26,20,1582,43,10,23.3,2,2,2,1,0,14,24
+FRA-Ligue 1,2122,Metz,Jean-Armel Kana-Biyik,10,8,664,1,0,0.0,6,15,1,0,0,4,8
+FRA-Ligue 1,2122,Metz,Jemerson,15,15,1202,4,3,75.0,24,23,3,2,0,18,7
+FRA-Ligue 1,2122,Metz,Kévin N'Doram,19,16,1235,7,1,14.3,8,19,5,0,0,21,13
+FRA-Ligue 1,2122,Metz,Lamine Gueye,14,7,555,13,7,53.8,4,3,0,0,0,7,10
+FRA-Ligue 1,2122,Metz,Lenny Joseph,8,0,153,0,0,,2,0,1,0,0,5,1
+FRA-Ligue 1,2122,Metz,Lenny Lacroix,3,2,200,2,0,0.0,8,10,0,0,0,1,0
+FRA-Ligue 1,2122,Metz,Louis Mafouta,15,5,525,9,7,77.8,0,0,0,0,0,16,5
+FRA-Ligue 1,2122,Metz,Mamadou Fofana,1,0,33,0,0,,1,1,0,0,0,0,0
+FRA-Ligue 1,2122,Metz,Marc-Aurèle Caillard,19,17,1542,0,0,,0,2,1,0,0,0,4
+FRA-Ligue 1,2122,Metz,Matthieu Udol,12,11,1007,5,2,40.0,14,29,0,0,0,3,6
+FRA-Ligue 1,2122,Metz,Nicolas de Préville,27,24,1969,41,10,24.4,10,6,5,0,0,45,55
+FRA-Ligue 1,2122,Metz,Opa Nguette,26,10,1048,23,7,30.4,15,0,1,0,0,12,24
+FRA-Ligue 1,2122,Metz,Papa Ndiaga Yade,18,5,696,8,0,0.0,10,10,3,0,0,8,7
+FRA-Ligue 1,2122,Metz,Pape Matar Sarr,33,22,2129,31,8,25.8,28,29,7,0,0,32,22
+FRA-Ligue 1,2122,Metz,Sikou Niakaté,12,8,661,4,0,0.0,7,28,2,0,0,11,5
+FRA-Ligue 1,2122,Metz,Sofiane Alakouch,4,0,158,1,0,0.0,4,1,1,0,0,5,7
+FRA-Ligue 1,2122,Metz,Thomas Delaine,29,26,2316,18,5,27.8,35,27,4,0,0,22,14
+FRA-Ligue 1,2122,Metz,Vagner Gonçalves,3,0,86,1,1,100.0,1,1,1,0,0,5,1
+FRA-Ligue 1,2122,Metz,Vincent Pajot,30,27,2311,14,3,21.4,54,48,6,1,0,53,40
+FRA-Ligue 1,2122,Metz,Warren Tchimbembé,9,1,205,0,0,,1,1,0,0,0,2,3
+FRA-Ligue 1,2122,Metz,William Mikelbrencis,9,8,610,5,1,20.0,5,5,0,0,0,13,2
+FRA-Ligue 1,2122,Monaco,Aleksandr Golovin,27,17,1502,23,8,34.8,23,12,4,1,0,21,21
+FRA-Ligue 1,2122,Monaco,Alexander Nübel,38,38,3420,0,0,,0,0,1,0,0,0,1
+FRA-Ligue 1,2122,Monaco,Aurélien Tchouaméni,35,33,2929,56,11,19.6,49,96,11,1,1,51,60
+FRA-Ligue 1,2122,Monaco,Axel Disasi,32,30,2721,20,3,15.0,23,24,5,0,0,43,12
+FRA-Ligue 1,2122,Monaco,Benoît Badiashile,24,21,1838,14,4,28.6,19,25,4,0,0,24,9
+FRA-Ligue 1,2122,Monaco,Caio Henrique,34,31,2662,18,6,33.3,28,26,5,0,0,20,22
+FRA-Ligue 1,2122,Monaco,Cesc Fàbregas,2,0,38,0,0,,0,1,0,0,0,1,2
+FRA-Ligue 1,2122,Monaco,Chrislain Matsima,7,1,134,1,0,0.0,2,1,0,0,0,0,2
+FRA-Ligue 1,2122,Monaco,Djibril Sidibé,17,12,949,4,1,25.0,12,20,6,0,0,17,9
+FRA-Ligue 1,2122,Monaco,Eliot Matazo,18,8,790,4,1,25.0,8,12,1,0,0,16,8
+FRA-Ligue 1,2122,Monaco,Félix Lemaréchal,1,0,9,0,0,,0,0,0,0,0,0,0
+FRA-Ligue 1,2122,Monaco,Gelson Martins,32,24,1905,30,11,36.7,28,17,4,0,0,22,33
+FRA-Ligue 1,2122,Monaco,Guillermo Maripán,26,21,1832,7,2,28.6,24,24,5,0,0,20,10
+FRA-Ligue 1,2122,Monaco,Ismail Jakobs,28,10,1203,5,1,20.0,17,14,1,0,0,15,9
+FRA-Ligue 1,2122,Monaco,Jean Lucas,28,18,1445,26,9,34.6,25,14,3,1,1,27,25
+FRA-Ligue 1,2122,Monaco,Kevin Volland,34,29,2436,50,25,50.0,10,3,10,0,0,53,28
+FRA-Ligue 1,2122,Monaco,Krépin Diatta,8,3,285,3,3,100.0,2,1,0,0,0,3,9
+FRA-Ligue 1,2122,Monaco,Maghnes Akliouche,7,0,54,2,1,50.0,0,0,1,0,0,4,1
+FRA-Ligue 1,2122,Monaco,Myron Boadu,31,7,960,21,8,38.1,7,1,0,0,0,16,11
+FRA-Ligue 1,2122,Monaco,Ruben Aguilar,28,22,2140,10,2,20.0,53,44,4,0,0,32,29
+FRA-Ligue 1,2122,Monaco,Sofiane Diop,30,24,1948,37,13,35.1,21,25,6,0,0,28,40
+FRA-Ligue 1,2122,Monaco,Strahinja Pavlović,7,5,451,5,1,20.0,15,8,4,1,1,11,7
+FRA-Ligue 1,2122,Monaco,Tiago Ribeiro,1,0,2,0,0,,0,0,0,0,0,0,0
+FRA-Ligue 1,2122,Monaco,Vanderson,17,12,1120,14,6,42.9,21,11,3,0,0,18,11
+FRA-Ligue 1,2122,Monaco,Wilson Isidor,4,0,50,1,0,0.0,0,0,0,0,0,1,1
+FRA-Ligue 1,2122,Monaco,Wissam Ben Yedder,37,29,2529,72,44,61.1,8,0,3,0,0,19,22
+FRA-Ligue 1,2122,Monaco,Youssouf Fofana,33,23,2190,30,6,20.0,43,28,4,0,0,34,25
+FRA-Ligue 1,2122,Montpellier,Ambroise Oyongo,11,7,659,5,3,60.0,5,7,5,0,0,7,11
+FRA-Ligue 1,2122,Montpellier,Andy Delort,3,3,269,14,5,35.7,0,0,0,0,0,6,2
+FRA-Ligue 1,2122,Montpellier,Arnaud Souquet,34,27,2334,17,5,29.4,36,31,4,0,0,28,24
+FRA-Ligue 1,2122,Montpellier,Béni Makouana,23,1,322,7,0,0.0,2,3,4,0,0,10,1
+FRA-Ligue 1,2122,Montpellier,Dimitry Bertaud,11,9,833,0,0,,0,0,0,0,0,0,1
+FRA-Ligue 1,2122,Montpellier,Elye Wahi,33,21,1786,43,21,48.8,10,4,2,0,0,18,26
+FRA-Ligue 1,2122,Montpellier,Enzo Tchato,1,0,8,0,0,,0,0,0,0,0,0,0
+FRA-Ligue 1,2122,Montpellier,Florent Mollet,35,32,2630,55,18,32.7,22,19,6,0,0,34,51
+FRA-Ligue 1,2122,Montpellier,Gaëtan Laborde,4,4,341,14,5,35.7,2,4,1,0,0,3,3
+FRA-Ligue 1,2122,Montpellier,Jonas Omlin,29,29,2587,0,0,,1,0,0,1,0,1,2
+FRA-Ligue 1,2122,Montpellier,Jordan Ferri,34,33,2911,14,2,14.3,37,31,13,1,1,50,72
+FRA-Ligue 1,2122,Montpellier,Joris Chotard,36,33,2935,18,3,16.7,30,41,5,0,0,29,10
+FRA-Ligue 1,2122,Montpellier,Junior Sambia,30,16,1533,21,6,28.6,13,20,5,1,1,18,26
+FRA-Ligue 1,2122,Montpellier,Léo Leroy,24,7,626,8,3,37.5,24,7,3,0,0,23,4
+FRA-Ligue 1,2122,Montpellier,Mamadou Sakho,29,29,2575,1,0,0.0,24,37,3,0,0,8,10
+FRA-Ligue 1,2122,Montpellier,Matheus Thuler,16,10,855,1,0,0.0,12,9,3,1,1,12,2
+FRA-Ligue 1,2122,Montpellier,Maxime Estève,24,20,1857,5,1,20.0,18,22,2,0,0,10,6
+FRA-Ligue 1,2122,Montpellier,Mihailo Ristić,29,19,1803,18,5,27.8,32,16,3,1,0,26,27
+FRA-Ligue 1,2122,Montpellier,Nicholas Gioacchini,28,3,497,11,2,18.2,5,4,0,0,0,4,17
+FRA-Ligue 1,2122,Montpellier,Nicolas Cozza,34,32,2770,7,3,42.9,50,40,2,1,0,24,19
+FRA-Ligue 1,2122,Montpellier,Pedro Mendes,1,0,16,0,0,,1,0,0,0,0,0,0
+FRA-Ligue 1,2122,Montpellier,Rémy Cabella,5,3,313,2,0,0.0,7,5,0,0,0,3,3
+FRA-Ligue 1,2122,Montpellier,Sacha Delaye,10,3,254,3,0,0.0,6,1,0,0,0,5,1
+FRA-Ligue 1,2122,Montpellier,Stephy Mavididi,30,27,2299,59,24,40.7,13,7,4,0,0,23,45
+FRA-Ligue 1,2122,Montpellier,Téji Savanier,29,28,2414,81,39,48.1,27,29,9,2,1,44,77
+FRA-Ligue 1,2122,Montpellier,Valère Germain,34,22,1970,31,16,51.6,14,8,3,0,0,23,26
+FRA-Ligue 1,2122,Montpellier,Yanis Guermouche,3,0,11,0,0,,1,0,0,0,0,2,0
+FRA-Ligue 1,2122,Nantes,Abdoulaye Sylla,2,2,157,0,0,,4,1,1,0,0,5,0
+FRA-Ligue 1,2122,Nantes,Alban Lafont,38,38,3420,0,0,,3,1,3,0,0,1,2
+FRA-Ligue 1,2122,Nantes,Andrei Girotto,36,36,3146,45,10,22.2,50,65,8,0,0,52,30
+FRA-Ligue 1,2122,Nantes,Charles Traore,16,7,718,0,0,,15,16,3,0,0,22,7
+FRA-Ligue 1,2122,Nantes,Dennis Appiah,32,22,2099,2,0,0.0,34,27,4,0,0,39,4
+FRA-Ligue 1,2122,Nantes,Fábio,27,21,1667,11,1,9.1,39,35,8,1,0,30,19
+FRA-Ligue 1,2122,Nantes,Jean-Charles Castelletto,28,28,2510,16,5,31.3,26,29,8,0,0,42,12
+FRA-Ligue 1,2122,Nantes,Jean-Kévin Augustin,7,0,84,2,0,0.0,0,0,1,0,0,1,1
+FRA-Ligue 1,2122,Nantes,Kalifa Coulibaly,21,9,850,25,10,40.0,1,1,1,0,0,12,8
+FRA-Ligue 1,2122,Nantes,Lohann Doucet,2,0,6,0,0,,0,1,0,0,0,0,0
+FRA-Ligue 1,2122,Nantes,Ludovic Blas,35,35,2961,90,37,41.1,19,30,10,0,0,46,55
+FRA-Ligue 1,2122,Nantes,Marcus Coco,24,9,930,12,3,25.0,13,9,3,1,1,20,31
+FRA-Ligue 1,2122,Nantes,Mohamed Achi,1,0,10,0,0,,0,0,0,0,0,0,0
+FRA-Ligue 1,2122,Nantes,Moses Simon,30,29,2332,42,19,45.2,11,11,3,0,0,14,26
+FRA-Ligue 1,2122,Nantes,Nicolas Pallois,30,29,2447,8,3,37.5,33,51,8,1,1,17,8
+FRA-Ligue 1,2122,Nantes,Osman Bukari,24,10,1012,20,9,45.0,10,8,1,0,0,14,5
+FRA-Ligue 1,2122,Nantes,Pedro Chirivella,31,31,2637,21,6,28.6,32,36,6,0,0,22,24
+FRA-Ligue 1,2122,Nantes,Quentin Merlin,28,21,1926,11,4,36.4,29,25,0,0,0,10,4
+FRA-Ligue 1,2122,Nantes,Randal Kolo Muani,36,34,2948,56,27,48.2,16,6,2,0,0,59,72
+FRA-Ligue 1,2122,Nantes,Renaud Emond,6,2,190,1,0,0.0,0,0,0,0,0,3,3
+FRA-Ligue 1,2122,Nantes,Roli Pereira de Sa,17,5,573,5,1,20.0,4,6,1,0,0,8,5
+FRA-Ligue 1,2122,Nantes,Samuel Moutoussamy,30,16,1509,14,7,50.0,26,18,5,0,0,33,11
+FRA-Ligue 1,2122,Nantes,Sébastien Corchia,28,13,1324,11,3,27.3,16,11,0,1,0,22,25
+FRA-Ligue 1,2122,Nantes,Willem Geubbels,22,4,544,12,3,25.0,5,6,1,0,0,9,4
+FRA-Ligue 1,2122,Nantes,Wylan Cyprien,24,17,1490,20,8,40.0,15,8,3,0,0,19,16
+FRA-Ligue 1,2122,Nantes,Yannis Mbemba,2,0,5,2,1,50.0,0,0,0,0,0,0,1
+FRA-Ligue 1,2122,Nice,Alexis Claude-Maurice,10,0,209,6,1,16.7,0,3,1,0,0,4,5
+FRA-Ligue 1,2122,Nice,Amine Gouiri,38,32,2754,75,35,46.7,15,11,3,0,0,31,33
+FRA-Ligue 1,2122,Nice,Andy Delort,32,26,2448,100,42,42.0,8,7,3,0,0,38,43
+FRA-Ligue 1,2122,Nice,Bilal Brahimi,11,2,378,4,0,0.0,1,2,1,0,0,4,10
+FRA-Ligue 1,2122,Nice,Calvin Stengs,24,11,1073,21,5,23.8,7,8,1,0,0,15,7
+FRA-Ligue 1,2122,Nice,Dan Ndoye,3,2,205,3,0,0.0,0,0,0,0,0,3,2
+FRA-Ligue 1,2122,Nice,Danilo Barbosa,1,1,90,0,0,,0,2,0,0,0,0,0
+FRA-Ligue 1,2122,Nice,Dante,34,33,2870,13,3,23.1,28,47,7,3,1,26,12
+FRA-Ligue 1,2122,Nice,Evann Guessand,20,2,438,12,5,41.7,9,0,3,0,0,14,9
+FRA-Ligue 1,2122,Nice,Flavius Daniliuc,24,14,1293,4,0,0.0,31,16,4,0,0,17,4
+FRA-Ligue 1,2122,Nice,Hassane Kamara,11,7,544,12,0,0.0,10,9,2,0,0,7,4
+FRA-Ligue 1,2122,Nice,Hicham Boudaoui,29,21,1621,15,5,33.3,20,20,7,0,0,30,21
+FRA-Ligue 1,2122,Nice,Jean-Clair Todibo,36,35,3115,18,5,27.8,39,54,6,0,0,25,10
+FRA-Ligue 1,2122,Nice,Jordan Amavi,8,4,413,0,0,,10,13,1,0,0,2,4
+FRA-Ligue 1,2122,Nice,Jordan Lotomba,30,19,1782,9,2,22.2,18,11,4,0,0,11,23
+FRA-Ligue 1,2122,Nice,Justin Kluivert,27,24,1868,30,10,33.3,8,13,6,1,0,38,29
+FRA-Ligue 1,2122,Nice,Kasper Dolberg,26,19,1492,40,16,40.0,4,7,0,0,0,29,29
+FRA-Ligue 1,2122,Nice,Khéphren Thuram,36,20,1901,22,6,27.3,21,27,4,0,0,33,14
+FRA-Ligue 1,2122,Nice,Lucas Da Cunha,10,5,393,10,3,30.0,7,1,0,0,0,3,5
+FRA-Ligue 1,2122,Nice,Marcin Bułka,1,1,90,0,0,,0,0,0,0,0,0,0
+FRA-Ligue 1,2122,Nice,Mario Lemina,32,24,1967,16,4,25.0,34,43,7,1,1,36,23
+FRA-Ligue 1,2122,Nice,Melvin Bard,33,30,2589,5,2,40.0,39,47,3,0,0,21,30
+FRA-Ligue 1,2122,Nice,Morgan Schneiderlin,20,5,649,2,0,0.0,12,19,1,1,0,15,4
+FRA-Ligue 1,2122,Nice,Myziane Maolida,1,0,34,1,0,0.0,0,0,0,0,0,0,0
+FRA-Ligue 1,2122,Nice,Pablo Rosario,36,31,2729,19,3,15.8,38,36,7,0,0,37,22
+FRA-Ligue 1,2122,Nice,Walter Benítez,37,37,3330,0,0,,0,0,2,0,0,0,6
+FRA-Ligue 1,2122,Nice,Youcef Atal,17,13,1140,13,5,38.5,19,32,4,0,0,17,22
+FRA-Ligue 1,2122,Paris SG,Abdou Diallo,12,10,877,2,1,50.0,14,11,1,0,0,12,3
+FRA-Ligue 1,2122,Paris SG,Achraf Hakimi,32,28,2479,20,10,50.0,49,27,3,1,0,20,14
+FRA-Ligue 1,2122,Paris SG,Alexandre Letellier,1,0,8,0,0,,0,0,0,0,0,0,0
+FRA-Ligue 1,2122,Paris SG,Ander Herrera,19,12,1091,14,3,21.4,16,17,2,0,0,14,5
+FRA-Ligue 1,2122,Paris SG,Arnaud Kalimuendo,2,0,8,0,0,,0,0,0,0,0,0,1
+FRA-Ligue 1,2122,Paris SG,Colin Dagba,3,2,165,0,0,,2,2,1,0,0,6,2
+FRA-Ligue 1,2122,Paris SG,Danilo Pereira,27,22,2038,19,9,47.4,18,34,2,0,0,22,23
+FRA-Ligue 1,2122,Paris SG,Djeidi Gassama,1,0,2,0,0,,0,0,0,0,0,0,0
+FRA-Ligue 1,2122,Paris SG,Edouard Michut,5,0,70,0,0,,0,1,0,1,0,2,4
+FRA-Ligue 1,2122,Paris SG,El Chadaille Bitshiabu,1,0,5,0,0,,0,0,0,0,0,0,0
+FRA-Ligue 1,2122,Paris SG,Georginio Wijnaldum,31,18,1653,22,2,9.1,9,7,2,0,0,6,15
+FRA-Ligue 1,2122,Paris SG,Gianluigi Donnarumma,17,17,1530,0,0,,0,0,3,0,0,0,2
+FRA-Ligue 1,2122,Paris SG,Idrissa Gueye,26,18,1641,24,7,29.2,37,24,4,0,0,38,16
+FRA-Ligue 1,2122,Paris SG,Ismaël Gharbi,1,0,2,0,0,,0,0,0,0,0,0,0
+FRA-Ligue 1,2122,Paris SG,Juan Bernat,15,12,958,1,1,100.0,15,9,2,0,0,4,9
+FRA-Ligue 1,2122,Paris SG,Julian Draxler,18,5,548,9,3,33.3,2,6,0,0,0,4,1
+FRA-Ligue 1,2122,Paris SG,Junior Dina Ebimbe,10,4,316,4,1,25.0,5,2,2,0,0,11,4
+FRA-Ligue 1,2122,Paris SG,Keylor Navas,21,21,1856,0,0,,0,0,0,1,0,1,1
+FRA-Ligue 1,2122,Paris SG,Kylian Mbappé,35,34,3023,147,68,46.3,10,4,10,0,0,29,53
+FRA-Ligue 1,2122,Paris SG,Leandro Paredes,15,10,838,8,2,25.0,12,8,3,0,0,10,9
+FRA-Ligue 1,2122,Paris SG,Lionel Messi,26,24,2153,89,29,32.6,3,4,0,0,0,6,35
+FRA-Ligue 1,2122,Paris SG,Marco Verratti,24,23,1937,7,1,14.3,40,19,12,0,0,32,48
+FRA-Ligue 1,2122,Paris SG,Marquinhos,32,32,2861,21,8,38.1,15,13,5,0,0,6,10
+FRA-Ligue 1,2122,Paris SG,Mauro Icardi,24,10,1027,28,10,35.7,3,5,1,0,0,14,7
+FRA-Ligue 1,2122,Paris SG,Nathan Bitumazala,1,0,11,0,0,,0,0,0,0,0,0,0
+FRA-Ligue 1,2122,Paris SG,Neymar,22,22,1851,54,30,55.6,20,3,10,0,0,29,69
+FRA-Ligue 1,2122,Paris SG,Nuno Mendes,27,18,1658,7,1,14.3,30,19,3,0,0,18,24
+FRA-Ligue 1,2122,Paris SG,Pablo Sarabia,2,0,22,1,1,100.0,0,0,1,0,0,1,1
+FRA-Ligue 1,2122,Paris SG,Presnel Kimpembe,30,29,2576,7,1,14.3,20,39,6,0,0,28,26
+FRA-Ligue 1,2122,Paris SG,Rafinha,5,3,220,5,0,0.0,10,4,0,0,0,4,5
+FRA-Ligue 1,2122,Paris SG,Sekou Yansané,1,0,16,0,0,,0,0,0,0,0,1,0
+FRA-Ligue 1,2122,Paris SG,Sergio Ramos,12,8,801,12,4,33.3,5,8,3,1,1,12,4
+FRA-Ligue 1,2122,Paris SG,Sergio Rico,1,0,23,0,0,,0,0,0,0,0,0,0
+FRA-Ligue 1,2122,Paris SG,Thilo Kehrer,27,16,1513,9,4,44.4,15,22,0,0,0,15,6
+FRA-Ligue 1,2122,Paris SG,Xavi Simons,6,1,132,2,0,0.0,1,0,1,0,0,2,4
+FRA-Ligue 1,2122,Paris SG,Ángel Di María,26,19,1645,51,22,43.1,18,6,2,0,0,9,14
+FRA-Ligue 1,2122,Reims,Alexis Flips,25,13,1056,19,10,52.6,23,22,2,0,0,18,12
+FRA-Ligue 1,2122,Reims,Anastasios Donis,13,3,370,10,0,0.0,6,0,0,1,0,9,3
+FRA-Ligue 1,2122,Reims,Andrew Gravillon,26,24,2135,16,4,25.0,24,31,9,2,2,35,21
+FRA-Ligue 1,2122,Reims,Arber Zeneli,9,4,409,11,3,27.3,0,1,0,0,0,4,6
+FRA-Ligue 1,2122,Reims,Azor Matusiwa,29,29,2463,11,6,54.5,31,60,8,1,1,29,30
+FRA-Ligue 1,2122,Reims,Bradley Locko,24,11,1011,6,1,16.7,18,14,4,0,0,15,12
+FRA-Ligue 1,2122,Reims,Dion Lopy,26,19,1642,16,2,12.5,29,24,4,0,0,37,18
+FRA-Ligue 1,2122,Reims,El Bilal Touré,21,15,1194,32,11,34.4,5,5,2,0,0,20,14
+FRA-Ligue 1,2122,Reims,Fodé Doucouré,3,1,154,0,0,,10,4,0,0,0,1,1
+FRA-Ligue 1,2122,Reims,Fraser Hornby,8,4,350,6,2,33.3,1,4,1,0,0,7,6
+FRA-Ligue 1,2122,Reims,Ghislain Konan,28,28,2418,19,5,26.3,21,25,1,0,0,16,33
+FRA-Ligue 1,2122,Reims,Hugo Ekitike,24,15,1273,31,18,58.1,10,6,1,1,0,18,31
+FRA-Ligue 1,2122,Reims,Ibrahim Diakité,1,0,4,0,0,,0,0,0,0,0,0,0
+FRA-Ligue 1,2122,Reims,Ilan Kebbal,31,21,1772,27,6,22.2,14,13,1,0,0,12,50
+FRA-Ligue 1,2122,Reims,Jens Cajuste,8,4,364,9,7,77.8,6,5,0,0,0,6,7
+FRA-Ligue 1,2122,Reims,Kaj Sierhuis,2,1,80,2,0,0.0,1,0,0,0,0,0,0
+FRA-Ligue 1,2122,Reims,Kamory Doumbia,8,2,352,5,2,40.0,2,4,1,0,0,1,4
+FRA-Ligue 1,2122,Reims,Marshall Munetsi,24,20,1885,31,14,45.2,19,37,7,0,0,39,21
+FRA-Ligue 1,2122,Reims,Martin Adeline,8,2,352,4,1,25.0,11,8,1,0,0,16,2
+FRA-Ligue 1,2122,Reims,Mathieu Cafaro,4,3,192,6,2,33.3,2,3,2,0,0,6,3
+FRA-Ligue 1,2122,Reims,Maxime Busi,18,13,1296,7,2,28.6,15,13,3,0,0,20,7
+FRA-Ligue 1,2122,Reims,Mitchell van Bergen,20,11,983,12,6,50.0,6,5,1,0,0,8,4
+FRA-Ligue 1,2122,Reims,Moreto Cassamã,17,11,801,11,7,63.6,7,9,1,0,0,12,22
+FRA-Ligue 1,2122,Reims,Moussa Doumbia,4,0,86,4,3,75.0,0,0,0,0,0,0,2
+FRA-Ligue 1,2122,Reims,Moustapha Mbow,1,1,90,0,0,,5,1,0,0,0,0,0
+FRA-Ligue 1,2122,Reims,Nathanaël Mbuku,31,18,1418,33,13,39.4,10,8,1,0,0,10,39
+FRA-Ligue 1,2122,Reims,Philippe Koffi,10,3,375,9,2,22.2,0,3,1,0,0,8,13
+FRA-Ligue 1,2122,Reims,Predrag Rajković,38,38,3420,0,0,,3,1,3,0,0,0,7
+FRA-Ligue 1,2122,Reims,Sambou Sissoko,8,0,176,3,0,0.0,6,2,0,0,0,1,4
+FRA-Ligue 1,2122,Reims,Samuel Koeberlé,1,0,1,0,0,,0,0,0,0,0,0,1
+FRA-Ligue 1,2122,Reims,Thomas Foket,29,26,2235,8,3,37.5,18,30,5,0,0,26,27
+FRA-Ligue 1,2122,Reims,Valon Berisha,13,5,455,4,0,0.0,7,2,2,1,1,13,2
+FRA-Ligue 1,2122,Reims,Wout Faes,37,37,3330,22,9,40.9,25,52,2,0,0,20,24
+FRA-Ligue 1,2122,Reims,Xavier Chavalerin,3,2,220,3,0,0.0,4,5,0,0,0,3,0
+FRA-Ligue 1,2122,Reims,Yunis Abdelhamid,34,34,2983,18,6,33.3,28,67,5,1,0,38,25
+FRA-Ligue 1,2122,Rennes,Adrien Truffert,30,18,1639,19,6,31.6,23,15,4,0,0,24,19
+FRA-Ligue 1,2122,Rennes,Alfred Gomis,25,25,2250,0,0,,1,1,1,0,0,1,2
+FRA-Ligue 1,2122,Rennes,Andy Diouf,5,0,14,0,0,,1,0,0,0,0,1,1
+FRA-Ligue 1,2122,Rennes,Baptiste Santamaria,34,28,2518,34,7,20.6,26,30,7,0,0,35,21
+FRA-Ligue 1,2122,Rennes,Benjamin Bourigeaud,38,38,3193,51,21,41.2,26,31,2,0,0,25,8
+FRA-Ligue 1,2122,Rennes,Birger Meling,31,20,1829,3,1,33.3,29,20,3,0,0,15,21
+FRA-Ligue 1,2122,Rennes,Doğan Alemdar,12,12,1080,0,0,,0,0,1,0,0,0,0
+FRA-Ligue 1,2122,Rennes,Eduardo Camavinga,4,1,143,0,0,,1,1,0,0,0,1,6
+FRA-Ligue 1,2122,Rennes,Flavien Tait,28,24,2125,40,11,27.5,19,18,3,0,0,29,48
+FRA-Ligue 1,2122,Rennes,Gaëtan Laborde,34,32,2729,88,37,42.0,7,7,1,0,0,32,20
+FRA-Ligue 1,2122,Rennes,Hamari Traoré,33,33,2890,31,9,29.0,36,38,4,0,0,46,24
+FRA-Ligue 1,2122,Rennes,Jeanuël Belocian,1,0,12,0,0,,0,0,0,0,0,0,1
+FRA-Ligue 1,2122,Rennes,Jeremy Doku,14,4,469,5,2,40.0,4,3,2,0,0,9,15
+FRA-Ligue 1,2122,Rennes,Jonas Martin,29,24,2105,21,4,19.0,21,19,8,0,0,30,14
+FRA-Ligue 1,2122,Rennes,Kamaldeen Sulemana,20,11,1015,26,8,30.8,14,4,3,0,0,19,14
+FRA-Ligue 1,2122,Rennes,Lesley Ugochukwu,18,3,405,4,1,25.0,9,3,2,0,0,14,1
+FRA-Ligue 1,2122,Rennes,Lorenz Assignon,20,5,616,6,4,66.7,8,8,0,0,0,10,12
+FRA-Ligue 1,2122,Rennes,Loum Tchaouna,10,0,87,2,1,50.0,1,1,0,0,0,0,1
+FRA-Ligue 1,2122,Rennes,Lovro Majer,29,21,1832,45,18,40.0,22,11,1,0,0,37,32
+FRA-Ligue 1,2122,Rennes,Loïc Bade,14,11,985,7,0,0.0,5,10,3,1,1,6,1
+FRA-Ligue 1,2122,Rennes,Martin Terrier,37,37,2779,88,47,53.4,34,19,1,0,0,28,42
+FRA-Ligue 1,2122,Rennes,Mathys Tel,7,0,56,3,1,33.3,0,1,0,0,0,4,0
+FRA-Ligue 1,2122,Rennes,Matthis Abline,7,1,103,2,0,0.0,0,0,0,0,0,2,1
+FRA-Ligue 1,2122,Rennes,Nayef Aguerd,31,31,2735,25,7,28.0,18,27,3,1,0,20,16
+FRA-Ligue 1,2122,Rennes,Romain Del Castillo,3,0,28,1,0,0.0,1,1,0,0,0,0,3
+FRA-Ligue 1,2122,Rennes,Romain Salin,1,1,90,0,0,,0,0,0,0,0,0,1
+FRA-Ligue 1,2122,Rennes,Serhou Guirassy,37,7,1016,46,17,37.0,3,1,1,0,0,22,35
+FRA-Ligue 1,2122,Rennes,Warmed Omari,34,31,2796,5,1,20.0,21,31,6,0,0,24,17
+FRA-Ligue 1,2122,Saint-Étienne,Abdoulaye Bakayoko,4,4,307,0,0,,9,11,0,0,0,7,5
+FRA-Ligue 1,2122,Saint-Étienne,Adil Aouchiche,35,11,1081,21,10,47.6,7,14,2,0,0,10,13
+FRA-Ligue 1,2122,Saint-Étienne,Aimen Moueffek,14,4,432,4,1,25.0,4,2,1,0,0,5,7
+FRA-Ligue 1,2122,Saint-Étienne,Alpha Sissoko,1,1,45,0,0,,0,0,1,0,0,2,0
+FRA-Ligue 1,2122,Saint-Étienne,Arnaud Nordin,36,20,1874,44,19,43.2,14,6,4,0,0,19,47
+FRA-Ligue 1,2122,Saint-Étienne,Assane Dioussé,4,0,23,0,0,,1,1,0,0,0,0,1
+FRA-Ligue 1,2122,Saint-Étienne,Bakary Sako,7,1,156,6,0,0.0,0,0,0,0,0,3,0
+FRA-Ligue 1,2122,Saint-Étienne,Bryan Djile Nokoué,2,0,57,0,0,,3,1,0,0,0,0,1
+FRA-Ligue 1,2122,Saint-Étienne,Charles Abi,1,1,45,0,0,,0,0,0,0,0,1,0
+FRA-Ligue 1,2122,Saint-Étienne,Denis Bouanga,34,28,2436,81,30,37.0,21,6,4,1,0,48,45
+FRA-Ligue 1,2122,Saint-Étienne,Elhadji Dieye,5,0,34,1,0,0.0,2,1,0,0,0,1,2
+FRA-Ligue 1,2122,Saint-Étienne,Eliaquim Mangala,14,14,1179,3,1,33.3,9,15,9,0,0,18,8
+FRA-Ligue 1,2122,Saint-Étienne,Enzo Crivelli,4,0,102,2,1,50.0,0,0,0,0,0,1,0
+FRA-Ligue 1,2122,Saint-Étienne,Etienne Green,15,15,1197,0,0,,1,1,1,1,0,2,1
+FRA-Ligue 1,2122,Saint-Étienne,Falaye Sacko,9,8,667,1,0,0.0,10,3,0,0,0,9,2
+FRA-Ligue 1,2122,Saint-Étienne,Gabriel Silva,13,9,713,1,0,0.0,7,17,1,0,0,8,15
+FRA-Ligue 1,2122,Saint-Étienne,Harold Moukoudi,24,17,1661,7,2,28.6,13,40,3,0,0,14,5
+FRA-Ligue 1,2122,Saint-Étienne,Jean-Philippe Krasso,16,5,453,12,2,16.7,5,0,0,0,0,9,7
+FRA-Ligue 1,2122,Saint-Étienne,Juan Ignacio Ramírez,5,1,126,2,0,0.0,0,0,0,0,0,1,0
+FRA-Ligue 1,2122,Saint-Étienne,Lamine Ghezali,1,0,1,0,0,,0,0,0,0,0,0,0
+FRA-Ligue 1,2122,Saint-Étienne,Lucas Calodat,1,0,4,0,0,,0,0,0,0,0,0,0
+FRA-Ligue 1,2122,Saint-Étienne,Lucas Gourna-Douath,31,20,1804,11,1,9.1,27,11,7,0,0,37,27
+FRA-Ligue 1,2122,Saint-Étienne,Mahdi Camara,35,34,3073,28,16,57.1,58,52,8,0,0,42,43
+FRA-Ligue 1,2122,Saint-Étienne,Mathys Saban,3,0,73,0,0,,2,0,1,0,0,2,0
+FRA-Ligue 1,2122,Saint-Étienne,Maxence Rivera,1,0,5,0,0,,0,0,0,0,0,0,0
+FRA-Ligue 1,2122,Saint-Étienne,Mickael Nade,30,29,2563,7,1,14.3,36,58,4,0,0,41,31
+FRA-Ligue 1,2122,Saint-Étienne,Miguel Trauco,17,12,1112,11,3,27.3,18,23,3,0,0,8,8
+FRA-Ligue 1,2122,Saint-Étienne,Paul Bernardoni,19,19,1710,0,0,,0,0,0,0,0,0,3
+FRA-Ligue 1,2122,Saint-Étienne,Romain Hamouma,22,7,886,23,7,30.4,7,3,2,0,0,23,12
+FRA-Ligue 1,2122,Saint-Étienne,Ryad Boudebouz,30,27,2252,28,10,35.7,16,8,2,0,0,14,29
+FRA-Ligue 1,2122,Saint-Étienne,Sada Thioub,17,11,950,5,0,0.0,6,7,2,0,0,7,5
+FRA-Ligue 1,2122,Saint-Étienne,Saidou Sow,13,11,989,3,2,66.7,18,24,2,0,0,9,4
+FRA-Ligue 1,2122,Saint-Étienne,Stefan Bajic,7,4,510,1,1,100.0,0,0,0,0,0,0,0
+FRA-Ligue 1,2122,Saint-Étienne,Timothée Kolodziejczak,30,30,2565,15,6,40.0,26,55,4,1,0,26,3
+FRA-Ligue 1,2122,Saint-Étienne,Wahbi Khazri,30,26,2225,72,22,30.6,18,10,6,0,0,22,47
+FRA-Ligue 1,2122,Saint-Étienne,Yanis Lhery,5,0,72,2,2,100.0,0,0,0,0,0,2,1
+FRA-Ligue 1,2122,Saint-Étienne,Yvan Neyou,16,12,936,6,2,33.3,15,26,4,1,1,17,20
+FRA-Ligue 1,2122,Saint-Étienne,Yvann Macon,22,19,1529,15,4,26.7,26,16,7,0,0,23,12
+FRA-Ligue 1,2122,Saint-Étienne,Zaydou Youssouf,30,18,1553,20,6,30.0,25,16,3,1,0,19,24
+FRA-Ligue 1,2122,Strasbourg,Abdul Majeed Waris,15,2,327,7,3,42.9,2,0,1,0,0,5,13
+FRA-Ligue 1,2122,Strasbourg,Adrien Thomasson,31,27,2389,48,19,39.6,32,32,2,1,0,36,34
+FRA-Ligue 1,2122,Strasbourg,Alexander Djiku,31,30,2694,15,7,46.7,35,59,10,1,1,44,28
+FRA-Ligue 1,2122,Strasbourg,Anthony Caci,37,26,2395,15,4,26.7,32,35,4,0,0,36,23
+FRA-Ligue 1,2122,Strasbourg,Dimitri Liénard,33,23,2044,22,3,13.6,45,23,8,0,0,33,25
+FRA-Ligue 1,2122,Strasbourg,Eiji Kawashima,1,1,90,0,0,,0,0,0,0,0,0,0
+FRA-Ligue 1,2122,Strasbourg,Frederic Guilbert,33,28,2516,24,5,20.8,38,54,4,0,0,26,22
+FRA-Ligue 1,2122,Strasbourg,Gerzino Nyamsi,34,33,2984,27,6,22.2,23,23,4,0,0,33,4
+FRA-Ligue 1,2122,Strasbourg,Habib Diallo,31,16,1541,53,23,43.4,5,4,2,0,0,17,20
+FRA-Ligue 1,2122,Strasbourg,Habib Diarra,4,1,109,0,0,,1,0,1,0,0,2,1
+FRA-Ligue 1,2122,Strasbourg,Ibrahima Sissoko,35,26,2303,25,6,24.0,24,33,6,0,0,60,29
+FRA-Ligue 1,2122,Strasbourg,Ismaël Doukouré,1,0,17,0,0,,0,0,0,0,0,0,0
+FRA-Ligue 1,2122,Strasbourg,Jean-Eudes Aholou,25,11,1004,17,2,11.8,8,20,2,0,0,21,20
+FRA-Ligue 1,2122,Strasbourg,Jean-Ricner Bellegarde,36,26,2332,31,7,22.6,34,26,5,0,0,35,68
+FRA-Ligue 1,2122,Strasbourg,Karol Fila,16,7,560,0,0,,8,3,3,0,0,9,10
+FRA-Ligue 1,2122,Strasbourg,Kévin Gameiro,35,28,2385,69,29,42.0,13,5,0,0,0,16,17
+FRA-Ligue 1,2122,Strasbourg,Lebo Mothiba,1,0,1,0,0,,0,0,0,0,0,1,0
+FRA-Ligue 1,2122,Strasbourg,Lucas Perrin,31,29,2502,9,3,33.3,30,42,5,0,0,46,30
+FRA-Ligue 1,2122,Strasbourg,Ludovic Ajorque,36,31,2738,60,28,46.7,25,8,5,1,0,39,36
+FRA-Ligue 1,2122,Strasbourg,Mahame Siby,2,0,17,0,0,,0,0,0,0,0,0,0
+FRA-Ligue 1,2122,Strasbourg,Matz Sels,37,37,3330,2,0,0.0,1,1,1,0,0,1,2
+FRA-Ligue 1,2122,Strasbourg,Maxime Le Marchand,12,9,860,3,2,66.7,10,12,4,0,0,10,2
+FRA-Ligue 1,2122,Strasbourg,Mehdi Chahiri,1,0,16,0,0,,1,0,0,0,0,0,0
+FRA-Ligue 1,2122,Strasbourg,Moïse Sahi Dion,8,0,128,5,2,40.0,0,1,0,0,0,1,4
+FRA-Ligue 1,2122,Strasbourg,Nordine Kandil,5,0,90,1,0,0.0,1,1,1,0,0,1,2
+FRA-Ligue 1,2122,Strasbourg,Sanjin Prcić,32,27,2186,46,11,23.9,28,49,4,0,0,23,9
+FRA-Ligue 1,2122,Troyes,Abdu Conté,17,17,1347,5,1,20.0,11,4,2,0,0,14,14
+FRA-Ligue 1,2122,Troyes,Adil Rami,17,14,1171,5,3,60.0,10,16,1,0,0,8,5
+FRA-Ligue 1,2122,Troyes,Brandon Domingues,11,1,231,4,2,50.0,2,3,0,0,0,3,10
+FRA-Ligue 1,2122,Troyes,Derek Mazou-Sacko,2,0,3,0,0,,0,0,0,0,0,1,0
+FRA-Ligue 1,2122,Troyes,Dylan Chambost,19,9,753,10,1,10.0,9,9,0,0,0,7,5
+FRA-Ligue 1,2122,Troyes,Eric N'Jo,2,0,98,0,0,,0,2,0,0,0,3,0
+FRA-Ligue 1,2122,Troyes,Erik Palmer-Brown,21,19,1734,4,0,0.0,22,33,2,0,0,18,10
+FRA-Ligue 1,2122,Troyes,Florian Tardieu,30,29,2632,24,9,37.5,27,42,6,0,0,19,37
+FRA-Ligue 1,2122,Troyes,Gauthier Gallon,31,31,2790,0,0,,0,2,2,0,0,0,6
+FRA-Ligue 1,2122,Troyes,Gerson Rodrigues,12,9,848,23,7,30.4,9,0,6,0,0,28,16
+FRA-Ligue 1,2122,Troyes,Giulian Biancone,33,26,2292,30,9,30.0,43,52,10,0,0,34,33
+FRA-Ligue 1,2122,Troyes,Ike Ugbo,14,11,814,16,7,43.8,1,2,0,0,0,9,16
+FRA-Ligue 1,2122,Troyes,Issa Kaboré,31,26,2254,7,2,28.6,24,21,8,2,1,29,43
+FRA-Ligue 1,2122,Troyes,Jessy Moulin,7,7,630,0,0,,0,1,3,1,1,1,2
+FRA-Ligue 1,2122,Troyes,Jimmy Giraudon,19,18,1619,0,0,,7,36,5,1,1,13,5
+FRA-Ligue 1,2122,Troyes,Karim Azamoum,7,4,388,3,3,100.0,5,1,2,0,0,12,3
+FRA-Ligue 1,2122,Troyes,Lebo Mothiba,13,5,522,6,3,50.0,3,2,1,0,0,10,16
+FRA-Ligue 1,2122,Troyes,Levi Lumeka,5,0,67,0,0,,0,0,0,0,0,2,1
+FRA-Ligue 1,2122,Troyes,Mama Samba Baldé,30,20,1717,48,18,37.5,26,4,1,1,0,41,26
+FRA-Ligue 1,2122,Troyes,Mamadou Camara,3,0,40,1,1,100.0,1,0,0,0,0,1,0
+FRA-Ligue 1,2122,Troyes,Mykola Kukharevych,2,0,15,1,0,0.0,0,0,0,0,0,1,0
+FRA-Ligue 1,2122,Troyes,Nassim Chadli,8,1,96,2,0,0.0,2,0,1,0,0,3,3
+FRA-Ligue 1,2122,Troyes,Oualid El Hajjam,19,12,1072,11,3,27.3,13,22,2,0,0,16,9
+FRA-Ligue 1,2122,Troyes,Patrick Roberts,1,0,14,1,1,100.0,0,0,0,0,0,1,0
+FRA-Ligue 1,2122,Troyes,Philippe Sandler,2,1,70,0,0,,0,3,0,0,0,0,0
+FRA-Ligue 1,2122,Troyes,Renaud Ripart,28,22,1893,42,14,33.3,21,16,2,0,0,24,40
+FRA-Ligue 1,2122,Troyes,Rominigue Kouamé,34,34,2968,37,11,29.7,25,45,5,0,0,43,65
+FRA-Ligue 1,2122,Troyes,Suk Hyun-jun,9,0,153,8,2,25.0,0,0,0,0,0,7,5
+FRA-Ligue 1,2122,Troyes,Tanguy Zoukrou,4,0,77,1,1,100.0,0,0,1,0,0,1,0
+FRA-Ligue 1,2122,Troyes,Tristan Dingomé,25,12,1077,20,4,20.0,11,8,3,0,0,12,14
+FRA-Ligue 1,2122,Troyes,Xavier Chavalerin,34,31,2717,29,10,34.5,28,34,4,0,0,31,12
+FRA-Ligue 1,2122,Troyes,Yasser Larouci,12,2,341,3,1,33.3,5,7,1,0,0,2,8
+FRA-Ligue 1,2122,Troyes,Yoann Salmier,31,30,2668,9,1,11.1,36,41,5,0,0,33,28
+FRA-Ligue 1,2122,Troyes,Yoann Touzghar,28,16,1457,28,12,42.9,2,0,0,0,0,7,19
+FRA-Ligue 1,2122,Troyes,Youssouf Koné,21,11,980,9,3,33.3,18,9,2,1,0,7,20

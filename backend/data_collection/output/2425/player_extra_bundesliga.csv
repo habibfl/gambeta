@@ -1,0 +1,493 @@
+league,season,team,player,mp,starts,minutes,shots,shots_on_target,shots_on_target_pct,tackles_won,interceptions,yellow_cards,red_cards,second_yellow_cards,fouls_committed,fouls_drawn
+GER-Bundesliga,2425,Augsburg,Alexis Claude-Maurice,28,25,2109,59,22,37.3,26,15,4,0,0,26,42
+GER-Bundesliga,2425,Augsburg,Arne Engels,1,1,79,3,1,33.3,0,0,1,0,0,3,1
+GER-Bundesliga,2425,Augsburg,Arne Maier,28,7,938,18,6,33.3,6,6,0,1,0,9,7
+GER-Bundesliga,2425,Augsburg,Cedric Zesiger,15,15,1221,10,2,20.0,7,20,7,1,1,15,7
+GER-Bundesliga,2425,Augsburg,Chrislain Matsima,30,28,2551,14,2,14.3,21,50,4,0,0,11,10
+GER-Bundesliga,2425,Augsburg,Dimitris Giannoulis,31,31,2650,13,4,30.8,33,47,8,0,0,17,20
+GER-Bundesliga,2425,Augsburg,Elvis Rexhbeçaj,27,22,1785,29,5,17.2,19,16,8,0,0,13,42
+GER-Bundesliga,2425,Augsburg,Finn Dahmen,19,19,1710,0,0,,0,0,0,0,0,0,1
+GER-Bundesliga,2425,Augsburg,Frank Onyeka,31,30,2586,24,6,25.0,46,37,8,0,0,47,74
+GER-Bundesliga,2425,Augsburg,Fredrik Jensen,20,9,763,11,0,0.0,7,5,0,0,0,5,5
+GER-Bundesliga,2425,Augsburg,Henri Koudossou,21,4,748,2,0,0.0,9,14,1,0,0,7,5
+GER-Bundesliga,2425,Augsburg,Jeffrey Gouweleeuw,33,33,2944,18,5,27.8,31,39,9,0,0,22,13
+GER-Bundesliga,2425,Augsburg,Keven Schlotterbeck,18,15,1297,12,5,41.7,17,18,4,1,1,10,11
+GER-Bundesliga,2425,Augsburg,Kristijan Jakić,31,27,2306,18,6,33.3,24,29,2,0,0,22,28
+GER-Bundesliga,2425,Augsburg,Mads Pedersen,7,2,235,2,0,0.0,7,2,0,0,0,5,1
+GER-Bundesliga,2425,Augsburg,Marius Wolf,32,28,2144,12,2,16.7,15,26,2,0,0,19,14
+GER-Bundesliga,2425,Augsburg,Maximilian Bauer,11,8,658,1,1,100.0,9,5,1,0,0,7,13
+GER-Bundesliga,2425,Augsburg,Mergim Berisha,2,0,40,3,1,33.3,0,0,1,0,0,2,0
+GER-Bundesliga,2425,Augsburg,Mert Kömür,20,5,654,13,7,53.8,2,2,1,0,0,7,12
+GER-Bundesliga,2425,Augsburg,Nediljko Labrović,15,15,1350,0,0,,0,0,0,0,0,0,2
+GER-Bundesliga,2425,Augsburg,Niklas Dorsch,1,0,32,0,0,,0,0,0,0,0,0,2
+GER-Bundesliga,2425,Augsburg,Noahkai Banks,8,2,278,1,0,0.0,5,5,2,0,0,2,1
+GER-Bundesliga,2425,Augsburg,Phillip Tietz,34,19,1686,51,20,39.2,6,5,4,0,0,36,12
+GER-Bundesliga,2425,Augsburg,Robert Gumny,7,2,271,4,2,50.0,3,1,2,0,0,4,4
+GER-Bundesliga,2425,Augsburg,Ruben Vargas,8,3,305,9,1,11.1,1,2,3,0,0,5,3
+GER-Bundesliga,2425,Augsburg,Samuel Essende,30,21,1636,44,13,29.5,6,1,4,2,0,45,34
+GER-Bundesliga,2425,Augsburg,Steve Mounié,16,1,347,22,8,36.4,4,1,2,0,0,9,5
+GER-Bundesliga,2425,Augsburg,Tim Breithaupt,2,2,120,1,0,0.0,1,2,0,0,0,2,3
+GER-Bundesliga,2425,Augsburg,Yusuf Kabadayı,5,0,71,4,1,25.0,0,0,0,0,0,1,1
+GER-Bundesliga,2425,Bayern Munich,Adam Aznou,2,0,17,0,0,,0,0,0,0,0,0,0
+GER-Bundesliga,2425,Bayern Munich,Aleksandar Pavlovic,21,18,1451,9,4,44.4,22,6,2,0,0,17,9
+GER-Bundesliga,2425,Bayern Munich,Alphonso Davies,19,17,1560,17,3,17.6,16,13,0,0,0,8,26
+GER-Bundesliga,2425,Bayern Munich,Arijon Ibrahimović,1,0,1,0,0,,0,0,0,0,0,0,0
+GER-Bundesliga,2425,Bayern Munich,Daniel Peretz,3,3,270,0,0,,0,0,1,0,0,0,2
+GER-Bundesliga,2425,Bayern Munich,Dayot Upamecano,20,20,1759,13,6,46.2,25,31,6,0,0,20,11
+GER-Bundesliga,2425,Bayern Munich,Eric Dier,21,16,1463,9,6,66.7,12,14,1,0,0,16,4
+GER-Bundesliga,2425,Bayern Munich,Gabriel Vidovic,4,0,24,1,0,0.0,0,0,0,0,0,0,1
+GER-Bundesliga,2425,Bayern Munich,Harry Kane,31,28,2381,114,54,47.4,10,4,5,0,0,9,21
+GER-Bundesliga,2425,Bayern Munich,Hiroki Ito,6,3,250,1,1,100.0,0,4,1,0,0,2,3
+GER-Bundesliga,2425,Bayern Munich,Jamal Musiala,25,21,1798,68,32,47.1,21,7,3,0,0,20,55
+GER-Bundesliga,2425,Bayern Munich,Jonah Kusi-Asare,1,0,3,1,0,0.0,0,0,0,0,0,0,0
+GER-Bundesliga,2425,Bayern Munich,Jonas Urbig,8,8,720,0,0,,0,0,0,0,0,0,0
+GER-Bundesliga,2425,Bayern Munich,Joshua Kimmich,33,32,2847,34,10,29.4,28,22,4,0,0,15,27
+GER-Bundesliga,2425,Bayern Munich,Josip Stanišić,14,9,876,2,0,0.0,11,5,0,0,0,2,4
+GER-Bundesliga,2425,Bayern Munich,João Palhinha,17,6,673,10,3,30.0,14,4,2,1,0,13,10
+GER-Bundesliga,2425,Bayern Munich,Kim Min-jae,27,27,2283,7,5,71.4,17,33,2,0,0,25,4
+GER-Bundesliga,2425,Bayern Munich,Kingsley Coman,28,14,1282,44,17,38.6,11,8,0,0,0,9,12
+GER-Bundesliga,2425,Bayern Munich,Konrad Laimer,29,19,1699,18,6,33.3,24,5,8,0,0,35,12
+GER-Bundesliga,2425,Bayern Munich,Leon Goretzka,26,13,1325,32,11,34.4,9,17,2,0,0,12,11
+GER-Bundesliga,2425,Bayern Munich,Leroy Sané,30,17,1637,67,30,44.8,14,7,2,0,0,16,25
+GER-Bundesliga,2425,Bayern Munich,Manuel Neuer,22,22,1980,0,0,,0,0,0,0,0,0,1
+GER-Bundesliga,2425,Bayern Munich,Mathys Tel,8,2,256,10,3,30.0,1,1,0,0,0,5,6
+GER-Bundesliga,2425,Bayern Munich,Michael Olise,34,28,2334,86,36,41.9,20,8,3,0,0,22,66
+GER-Bundesliga,2425,Bayern Munich,Raphaël Guerreiro,23,19,1572,21,11,52.4,14,10,2,0,0,9,7
+GER-Bundesliga,2425,Bayern Munich,Sacha Boey,13,6,593,3,1,33.3,6,2,1,0,0,7,7
+GER-Bundesliga,2425,Bayern Munich,Serge Gnabry,27,13,1242,49,18,36.7,10,6,0,0,0,19,6
+GER-Bundesliga,2425,Bayern Munich,Sven Ulreich,1,1,90,0,0,,0,0,0,0,0,0,0
+GER-Bundesliga,2425,Bayern Munich,Thomas Müller,30,12,1225,30,11,36.7,6,2,3,0,0,14,12
+GER-Bundesliga,2425,Bochum,Aliou Badara Baldé,5,0,91,4,1,25.0,1,0,1,0,0,1,0
+GER-Bundesliga,2425,Bochum,Anthony Losilla,21,13,1137,5,0,0.0,15,18,1,0,0,18,9
+GER-Bundesliga,2425,Bochum,Bernardo,21,19,1782,8,2,25.0,26,26,5,0,0,24,11
+GER-Bundesliga,2425,Bochum,Cristian Gamboa,12,1,226,4,1,25.0,3,2,1,0,0,1,3
+GER-Bundesliga,2425,Bochum,Dani de Wit,28,11,1153,20,7,35.0,18,12,1,0,0,24,12
+GER-Bundesliga,2425,Bochum,Erhan Mašović,16,10,910,7,4,57.1,10,12,2,0,0,12,4
+GER-Bundesliga,2425,Bochum,Felix Passlack,31,30,2334,26,6,23.1,24,19,4,0,0,28,21
+GER-Bundesliga,2425,Bochum,Gerrit Holtmann,23,12,1136,31,8,25.8,18,16,2,0,0,26,7
+GER-Bundesliga,2425,Bochum,Giorgos Masouras,14,12,1055,30,15,50.0,10,4,1,0,0,12,10
+GER-Bundesliga,2425,Bochum,Ibrahima Sissoko,32,30,2610,25,8,32.0,40,33,11,1,1,76,29
+GER-Bundesliga,2425,Bochum,Ivan Ordets,22,21,1861,11,0,0.0,8,43,6,0,0,22,19
+GER-Bundesliga,2425,Bochum,Jakov Medić,23,17,1603,14,3,21.4,10,22,2,0,0,10,7
+GER-Bundesliga,2425,Bochum,Kacper Koscierski,1,0,7,0,0,,0,0,0,0,0,0,0
+GER-Bundesliga,2425,Bochum,Koji Miyoshi,15,6,464,12,5,41.7,5,2,0,1,0,10,4
+GER-Bundesliga,2425,Bochum,Lukas Daschner,14,3,412,9,6,66.7,2,0,0,0,0,4,2
+GER-Bundesliga,2425,Bochum,Mats Pannewig,14,2,267,9,3,33.3,7,2,1,0,0,5,1
+GER-Bundesliga,2425,Bochum,Matúš Bero,30,29,2565,32,13,40.6,36,18,11,0,0,50,34
+GER-Bundesliga,2425,Bochum,Maximilian Wittek,33,32,2706,41,7,17.1,40,26,8,0,0,34,34
+GER-Bundesliga,2425,Bochum,Moritz Broschinski,33,15,1390,38,12,31.6,16,1,1,0,0,28,18
+GER-Bundesliga,2425,Bochum,Moritz-Broni Kwarteng,7,0,172,6,1,16.7,3,0,1,0,0,3,1
+GER-Bundesliga,2425,Bochum,Myron Boadu,19,11,1042,28,15,53.6,1,1,2,0,0,11,6
+GER-Bundesliga,2425,Bochum,Patrick Drewes,21,21,1890,0,0,,0,0,2,0,0,1,3
+GER-Bundesliga,2425,Bochum,Philipp Hofmann,32,27,2277,54,19,35.2,12,5,4,0,0,36,31
+GER-Bundesliga,2425,Bochum,Samuel Bamba,5,0,27,2,1,50.0,1,0,0,0,0,0,1
+GER-Bundesliga,2425,Bochum,Tim Oermann,29,26,2213,9,0,0.0,30,24,0,0,0,16,8
+GER-Bundesliga,2425,Bochum,Timo Horn,13,13,1170,0,0,,0,0,2,0,0,0,2
+GER-Bundesliga,2425,Bochum,Tom Krauß,14,13,1077,11,2,18.2,17,11,2,0,0,14,16
+GER-Bundesliga,2425,Dortmund,Alexander Meyer,2,2,180,0,0,,0,0,0,0,0,0,0
+GER-Bundesliga,2425,Dortmund,Almugera Kabar,5,1,137,0,0,,3,1,2,1,1,2,2
+GER-Bundesliga,2425,Dortmund,Ayman Azhil,1,0,24,0,0,,1,0,1,0,0,2,0
+GER-Bundesliga,2425,Dortmund,Carney Chukwuemeka,10,1,253,8,2,25.0,5,1,1,0,0,4,5
+GER-Bundesliga,2425,Dortmund,Cole Campbell,4,0,22,0,0,,0,0,0,0,0,1,1
+GER-Bundesliga,2425,Dortmund,Daniel Svensson,12,8,781,6,2,33.3,11,5,0,0,0,4,7
+GER-Bundesliga,2425,Dortmund,Donyell Malen,14,6,614,19,6,31.6,0,3,1,0,0,2,7
+GER-Bundesliga,2425,Dortmund,Emre Can,31,23,2105,9,3,33.3,27,20,4,1,0,25,19
+GER-Bundesliga,2425,Dortmund,Felix Nmecha,26,19,1509,18,6,33.3,21,24,3,0,0,22,26
+GER-Bundesliga,2425,Dortmund,Gio Reyna,16,3,350,3,2,66.7,0,0,3,0,0,8,3
+GER-Bundesliga,2425,Dortmund,Gregor Kobel,32,32,2880,0,0,,0,2,1,0,0,0,2
+GER-Bundesliga,2425,Dortmund,Jamie Gittens,32,21,1776,52,24,46.2,17,10,4,0,0,25,44
+GER-Bundesliga,2425,Dortmund,Julian Brandt,30,28,2303,45,15,33.3,12,14,1,0,0,8,9
+GER-Bundesliga,2425,Dortmund,Julian Ryerson,29,27,2259,18,5,27.8,28,23,6,1,1,31,23
+GER-Bundesliga,2425,Dortmund,Julien Duranville,12,2,283,5,2,40.0,0,0,3,0,0,10,7
+GER-Bundesliga,2425,Dortmund,Karim Adeyemi,25,17,1433,46,18,39.1,13,8,4,0,0,27,18
+GER-Bundesliga,2425,Dortmund,Kjell-Arik Wätjen,2,0,16,0,0,,0,0,0,0,0,0,1
+GER-Bundesliga,2425,Dortmund,Marcel Sabitzer,26,18,1616,21,8,38.1,19,10,3,0,0,12,9
+GER-Bundesliga,2425,Dortmund,Maximilian Beier,29,17,1591,42,13,31.0,15,7,2,0,0,17,16
+GER-Bundesliga,2425,Dortmund,Nico Schlotterbeck,23,23,1982,16,4,25.0,25,15,7,2,1,18,19
+GER-Bundesliga,2425,Dortmund,Niklas Süle,15,12,1053,9,2,22.2,12,3,1,0,0,5,2
+GER-Bundesliga,2425,Dortmund,Pascal Groß,30,28,2327,27,7,25.9,29,9,5,1,0,18,12
+GER-Bundesliga,2425,Dortmund,Ramy Bensebaini,31,23,2022,20,2,10.0,27,27,6,0,0,28,24
+GER-Bundesliga,2425,Dortmund,Salih Özcan,11,3,391,4,0,0.0,6,10,0,0,0,11,7
+GER-Bundesliga,2425,Dortmund,Serhou Guirassy,30,29,2598,89,37,41.6,6,5,4,0,0,16,53
+GER-Bundesliga,2425,Dortmund,Waldemar Anton,26,22,1949,19,3,15.8,21,32,4,0,0,20,20
+GER-Bundesliga,2425,Dortmund,Yan Couto,21,8,895,6,2,33.3,16,10,5,0,0,12,7
+GER-Bundesliga,2425,Dortmund,Yannik Lührs,3,1,127,0,0,,1,1,0,0,0,2,0
+GER-Bundesliga,2425,Frankfurt,Ansgar Knauff,30,18,1597,30,12,40.0,22,11,3,0,0,27,28
+GER-Bundesliga,2425,Frankfurt,Arthur Theate,31,31,2704,36,9,25.0,24,36,6,1,1,14,23
+GER-Bundesliga,2425,Frankfurt,Aurèle Amenda,8,1,96,1,0,0.0,0,2,1,0,0,3,2
+GER-Bundesliga,2425,Frankfurt,Can Uzun,20,6,675,27,11,40.7,3,1,1,0,0,8,16
+GER-Bundesliga,2425,Frankfurt,Ellyes Skhiri,30,26,2231,13,2,15.4,24,34,6,0,0,21,19
+GER-Bundesliga,2425,Frankfurt,Elye Wahi,8,1,196,9,2,22.2,0,0,1,0,0,2,3
+GER-Bundesliga,2425,Frankfurt,Fares Chaïbi,26,10,1013,25,6,24.0,10,10,2,0,0,5,7
+GER-Bundesliga,2425,Frankfurt,Hugo Ekitike,33,31,2563,117,48,41.0,12,5,1,0,0,39,17
+GER-Bundesliga,2425,Frankfurt,Hugo Larsson,33,28,2393,21,10,47.6,29,33,2,0,0,21,5
+GER-Bundesliga,2425,Frankfurt,Igor Matanović,16,2,312,11,5,45.5,0,1,0,0,0,6,11
+GER-Bundesliga,2425,Frankfurt,Jean Mattéo Bahoya,24,10,921,10,3,30.0,19,3,3,0,0,9,7
+GER-Bundesliga,2425,Frankfurt,Junior Dina Ebimbe,7,3,293,8,0,0.0,2,7,0,0,0,10,4
+GER-Bundesliga,2425,Frankfurt,Kauã Santos,9,8,765,0,0,,0,0,0,0,0,0,2
+GER-Bundesliga,2425,Frankfurt,Kevin Trapp,26,26,2295,0,0,,0,0,0,0,0,0,1
+GER-Bundesliga,2425,Frankfurt,Mahmoud Dahoud,9,3,364,7,2,28.6,4,2,2,0,0,10,2
+GER-Bundesliga,2425,Frankfurt,Mario Götze,24,18,1542,8,5,62.5,28,7,1,0,0,15,15
+GER-Bundesliga,2425,Frankfurt,Michy Batshuayi,10,3,300,5,3,60.0,1,1,2,0,0,6,2
+GER-Bundesliga,2425,Frankfurt,Nathaniel Brown,26,22,1947,13,5,38.5,42,16,2,0,0,15,22
+GER-Bundesliga,2425,Frankfurt,Niels Nkounkou,12,4,382,4,0,0.0,9,9,1,0,0,5,2
+GER-Bundesliga,2425,Frankfurt,Nnamdi Collins,24,15,1489,5,2,40.0,24,18,4,0,0,26,22
+GER-Bundesliga,2425,Frankfurt,Omar Marmoush,17,17,1448,77,36,46.8,9,4,2,0,0,9,55
+GER-Bundesliga,2425,Frankfurt,Oscar Højlund,20,7,722,6,2,33.3,12,5,0,0,0,12,3
+GER-Bundesliga,2425,Frankfurt,Rasmus Kristensen,30,28,2513,24,8,33.3,37,20,4,0,0,25,12
+GER-Bundesliga,2425,Frankfurt,Robin Koch,30,30,2586,17,6,35.3,11,25,3,0,0,23,13
+GER-Bundesliga,2425,Frankfurt,Timothy Chandler,3,0,24,0,0,,0,2,0,0,0,0,2
+GER-Bundesliga,2425,Frankfurt,Tuta,30,26,2274,12,5,41.7,26,42,8,0,0,30,9
+GER-Bundesliga,2425,Freiburg,Christian Günter,29,27,2314,20,6,30.0,22,7,0,0,0,14,4
+GER-Bundesliga,2425,Freiburg,Eren Dinkçi,23,13,1196,14,3,21.4,14,7,1,0,0,9,6
+GER-Bundesliga,2425,Freiburg,Florent Muslija,9,0,168,3,2,66.7,4,2,0,0,0,0,2
+GER-Bundesliga,2425,Freiburg,Florian Müller,9,8,753,0,0,,0,0,0,0,0,0,1
+GER-Bundesliga,2425,Freiburg,Ifechukwu Ogbus,2,0,19,0,0,,1,1,0,0,0,1,0
+GER-Bundesliga,2425,Freiburg,Jan-Niklas Beste,12,0,212,6,2,33.3,3,0,0,0,0,3,6
+GER-Bundesliga,2425,Freiburg,Johan Manzambi,11,4,335,11,3,27.3,3,4,2,0,0,7,7
+GER-Bundesliga,2425,Freiburg,Jordy Makengo,19,7,745,0,0,,9,6,1,0,0,5,6
+GER-Bundesliga,2425,Freiburg,Junior Adamu,25,19,1545,37,12,32.4,3,11,5,1,0,37,22
+GER-Bundesliga,2425,Freiburg,Kiliann Sildillia,21,8,801,7,2,28.6,9,10,2,0,0,10,9
+GER-Bundesliga,2425,Freiburg,Lucas Höler,31,21,1867,35,19,54.3,24,6,3,0,0,31,30
+GER-Bundesliga,2425,Freiburg,Lukas Kübler,28,22,1842,18,11,61.1,20,48,5,0,0,25,23
+GER-Bundesliga,2425,Freiburg,Matthias Ginter,32,28,2561,24,4,16.7,17,17,5,0,0,13,26
+GER-Bundesliga,2425,Freiburg,Max Rosenfelder,25,13,1249,5,1,20.0,17,8,2,0,0,8,14
+GER-Bundesliga,2425,Freiburg,Maximilian Eggestein,33,33,2845,36,12,33.3,31,39,4,0,0,22,24
+GER-Bundesliga,2425,Freiburg,Maximilian Philipp,2,0,17,1,0,0.0,0,0,0,0,0,0,0
+GER-Bundesliga,2425,Freiburg,Merlin Röhl,19,11,965,12,3,25.0,9,4,2,0,0,22,19
+GER-Bundesliga,2425,Freiburg,Michael Gregoritsch,20,5,639,16,6,37.5,2,1,2,0,0,7,5
+GER-Bundesliga,2425,Freiburg,Nicolas Höfler,20,7,794,4,0,0.0,22,14,3,0,0,12,5
+GER-Bundesliga,2425,Freiburg,Noah Atubolu,26,26,2307,0,0,,0,0,2,0,0,0,0
+GER-Bundesliga,2425,Freiburg,Noah Weißhaupt,3,0,80,1,0,0.0,0,0,0,0,0,1,6
+GER-Bundesliga,2425,Freiburg,Patrick Osterhage,30,27,2267,21,3,14.3,29,22,6,1,1,25,22
+GER-Bundesliga,2425,Freiburg,Philipp Lienhart,32,31,2770,8,1,12.5,13,31,5,0,0,22,19
+GER-Bundesliga,2425,Freiburg,Ritsu Doan,34,33,2862,61,23,37.7,43,14,2,0,0,27,56
+GER-Bundesliga,2425,Freiburg,Roland Sallai,2,0,46,3,1,33.3,1,1,0,0,0,0,1
+GER-Bundesliga,2425,Freiburg,Vincenzo Grifo,34,31,2432,66,29,43.9,21,8,2,0,0,15,12
+GER-Bundesliga,2425,Gladbach,Alassane Pléa,30,24,1902,42,14,33.3,4,1,3,0,0,18,33
+GER-Bundesliga,2425,Gladbach,Fabio Chiarodia,16,3,379,4,1,25.0,4,9,0,0,0,7,0
+GER-Bundesliga,2425,Gladbach,Florian Neuhaus,18,2,382,9,3,33.3,3,6,1,0,0,4,7
+GER-Bundesliga,2425,Gladbach,Franck Honorat,19,18,1439,31,9,29.0,6,5,0,0,0,7,5
+GER-Bundesliga,2425,Gladbach,Grant Ranos,2,0,20,0,0,,0,0,1,0,0,1,0
+GER-Bundesliga,2425,Gladbach,Joe Scally,32,30,2578,6,1,16.7,32,18,6,0,0,23,47
+GER-Bundesliga,2425,Gladbach,Jonas Omlin,12,11,978,0,0,,0,0,0,1,0,1,1
+GER-Bundesliga,2425,Gladbach,Julian Weigl,33,33,2881,19,6,31.6,26,51,8,0,0,23,24
+GER-Bundesliga,2425,Gladbach,Kevin Stöger,31,16,1551,26,12,46.2,20,14,3,0,0,22,40
+GER-Bundesliga,2425,Gladbach,Ko Itakura,31,31,2790,21,7,33.3,29,28,5,0,0,28,12
+GER-Bundesliga,2425,Gladbach,Luca Netz,24,8,969,3,0,0.0,14,10,2,0,0,8,6
+GER-Bundesliga,2425,Gladbach,Lukas Ullrich,26,24,1903,8,2,25.0,15,20,4,0,0,22,17
+GER-Bundesliga,2425,Gladbach,Marvin Friedrich,22,9,989,7,2,28.6,9,6,0,0,0,5,4
+GER-Bundesliga,2425,Gladbach,Moritz Nicolas,19,19,1639,0,0,,0,1,0,0,0,0,0
+GER-Bundesliga,2425,Gladbach,Nathan N'Goumou,19,9,828,24,13,54.2,11,4,0,0,0,7,12
+GER-Bundesliga,2425,Gladbach,Nico Elvedi,25,25,2135,12,4,33.3,24,27,1,0,0,9,15
+GER-Bundesliga,2425,Gladbach,Noah Pesch,1,0,6,0,0,,0,0,0,0,0,1,0
+GER-Bundesliga,2425,Gladbach,Philipp Sander,27,16,1400,18,8,44.4,17,22,2,0,0,16,7
+GER-Bundesliga,2425,Gladbach,Robin Hack,33,27,2172,58,24,41.4,19,9,4,0,0,19,21
+GER-Bundesliga,2425,Gladbach,Rocco Reitz,27,21,1830,23,7,30.4,24,54,1,0,0,19,38
+GER-Bundesliga,2425,Gladbach,Shiō Fukuda,6,0,60,3,1,33.3,0,0,0,0,0,2,0
+GER-Bundesliga,2425,Gladbach,Stefan Lainer,21,6,757,4,1,25.0,13,12,2,0,0,11,6
+GER-Bundesliga,2425,Gladbach,Tiago Cardoso,5,4,380,0,0,,0,0,0,0,0,0,0
+GER-Bundesliga,2425,Gladbach,Tim Kleindienst,31,31,2737,75,39,52.0,15,13,5,1,1,75,25
+GER-Bundesliga,2425,Gladbach,Tobias Sippel,1,0,59,0,0,,0,0,0,0,0,0,0
+GER-Bundesliga,2425,Gladbach,Tomáš Čvančara,28,7,831,24,9,37.5,0,4,5,1,1,11,6
+GER-Bundesliga,2425,Heidenheim,Adrian Beck,32,18,1598,39,13,33.3,17,9,1,0,0,16,14
+GER-Bundesliga,2425,Heidenheim,Benedikt Gimber,32,32,2671,13,1,7.7,47,32,9,0,0,63,49
+GER-Bundesliga,2425,Heidenheim,Budu Zivzivadze,15,10,958,22,10,45.5,11,2,0,0,0,9,15
+GER-Bundesliga,2425,Heidenheim,Denis Thomalla,1,0,4,0,0,,0,0,0,0,0,0,0
+GER-Bundesliga,2425,Heidenheim,Frank Feller,2,1,121,0,0,,0,0,0,0,0,0,0
+GER-Bundesliga,2425,Heidenheim,Frans Krätzig,16,15,1217,9,3,33.3,18,18,1,0,0,7,4
+GER-Bundesliga,2425,Heidenheim,Jan Schöppner,33,32,2681,41,13,31.7,31,43,8,0,0,31,20
+GER-Bundesliga,2425,Heidenheim,Jonas Föhrenbach,27,22,1832,8,1,12.5,24,15,3,0,0,13,4
+GER-Bundesliga,2425,Heidenheim,Julian Niehues,8,0,154,2,1,50.0,1,0,1,0,0,1,2
+GER-Bundesliga,2425,Heidenheim,Kevin Müller,33,33,2939,0,0,,1,0,0,0,0,0,3
+GER-Bundesliga,2425,Heidenheim,Lennard Maloney,11,10,760,3,0,0.0,13,13,1,0,0,11,4
+GER-Bundesliga,2425,Heidenheim,Luca Kerber,23,7,783,7,5,71.4,16,5,4,0,0,22,8
+GER-Bundesliga,2425,Heidenheim,Léo Scienza,25,13,1153,38,15,39.5,11,5,1,0,0,16,63
+GER-Bundesliga,2425,Heidenheim,Marnon Busch,23,15,1396,13,3,23.1,15,14,1,0,0,8,7
+GER-Bundesliga,2425,Heidenheim,Marvin Pieringer,31,26,2206,60,20,33.3,11,8,7,0,0,50,46
+GER-Bundesliga,2425,Heidenheim,Mathias Honsak,22,12,1181,29,10,34.5,9,9,1,0,0,14,13
+GER-Bundesliga,2425,Heidenheim,Maximilian Breunig,13,2,350,11,3,27.3,4,1,0,0,0,8,5
+GER-Bundesliga,2425,Heidenheim,Mikkel Kaufmann,9,3,372,3,3,100.0,4,2,2,0,0,5,14
+GER-Bundesliga,2425,Heidenheim,Niklas Dorsch,22,19,1335,9,3,33.3,18,16,5,1,0,15,20
+GER-Bundesliga,2425,Heidenheim,Norman Theuerkauf,1,0,22,1,0,0.0,0,0,0,0,0,1,0
+GER-Bundesliga,2425,Heidenheim,Omar Traoré,30,30,2616,16,3,18.8,28,21,7,0,0,23,37
+GER-Bundesliga,2425,Heidenheim,Patrick Mainka,34,34,3060,25,9,36.0,32,65,3,0,0,17,21
+GER-Bundesliga,2425,Heidenheim,Paul Wanner,29,20,1771,25,6,24.0,28,3,2,0,0,23,18
+GER-Bundesliga,2425,Heidenheim,Sirlord Conteh,29,4,892,13,5,38.5,5,0,2,0,0,8,11
+GER-Bundesliga,2425,Heidenheim,Stefan Schimmer,13,0,247,10,2,20.0,0,0,1,0,0,2,1
+GER-Bundesliga,2425,Heidenheim,Thomas Keller,6,2,148,1,0,0.0,5,4,2,0,0,6,4
+GER-Bundesliga,2425,Heidenheim,Tim Siersleben,16,14,1182,4,2,50.0,14,20,4,0,0,16,7
+GER-Bundesliga,2425,Hoffenheim,Adam Hložek,27,22,1871,59,25,42.4,11,4,2,0,0,16,30
+GER-Bundesliga,2425,Hoffenheim,Alexander Prass,23,19,1566,12,1,8.3,24,11,1,0,0,17,25
+GER-Bundesliga,2425,Hoffenheim,Andrej Kramarić,32,32,2767,69,26,37.7,8,9,4,0,0,12,28
+GER-Bundesliga,2425,Hoffenheim,Anton Stach,30,29,2585,35,10,28.6,47,49,8,0,0,39,34
+GER-Bundesliga,2425,Hoffenheim,Arthur Chaves,26,24,2185,11,2,18.2,35,38,8,0,0,38,19
+GER-Bundesliga,2425,Hoffenheim,Bazoumana Touré,13,7,609,19,5,26.3,10,3,1,0,0,13,3
+GER-Bundesliga,2425,Hoffenheim,David Jurásek,14,6,619,5,2,40.0,3,7,0,0,0,1,2
+GER-Bundesliga,2425,Hoffenheim,David Mokwa,2,0,22,2,2,100.0,0,0,0,0,0,1,0
+GER-Bundesliga,2425,Hoffenheim,Dennis Geiger,20,7,734,5,1,20.0,14,7,4,0,0,26,10
+GER-Bundesliga,2425,Hoffenheim,Diadie Samassékou,8,6,290,3,1,33.3,6,5,0,0,0,5,4
+GER-Bundesliga,2425,Hoffenheim,Erencan Yardimci,8,3,313,5,1,20.0,3,1,2,0,0,8,5
+GER-Bundesliga,2425,Hoffenheim,Finn Ole Becker,13,7,670,4,2,50.0,5,9,1,0,0,5,7
+GER-Bundesliga,2425,Hoffenheim,Florian Grillitsch,8,8,601,6,1,16.7,9,9,1,0,0,4,11
+GER-Bundesliga,2425,Hoffenheim,Florian Micheler,1,0,32,0,0,,0,0,1,0,0,1,0
+GER-Bundesliga,2425,Hoffenheim,Gift Orban,13,7,687,11,4,36.4,1,0,2,0,0,15,7
+GER-Bundesliga,2425,Hoffenheim,Grischa Prömel,2,2,174,0,0,,0,1,0,0,0,0,3
+GER-Bundesliga,2425,Hoffenheim,Hannes Behrens,1,0,29,0,0,,1,2,0,0,0,0,1
+GER-Bundesliga,2425,Hoffenheim,Haris Tabaković,22,6,821,30,10,33.3,0,1,0,0,0,15,8
+GER-Bundesliga,2425,Hoffenheim,Ihlas Bebou,1,0,9,0,0,,0,0,0,0,0,0,0
+GER-Bundesliga,2425,Hoffenheim,Jacob Bruun Larsen,12,3,400,14,7,50.0,3,1,0,0,0,2,2
+GER-Bundesliga,2425,Hoffenheim,Kevin Akpoguma,32,23,2220,5,1,20.0,26,25,3,0,0,24,23
+GER-Bundesliga,2425,Hoffenheim,Leo Østigård,11,11,927,5,0,0.0,7,10,0,1,0,18,5
+GER-Bundesliga,2425,Hoffenheim,Luca Philipp,6,6,540,0,0,,0,0,0,0,0,0,0
+GER-Bundesliga,2425,Hoffenheim,Marius Bülter,25,22,1729,38,16,42.1,10,4,4,0,0,11,36
+GER-Bundesliga,2425,Hoffenheim,Max Moerstedt,12,5,451,12,4,33.3,3,0,2,0,0,6,10
+GER-Bundesliga,2425,Hoffenheim,Mergim Berisha,11,3,333,11,3,27.3,2,0,1,0,0,5,5
+GER-Bundesliga,2425,Hoffenheim,Oliver Baumann,28,28,2520,0,0,,2,0,1,0,0,0,6
+GER-Bundesliga,2425,Hoffenheim,Paul Hennrich,1,0,12,0,0,,0,0,0,0,0,0,0
+GER-Bundesliga,2425,Hoffenheim,Pavel Kadeřábek,24,18,1576,14,3,21.4,14,21,6,0,0,21,8
+GER-Bundesliga,2425,Hoffenheim,Robin Hranáč,4,2,219,0,0,,0,5,0,0,0,5,0
+GER-Bundesliga,2425,Hoffenheim,Stanley N'Soki,22,16,1308,3,1,33.3,18,28,3,1,0,12,6
+GER-Bundesliga,2425,Hoffenheim,Tim Drexler,8,5,357,2,2,100.0,8,0,2,0,0,8,2
+GER-Bundesliga,2425,Hoffenheim,Tom Bischof,31,30,2559,51,18,35.3,54,32,5,0,0,46,33
+GER-Bundesliga,2425,Hoffenheim,Umut Tohumcu,12,3,375,3,1,33.3,6,3,3,0,0,6,6
+GER-Bundesliga,2425,Hoffenheim,Valentin Gendrey,22,14,1414,10,5,50.0,13,15,1,0,0,12,27
+GER-Bundesliga,2425,Holstein Kiel,Alexander Bernhardsson,19,15,1263,27,14,51.9,14,5,3,0,0,21,15
+GER-Bundesliga,2425,Holstein Kiel,Andu Kelati,8,2,288,6,3,50.0,4,3,2,1,1,4,5
+GER-Bundesliga,2425,Holstein Kiel,Armin Gigovic,31,23,1895,26,11,42.3,14,22,5,0,0,22,28
+GER-Bundesliga,2425,Holstein Kiel,Benedikt Pichler,18,7,785,20,9,45.0,3,2,1,0,0,14,16
+GER-Bundesliga,2425,Holstein Kiel,Carl Johansson,10,7,568,1,1,100.0,2,11,0,1,0,5,4
+GER-Bundesliga,2425,Holstein Kiel,David Zec,18,18,1541,11,5,45.5,10,14,5,0,0,21,8
+GER-Bundesliga,2425,Holstein Kiel,Dominik Javorček,13,4,386,1,0,0.0,0,5,2,0,0,7,6
+GER-Bundesliga,2425,Holstein Kiel,Finn Porath,31,20,1970,29,12,41.4,27,19,3,0,0,31,37
+GER-Bundesliga,2425,Holstein Kiel,Ivan Nekić,1,1,71,0,0,,1,3,0,0,0,1,0
+GER-Bundesliga,2425,Holstein Kiel,Jann-Fiete Arp,23,3,713,22,11,50.0,10,3,8,1,1,20,18
+GER-Bundesliga,2425,Holstein Kiel,John Tolkin,11,9,737,2,0,0.0,11,8,0,0,0,2,9
+GER-Bundesliga,2425,Holstein Kiel,Lasse Rosenboom,26,21,1734,12,5,41.7,35,19,3,0,0,19,12
+GER-Bundesliga,2425,Holstein Kiel,Lewis Holtby,25,13,1238,7,1,14.3,19,19,1,1,0,13,23
+GER-Bundesliga,2425,Holstein Kiel,Magnus Knudsen,31,22,1850,12,4,33.3,30,10,7,0,0,27,10
+GER-Bundesliga,2425,Holstein Kiel,Marco Komenda,19,17,1307,3,0,0.0,17,7,3,0,0,16,13
+GER-Bundesliga,2425,Holstein Kiel,Marko Ivezić,23,18,1657,7,0,0.0,18,26,5,0,0,27,5
+GER-Bundesliga,2425,Holstein Kiel,Marvin Schulz,12,3,306,3,1,33.3,4,0,3,0,0,6,1
+GER-Bundesliga,2425,Holstein Kiel,Max Geschwill,19,13,1282,9,2,22.2,22,31,2,0,0,13,9
+GER-Bundesliga,2425,Holstein Kiel,Nicolai Remberg,32,26,2417,24,3,12.5,24,29,11,0,0,43,45
+GER-Bundesliga,2425,Holstein Kiel,Patrick Erras,10,10,832,8,1,12.5,6,9,2,0,0,10,0
+GER-Bundesliga,2425,Holstein Kiel,Phil Harres,26,17,1544,37,17,45.9,9,4,3,0,0,35,20
+GER-Bundesliga,2425,Holstein Kiel,Shuto Machino,32,23,1953,51,23,45.1,5,7,2,0,0,20,25
+GER-Bundesliga,2425,Holstein Kiel,Steven Skrzybski,24,15,1323,33,13,39.4,8,13,0,0,0,16,22
+GER-Bundesliga,2425,Holstein Kiel,Thomas Dähne,9,9,810,0,0,,0,0,0,0,0,1,1
+GER-Bundesliga,2425,Holstein Kiel,Timo Becker,30,28,2445,17,4,23.5,35,17,2,0,0,9,9
+GER-Bundesliga,2425,Holstein Kiel,Timon Weiner,25,25,2250,0,0,,0,0,4,0,0,2,3
+GER-Bundesliga,2425,Holstein Kiel,Tymoteusz Puchacz,10,5,396,4,1,25.0,5,3,0,0,0,2,7
+GER-Bundesliga,2425,Leverkusen,Aleix García,28,17,1455,15,5,33.3,9,14,3,0,0,8,9
+GER-Bundesliga,2425,Leverkusen,Amine Adli,20,6,766,20,7,35.0,9,1,3,0,0,15,9
+GER-Bundesliga,2425,Leverkusen,Arthur,20,7,752,1,0,0.0,12,9,1,0,0,20,6
+GER-Bundesliga,2425,Leverkusen,Edmond Tapsoba,29,29,2507,21,2,9.5,21,24,4,0,0,34,6
+GER-Bundesliga,2425,Leverkusen,Emi Buendía,11,3,257,7,4,57.1,5,1,0,0,0,6,7
+GER-Bundesliga,2425,Leverkusen,Exequiel Palacios,24,11,1155,13,9,69.2,15,12,2,0,0,9,18
+GER-Bundesliga,2425,Leverkusen,Florian Wirtz,31,25,2351,78,39,50.0,22,9,3,0,0,22,39
+GER-Bundesliga,2425,Leverkusen,Granit Xhaka,33,33,2888,21,3,14.3,27,11,3,0,0,34,34
+GER-Bundesliga,2425,Leverkusen,Jeanuël Belocian,5,1,68,0,0,,1,0,1,0,0,1,4
+GER-Bundesliga,2425,Leverkusen,Jeremie Frimpong,33,25,2314,34,16,47.1,24,8,4,0,0,20,31
+GER-Bundesliga,2425,Leverkusen,Jonas Hofmann,11,4,356,9,5,55.6,0,0,1,0,0,1,9
+GER-Bundesliga,2425,Leverkusen,Jonathan Tah,33,33,2970,24,7,29.2,14,37,3,0,0,16,5
+GER-Bundesliga,2425,Leverkusen,Lukáš Hrádecký,29,29,2610,0,0,,0,0,1,0,0,0,2
+GER-Bundesliga,2425,Leverkusen,Mario Hermoso,4,3,293,4,0,0.0,0,9,0,0,0,2,1
+GER-Bundesliga,2425,Leverkusen,Martin Terrier,15,7,584,16,6,37.5,2,1,1,0,0,2,9
+GER-Bundesliga,2425,Leverkusen,Matej Kovar,5,5,450,0,0,,0,0,0,0,0,0,1
+GER-Bundesliga,2425,Leverkusen,Nathan Tella,27,17,1359,28,11,39.3,11,5,1,0,0,22,32
+GER-Bundesliga,2425,Leverkusen,Nordi Mukiele,15,10,899,7,3,42.9,17,16,4,0,0,6,14
+GER-Bundesliga,2425,Leverkusen,Patrik Schick,31,19,1684,68,34,50.0,5,4,4,0,0,23,23
+GER-Bundesliga,2425,Leverkusen,Piero Hincapié,32,28,2670,22,3,13.6,40,32,8,0,0,26,43
+GER-Bundesliga,2425,Leverkusen,Robert Andrich,23,19,1598,21,5,23.8,12,27,7,0,0,29,17
+GER-Bundesliga,2425,Leverkusen,Victor Boniface,19,12,1008,51,18,35.3,4,0,2,0,0,14,8
+GER-Bundesliga,2425,Leverkusen,Álex Grimaldo,32,31,2636,44,14,31.8,15,17,6,1,1,15,25
+GER-Bundesliga,2425,Mainz 05,Andreas Hanche-Olsen,22,12,1284,12,2,16.7,14,11,4,1,1,20,8
+GER-Bundesliga,2425,Mainz 05,Anthony Caci,33,33,2684,32,12,37.5,37,27,6,0,0,37,11
+GER-Bundesliga,2425,Mainz 05,Armindo Sieb,27,5,762,29,7,24.1,5,1,2,0,0,13,13
+GER-Bundesliga,2425,Mainz 05,Arnaud Nordin,6,0,80,1,0,0.0,0,0,0,0,0,1,3
+GER-Bundesliga,2425,Mainz 05,Aymen Barkok,4,0,73,0,0,,1,2,0,0,0,2,1
+GER-Bundesliga,2425,Mainz 05,Danny da Costa,25,25,2006,5,1,20.0,24,29,0,0,0,19,4
+GER-Bundesliga,2425,Mainz 05,Dominik Kohr,28,28,2295,13,5,38.5,46,42,11,1,0,46,36
+GER-Bundesliga,2425,Mainz 05,Gabriel Vidovic,1,0,4,1,0,0.0,0,0,0,0,0,0,1
+GER-Bundesliga,2425,Mainz 05,Hong Hyunseok,23,4,530,5,2,40.0,3,7,0,0,0,3,8
+GER-Bundesliga,2425,Mainz 05,Jonathan Burkardt,29,28,2109,72,30,41.7,7,1,0,0,0,23,24
+GER-Bundesliga,2425,Mainz 05,Kaishū Sano,34,34,3043,20,2,10.0,33,63,3,0,0,16,33
+GER-Bundesliga,2425,Mainz 05,Karim Onisiwo,6,1,110,3,0,0.0,0,0,0,0,0,3,2
+GER-Bundesliga,2425,Mainz 05,Lasse Rieß,2,2,180,0,0,,0,0,0,0,0,0,0
+GER-Bundesliga,2425,Mainz 05,Lee Jae-sung,33,31,2650,39,16,41.0,24,37,4,0,0,23,40
+GER-Bundesliga,2425,Mainz 05,Lennard Maloney,5,0,26,0,0,,1,0,1,0,0,2,0
+GER-Bundesliga,2425,Mainz 05,Maxim Leitsch,14,6,674,6,1,16.7,4,8,2,0,0,10,4
+GER-Bundesliga,2425,Mainz 05,Moritz Jenz,19,18,1600,10,4,40.0,23,29,4,0,0,27,6
+GER-Bundesliga,2425,Mainz 05,Nadiem Amiri,30,30,2473,62,26,41.9,28,19,9,2,1,44,51
+GER-Bundesliga,2425,Mainz 05,Nelson Weiper,23,7,704,23,13,56.5,4,2,2,0,0,19,0
+GER-Bundesliga,2425,Mainz 05,Nikolas Veratschnig,15,2,364,7,1,14.3,7,4,1,0,0,9,6
+GER-Bundesliga,2425,Mainz 05,Paul Nebel,31,26,2345,44,18,40.9,27,14,5,1,1,37,38
+GER-Bundesliga,2425,Mainz 05,Phillipp Mwene,32,32,2607,21,5,23.8,30,24,7,0,0,24,24
+GER-Bundesliga,2425,Mainz 05,Robin Zentner,32,32,2880,1,0,0.0,1,0,3,0,0,1,2
+GER-Bundesliga,2425,Mainz 05,Silvan Widmer,27,3,504,3,1,33.3,5,5,3,0,0,5,4
+GER-Bundesliga,2425,Mainz 05,Stefan Bell,18,15,1436,12,4,33.3,11,28,4,0,0,24,10
+GER-Bundesliga,2425,RB Leipzig,Amadou Haidara,28,16,1320,18,2,11.1,17,18,7,0,0,23,8
+GER-Bundesliga,2425,RB Leipzig,André Silva,8,0,132,8,3,37.5,1,0,0,0,0,0,2
+GER-Bundesliga,2425,RB Leipzig,Antonio Nusa,25,16,1558,24,7,29.2,17,8,0,0,0,14,28
+GER-Bundesliga,2425,RB Leipzig,Arthur Vermeeren,28,18,1572,4,1,25.0,20,23,7,0,0,22,1
+GER-Bundesliga,2425,RB Leipzig,Assan Ouédraogo,3,0,50,1,0,0.0,0,0,0,0,0,1,3
+GER-Bundesliga,2425,RB Leipzig,Benjamin Henrichs,15,10,935,10,1,10.0,16,15,3,0,0,13,9
+GER-Bundesliga,2425,RB Leipzig,Benjamin Šeško,33,30,2380,68,31,45.6,3,4,2,1,1,26,20
+GER-Bundesliga,2425,RB Leipzig,Castello Lukeba,23,18,1577,4,1,25.0,18,18,2,0,0,12,15
+GER-Bundesliga,2425,RB Leipzig,Christoph Baumgartner,31,18,1610,39,15,38.5,25,12,5,0,0,44,29
+GER-Bundesliga,2425,RB Leipzig,David Raum,22,21,1783,9,4,44.4,28,10,5,0,0,23,10
+GER-Bundesliga,2425,RB Leipzig,El Chadaille Bitshiabu,21,13,1130,5,3,60.0,19,13,2,1,0,8,2
+GER-Bundesliga,2425,RB Leipzig,Elif Elmas,2,0,44,2,1,50.0,1,0,1,0,0,2,0
+GER-Bundesliga,2425,RB Leipzig,Faik Sakar,1,0,1,0,0,,0,0,0,0,0,0,0
+GER-Bundesliga,2425,RB Leipzig,Kevin Kampl,26,18,1593,7,2,28.6,20,22,5,0,0,20,7
+GER-Bundesliga,2425,RB Leipzig,Kosta Nedeljković,10,6,479,4,0,0.0,8,2,1,0,0,7,1
+GER-Bundesliga,2425,RB Leipzig,Loïs Openda,33,28,2453,78,33,42.3,4,5,5,1,1,29,77
+GER-Bundesliga,2425,RB Leipzig,Lukas Klostermann,28,20,1838,4,2,50.0,14,25,5,0,0,13,7
+GER-Bundesliga,2425,RB Leipzig,Lutsharel Geertruida,24,17,1557,8,2,25.0,24,16,2,0,0,17,6
+GER-Bundesliga,2425,RB Leipzig,Maarten Vandevoordt,6,4,429,0,0,,0,0,0,0,0,0,0
+GER-Bundesliga,2425,RB Leipzig,Mohamed Simakan,1,1,54,0,0,,0,2,0,0,0,0,1
+GER-Bundesliga,2425,RB Leipzig,Nicolas Seiwald,30,20,2084,5,0,0.0,32,31,2,0,0,27,2
+GER-Bundesliga,2425,RB Leipzig,Péter Gulácsi,30,30,2631,0,0,,1,0,0,0,0,0,1
+GER-Bundesliga,2425,RB Leipzig,Ridle Baku,19,15,1275,17,5,29.4,19,11,1,0,0,13,14
+GER-Bundesliga,2425,RB Leipzig,Tidiam Gomis,8,1,152,5,1,20.0,0,1,2,0,0,3,2
+GER-Bundesliga,2425,RB Leipzig,Viggo Gebel,1,0,14,0,0,,0,0,0,0,0,0,1
+GER-Bundesliga,2425,RB Leipzig,Willi Orban,25,25,2222,22,7,31.8,24,20,4,2,0,23,14
+GER-Bundesliga,2425,RB Leipzig,Xaver Schlager,4,2,181,1,0,0.0,1,0,1,0,0,4,3
+GER-Bundesliga,2425,RB Leipzig,Xavi Simons,25,25,2150,50,23,46.0,22,13,5,0,0,24,56
+GER-Bundesliga,2425,RB Leipzig,Yussuf Poulsen,22,2,378,14,7,50.0,5,0,1,0,0,8,14
+GER-Bundesliga,2425,St Pauli,Abdoulie Ceesay,7,0,60,0,0,,3,0,1,0,0,2,3
+GER-Bundesliga,2425,St Pauli,Adam Dźwigała,16,2,373,6,0,0.0,10,3,2,1,0,5,3
+GER-Bundesliga,2425,St Pauli,Andreas Albers,14,0,62,3,1,33.3,0,0,0,0,0,3,2
+GER-Bundesliga,2425,St Pauli,Ben Alexander Voll,2,1,91,0,0,,0,0,1,0,0,0,0
+GER-Bundesliga,2425,St Pauli,Carlo Boukhalfa,25,19,1646,21,4,19.0,11,10,1,0,0,18,17
+GER-Bundesliga,2425,St Pauli,Connor Metcalfe,10,3,358,6,3,50.0,0,3,2,1,1,5,4
+GER-Bundesliga,2425,St Pauli,Danel Sinani,26,14,1250,35,12,34.3,11,2,3,0,0,25,14
+GER-Bundesliga,2425,St Pauli,Dapo Afolayan,32,17,1639,38,13,34.2,8,8,3,0,0,21,42
+GER-Bundesliga,2425,St Pauli,David Nemeth,24,24,2137,5,1,20.0,29,18,3,0,0,21,14
+GER-Bundesliga,2425,St Pauli,Elias Saad,18,10,900,26,8,30.8,14,4,1,0,0,17,24
+GER-Bundesliga,2425,St Pauli,Eric Smith,32,32,2827,24,9,37.5,27,37,7,0,0,27,24
+GER-Bundesliga,2425,St Pauli,Erik Ahlstrand,5,0,43,0,0,,0,1,0,0,0,0,0
+GER-Bundesliga,2425,St Pauli,Finley Stevens,1,0,1,0,0,,0,0,0,0,0,0,0
+GER-Bundesliga,2425,St Pauli,Hauke Wahl,33,33,2970,11,4,36.4,29,29,1,0,0,13,15
+GER-Bundesliga,2425,St Pauli,Jackson Irvine,29,29,2610,41,13,31.7,29,35,2,0,0,38,16
+GER-Bundesliga,2425,St Pauli,James Sands,7,5,453,1,0,0.0,7,6,1,0,0,11,5
+GER-Bundesliga,2425,St Pauli,Johannes Eggestein,27,22,1853,36,13,36.1,4,0,3,0,0,12,12
+GER-Bundesliga,2425,St Pauli,Karol Mets,10,10,900,3,0,0.0,8,11,1,0,0,7,5
+GER-Bundesliga,2425,St Pauli,Lars Ritzka,21,11,922,8,1,12.5,28,10,1,0,0,10,6
+GER-Bundesliga,2425,St Pauli,Manolis Saliakas,30,26,2314,29,6,20.7,23,16,4,0,0,16,15
+GER-Bundesliga,2425,St Pauli,Maurides,1,0,2,0,0,,0,0,0,0,0,0,0
+GER-Bundesliga,2425,St Pauli,Morgan Guilavogui,25,21,1807,41,15,36.6,19,13,6,0,0,47,34
+GER-Bundesliga,2425,St Pauli,Nikola Vasilj,33,33,2969,0,0,,0,0,2,1,1,1,1
+GER-Bundesliga,2425,St Pauli,Noah Weißhaupt,19,13,1160,18,4,22.2,6,1,0,0,0,10,42
+GER-Bundesliga,2425,St Pauli,Philipp Treu,33,33,2881,18,4,22.2,43,22,2,0,0,20,36
+GER-Bundesliga,2425,St Pauli,Robert Wagner,12,5,407,2,0,0.0,4,2,1,0,0,6,5
+GER-Bundesliga,2425,St Pauli,Scott Banks,12,0,116,3,0,0.0,1,2,1,0,0,2,4
+GER-Bundesliga,2425,St Pauli,Siebe Van Der Heyden,13,11,872,3,2,66.7,10,15,4,1,1,16,9
+GER-Bundesliga,2425,Stuttgart,Alexander Nübel,34,34,3060,0,0,,0,0,0,0,0,0,4
+GER-Bundesliga,2425,Stuttgart,Ameen Al-Dakhil,7,6,432,1,0,0.0,6,9,0,1,0,4,5
+GER-Bundesliga,2425,Stuttgart,Angelo Stiller,32,31,2741,21,4,19.0,26,26,6,0,0,21,48
+GER-Bundesliga,2425,Stuttgart,Anrie Chase,12,7,734,5,0,0.0,5,9,1,0,0,12,2
+GER-Bundesliga,2425,Stuttgart,Anthony Rouault,18,14,1212,5,1,20.0,11,17,1,0,0,19,8
+GER-Bundesliga,2425,Stuttgart,Atakan Karazor,32,31,2618,14,7,50.0,32,33,10,1,1,37,59
+GER-Bundesliga,2425,Stuttgart,Chris Führich,33,23,1981,36,12,33.3,11,7,1,0,0,9,6
+GER-Bundesliga,2425,Stuttgart,Dan-Axel Zagadou,2,0,29,0,0,,0,1,1,0,0,1,0
+GER-Bundesliga,2425,Stuttgart,Deniz Undav,27,20,1726,75,31,41.3,10,2,4,0,0,25,22
+GER-Bundesliga,2425,Stuttgart,El Bilal Touré,12,3,356,14,4,28.6,1,0,0,0,0,9,3
+GER-Bundesliga,2425,Stuttgart,Enzo Millot,29,22,1843,44,19,43.2,13,13,9,0,0,25,37
+GER-Bundesliga,2425,Stuttgart,Ermedin Demirović,34,20,1855,65,30,46.2,7,1,2,0,0,24,27
+GER-Bundesliga,2425,Stuttgart,Fabian Rieder,21,8,867,20,7,35.0,15,11,1,0,0,14,11
+GER-Bundesliga,2425,Stuttgart,Finn Jeltsch,12,9,780,2,0,0.0,14,13,2,0,0,7,5
+GER-Bundesliga,2425,Stuttgart,Frans Krätzig,1,1,56,0,0,,1,0,0,0,0,1,0
+GER-Bundesliga,2425,Stuttgart,Jacob Bruun Larsen,15,3,414,6,3,50.0,1,1,1,0,0,2,2
+GER-Bundesliga,2425,Stuttgart,Jamie Leweling,27,22,1663,29,16,55.2,7,11,4,0,0,17,29
+GER-Bundesliga,2425,Stuttgart,Jarzinho Malanga,1,0,2,0,0,,0,0,0,0,0,0,0
+GER-Bundesliga,2425,Stuttgart,Josha Vagnoman,26,19,1834,15,7,46.7,13,14,4,0,0,18,20
+GER-Bundesliga,2425,Stuttgart,Julian Chabot,31,27,2269,19,4,21.1,25,35,11,1,1,35,28
+GER-Bundesliga,2425,Stuttgart,Justin Diehl,6,0,104,7,1,14.3,0,0,0,0,0,2,0
+GER-Bundesliga,2425,Stuttgart,Leonidas Stergiou,12,11,852,3,1,33.3,11,14,0,1,0,6,0
+GER-Bundesliga,2425,Stuttgart,Luca Jaquez,5,2,253,1,0,0.0,0,3,0,0,0,4,0
+GER-Bundesliga,2425,Stuttgart,Maximilian Mittelstädt,31,28,2469,21,4,19.0,55,47,5,0,0,24,38
+GER-Bundesliga,2425,Stuttgart,Nick Woltemade,28,17,1622,49,26,53.1,6,1,5,1,1,24,35
+GER-Bundesliga,2425,Stuttgart,Nikolas Nartey,1,0,22,0,0,,0,0,0,0,0,0,0
+GER-Bundesliga,2425,Stuttgart,Pascal Stenzel,10,4,290,8,2,25.0,2,2,0,0,0,4,2
+GER-Bundesliga,2425,Stuttgart,Ramon Hendriks,25,10,1154,5,1,20.0,11,15,3,0,0,12,14
+GER-Bundesliga,2425,Stuttgart,Yannik Keitel,11,2,270,5,2,40.0,6,4,1,0,0,2,6
+GER-Bundesliga,2425,Union Berlin,Alexander Schwolow,6,6,540,0,0,,0,0,0,0,0,0,0
+GER-Bundesliga,2425,Union Berlin,Aljoscha Kemlein,15,11,922,11,3,27.3,5,7,3,0,0,15,2
+GER-Bundesliga,2425,Union Berlin,Andrej Ilic,16,11,937,27,11,40.7,2,3,1,0,0,14,8
+GER-Bundesliga,2425,Union Berlin,András Schäfer,26,17,1534,12,1,8.3,25,24,3,0,0,27,33
+GER-Bundesliga,2425,Union Berlin,Benedict Hollerbach,34,30,2540,77,24,31.2,20,3,3,0,0,43,45
+GER-Bundesliga,2425,Union Berlin,Christopher Trimmel,26,20,1740,9,3,33.3,24,17,5,0,0,14,5
+GER-Bundesliga,2425,Union Berlin,Danilho Doekhi,34,34,3060,32,4,12.5,23,44,4,0,0,36,14
+GER-Bundesliga,2425,Union Berlin,David Preu,5,1,121,2,0,0.0,0,0,1,0,0,1,1
+GER-Bundesliga,2425,Union Berlin,Diogo Leite,30,29,2546,18,8,44.4,34,53,3,0,0,25,37
+GER-Bundesliga,2425,Union Berlin,Frederik Rønnow,28,28,2520,1,0,0.0,0,0,2,0,0,0,4
+GER-Bundesliga,2425,Union Berlin,Ivan Prtajin,5,2,161,8,2,25.0,2,0,0,0,0,1,1
+GER-Bundesliga,2425,Union Berlin,Janik Haberer,28,21,1696,15,3,20.0,28,18,1,0,0,21,15
+GER-Bundesliga,2425,Union Berlin,Jeong Woo-yeong,23,17,1263,25,6,24.0,7,11,2,0,0,16,15
+GER-Bundesliga,2425,Union Berlin,Jordan Pefok,18,10,908,23,8,34.8,6,4,2,0,0,22,15
+GER-Bundesliga,2425,Union Berlin,Josip Juranović,17,13,1159,6,2,33.3,13,6,4,0,0,8,6
+GER-Bundesliga,2425,Union Berlin,Jérôme Roussillon,7,1,136,2,0,0.0,0,2,0,0,0,1,3
+GER-Bundesliga,2425,Union Berlin,Kevin Vogt,18,16,1367,1,1,100.0,7,9,6,0,0,10,7
+GER-Bundesliga,2425,Union Berlin,Kevin Volland,4,0,61,0,0,,0,0,1,0,0,3,0
+GER-Bundesliga,2425,Union Berlin,Leopold Querfeld,27,17,1747,16,4,25.0,15,17,8,0,0,20,13
+GER-Bundesliga,2425,Union Berlin,Lucas Tousart,15,6,561,9,5,55.6,9,6,2,0,0,11,6
+GER-Bundesliga,2425,Union Berlin,László Bénes,23,3,589,19,7,36.8,3,4,4,0,0,10,4
+GER-Bundesliga,2425,Union Berlin,Marin Ljubicic,13,1,281,2,1,50.0,1,0,1,0,0,9,8
+GER-Bundesliga,2425,Union Berlin,Rani Khedira,32,31,2723,14,1,7.1,42,47,7,0,0,44,19
+GER-Bundesliga,2425,Union Berlin,Robert Skov,15,11,852,17,6,35.3,10,9,1,0,0,14,10
+GER-Bundesliga,2425,Union Berlin,Robin Gosens,1,1,90,1,0,0.0,0,1,1,0,0,5,0
+GER-Bundesliga,2425,Union Berlin,Tim Skarke,33,11,1164,20,9,45.0,12,5,1,0,0,10,15
+GER-Bundesliga,2425,Union Berlin,Tom Rothe,26,19,1670,22,9,40.9,30,18,4,1,0,25,11
+GER-Bundesliga,2425,Union Berlin,Yorbe Vertessen,17,7,718,27,5,18.5,4,3,2,0,0,14,17
+GER-Bundesliga,2425,Werder Bremen,Amos Pieper,23,16,1498,7,1,14.3,17,23,3,0,0,11,11
+GER-Bundesliga,2425,Werder Bremen,André Silva,7,4,375,14,7,50.0,2,0,1,0,0,4,7
+GER-Bundesliga,2425,Werder Bremen,Anthony Jung,28,20,1898,1,0,0.0,21,26,1,0,0,9,15
+GER-Bundesliga,2425,Werder Bremen,Derrick Köhn,27,14,1343,13,4,30.8,12,11,2,0,0,14,19
+GER-Bundesliga,2425,Werder Bremen,Felix Agu,22,21,1751,10,5,50.0,16,19,1,0,0,11,43
+GER-Bundesliga,2425,Werder Bremen,Issa Kaboré,9,3,308,7,0,0.0,5,2,0,0,0,4,8
+GER-Bundesliga,2425,Werder Bremen,Jens Stage,28,26,2204,44,15,34.1,29,18,10,0,0,37,30
+GER-Bundesliga,2425,Werder Bremen,Julián Malatini,10,5,454,3,1,33.3,9,7,1,0,0,9,5
+GER-Bundesliga,2425,Werder Bremen,Justin Njinmah,26,10,952,31,7,22.6,1,4,1,0,0,7,17
+GER-Bundesliga,2425,Werder Bremen,Keke Topp,19,1,252,7,4,57.1,1,1,1,0,0,8,6
+GER-Bundesliga,2425,Werder Bremen,Leonardo Bittencourt,27,10,982,27,9,33.3,8,15,3,0,0,15,19
+GER-Bundesliga,2425,Werder Bremen,Marco Friedl,26,25,2161,4,3,75.0,41,36,10,2,1,26,16
+GER-Bundesliga,2425,Werder Bremen,Marco Grüll,30,13,1181,25,10,40.0,10,5,1,0,0,22,31
+GER-Bundesliga,2425,Werder Bremen,Marvin Ducksch,32,30,2418,71,29,40.8,6,7,3,0,0,6,17
+GER-Bundesliga,2425,Werder Bremen,Michael Zetterer,34,34,3060,0,0,,0,1,2,0,0,0,6
+GER-Bundesliga,2425,Werder Bremen,Miloš Veljković,14,11,1029,2,1,50.0,5,3,1,0,0,5,3
+GER-Bundesliga,2425,Werder Bremen,Mitchell Weiser,32,32,2868,43,15,34.9,42,22,9,1,1,30,45
+GER-Bundesliga,2425,Werder Bremen,Niklas Stark,26,25,2106,12,3,25.0,24,36,6,1,1,30,28
+GER-Bundesliga,2425,Werder Bremen,Oliver Burke,25,9,908,35,13,37.1,4,2,4,0,0,12,2
+GER-Bundesliga,2425,Werder Bremen,Olivier Deman,9,0,67,0,0,,3,4,1,0,0,1,2
+GER-Bundesliga,2425,Werder Bremen,Romano Schmid,32,32,2834,48,15,31.3,25,12,4,0,0,28,42
+GER-Bundesliga,2425,Werder Bremen,Senne Lynen,32,32,2733,24,3,12.5,38,64,9,0,0,39,25
+GER-Bundesliga,2425,Werder Bremen,Skelly Alvero,12,1,236,1,0,0.0,6,2,1,0,0,7,5
+GER-Bundesliga,2425,Wolfsburg,Andreas Skov Olsen,12,4,535,7,1,14.3,7,2,0,0,0,2,3
+GER-Bundesliga,2425,Wolfsburg,Aster Vranckx,14,6,556,0,0,,6,10,1,0,0,12,11
+GER-Bundesliga,2425,Wolfsburg,Bence Dárdai,21,16,1304,11,1,9.1,14,12,0,0,0,9,16
+GER-Bundesliga,2425,Wolfsburg,Cedric Zesiger,7,5,522,2,1,50.0,9,5,4,0,0,14,5
+GER-Bundesliga,2425,Wolfsburg,David Odogu,3,2,195,2,0,0.0,4,2,0,0,0,2,0
+GER-Bundesliga,2425,Wolfsburg,Denis Vavro,29,27,2461,25,7,28.0,13,36,4,0,0,7,5
+GER-Bundesliga,2425,Wolfsburg,Jakub Kamiński,22,12,1130,15,3,20.0,9,11,2,0,0,10,3
+GER-Bundesliga,2425,Wolfsburg,Joakim Mæhle,28,25,2188,18,7,38.9,14,26,6,0,0,9,16
+GER-Bundesliga,2425,Wolfsburg,Jonas Wind,31,21,1966,40,13,32.5,6,6,2,0,0,15,40
+GER-Bundesliga,2425,Wolfsburg,Kamil Grabara,29,29,2585,0,0,,0,0,2,0,0,0,3
+GER-Bundesliga,2425,Wolfsburg,Kevin Behrens,18,0,170,9,3,33.3,1,1,2,0,0,4,1
+GER-Bundesliga,2425,Wolfsburg,Kevin Paredes,2,2,123,4,0,0.0,2,1,1,0,0,1,4
+GER-Bundesliga,2425,Wolfsburg,Kilian Fischer,32,29,2297,6,1,16.7,46,19,7,0,0,34,7
+GER-Bundesliga,2425,Wolfsburg,Konstantinos Koulierakis,30,28,2468,22,3,13.6,22,32,4,0,0,24,13
+GER-Bundesliga,2425,Wolfsburg,Lovro Majer,9,3,304,7,5,71.4,2,1,1,0,0,6,6
+GER-Bundesliga,2425,Wolfsburg,Lukas Nmecha,19,3,467,20,9,45.0,0,2,1,0,0,7,15
+GER-Bundesliga,2425,Wolfsburg,Mads Roerslev,7,2,298,0,0,,8,5,0,0,0,2,3
+GER-Bundesliga,2425,Wolfsburg,Marius Müller,6,5,475,0,0,,0,0,0,0,0,0,0
+GER-Bundesliga,2425,Wolfsburg,Mattias Svanberg,20,14,1219,21,8,38.1,10,15,4,0,0,16,22
+GER-Bundesliga,2425,Wolfsburg,Maximilian Arnold,28,27,2356,27,12,44.4,21,24,7,1,0,30,52
+GER-Bundesliga,2425,Wolfsburg,Mohamed Amoura,31,29,2467,76,28,36.8,21,9,6,0,0,31,20
+GER-Bundesliga,2425,Wolfsburg,Patrick Wimmer,29,22,1770,42,10,23.8,33,34,5,1,0,35,40
+GER-Bundesliga,2425,Wolfsburg,Ridle Baku,15,14,1170,18,6,33.3,16,14,2,0,0,13,10
+GER-Bundesliga,2425,Wolfsburg,Salih Özcan,11,3,353,2,0,0.0,2,7,0,0,0,5,6
+GER-Bundesliga,2425,Wolfsburg,Sebastiaan Bornauw,15,8,788,8,3,37.5,6,12,2,0,0,12,2
+GER-Bundesliga,2425,Wolfsburg,Tiago Tomás,32,23,1884,42,20,47.6,19,10,7,0,0,30,50
+GER-Bundesliga,2425,Wolfsburg,Yannick Gerhardt,29,15,1518,15,4,26.7,14,16,5,1,0,20,13

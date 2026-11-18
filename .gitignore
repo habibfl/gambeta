@@ -16,4 +16,11 @@ build/
 Thumbs.db
 
 # Logs
-*.log
+*.log       
+# Fichiers temporaires de scraping (seleniumbase)
+backend/downloaded_files/
+# Cache des photos de joueurs (API-Football)
+backend/cache/
+
+# Notebooks
+.ipynb_checkpoints/

@@ -1,0 +1,381 @@
+date,week,home_team,away_team,home_goals,away_goals
+2024-08-15,1,Athletic Club,Getafe,1,1
+2024-08-15,1,Real Betis,Girona,1,1
+2024-08-16,1,Celta Vigo,Alavés,2,1
+2024-08-16,1,Las Palmas,Sevilla,2,2
+2024-08-17,1,Osasuna,Leganés,1,1
+2024-08-17,1,Valencia,Barcelona,1,2
+2024-08-18,1,Mallorca,Real Madrid,1,1
+2024-08-18,1,Real Sociedad,Rayo Vallecano,1,2
+2024-08-19,1,Valladolid,Espanyol,1,0
+2024-08-19,1,Villarreal,Atlético Madrid,2,2
+2024-08-23,2,Sevilla,Villarreal,1,2
+2024-08-23,2,Celta Vigo,Valencia,3,1
+2024-08-24,2,Barcelona,Athletic Club,2,1
+2024-08-24,2,Espanyol,Real Sociedad,0,1
+2024-08-24,2,Getafe,Rayo Vallecano,0,0
+2024-08-24,2,Osasuna,Mallorca,1,0
+2024-08-25,2,Alavés,Real Betis,0,0
+2024-08-25,2,Atlético Madrid,Girona,3,0
+2024-08-25,2,Leganés,Las Palmas,2,1
+2024-08-25,2,Real Madrid,Valladolid,3,0
+2024-08-26,3,Villarreal,Celta Vigo,4,3
+2024-08-27,3,Rayo Vallecano,Barcelona,1,2
+2024-08-27,3,Mallorca,Sevilla,0,0
+2024-08-28,3,Athletic Club,Valencia,1,0
+2024-08-28,3,Atlético Madrid,Espanyol,0,0
+2024-08-28,3,Real Sociedad,Alavés,1,2
+2024-08-28,3,Valladolid,Leganés,0,0
+2024-08-29,3,Girona,Osasuna,4,0
+2024-08-29,3,Las Palmas,Real Madrid,1,1
+2024-08-31,4,Valencia,Villarreal,1,1
+2024-08-31,4,Espanyol,Rayo Vallecano,2,1
+2024-08-31,4,Leganés,Mallorca,0,1
+2024-08-31,4,Athletic Club,Atlético Madrid,0,1
+2024-08-31,4,Barcelona,Valladolid,7,0
+2024-09-01,4,Alavés,Las Palmas,2,0
+2024-09-01,4,Getafe,Real Sociedad,0,0
+2024-09-01,4,Osasuna,Celta Vigo,3,2
+2024-09-01,4,Real Madrid,Real Betis,2,0
+2024-09-01,4,Sevilla,Girona,0,2
+2024-09-13,5,Real Betis,Leganés,2,0
+2024-09-14,5,Real Sociedad,Real Madrid,0,2
+2024-09-14,5,Espanyol,Alavés,3,2
+2024-09-14,5,Mallorca,Villarreal,1,2
+2024-09-14,5,Sevilla,Getafe,1,0
+2024-09-15,5,Las Palmas,Athletic Club,2,3
+2024-09-15,5,Girona,Barcelona,1,4
+2024-09-15,5,Celta Vigo,Valladolid,3,1
+2024-09-15,5,Atlético Madrid,Valencia,3,0
+2024-09-16,5,Rayo Vallecano,Osasuna,3,1
+2024-09-17,7,Mallorca,Real Sociedad,1,0
+2024-09-18,3,Real Betis,Getafe,2,1
+2024-09-19,7,Leganés,Athletic Club,0,2
+2024-09-20,6,Alavés,Sevilla,2,1
+2024-09-21,6,Osasuna,Las Palmas,2,1
+2024-09-21,6,Real Madrid,Espanyol,4,1
+2024-09-21,6,Valencia,Girona,2,0
+2024-09-21,6,Valladolid,Real Sociedad,0,0
+2024-09-22,6,Villarreal,Barcelona,1,5
+2024-09-22,6,Rayo Vallecano,Atlético Madrid,1,1
+2024-09-22,6,Athletic Club,Celta Vigo,3,1
+2024-09-22,6,Getafe,Leganés,1,1
+2024-09-23,6,Real Betis,Mallorca,1,2
+2024-09-24,7,Real Madrid,Alavés,3,2
+2024-09-24,7,Sevilla,Valladolid,2,1
+2024-09-24,7,Valencia,Osasuna,0,0
+2024-09-25,7,Girona,Rayo Vallecano,0,0
+2024-09-25,7,Barcelona,Getafe,1,0
+2024-09-26,7,Espanyol,Villarreal,1,2
+2024-09-26,7,Las Palmas,Real Betis,1,1
+2024-09-26,7,Celta Vigo,Atlético Madrid,0,1
+2024-09-27,8,Valladolid,Mallorca,1,2
+2024-09-28,8,Getafe,Alavés,2,0
+2024-09-28,8,Osasuna,Barcelona,4,2
+2024-09-28,8,Rayo Vallecano,Leganés,1,1
+2024-09-28,8,Real Sociedad,Valencia,3,0
+2024-09-29,8,Athletic Club,Sevilla,1,1
+2024-09-29,8,Atlético Madrid,Real Madrid,1,1
+2024-09-29,8,Celta Vigo,Girona,1,1
+2024-09-29,8,Real Betis,Espanyol,1,0
+2024-09-30,8,Villarreal,Las Palmas,3,1
+2024-10-04,9,Leganés,Valencia,0,0
+2024-10-05,9,Espanyol,Mallorca,2,1
+2024-10-05,9,Getafe,Osasuna,1,1
+2024-10-05,9,Las Palmas,Celta Vigo,0,1
+2024-10-05,9,Real Madrid,Villarreal,2,0
+2024-10-05,9,Valladolid,Rayo Vallecano,1,2
+2024-10-06,9,Alavés,Barcelona,0,3
+2024-10-06,9,Girona,Athletic Club,2,1
+2024-10-06,9,Real Sociedad,Atlético Madrid,1,1
+2024-10-06,9,Sevilla,Real Betis,1,0
+2024-10-18,10,Alavés,Valladolid,2,3
+2024-10-19,10,Girona,Real Sociedad,0,1
+2024-10-19,10,Osasuna,Real Betis,1,2
+2024-10-19,10,Athletic Club,Espanyol,4,1
+2024-10-19,10,Celta Vigo,Real Madrid,1,2
+2024-10-20,10,Atlético Madrid,Leganés,3,1
+2024-10-20,10,Barcelona,Sevilla,5,1
+2024-10-20,10,Mallorca,Rayo Vallecano,1,0
+2024-10-20,10,Villarreal,Getafe,1,1
+2024-10-21,10,Valencia,Las Palmas,2,3
+2024-10-25,11,Espanyol,Sevilla,0,2
+2024-10-26,11,Real Madrid,Barcelona,0,4
+2024-10-26,11,Valladolid,Villarreal,1,2
+2024-10-26,11,Las Palmas,Girona,1,0
+2024-10-26,11,Rayo Vallecano,Alavés,1,0
+2024-10-27,11,Getafe,Valencia,1,1
+2024-10-27,11,Leganés,Celta Vigo,3,0
+2024-10-27,11,Real Betis,Atlético Madrid,1,0
+2024-10-27,11,Real Sociedad,Osasuna,0,2
+2024-10-28,11,Mallorca,Athletic Club,0,0
+2024-11-01,12,Alavés,Mallorca,1,0
+2024-11-02,12,Osasuna,Valladolid,1,0
+2024-11-02,12,Girona,Leganés,4,3
+2024-11-03,12,Atlético Madrid,Las Palmas,2,0
+2024-11-03,12,Sevilla,Real Sociedad,0,2
+2024-11-03,12,Barcelona,Espanyol,3,1
+2024-11-03,12,Athletic Club,Real Betis,1,1
+2024-11-04,12,Celta Vigo,Getafe,1,0
+2024-11-08,13,Rayo Vallecano,Las Palmas,1,3
+2024-11-09,13,Leganés,Sevilla,1,0
+2024-11-09,13,Real Madrid,Osasuna,4,0
+2024-11-09,13,Villarreal,Alavés,3,0
+2024-11-10,13,Real Sociedad,Barcelona,1,0
+2024-11-10,13,Real Betis,Celta Vigo,2,2
+2024-11-10,13,Valladolid,Athletic Club,1,1
+2024-11-10,13,Getafe,Girona,0,1
+2024-11-10,13,Mallorca,Atlético Madrid,0,1
+2024-11-22,14,Getafe,Valladolid,2,0
+2024-11-23,14,Atlético Madrid,Alavés,2,1
+2024-11-23,14,Celta Vigo,Barcelona,2,2
+2024-11-23,14,Girona,Espanyol,4,1
+2024-11-23,14,Las Palmas,Mallorca,2,3
+2024-11-23,14,Valencia,Real Betis,4,2
+2024-11-24,14,Athletic Club,Real Sociedad,1,0
+2024-11-24,14,Leganés,Real Madrid,0,3
+2024-11-24,14,Osasuna,Villarreal,2,2
+2024-11-24,14,Sevilla,Rayo Vallecano,1,0
+2024-11-29,15,Mallorca,Valencia,2,1
+2024-11-30,15,Valladolid,Atlético Madrid,0,5
+2024-11-30,15,Espanyol,Celta Vigo,3,1
+2024-11-30,15,Alavés,Leganés,1,1
+2024-11-30,15,Barcelona,Las Palmas,1,2
+2024-12-01,15,Rayo Vallecano,Athletic Club,1,2
+2024-12-01,15,Real Madrid,Getafe,2,0
+2024-12-01,15,Real Sociedad,Real Betis,2,0
+2024-12-01,15,Villarreal,Girona,2,2
+2024-12-02,15,Sevilla,Osasuna,1,1
+2024-12-03,19,Mallorca,Barcelona,1,5
+2024-12-04,19,Athletic Club,Real Madrid,2,1
+2024-12-06,16,Celta Vigo,Mallorca,2,0
+2024-12-07,16,Valencia,Rayo Vallecano,0,1
+2024-12-07,16,Real Betis,Barcelona,2,2
+2024-12-07,16,Girona,Real Madrid,0,3
+2024-12-07,16,Las Palmas,Valladolid,2,1
+2024-12-08,16,Athletic Club,Villarreal,2,0
+2024-12-08,16,Atlético Madrid,Sevilla,4,3
+2024-12-08,16,Leganés,Real Sociedad,0,3
+2024-12-08,16,Osasuna,Alavés,2,2
+2024-12-09,16,Getafe,Espanyol,1,0
+2024-12-13,17,Valladolid,Valencia,1,0
+2024-12-14,17,Espanyol,Osasuna,0,0
+2024-12-14,17,Mallorca,Girona,2,1
+2024-12-14,17,Rayo Vallecano,Real Madrid,3,3
+2024-12-14,17,Sevilla,Celta Vigo,1,0
+2024-12-15,17,Villarreal,Real Betis,1,2
+2024-12-15,17,Real Sociedad,Las Palmas,0,0
+2024-12-15,17,Alavés,Athletic Club,1,1
+2024-12-15,17,Atlético Madrid,Getafe,1,0
+2024-12-15,17,Barcelona,Leganés,0,1
+2024-12-18,13,Espanyol,Valencia,1,1
+2024-12-18,12,Villarreal,Rayo Vallecano,1,1
+2024-12-20,18,Girona,Valladolid,3,0
+2024-12-21,18,Barcelona,Atlético Madrid,1,2
+2024-12-21,18,Celta Vigo,Real Sociedad,2,0
+2024-12-21,18,Getafe,Mallorca,0,1
+2024-12-21,18,Osasuna,Athletic Club,1,2
+2024-12-22,18,Valencia,Alavés,2,2
+2024-12-22,18,Real Madrid,Sevilla,4,2
+2024-12-22,18,Leganés,Villarreal,2,5
+2024-12-22,18,Las Palmas,Espanyol,1,0
+2024-12-22,18,Real Betis,Rayo Vallecano,1,1
+2025-01-03,12,Valencia,Real Madrid,1,2
+2025-01-10,19,Rayo Vallecano,Celta Vigo,2,1
+2025-01-11,19,Alavés,Girona,0,1
+2025-01-11,19,Espanyol,Leganés,1,1
+2025-01-11,19,Sevilla,Valencia,1,1
+2025-01-11,19,Valladolid,Real Betis,1,0
+2025-01-12,19,Atlético Madrid,Osasuna,1,0
+2025-01-12,19,Las Palmas,Getafe,1,2
+2025-01-13,19,Real Sociedad,Villarreal,1,0
+2025-01-17,20,Espanyol,Valladolid,2,1
+2025-01-18,20,Getafe,Barcelona,1,1
+2025-01-18,20,Girona,Sevilla,1,2
+2025-01-18,20,Leganés,Atlético Madrid,1,0
+2025-01-18,20,Real Betis,Alavés,1,3
+2025-01-19,20,Celta Vigo,Athletic Club,1,2
+2025-01-19,20,Osasuna,Rayo Vallecano,1,1
+2025-01-19,20,Real Madrid,Las Palmas,4,1
+2025-01-19,20,Valencia,Real Sociedad,1,0
+2025-01-20,20,Villarreal,Mallorca,4,0
+2025-01-24,21,Las Palmas,Osasuna,1,1
+2025-01-25,21,Valladolid,Real Madrid,0,3
+2025-01-25,21,Sevilla,Espanyol,1,1
+2025-01-25,21,Atlético Madrid,Villarreal,1,1
+2025-01-25,21,Mallorca,Real Betis,0,1
+2025-01-26,21,Athletic Club,Leganés,0,0
+2025-01-26,21,Barcelona,Valencia,7,1
+2025-01-26,21,Rayo Vallecano,Girona,2,1
+2025-01-26,21,Real Sociedad,Getafe,0,3
+2025-01-27,21,Alavés,Celta Vigo,1,1
+2025-01-31,22,Leganés,Rayo Vallecano,0,1
+2025-02-01,22,Villarreal,Valladolid,5,1
+2025-02-01,22,Getafe,Sevilla,0,0
+2025-02-01,22,Espanyol,Real Madrid,1,0
+2025-02-01,22,Atlético Madrid,Mallorca,2,0
+2025-02-02,22,Barcelona,Alavés,1,0
+2025-02-02,22,Osasuna,Real Sociedad,2,1
+2025-02-02,22,Real Betis,Athletic Club,2,2
+2025-02-02,22,Valencia,Celta Vigo,2,1
+2025-02-03,22,Girona,Las Palmas,2,1
+2025-02-07,23,Rayo Vallecano,Valladolid,1,0
+2025-02-08,23,Las Palmas,Villarreal,1,2
+2025-02-08,23,Real Madrid,Atlético Madrid,1,1
+2025-02-08,23,Athletic Club,Girona,3,0
+2025-02-08,23,Celta Vigo,Real Betis,3,2
+2025-02-09,23,Alavés,Getafe,0,1
+2025-02-09,23,Real Sociedad,Espanyol,2,1
+2025-02-09,23,Sevilla,Barcelona,1,4
+2025-02-09,23,Valencia,Leganés,2,0
+2025-02-10,23,Mallorca,Osasuna,1,1
+2025-02-14,24,Girona,Getafe,1,2
+2025-02-15,24,Villarreal,Valencia,1,1
+2025-02-15,24,Atlético Madrid,Celta Vigo,1,1
+2025-02-15,24,Leganés,Alavés,3,3
+2025-02-15,24,Osasuna,Real Madrid,1,1
+2025-02-16,24,Valladolid,Sevilla,0,4
+2025-02-16,24,Real Betis,Real Sociedad,3,0
+2025-02-16,24,Mallorca,Las Palmas,3,1
+2025-02-16,24,Espanyol,Athletic Club,1,1
+2025-02-17,24,Barcelona,Rayo Vallecano,1,0
+2025-02-21,25,Celta Vigo,Osasuna,1,0
+2025-02-22,25,Alavés,Espanyol,0,1
+2025-02-22,25,Las Palmas,Barcelona,0,2
+2025-02-22,25,Rayo Vallecano,Villarreal,0,1
+2025-02-22,25,Valencia,Atlético Madrid,0,3
+2025-02-23,25,Real Madrid,Girona,2,0
+2025-02-23,25,Real Sociedad,Leganés,3,0
+2025-02-23,25,Athletic Club,Valladolid,7,1
+2025-02-23,25,Getafe,Real Betis,1,2
+2025-02-24,25,Sevilla,Mallorca,1,1
+2025-02-28,26,Valladolid,Las Palmas,1,1
+2025-03-01,26,Atlético Madrid,Athletic Club,1,0
+2025-03-01,26,Girona,Celta Vigo,2,2
+2025-03-01,26,Rayo Vallecano,Sevilla,1,1
+2025-03-01,26,Real Betis,Real Madrid,2,1
+2025-03-02,26,Barcelona,Real Sociedad,4,0
+2025-03-02,26,Leganés,Getafe,1,0
+2025-03-02,26,Mallorca,Alavés,1,1
+2025-03-02,26,Osasuna,Valencia,3,3
+2025-03-08,27,Valencia,Valladolid,2,1
+2025-03-08,27,Celta Vigo,Leganés,2,1
+2025-03-08,27,Alavés,Villarreal,1,0
+2025-03-09,27,Athletic Club,Mallorca,1,1
+2025-03-09,27,Getafe,Atlético Madrid,2,1
+2025-03-09,27,Real Betis,Las Palmas,1,0
+2025-03-09,27,Real Madrid,Rayo Vallecano,2,1
+2025-03-09,27,Real Sociedad,Sevilla,0,1
+2025-03-10,27,Espanyol,Girona,1,1
+2025-03-14,28,Las Palmas,Alavés,2,2
+2025-03-15,28,Valladolid,Celta Vigo,0,1
+2025-03-15,28,Villarreal,Real Madrid,1,2
+2025-03-15,28,Girona,Valencia,1,1
+2025-03-15,28,Mallorca,Espanyol,2,1
+2025-03-16,28,Atlético Madrid,Barcelona,2,4
+2025-03-16,28,Leganés,Real Betis,2,3
+2025-03-16,28,Osasuna,Getafe,1,2
+2025-03-16,28,Rayo Vallecano,Real Sociedad,2,2
+2025-03-16,28,Sevilla,Athletic Club,0,1
+2025-03-27,27,Barcelona,Osasuna,3,0
+2025-03-29,29,Real Madrid,Leganés,3,2
+2025-03-29,29,Alavés,Rayo Vallecano,0,2
+2025-03-29,29,Espanyol,Atlético Madrid,1,1
+2025-03-29,29,Real Sociedad,Valladolid,2,1
+2025-03-30,29,Valencia,Mallorca,1,0
+2025-03-30,29,Real Betis,Sevilla,2,1
+2025-03-30,29,Barcelona,Girona,4,1
+2025-03-30,29,Getafe,Villarreal,1,2
+2025-03-30,29,Athletic Club,Osasuna,0,0
+2025-03-31,29,Celta Vigo,Las Palmas,1,1
+2025-04-04,30,Rayo Vallecano,Espanyol,0,4
+2025-04-05,30,Barcelona,Real Betis,1,1
+2025-04-05,30,Girona,Alavés,0,1
+2025-04-05,30,Mallorca,Celta Vigo,1,2
+2025-04-05,30,Real Madrid,Valencia,1,2
+2025-04-06,30,Valladolid,Getafe,0,4
+2025-04-06,30,Villarreal,Athletic Club,0,0
+2025-04-06,30,Las Palmas,Real Sociedad,1,3
+2025-04-06,30,Sevilla,Atlético Madrid,1,2
+2025-04-07,30,Leganés,Osasuna,1,1
+2025-04-11,31,Valencia,Sevilla,1,0
+2025-04-12,31,Celta Vigo,Espanyol,0,2
+2025-04-12,31,Getafe,Las Palmas,1,3
+2025-04-12,31,Leganés,Barcelona,0,1
+2025-04-12,31,Real Sociedad,Mallorca,0,2
+2025-04-13,31,Real Betis,Villarreal,1,2
+2025-04-13,31,Alavés,Real Madrid,0,1
+2025-04-13,31,Athletic Club,Rayo Vallecano,3,1
+2025-04-13,31,Osasuna,Girona,2,1
+2025-04-14,31,Atlético Madrid,Valladolid,4,2
+2025-04-18,32,Espanyol,Getafe,1,0
+2025-04-19,32,Barcelona,Celta Vigo,4,3
+2025-04-19,32,Las Palmas,Atlético Madrid,1,0
+2025-04-19,32,Mallorca,Leganés,0,0
+2025-04-19,32,Rayo Vallecano,Valencia,1,1
+2025-04-20,32,Real Madrid,Athletic Club,1,0
+2025-04-20,32,Sevilla,Alavés,1,1
+2025-04-20,32,Valladolid,Osasuna,2,3
+2025-04-20,32,Villarreal,Real Sociedad,2,2
+2025-04-21,32,Girona,Real Betis,1,3
+2025-04-22,33,Barcelona,Mallorca,1,0
+2025-04-22,33,Valencia,Espanyol,1,1
+2025-04-23,33,Getafe,Real Madrid,0,1
+2025-04-23,33,Celta Vigo,Villarreal,3,0
+2025-04-23,33,Alavés,Real Sociedad,1,0
+2025-04-23,33,Athletic Club,Las Palmas,1,0
+2025-04-24,33,Atlético Madrid,Rayo Vallecano,3,0
+2025-04-24,33,Leganés,Girona,1,1
+2025-04-24,33,Osasuna,Sevilla,1,0
+2025-04-24,33,Real Betis,Valladolid,5,1
+2025-04-27,26,Villarreal,Espanyol,1,0
+2025-05-02,34,Rayo Vallecano,Getafe,1,0
+2025-05-03,34,Villarreal,Osasuna,4,2
+2025-05-03,34,Las Palmas,Valencia,2,3
+2025-05-03,34,Alavés,Atlético Madrid,0,0
+2025-05-03,34,Valladolid,Barcelona,1,2
+2025-05-04,34,Espanyol,Real Betis,1,2
+2025-05-04,34,Real Madrid,Celta Vigo,3,2
+2025-05-04,34,Real Sociedad,Athletic Club,0,0
+2025-05-04,34,Sevilla,Leganés,2,2
+2025-05-05,34,Girona,Mallorca,1,0
+2025-05-09,35,Las Palmas,Rayo Vallecano,0,1
+2025-05-10,35,Valencia,Getafe,3,0
+2025-05-10,35,Mallorca,Valladolid,2,1
+2025-05-10,35,Girona,Villarreal,0,1
+2025-05-10,35,Celta Vigo,Sevilla,3,2
+2025-05-10,35,Atlético Madrid,Real Sociedad,4,0
+2025-05-11,35,Athletic Club,Alavés,1,0
+2025-05-11,35,Barcelona,Real Madrid,4,3
+2025-05-11,35,Leganés,Espanyol,3,2
+2025-05-11,35,Real Betis,Osasuna,1,1
+2025-05-13,36,Real Sociedad,Celta Vigo,0,1
+2025-05-13,36,Sevilla,Las Palmas,1,0
+2025-05-13,36,Valladolid,Girona,0,1
+2025-05-14,36,Villarreal,Leganés,3,0
+2025-05-14,36,Alavés,Valencia,1,0
+2025-05-14,36,Real Madrid,Mallorca,2,1
+2025-05-15,36,Espanyol,Barcelona,0,2
+2025-05-15,36,Getafe,Athletic Club,0,2
+2025-05-15,36,Osasuna,Atlético Madrid,2,0
+2025-05-15,36,Rayo Vallecano,Real Betis,2,2
+2025-05-18,37,Las Palmas,Leganés,0,1
+2025-05-18,37,Atlético Madrid,Real Betis,4,1
+2025-05-18,37,Barcelona,Villarreal,2,3
+2025-05-18,37,Celta Vigo,Rayo Vallecano,1,2
+2025-05-18,37,Mallorca,Getafe,1,2
+2025-05-18,37,Osasuna,Espanyol,2,0
+2025-05-18,37,Real Sociedad,Girona,3,2
+2025-05-18,37,Sevilla,Real Madrid,0,2
+2025-05-18,37,Valencia,Athletic Club,0,1
+2025-05-18,37,Valladolid,Alavés,0,1
+2025-05-23,38,Real Betis,Valencia,1,1
+2025-05-24,38,Leganés,Valladolid,3,0
+2025-05-24,38,Getafe,Celta Vigo,1,2
+2025-05-24,38,Rayo Vallecano,Mallorca,0,0
+2025-05-24,38,Alavés,Osasuna,1,1
+2025-05-24,38,Espanyol,Las Palmas,2,0
+2025-05-24,38,Real Madrid,Real Sociedad,2,0
+2025-05-25,38,Girona,Atlético Madrid,0,4
+2025-05-25,38,Athletic Club,Barcelona,0,3
+2025-05-25,38,Villarreal,Sevilla,4,2

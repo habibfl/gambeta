@@ -1,139 +1,82 @@
 import { useEffect, useMemo, useState } from "react";
 import { Link } from "react-router-dom";
-import PageBackground from "../components/PageBackground";
+import PageHero from "../components/PageHero";
 import RadarChart from "../components/charts/RadarChart";
-import { Button } from "../components/ui/button";
-import { Input } from "../components/ui/input";
-import { PLAYERS, avatarUrl } from "../data/playersRegistry";
+import { PageBody, Section, ChartCard, FilterBar, FilterLabel, ChipGroup } from "../components/layout/PageKit";
+import { PlayerHeaders, Verdict, PercentileMatrix, PlayerMap } from "../components/comparator/ComparatorBlocks";
+import { computePercentiles, PER90 } from "../lib/comparator";
 
-// --- Petits utilitaires déterministes (mêmes principes que
-// playersRegistry.js/teamsRegistry.js, dupliqués ici pour rester autonome) --
+const PER90_COUNT = PER90.length;
+import { inputClass } from "../lib/ui";
+import PlayerPhoto from "../components/PlayerPhoto";
+import Crest from "../components/Crest";
+import { useTeamLogos } from "../hooks/useTeamLogos";
+import { ApiError, ApiSkeleton } from "../components/ApiState";
+import { usePlayers } from "../hooks/usePlayers";
+import { avatarUrl } from "../lib/avatar";
+import Term from "../components/Term";
+import { findPlayerByName, percentileRadar, MIN_MINUTES } from "../lib/playerMetrics";
 
-function hashString(str) {
-  let h = 2166136261;
-  for (let i = 0; i < str.length; i++) {
-    h ^= str.charCodeAt(i);
-    h = Math.imul(h, 16777619);
-  }
-  return h >>> 0;
-}
+// Petits utilitaires déterministes
 
-function mulberry32(seed) {
-  let t = seed;
-  return function random() {
-    t |= 0;
-    t = (t + 0x6d2b79f5) | 0;
-    let r = Math.imul(t ^ (t >>> 15), 1 | t);
-    r = (r + Math.imul(r ^ (r >>> 7), 61 | r)) ^ r;
-    return ((r ^ (r >>> 14)) >>> 0) / 4294967296;
-  };
-}
-
-function clamp(value, min, max) {
-  return Math.min(max, Math.max(min, value));
-}
-
-function normalize(value, min, max, outMin = 20, outMax = 98) {
-  if (max === min) return Math.round((outMin + outMax) / 2);
-  const t = (value - min) / (max - min);
-  return Math.round(outMin + t * (outMax - outMin));
-}
-
-// --- Profil radar "universel", propre au comparateur ------------------------
-
-// playersRegistry.js donne à chaque joueur un radar à 6 axes ADAPTÉS À SON
-// POSTE (Finition/Dribble pour un attaquant, Tacle/Jeu aérien pour un
-// défenseur...) : deux joueurs de postes différents n'ont donc pas les
-// mêmes axes, impossible à superposer tel quel sur un seul radar. Pour le
-// comparateur, on reconstruit ici 6 axes génériques, valables pour
-// n'importe quel poste, à partir des mêmes statistiques déjà connues
-// (xG/xA réels quand ils existent) complétées de traits seedés (donc
-// stables par joueur) pondérés selon le poste.
-const ALL_XG = PLAYERS.map((p) => p.stats.xg);
-const ALL_XA = PLAYERS.map((p) => p.stats.xa);
-const XG_RANGE = [Math.min(...ALL_XG), Math.max(...ALL_XG)];
-const XA_RANGE = [Math.min(...ALL_XA), Math.max(...ALL_XA)];
-
-const DEFENSE_BASELINE = { Attaquant: 25, Milieu: 45, Défenseur: 80, Gardien: 85 };
-const PHYSIQUE_BASELINE = { Attaquant: 55, Milieu: 55, Défenseur: 65, Gardien: 50 };
-
-function comparatorRadar(player) {
-  const rand = mulberry32(hashString(`comparateur:${player.name}`));
-
-  const finition =
-    player.stats.xg > 0
-      ? Math.round(clamp(50 + (player.stats.goals / player.stats.xg - 1) * 60, 20, 98))
-      : Math.round(30 + rand() * 40);
-
-  return [
-    { axis: "Attaque", value: normalize(player.stats.xg, ...XG_RANGE) },
-    { axis: "Création", value: normalize(player.stats.xa, ...XA_RANGE) },
-    { axis: "Finition", value: finition },
-    { axis: "Physique", value: clamp(PHYSIQUE_BASELINE[player.position] + Math.round((rand() - 0.5) * 30), 20, 98) },
-    { axis: "Défense", value: clamp(DEFENSE_BASELINE[player.position] + Math.round((rand() - 0.5) * 24), 20, 98) },
-    { axis: "Discipline", value: Math.round(40 + rand() * 55) },
-  ];
-}
-
-// Comparaisons pré-remplies pour l'état vide : uniquement des noms qui
-// existent réellement dans le registre (vérifiés puis filtrés ci-dessous,
-// jamais supposés).
+// Comparaisons proposées par défaut (retrouvées par nom dans la base).
 const PRESET_DEFINITIONS = [
   { label: "Mbappé vs Haaland", names: ["Kylian Mbappé", "Erling Haaland"] },
   { label: "Kane vs Lewandowski", names: ["Harry Kane", "Robert Lewandowski"] },
-  { label: "Martínez vs Osimhen vs Vlahović", names: ["Lautaro Martínez", "Victor Osimhen", "Dušan Vlahović"] },
+  { label: "Salah vs Saka vs Yamal", names: ["Mohamed Salah", "Bukayo Saka", "Lamine Yamal"] },
 ];
 
-const PRESETS = PRESET_DEFINITIONS.map((preset) => ({
-  ...preset,
-  players: preset.names.map((name) => PLAYERS.find((p) => p.name === name)).filter(Boolean),
-})).filter((preset) => preset.players.length >= 2);
+function buildPresets(players) {
+  return PRESET_DEFINITIONS.map((preset) => ({
+    ...preset,
+    players: preset.names.map((name) => findPlayerByName(players, name)).filter(Boolean),
+  })).filter((preset) => preset.players.length >= 2);
+}
 
-// --- Sélecteur de joueur : Input + suggestions filtrées, comme sur
-// Joueurs.jsx (pas de Combobox shadcn installé dans le projet) -------------
-
-function PlayerPicker({ label, value, onSelect, onClear, excludeSlugs }) {
+function PlayerPicker({ label, value, onSelect, onClear, excludeSlugs, players }) {
   const [query, setQuery] = useState("");
   const [open, setOpen] = useState(false);
 
   const suggestions = useMemo(() => {
     const needle = query.trim().toLowerCase();
     if (!needle) return [];
-    return PLAYERS.filter((p) => !excludeSlugs.includes(p.slug) && p.name.toLowerCase().includes(needle)).slice(0, 6);
-  }, [query, excludeSlugs]);
+    return players
+      .filter((p) => !excludeSlugs.includes(p.slug) && p.name.toLowerCase().includes(needle))
+      .sort((a, b) => b.minutes - a.minutes)
+      .slice(0, 6);
+  }, [query, excludeSlugs, players]);
 
   if (value) {
     return (
-      <div>
-        <p className="mb-1 text-xs font-semibold uppercase tracking-wide text-current/50">{label}</p>
-        <div className="flex items-center justify-between gap-2 rounded-lg border border-current/10 bg-current/[0.02] px-3 py-2">
+      <div className="flex min-w-[220px] flex-col gap-1">
+        <FilterLabel>{label}</FilterLabel>
+        <div className="flex items-center justify-between gap-2 rounded-lg border border-current/20 px-2 py-1">
           <div className="flex min-w-0 items-center gap-2">
-            <img src={avatarUrl(value.name, 0)} alt={value.name} className="h-8 w-8 shrink-0 rounded-full" />
-            <span className="truncate font-semibold">{value.name}</span>
+            <PlayerPhoto name={value.name} league={value.leagueLabel} size={26} ring={false} fetchPhoto />
+            <span className="truncate text-[13px] font-semibold">{value.name}</span>
           </div>
-          <Button variant="ghost" size="sm" onClick={onClear}>
+          <button type="button" onClick={onClear} className="text-[12px] text-current/60 hover:text-current">
             Changer
-          </Button>
+          </button>
         </div>
       </div>
     );
   }
 
   return (
-    <div className="relative">
-      <p className="mb-1 text-xs font-semibold uppercase tracking-wide text-current/50">{label}</p>
-      <Input
+    <div className="relative flex min-w-[220px] flex-col gap-1">
+      <FilterLabel>{label}</FilterLabel>
+      <input
+        className={inputClass}
         type="search"
-        placeholder="Rechercher un joueur..."
+        placeholder="Rechercher un joueur"
         value={query}
         onChange={(event) => {
           setQuery(event.target.value);
           setOpen(true);
         }}
         onFocus={() => setOpen(true)}
-        // Délai avant fermeture : laisse le temps au clic sur une
-        // suggestion (onMouseDown, plus bas) de s'exécuter avant que le
-        // blur ne démonte la liste.
+        // Délai avant fermeture : laisse le temps au clic sur une suggestion
         onBlur={() => setTimeout(() => setOpen(false), 150)}
       />
       {open && suggestions.length > 0 && (
@@ -160,51 +103,53 @@ function PlayerPicker({ label, value, onSelect, onClear, excludeSlugs }) {
   );
 }
 
-// --- État vide ---------------------------------------------------------------
+// État vide
 
-function EmptyState({ onPreset }) {
+function EmptyState() {
   return (
-    <div className="rounded-2xl border border-dashed border-current/15 px-6 py-16 text-center">
-      <p className="text-current/60">
-        Choisissez au moins deux joueurs ci-dessus pour lancer la comparaison.
-      </p>
-      {PRESETS.length > 0 && (
-        <div className="mt-6 flex flex-wrap justify-center gap-2">
-          {PRESETS.map((preset) => (
-            <Button key={preset.label} variant="outline" size="sm" onClick={() => onPreset(preset.players)}>
-              {preset.label}
-            </Button>
-          ))}
-        </div>
-      )}
+    <div className="mt-10 rounded-2xl border border-dashed border-current/15 px-6 py-16 text-center text-current/60">
+      Choisissez au moins deux joueurs, ou une comparaison proposée dans la barre ci-dessus.
     </div>
   );
 }
 
-// --- Tableau comparatif -------------------------------------------------------
+// Tableau comparatif
+
+const fmt1 = (v) => (v == null ? "-" : v.toFixed(1));
 
 const TABLE_ROWS = [
-  { label: "xG", get: (p) => p.stats.xg, format: (v) => v.toFixed(1), numeric: true },
+  { label: "Matchs joués", get: (p) => p.stats.matches, numeric: true },
+  { label: "Minutes jouées", get: (p) => p.minutes, numeric: true },
   { label: "Buts", get: (p) => p.stats.goals, numeric: true },
-  { label: "xA", get: (p) => p.stats.xa, format: (v) => v.toFixed(1), numeric: true },
+  { label: "xG", get: (p) => p.stats.xg, format: fmt1, numeric: true },
   { label: "Passes décisives", get: (p) => p.stats.assists, numeric: true },
+  { label: "xA", get: (p) => p.stats.xa, format: fmt1, numeric: true },
+  { label: "Tirs (total)", get: (p) => p.raw.shots, numeric: true },
+  { label: "Tirs cadrés", get: (p) => p.raw.shots_on_target, numeric: true },
+  { label: "Tacles gagnés", get: (p) => p.raw.tackles_won, numeric: true },
+  { label: "Interceptions", get: (p) => p.raw.interceptions, numeric: true },
+  { label: "Fautes subies", get: (p) => p.raw.fouls_drawn, numeric: true },
+  { label: "Fautes commises", get: (p) => p.raw.fouls_committed, numeric: true, lower: true },
+  { label: "Cartons jaunes", get: (p) => p.raw.yellow_cards, numeric: true, lower: true },
+  { label: "Cartons rouges", get: (p) => p.raw.red_cards, numeric: true, lower: true },
   { label: "Club", get: (p) => p.team, numeric: false },
   { label: "Championnat", get: (p) => p.leagueLabel, numeric: false },
   { label: "Poste", get: (p) => p.position, numeric: false },
 ];
 
-function ComparisonTable({ players }) {
+function ComparisonTable({ players, logoFor }) {
   return (
     <div className="overflow-x-auto rounded-2xl border border-current/10">
       <table className="w-full min-w-[480px] border-collapse text-left text-sm">
         <thead>
           <tr className="border-b border-current/10 bg-current/[0.02]">
-            <th className="py-3 pl-4 pr-2 text-xs font-semibold uppercase tracking-wide text-current/50">
+            <th className="py-3 pl-4 pr-2 font-mono text-[11px] font-normal uppercase tracking-wide text-current/50">
               Statistique
             </th>
             {players.map((player) => (
               <th key={player.slug} className="px-4 py-3 font-semibold">
-                <Link to={`/joueurs/${player.slug}`} className="hover:underline">
+                <Link to={`/joueurs/${player.slug}`} className="flex items-center gap-2 hover:text-[#e86f2c]">
+                  <Crest team={player.team} league={player.leagueLabel} logo={logoFor(player.team)} size={20} />
                   {player.name}
                 </Link>
               </th>
@@ -214,9 +159,9 @@ function ComparisonTable({ players }) {
         <tbody>
           {TABLE_ROWS.map((row) => {
             const values = players.map(row.get);
-            const best = row.numeric ? Math.max(...values) : null;
-            // Pas de mise en avant si tout le monde est à égalité (mise en
-            // avant réservée à un vrai avantage comparatif).
+            const nums = values.filter((v) => v != null);
+            const best = row.numeric ? (row.lower ? Math.min(...nums) : Math.max(...nums)) : null;
+            // Pas de mise en avant si tout le monde est à égalité
             const allTied = row.numeric && values.every((v) => v === best);
 
             return (
@@ -244,11 +189,7 @@ function ComparisonTable({ players }) {
   );
 }
 
-// Petit wrapper qui déclenche l'animation d'entrée du radar (démarre à 0,
-// s'anime vers les vraies valeurs) : son propre état `active` démarre à
-// `false` à chaque montage, donc le fait de lui passer une `key` liée à la
-// sélection (voir plus bas) suffit à rejouer l'animation à chaque
-// changement de joueurs, sans avoir à réinitialiser un état ailleurs.
+// Petit wrapper qui déclenche l'animation d'entrée du radar
 function AnimatedRadar({ series }) {
   const [active, setActive] = useState(false);
 
@@ -260,13 +201,15 @@ function AnimatedRadar({ series }) {
   return <RadarChart series={series} active={active} />;
 }
 
-// --- Page ----------------------------------------------------------------------
+// Page
 
 // Comparateur de 2 à 3 joueurs, entièrement alimenté par playersRegistry.js
-// (aucune nouvelle donnée créée ici, seulement un profil radar générique
-// dérivé pour pouvoir superposer des joueurs de postes différents).
 export default function Comparateur() {
   const [slots, setSlots] = useState([null, null]);
+  const { players, reference, loading, error } = usePlayers();
+  const presets = useMemo(() => buildPresets(players), [players]);
+  const logoFor = useTeamLogos();
+  const [refMode, setRefMode] = useState("poste");
 
   const selected = slots.filter(Boolean);
   const selectionKey = slots.map((s) => s?.slug ?? "_").join("|");
@@ -287,70 +230,138 @@ export default function Comparateur() {
     setSlots(players);
   }
 
+  const pctData = useMemo(
+    () => computePercentiles(selected, players, MIN_MINUTES, refMode),
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+    [selectionKey, players, refMode]
+  );
+
   const series = selected.map((player) => ({
     name: player.name,
-    values: comparatorRadar(player),
+    league: player.leagueLabel,
+    values: percentileRadar(player, reference),
   }));
 
   return (
     <>
-      <PageBackground />
-      <section className="flex-1 px-6 py-32 md:px-12 text-[var(--gambeta-ink)]">
-        <div className="mx-auto max-w-[1000px]">
-          <div className="mb-10 text-center">
-            <p className="text-[11px] font-semibold uppercase tracking-[0.14em] text-[#e86f2c] mb-2">
-              Tête-à-tête
-            </p>
-            <h1 className="text-[32px] md:text-[42px] font-bold tracking-[-0.02em]">Comparateur</h1>
-            <p className="mt-4 text-current/60">
-              Comparez deux ou trois joueurs de la base Gambeta, profil de jeu et statistiques
-              clés côte à côte.
-            </p>
-          </div>
-
-          {/* Sélecteurs de joueurs */}
-          <div className="mb-4 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
-            {slots.map((slot, index) => (
-              <PlayerPicker
-                key={index}
-                label={`Joueur ${String.fromCharCode(65 + index)}`}
-                value={slot}
-                onSelect={(player) => setSlot(index, player)}
-                onClear={() => clearSlot(index)}
-                excludeSlugs={selected.map((p) => p.slug)}
-              />
+      <PageHero
+        eyebrow="Tête-à-tête"
+        title="Comparateur"
+        subtitle="Deux ou trois joueurs des 5 grands championnats : synthèse, radar, 18 indicateurs par 90 minutes en percentiles, position parmi tous les joueurs et totaux de la saison."
+        accent="#6c5ce7"
+      />
+      <FilterBar>
+        {presets.length > 0 && (
+          <div className="flex flex-wrap items-center gap-1.5">
+            <FilterLabel>Comparaisons</FilterLabel>
+            {presets.map((preset) => (
+              <button
+                key={preset.label}
+                type="button"
+                onClick={() => applyPreset(preset.players)}
+                className="rounded-full border border-current/15 px-3 py-1 text-[12px] font-semibold transition hover:border-current/40"
+              >
+                {preset.label}
+              </button>
             ))}
           </div>
+        )}
+        <div className="flex flex-wrap items-end gap-x-4 gap-y-3">
+          {slots.map((slot, index) => (
+            <PlayerPicker
+              key={index}
+              label={`Joueur ${String.fromCharCode(65 + index)}`}
+              value={slot}
+              onSelect={(player) => setSlot(index, player)}
+              onClear={() => clearSlot(index)}
+              excludeSlugs={selected.map((p) => p.slug)}
+              players={players}
+            />
+          ))}
+          <button
+            type="button"
+            onClick={slots.length < 3 ? addSlot : removeThirdSlot}
+            className="mb-0.5 rounded-full border border-current/20 px-3 py-1.5 text-[12px] font-semibold hover:border-current/50"
+          >
+            {slots.length < 3 ? "Ajouter un 3e joueur" : "Retirer le 3e joueur"}
+          </button>
+        </div>
+      </FilterBar>
 
-          <div className="mb-10 flex justify-center">
-            {slots.length < 3 ? (
-              <Button variant="outline" size="sm" onClick={addSlot}>
-                + Ajouter un 3e joueur
-              </Button>
-            ) : (
-              <Button variant="ghost" size="sm" onClick={removeThirdSlot}>
-                Retirer le 3e joueur
-              </Button>
-            )}
-          </div>
+      <PageBody>
+        {loading ? (
+          <ApiSkeleton className="mt-10 h-64 w-full" />
+        ) : error ? (
+          <ApiError message="Impossible de charger les joueurs depuis l'API." />
+        ) : selected.length < 2 ? (
+          <EmptyState />
+        ) : (
+          <>
+            <section className="pt-10">
+              <PlayerHeaders players={selected} logoFor={logoFor} />
+            </section>
 
-          {selected.length < 2 ? (
-            <EmptyState onPreset={applyPreset} />
-          ) : (
-            <div className="space-y-10">
-              {/* Radar superposé */}
-              <div className="rounded-2xl border border-current/10 bg-current/[0.02] p-4 md:p-8">
+            <Section
+              kicker="Synthèse"
+              title={`${selected.map((p) => p.name.split(" ").slice(-1)[0]).join(" ou ")} ?`}
+              intro={`Nombre d'indicateurs par 90 minutes où chaque joueur est devant, et ses trois meilleurs percentiles. Référence : ${
+                refMode === "poste" ? "joueurs du même poste" : "tous les joueurs"
+              } avec au moins ${MIN_MINUTES} minutes.`}
+            >
+              <ChipGroup
+                label="Référence"
+                value={refMode}
+                onChange={setRefMode}
+                options={[
+                  { value: "poste", label: "Même poste" },
+                  { value: "all", label: "Tous les joueurs" },
+                ]}
+              />
+              <Verdict players={selected} data={pctData} />
+            </Section>
+
+            <Section
+              layout="split"
+              kicker="Profil"
+              title="Radar de percentiles"
+              intro={
+                <>
+                  Six axes de synthèse. Chaque axe est un <Term id="percentile">percentile</Term> : 80 signifie « meilleur que
+                  80 % des joueurs ayant joué au moins {MIN_MINUTES} minutes ». Valeurs ramenées <Term id="per90">à 90 minutes</Term>.
+                </>
+              }
+            >
+              <ChartCard>
                 <div className="mx-auto max-w-[420px]">
                   <AnimatedRadar key={selectionKey} series={series} />
                 </div>
-              </div>
+              </ChartCard>
+            </Section>
 
-              {/* Tableau comparatif */}
-              <ComparisonTable players={selected} />
-            </div>
-          )}
-        </div>
-      </section>
+            <Section
+              kicker="Profil complet"
+              title={`${PER90_COUNT} indicateurs par 90 minutes`}
+              intro="Pour chaque indicateur : la barre donne le percentile (longueur), suivie de la valeur par 90 minutes et du percentile. Les fautes commises sont inversées : une barre longue signifie peu de fautes."
+            >
+              <PercentileMatrix players={selected} data={pctData} />
+            </Section>
+
+            <Section
+              kicker="Position dans le championnat"
+              title="Où se situent-ils parmi tous les joueurs ?"
+              intro="Chaque point gris est un joueur des 5 championnats. Choisissez la paire d'indicateurs à croiser ; survolez un point pour son détail."
+            >
+              <ChartCard>
+                <PlayerMap players={selected} allPlayers={players} minMinutes={MIN_MINUTES} />
+              </ChartCard>
+            </Section>
+
+            <Section kicker="Volumes" title="Totaux de la saison" intro="En corail : la meilleure valeur de la comparaison (pour les fautes et cartons, la plus basse).">
+              <ComparisonTable players={selected} logoFor={logoFor} />
+            </Section>
+          </>
+        )}
+      </PageBody>
     </>
   );
 }

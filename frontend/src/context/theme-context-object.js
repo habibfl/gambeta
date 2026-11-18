@@ -1,5 +1,4 @@
 import { createContext } from "react";
 
-// Objet de contexte seul, dans son propre fichier : évite d'exporter
-// autre chose qu'un composant depuis ThemeContext.jsx (règle react-refresh).
+// Objet de contexte seul, dans son propre fichier
 export const ThemeContext = createContext(null);

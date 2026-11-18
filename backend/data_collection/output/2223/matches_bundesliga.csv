@@ -1,0 +1,309 @@
+date,week,home_team,away_team,home_goals,away_goals
+2022-08-05,1,Frankfurt,Bayern Munich,1,6
+2022-08-06,1,Augsburg,Freiburg,0,4
+2022-08-06,1,Bochum,Mainz 05,1,2
+2022-08-06,1,Dortmund,Leverkusen,1,0
+2022-08-06,1,Gladbach,Hoffenheim,3,1
+2022-08-06,1,Union Berlin,Hertha BSC,3,1
+2022-08-06,1,Wolfsburg,Werder Bremen,2,2
+2022-08-07,1,Köln,Schalke 04,3,1
+2022-08-07,1,Stuttgart,RB Leipzig,1,1
+2022-08-12,2,Freiburg,Dortmund,1,3
+2022-08-13,2,Werder Bremen,Stuttgart,2,2
+2022-08-13,2,Schalke 04,Gladbach,2,2
+2022-08-13,2,RB Leipzig,Köln,2,2
+2022-08-13,2,Hertha BSC,Frankfurt,1,1
+2022-08-13,2,Hoffenheim,Bochum,3,2
+2022-08-13,2,Leverkusen,Augsburg,1,2
+2022-08-14,2,Bayern Munich,Wolfsburg,2,0
+2022-08-14,2,Mainz 05,Union Berlin,0,0
+2022-08-19,3,Gladbach,Hertha BSC,1,0
+2022-08-20,3,Union Berlin,RB Leipzig,2,1
+2022-08-20,3,Wolfsburg,Schalke 04,0,0
+2022-08-20,3,Stuttgart,Freiburg,0,1
+2022-08-20,3,Augsburg,Mainz 05,1,2
+2022-08-20,3,Dortmund,Werder Bremen,2,3
+2022-08-20,3,Leverkusen,Hoffenheim,0,3
+2022-08-21,3,Bochum,Bayern Munich,0,7
+2022-08-21,3,Frankfurt,Köln,1,1
+2022-08-26,4,Freiburg,Bochum,1,0
+2022-08-27,4,Schalke 04,Union Berlin,1,6
+2022-08-27,4,RB Leipzig,Wolfsburg,2,0
+2022-08-27,4,Mainz 05,Leverkusen,0,3
+2022-08-27,4,Hertha BSC,Dortmund,0,1
+2022-08-27,4,Bayern Munich,Gladbach,1,1
+2022-08-27,4,Hoffenheim,Augsburg,1,0
+2022-08-28,4,Köln,Stuttgart,0,0
+2022-08-28,4,Werder Bremen,Frankfurt,3,4
+2022-09-02,5,Dortmund,Hoffenheim,1,0
+2022-09-03,5,Union Berlin,Bayern Munich,1,1
+2022-09-03,5,Wolfsburg,Köln,2,4
+2022-09-03,5,Stuttgart,Schalke 04,1,1
+2022-09-03,5,Bochum,Werder Bremen,0,2
+2022-09-03,5,Frankfurt,RB Leipzig,4,0
+2022-09-03,5,Leverkusen,Freiburg,2,3
+2022-09-04,5,Augsburg,Hertha BSC,0,2
+2022-09-04,5,Gladbach,Mainz 05,0,1
+2022-09-09,6,Werder Bremen,Augsburg,0,1
+2022-09-10,6,Bayern Munich,Stuttgart,2,2
+2022-09-10,6,Frankfurt,Wolfsburg,0,1
+2022-09-10,6,Hertha BSC,Leverkusen,2,2
+2022-09-10,6,Hoffenheim,Mainz 05,4,1
+2022-09-10,6,RB Leipzig,Dortmund,3,0
+2022-09-10,6,Schalke 04,Bochum,3,1
+2022-09-11,6,Freiburg,Gladbach,0,0
+2022-09-11,6,Köln,Union Berlin,0,1
+2022-09-16,7,Mainz 05,Hertha BSC,1,1
+2022-09-17,7,Stuttgart,Frankfurt,1,3
+2022-09-17,7,Leverkusen,Werder Bremen,1,1
+2022-09-17,7,Gladbach,RB Leipzig,3,0
+2022-09-17,7,Augsburg,Bayern Munich,1,0
+2022-09-17,7,Dortmund,Schalke 04,1,0
+2022-09-18,7,Bochum,Köln,1,1
+2022-09-18,7,Hoffenheim,Freiburg,0,0
+2022-09-18,7,Union Berlin,Wolfsburg,2,0
+2022-09-30,8,Bayern Munich,Leverkusen,4,0
+2022-10-01,8,Wolfsburg,Stuttgart,3,2
+2022-10-01,8,Werder Bremen,Gladbach,5,1
+2022-10-01,8,RB Leipzig,Bochum,4,0
+2022-10-01,8,Köln,Dortmund,3,2
+2022-10-01,8,Frankfurt,Union Berlin,2,0
+2022-10-01,8,Freiburg,Mainz 05,2,1
+2022-10-02,8,Hertha BSC,Hoffenheim,1,1
+2022-10-02,8,Schalke 04,Augsburg,2,3
+2022-10-07,9,Hoffenheim,Werder Bremen,1,2
+2022-10-08,9,Mainz 05,RB Leipzig,1,1
+2022-10-08,9,Dortmund,Bayern Munich,2,2
+2022-10-08,9,Leverkusen,Schalke 04,4,0
+2022-10-08,9,Bochum,Frankfurt,3,0
+2022-10-08,9,Augsburg,Wolfsburg,1,1
+2022-10-09,9,Gladbach,Köln,5,2
+2022-10-09,9,Hertha BSC,Freiburg,2,2
+2022-10-09,9,Stuttgart,Union Berlin,0,1
+2022-10-14,10,Schalke 04,Hoffenheim,0,3
+2022-10-15,10,Wolfsburg,Gladbach,2,2
+2022-10-15,10,Werder Bremen,Mainz 05,0,2
+2022-10-15,10,Stuttgart,Bochum,4,1
+2022-10-15,10,RB Leipzig,Hertha BSC,3,2
+2022-10-15,10,Frankfurt,Leverkusen,5,1
+2022-10-16,10,Bayern Munich,Freiburg,5,0
+2022-10-16,10,Köln,Augsburg,3,2
+2022-10-16,10,Union Berlin,Dortmund,2,0
+2022-10-21,11,Mainz 05,Köln,5,0
+2022-10-22,11,Leverkusen,Wolfsburg,2,2
+2022-10-22,11,Hoffenheim,Bayern Munich,0,2
+2022-10-22,11,Freiburg,Werder Bremen,2,0
+2022-10-22,11,Dortmund,Stuttgart,5,0
+2022-10-22,11,Augsburg,RB Leipzig,3,3
+2022-10-22,11,Gladbach,Frankfurt,1,3
+2022-10-23,11,Bochum,Union Berlin,2,1
+2022-10-23,11,Hertha BSC,Schalke 04,2,1
+2022-10-28,12,Werder Bremen,Hertha BSC,1,0
+2022-10-29,12,Bayern Munich,Mainz 05,6,2
+2022-10-29,12,Frankfurt,Dortmund,1,2
+2022-10-29,12,RB Leipzig,Leverkusen,2,0
+2022-10-29,12,Stuttgart,Augsburg,2,1
+2022-10-29,12,Wolfsburg,Bochum,4,0
+2022-10-30,12,Union Berlin,Gladbach,2,1
+2022-10-30,12,Köln,Hoffenheim,1,1
+2022-10-30,12,Schalke 04,Freiburg,0,2
+2022-11-04,13,Gladbach,Stuttgart,3,1
+2022-11-05,13,Werder Bremen,Schalke 04,2,1
+2022-11-05,13,Mainz 05,Wolfsburg,0,3
+2022-11-05,13,Hoffenheim,RB Leipzig,1,3
+2022-11-05,13,Hertha BSC,Bayern Munich,2,3
+2022-11-05,13,Dortmund,Bochum,3,0
+2022-11-05,13,Augsburg,Frankfurt,1,2
+2022-11-06,13,Freiburg,Köln,2,0
+2022-11-06,13,Leverkusen,Union Berlin,5,0
+2022-11-08,14,Stuttgart,Hertha BSC,2,1
+2022-11-08,14,Wolfsburg,Dortmund,2,0
+2022-11-08,14,Bayern Munich,Werder Bremen,6,1
+2022-11-08,14,Bochum,Gladbach,2,1
+2022-11-09,14,Frankfurt,Hoffenheim,4,2
+2022-11-09,14,Köln,Leverkusen,1,2
+2022-11-09,14,RB Leipzig,Freiburg,3,1
+2022-11-09,14,Schalke 04,Mainz 05,1,0
+2022-11-09,14,Union Berlin,Augsburg,2,2
+2022-11-11,15,Gladbach,Dortmund,4,2
+2022-11-12,15,Schalke 04,Bayern Munich,0,2
+2022-11-12,15,Werder Bremen,RB Leipzig,1,2
+2022-11-12,15,Leverkusen,Stuttgart,2,0
+2022-11-12,15,Hertha BSC,Köln,2,0
+2022-11-12,15,Augsburg,Bochum,0,1
+2022-11-12,15,Hoffenheim,Wolfsburg,1,2
+2022-11-13,15,Freiburg,Union Berlin,4,1
+2022-11-13,15,Mainz 05,Frankfurt,1,1
+2023-01-20,16,RB Leipzig,Bayern Munich,1,1
+2023-01-21,16,Bochum,Hertha BSC,3,1
+2023-01-21,16,Frankfurt,Schalke 04,3,0
+2023-01-21,16,Köln,Werder Bremen,7,1
+2023-01-21,16,Stuttgart,Mainz 05,1,1
+2023-01-21,16,Union Berlin,Hoffenheim,3,1
+2023-01-21,16,Wolfsburg,Freiburg,6,0
+2023-01-22,16,Gladbach,Leverkusen,2,3
+2023-01-22,16,Dortmund,Augsburg,4,3
+2023-01-24,17,Hoffenheim,Stuttgart,2,2
+2023-01-24,17,Schalke 04,RB Leipzig,1,6
+2023-01-24,17,Bayern Munich,Köln,1,1
+2023-01-24,17,Hertha BSC,Wolfsburg,0,5
+2023-01-25,17,Leverkusen,Bochum,2,0
+2023-01-25,17,Mainz 05,Dortmund,1,2
+2023-01-25,17,Augsburg,Gladbach,1,0
+2023-01-25,17,Freiburg,Frankfurt,1,1
+2023-01-25,17,Werder Bremen,Union Berlin,1,2
+2023-01-27,18,RB Leipzig,Stuttgart,2,1
+2023-01-28,18,Bayern Munich,Frankfurt,1,1
+2023-01-28,18,Freiburg,Augsburg,3,1
+2023-01-28,18,Hertha BSC,Union Berlin,0,2
+2023-01-28,18,Hoffenheim,Gladbach,1,4
+2023-01-28,18,Mainz 05,Bochum,5,2
+2023-01-28,18,Werder Bremen,Wolfsburg,2,1
+2023-01-29,18,Leverkusen,Dortmund,0,2
+2023-01-29,18,Schalke 04,Köln,0,0
+2023-02-03,19,Augsburg,Leverkusen,1,0
+2023-02-04,19,Union Berlin,Mainz 05,2,1
+2023-02-04,19,Köln,RB Leipzig,0,0
+2023-02-04,19,Gladbach,Schalke 04,0,0
+2023-02-04,19,Dortmund,Freiburg,5,1
+2023-02-04,19,Bochum,Hoffenheim,5,2
+2023-02-04,19,Frankfurt,Hertha BSC,3,0
+2023-02-05,19,Stuttgart,Werder Bremen,0,2
+2023-02-05,19,Wolfsburg,Bayern Munich,2,4
+2023-02-10,20,Schalke 04,Wolfsburg,0,0
+2023-02-11,20,RB Leipzig,Union Berlin,1,2
+2023-02-11,20,Werder Bremen,Dortmund,0,2
+2023-02-11,20,Mainz 05,Augsburg,3,1
+2023-02-11,20,Freiburg,Stuttgart,2,1
+2023-02-11,20,Bayern Munich,Bochum,3,0
+2023-02-11,20,Hoffenheim,Leverkusen,1,3
+2023-02-12,20,Hertha BSC,Gladbach,4,1
+2023-02-12,20,Köln,Frankfurt,3,0
+2023-02-17,21,Augsburg,Hoffenheim,1,0
+2023-02-18,21,Stuttgart,Köln,3,0
+2023-02-18,21,Bochum,Freiburg,0,2
+2023-02-18,21,Frankfurt,Werder Bremen,2,0
+2023-02-18,21,Gladbach,Bayern Munich,3,2
+2023-02-18,21,Wolfsburg,RB Leipzig,0,3
+2023-02-19,21,Dortmund,Hertha BSC,4,1
+2023-02-19,21,Leverkusen,Mainz 05,2,3
+2023-02-19,21,Union Berlin,Schalke 04,0,0
+2023-02-24,22,Mainz 05,Gladbach,4,0
+2023-02-25,22,Schalke 04,Stuttgart,2,1
+2023-02-25,22,Werder Bremen,Bochum,3,0
+2023-02-25,22,RB Leipzig,Frankfurt,2,1
+2023-02-25,22,Hertha BSC,Augsburg,2,0
+2023-02-25,22,Hoffenheim,Dortmund,0,1
+2023-02-25,22,Köln,Wolfsburg,0,2
+2023-02-26,22,Bayern Munich,Union Berlin,3,0
+2023-02-26,22,Freiburg,Leverkusen,1,1
+2023-03-03,23,Dortmund,RB Leipzig,2,1
+2023-03-04,23,Augsburg,Werder Bremen,2,1
+2023-03-04,23,Bochum,Schalke 04,0,2
+2023-03-04,23,Gladbach,Freiburg,0,0
+2023-03-04,23,Mainz 05,Hoffenheim,1,0
+2023-03-04,23,Stuttgart,Bayern Munich,1,2
+2023-03-04,23,Union Berlin,Köln,0,0
+2023-03-05,23,Leverkusen,Hertha BSC,4,1
+2023-03-05,23,Wolfsburg,Frankfurt,2,2
+2023-03-10,24,Köln,Bochum,0,2
+2023-03-11,24,Schalke 04,Dortmund,2,2
+2023-03-11,24,RB Leipzig,Gladbach,3,0
+2023-03-11,24,Hertha BSC,Mainz 05,1,1
+2023-03-11,24,Bayern Munich,Augsburg,5,3
+2023-03-11,24,Frankfurt,Stuttgart,1,1
+2023-03-12,24,Freiburg,Hoffenheim,2,1
+2023-03-12,24,Werder Bremen,Leverkusen,2,3
+2023-03-12,24,Wolfsburg,Union Berlin,1,1
+2023-03-17,25,Gladbach,Werder Bremen,2,2
+2023-03-18,25,Stuttgart,Wolfsburg,0,1
+2023-03-18,25,Hoffenheim,Hertha BSC,3,1
+2023-03-18,25,Dortmund,Köln,6,1
+2023-03-18,25,Augsburg,Schalke 04,1,1
+2023-03-18,25,Bochum,RB Leipzig,1,0
+2023-03-19,25,Leverkusen,Bayern Munich,2,1
+2023-03-19,25,Mainz 05,Freiburg,1,1
+2023-03-19,25,Union Berlin,Frankfurt,2,0
+2023-03-31,26,Frankfurt,Bochum,1,1
+2023-04-01,26,Wolfsburg,Augsburg,2,2
+2023-04-01,26,Schalke 04,Leverkusen,0,3
+2023-04-01,26,Union Berlin,Stuttgart,3,0
+2023-04-01,26,Freiburg,Hertha BSC,1,1
+2023-04-01,26,Bayern Munich,Dortmund,4,2
+2023-04-01,26,RB Leipzig,Mainz 05,0,3
+2023-04-02,26,Köln,Gladbach,0,0
+2023-04-02,26,Werder Bremen,Hoffenheim,1,2
+2023-04-08,27,Augsburg,Köln,1,3
+2023-04-08,27,Dortmund,Union Berlin,2,1
+2023-04-08,27,Freiburg,Bayern Munich,0,1
+2023-04-08,27,Hertha BSC,RB Leipzig,0,1
+2023-04-08,27,Leverkusen,Frankfurt,3,1
+2023-04-08,27,Mainz 05,Werder Bremen,2,2
+2023-04-09,27,Bochum,Stuttgart,2,3
+2023-04-09,27,Gladbach,Wolfsburg,2,0
+2023-04-09,27,Hoffenheim,Schalke 04,2,0
+2023-04-14,28,Schalke 04,Hertha BSC,5,2
+2023-04-15,28,RB Leipzig,Augsburg,3,2
+2023-04-15,28,Köln,Mainz 05,1,1
+2023-04-15,28,Stuttgart,Dortmund,3,3
+2023-04-15,28,Bayern Munich,Hoffenheim,1,1
+2023-04-15,28,Frankfurt,Gladbach,1,1
+2023-04-16,28,Wolfsburg,Leverkusen,0,0
+2023-04-16,28,Werder Bremen,Freiburg,1,2
+2023-04-16,28,Union Berlin,Bochum,1,1
+2023-04-21,29,Augsburg,Stuttgart,1,1
+2023-04-22,29,Hoffenheim,Köln,1,3
+2023-04-22,29,Hertha BSC,Werder Bremen,2,4
+2023-04-22,29,Mainz 05,Bayern Munich,3,1
+2023-04-22,29,Bochum,Wolfsburg,1,5
+2023-04-22,29,Dortmund,Frankfurt,4,0
+2023-04-23,29,Freiburg,Schalke 04,4,0
+2023-04-23,29,Leverkusen,RB Leipzig,2,0
+2023-04-23,29,Gladbach,Union Berlin,0,1
+2023-04-28,30,Bochum,Dortmund,1,1
+2023-04-29,30,Union Berlin,Leverkusen,0,0
+2023-04-29,30,Frankfurt,Augsburg,1,1
+2023-04-29,30,Köln,Freiburg,0,1
+2023-04-29,30,RB Leipzig,Hoffenheim,1,0
+2023-04-29,30,Schalke 04,Werder Bremen,2,1
+2023-04-29,30,Stuttgart,Gladbach,2,1
+2023-04-30,30,Wolfsburg,Mainz 05,3,0
+2023-04-30,30,Bayern Munich,Hertha BSC,2,0
+2023-05-05,31,Leverkusen,Köln,1,2
+2023-05-05,31,Mainz 05,Schalke 04,2,3
+2023-05-06,31,Augsburg,Union Berlin,1,0
+2023-05-06,31,Freiburg,RB Leipzig,0,1
+2023-05-06,31,Gladbach,Bochum,2,0
+2023-05-06,31,Hertha BSC,Stuttgart,2,1
+2023-05-06,31,Hoffenheim,Frankfurt,3,1
+2023-05-06,31,Werder Bremen,Bayern Munich,1,2
+2023-05-07,31,Dortmund,Wolfsburg,6,0
+2023-05-12,32,Köln,Hertha BSC,5,2
+2023-05-13,32,Bayern Munich,Schalke 04,6,0
+2023-05-13,32,Bochum,Augsburg,3,2
+2023-05-13,32,Dortmund,Gladbach,5,2
+2023-05-13,32,Frankfurt,Mainz 05,3,0
+2023-05-13,32,Union Berlin,Freiburg,4,2
+2023-05-13,32,Wolfsburg,Hoffenheim,2,1
+2023-05-14,32,RB Leipzig,Werder Bremen,2,1
+2023-05-14,32,Stuttgart,Leverkusen,1,1
+2023-05-19,33,Freiburg,Wolfsburg,2,0
+2023-05-20,33,Bayern Munich,RB Leipzig,1,3
+2023-05-20,33,Hertha BSC,Bochum,1,1
+2023-05-20,33,Hoffenheim,Union Berlin,4,2
+2023-05-20,33,Schalke 04,Frankfurt,2,2
+2023-05-20,33,Werder Bremen,Köln,1,1
+2023-05-21,33,Augsburg,Dortmund,0,3
+2023-05-21,33,Leverkusen,Gladbach,2,2
+2023-05-21,33,Mainz 05,Stuttgart,1,4
+2023-05-27,34,Wolfsburg,Hertha BSC,1,2
+2023-05-27,34,Union Berlin,Werder Bremen,1,0
+2023-05-27,34,Stuttgart,Hoffenheim,1,1
+2023-05-27,34,RB Leipzig,Schalke 04,4,2
+2023-05-27,34,Dortmund,Mainz 05,2,2
+2023-05-27,34,Gladbach,Augsburg,2,0
+2023-05-27,34,Frankfurt,Freiburg,2,1
+2023-05-27,34,Bochum,Leverkusen,3,0
+2023-05-27,34,Köln,Bayern Munich,1,2
+2023-06-01,,Stuttgart,Hamburger SV,3,0
+2023-06-05,,Hamburger SV,Stuttgart,1,3

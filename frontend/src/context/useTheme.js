@@ -1,8 +1,7 @@
 import { useContext } from "react";
 import { ThemeContext } from "./theme-context-object";
 
-// Petit hook pour consommer le contexte de thème plus simplement
-// dans les composants (évite d'importer useContext + ThemeContext partout).
+// Petit hook pour consommer le contexte de thème plus simplement dans les composants
 export function useTheme() {
   const context = useContext(ThemeContext);
   if (!context) {

@@ -1,0 +1,381 @@
+date,week,home_team,away_team,home_goals,away_goals
+2021-08-13,1,Valencia,Getafe,1,0
+2021-08-14,1,Alavés,Real Madrid,1,4
+2021-08-14,1,Cádiz,Levante,1,1
+2021-08-14,1,Mallorca,Real Betis,1,1
+2021-08-14,1,Osasuna,Espanyol,0,0
+2021-08-15,1,Barcelona,Real Sociedad,4,2
+2021-08-15,1,Celta Vigo,Atlético Madrid,1,2
+2021-08-15,1,Sevilla,Rayo Vallecano,3,0
+2021-08-16,1,Villarreal,Granada,0,0
+2021-08-16,1,Elche,Athletic Club,0,0
+2021-08-20,2,Real Betis,Cádiz,1,1
+2021-08-21,2,Alavés,Mallorca,0,1
+2021-08-21,2,Athletic Club,Barcelona,1,1
+2021-08-21,2,Espanyol,Villarreal,0,0
+2021-08-21,2,Granada,Valencia,1,1
+2021-08-22,2,Atlético Madrid,Elche,1,0
+2021-08-22,2,Levante,Real Madrid,3,3
+2021-08-22,2,Real Sociedad,Rayo Vallecano,1,0
+2021-08-23,2,Getafe,Sevilla,0,1
+2021-08-23,2,Osasuna,Celta Vigo,0,0
+2021-08-27,3,Valencia,Alavés,3,0
+2021-08-27,3,Mallorca,Espanyol,1,0
+2021-08-28,3,Celta Vigo,Athletic Club,0,1
+2021-08-28,3,Elche,Sevilla,1,1
+2021-08-28,3,Real Betis,Real Madrid,0,1
+2021-08-28,3,Real Sociedad,Levante,1,0
+2021-08-29,3,Atlético Madrid,Villarreal,2,2
+2021-08-29,3,Barcelona,Getafe,2,1
+2021-08-29,3,Cádiz,Osasuna,2,3
+2021-08-29,3,Rayo Vallecano,Granada,4,0
+2021-09-11,4,Athletic Club,Mallorca,2,0
+2021-09-11,4,Levante,Rayo Vallecano,1,1
+2021-09-12,4,Real Madrid,Celta Vigo,5,2
+2021-09-12,4,Osasuna,Valencia,1,4
+2021-09-12,4,Cádiz,Real Sociedad,0,2
+2021-09-12,4,Espanyol,Atlético Madrid,1,2
+2021-09-13,4,Getafe,Elche,0,1
+2021-09-13,4,Granada,Real Betis,1,2
+2021-09-17,5,Celta Vigo,Cádiz,1,2
+2021-09-18,5,Elche,Levante,1,1
+2021-09-18,5,Rayo Vallecano,Getafe,3,0
+2021-09-18,5,Alavés,Osasuna,0,2
+2021-09-18,5,Atlético Madrid,Athletic Club,0,0
+2021-09-19,5,Valencia,Real Madrid,1,2
+2021-09-19,5,Real Sociedad,Sevilla,0,0
+2021-09-19,5,Mallorca,Villarreal,0,0
+2021-09-19,5,Real Betis,Espanyol,2,2
+2021-09-20,5,Barcelona,Granada,1,1
+2021-09-21,6,Athletic Club,Rayo Vallecano,1,2
+2021-09-21,6,Getafe,Atlético Madrid,1,2
+2021-09-21,6,Levante,Celta Vigo,0,2
+2021-09-22,6,Villarreal,Elche,4,1
+2021-09-22,6,Espanyol,Alavés,1,0
+2021-09-22,6,Real Madrid,Mallorca,6,1
+2021-09-22,6,Sevilla,Valencia,3,1
+2021-09-23,6,Osasuna,Real Betis,1,3
+2021-09-23,6,Granada,Real Sociedad,2,3
+2021-09-23,6,Cádiz,Barcelona,0,0
+2021-09-25,7,Alavés,Atlético Madrid,1,0
+2021-09-25,7,Real Madrid,Villarreal,0,0
+2021-09-25,7,Sevilla,Espanyol,2,0
+2021-09-25,7,Valencia,Athletic Club,1,1
+2021-09-26,7,Real Betis,Getafe,2,0
+2021-09-26,7,Rayo Vallecano,Cádiz,3,1
+2021-09-26,7,Real Sociedad,Elche,1,0
+2021-09-26,7,Barcelona,Levante,3,0
+2021-09-26,7,Mallorca,Osasuna,2,3
+2021-09-27,7,Celta Vigo,Granada,1,0
+2021-10-01,8,Athletic Club,Alavés,1,0
+2021-10-02,8,Atlético Madrid,Barcelona,2,0
+2021-10-02,8,Cádiz,Valencia,0,0
+2021-10-02,8,Mallorca,Levante,1,0
+2021-10-02,8,Osasuna,Rayo Vallecano,1,0
+2021-10-03,8,Elche,Celta Vigo,1,0
+2021-10-03,8,Espanyol,Real Madrid,2,1
+2021-10-03,8,Getafe,Real Sociedad,1,1
+2021-10-03,8,Granada,Sevilla,1,0
+2021-10-03,8,Villarreal,Real Betis,2,0
+2021-10-16,9,Real Sociedad,Mallorca,1,0
+2021-10-16,9,Levante,Getafe,0,0
+2021-10-17,9,Barcelona,Valencia,3,1
+2021-10-17,9,Celta Vigo,Sevilla,0,1
+2021-10-17,9,Rayo Vallecano,Elche,2,1
+2021-10-17,9,Villarreal,Osasuna,1,2
+2021-10-18,9,Alavés,Real Betis,0,1
+2021-10-18,9,Espanyol,Cádiz,2,0
+2021-10-22,10,Osasuna,Granada,1,1
+2021-10-23,10,Elche,Espanyol,2,2
+2021-10-23,10,Valencia,Mallorca,2,2
+2021-10-23,10,Athletic Club,Villarreal,2,1
+2021-10-23,10,Cádiz,Alavés,0,2
+2021-10-24,10,Real Betis,Rayo Vallecano,3,2
+2021-10-24,10,Sevilla,Levante,5,3
+2021-10-24,10,Atlético Madrid,Real Sociedad,2,2
+2021-10-24,10,Barcelona,Real Madrid,1,2
+2021-10-25,10,Getafe,Celta Vigo,0,3
+2021-10-26,11,Alavés,Elche,1,0
+2021-10-26,11,Espanyol,Athletic Club,1,1
+2021-10-26,11,Villarreal,Cádiz,3,3
+2021-10-27,11,Mallorca,Sevilla,1,1
+2021-10-27,11,Rayo Vallecano,Barcelona,1,0
+2021-10-27,11,Real Betis,Valencia,4,1
+2021-10-27,11,Real Madrid,Osasuna,0,0
+2021-10-28,11,Levante,Atlético Madrid,2,2
+2021-10-28,11,Celta Vigo,Real Sociedad,0,2
+2021-10-28,11,Granada,Getafe,1,1
+2021-10-30,12,Barcelona,Alavés,1,1
+2021-10-30,12,Elche,Real Madrid,1,2
+2021-10-30,12,Sevilla,Osasuna,2,0
+2021-10-30,12,Valencia,Villarreal,2,0
+2021-10-31,12,Getafe,Espanyol,2,1
+2021-10-31,12,Atlético Madrid,Real Betis,3,0
+2021-10-31,12,Cádiz,Mallorca,1,1
+2021-10-31,12,Real Sociedad,Athletic Club,1,1
+2021-11-01,12,Rayo Vallecano,Celta Vigo,0,0
+2021-11-01,12,Levante,Granada,0,3
+2021-11-05,13,Athletic Club,Cádiz,0,1
+2021-11-06,13,Alavés,Levante,2,1
+2021-11-06,13,Celta Vigo,Barcelona,3,3
+2021-11-06,13,Espanyol,Granada,2,0
+2021-11-06,13,Real Madrid,Rayo Vallecano,2,1
+2021-11-07,13,Villarreal,Getafe,1,0
+2021-11-07,13,Mallorca,Elche,2,2
+2021-11-07,13,Osasuna,Real Sociedad,0,2
+2021-11-07,13,Real Betis,Sevilla,0,2
+2021-11-07,13,Valencia,Atlético Madrid,3,3
+2021-11-19,14,Levante,Athletic Club,0,0
+2021-11-20,14,Atlético Madrid,Osasuna,1,0
+2021-11-20,14,Barcelona,Espanyol,1,0
+2021-11-20,14,Celta Vigo,Villarreal,1,1
+2021-11-20,14,Sevilla,Alavés,2,2
+2021-11-21,14,Elche,Real Betis,0,3
+2021-11-21,14,Getafe,Cádiz,4,0
+2021-11-21,14,Granada,Real Madrid,1,4
+2021-11-21,14,Real Sociedad,Valencia,0,0
+2021-11-22,14,Rayo Vallecano,Mallorca,3,1
+2021-11-26,15,Athletic Club,Granada,2,2
+2021-11-27,15,Valencia,Rayo Vallecano,1,1
+2021-11-27,15,Villarreal,Barcelona,1,3
+2021-11-27,15,Alavés,Celta Vigo,1,2
+2021-11-27,15,Mallorca,Getafe,0,0
+2021-11-28,15,Cádiz,Atlético Madrid,1,4
+2021-11-28,15,Espanyol,Real Sociedad,1,0
+2021-11-28,15,Real Betis,Levante,3,1
+2021-11-28,15,Real Madrid,Sevilla,2,1
+2021-11-29,15,Osasuna,Elche,1,1
+2021-12-01,9,Real Madrid,Athletic Club,1,0
+2021-12-03,16,Granada,Alavés,2,1
+2021-12-04,16,Real Sociedad,Real Madrid,0,2
+2021-12-04,16,Sevilla,Villarreal,1,0
+2021-12-04,16,Atlético Madrid,Mallorca,1,2
+2021-12-04,16,Barcelona,Real Betis,0,1
+2021-12-05,16,Elche,Cádiz,3,1
+2021-12-05,16,Levante,Osasuna,0,0
+2021-12-05,16,Rayo Vallecano,Espanyol,1,0
+2021-12-05,16,Celta Vigo,Valencia,1,2
+2021-12-06,16,Getafe,Athletic Club,0,0
+2021-12-10,17,Mallorca,Celta Vigo,0,0
+2021-12-11,17,Alavés,Getafe,1,1
+2021-12-11,17,Athletic Club,Sevilla,0,1
+2021-12-11,17,Espanyol,Levante,4,3
+2021-12-11,17,Valencia,Elche,2,1
+2021-12-12,17,Real Madrid,Atlético Madrid,2,0
+2021-12-12,17,Villarreal,Rayo Vallecano,2,0
+2021-12-12,17,Real Betis,Real Sociedad,4,0
+2021-12-12,17,Osasuna,Barcelona,2,2
+2021-12-13,17,Cádiz,Granada,1,1
+2021-12-17,18,Celta Vigo,Espanyol,3,1
+2021-12-18,18,Barcelona,Elche,3,2
+2021-12-18,18,Rayo Vallecano,Alavés,2,0
+2021-12-18,18,Real Sociedad,Villarreal,1,3
+2021-12-18,18,Sevilla,Atlético Madrid,2,1
+2021-12-19,18,Granada,Mallorca,4,1
+2021-12-19,18,Athletic Club,Real Betis,3,2
+2021-12-19,18,Getafe,Osasuna,1,0
+2021-12-19,18,Real Madrid,Cádiz,0,0
+2021-12-20,18,Levante,Valencia,3,4
+2021-12-21,4,Sevilla,Barcelona,1,1
+2021-12-21,4,Villarreal,Alavés,5,2
+2021-12-22,21,Athletic Club,Real Madrid,1,2
+2021-12-22,9,Granada,Atlético Madrid,2,1
+2021-12-31,19,Valencia,Espanyol,1,2
+2022-01-02,19,Mallorca,Barcelona,0,1
+2022-01-02,19,Getafe,Real Madrid,1,0
+2022-01-02,19,Real Betis,Celta Vigo,0,2
+2022-01-02,19,Atlético Madrid,Rayo Vallecano,2,0
+2022-01-02,19,Alavés,Real Sociedad,1,1
+2022-01-02,19,Elche,Granada,0,0
+2022-01-03,19,Villarreal,Levante,5,0
+2022-01-03,19,Osasuna,Athletic Club,1,3
+2022-01-03,19,Cádiz,Sevilla,0,1
+2022-01-08,20,Granada,Barcelona,1,1
+2022-01-08,20,Levante,Mallorca,2,0
+2022-01-08,20,Real Madrid,Valencia,4,1
+2022-01-08,20,Real Sociedad,Celta Vigo,1,0
+2022-01-09,20,Alavés,Athletic Club,0,0
+2022-01-09,20,Osasuna,Cádiz,2,0
+2022-01-09,20,Rayo Vallecano,Real Betis,1,1
+2022-01-09,20,Sevilla,Getafe,1,0
+2022-01-09,20,Villarreal,Atlético Madrid,2,2
+2022-01-10,20,Espanyol,Elche,1,2
+2022-01-16,21,Elche,Villarreal,1,0
+2022-01-18,21,Cádiz,Espanyol,2,2
+2022-01-18,21,Real Betis,Alavés,4,0
+2022-01-19,21,Celta Vigo,Osasuna,2,0
+2022-01-19,21,Valencia,Sevilla,1,1
+2022-01-20,21,Getafe,Granada,4,2
+2022-01-21,22,Espanyol,Real Betis,1,4
+2022-01-22,22,Atlético Madrid,Valencia,3,2
+2022-01-22,22,Levante,Cádiz,0,2
+2022-01-22,22,Sevilla,Celta Vigo,2,2
+2022-01-22,22,Villarreal,Mallorca,3,0
+2022-01-23,22,Real Sociedad,Getafe,0,0
+2022-01-23,22,Real Madrid,Elche,2,2
+2022-01-23,22,Granada,Osasuna,0,2
+2022-01-23,22,Alavés,Barcelona,0,1
+2022-01-23,22,Rayo Vallecano,Athletic Club,0,1
+2022-02-04,23,Getafe,Levante,3,0
+2022-02-05,23,Celta Vigo,Rayo Vallecano,2,0
+2022-02-05,23,Elche,Alavés,3,1
+2022-02-05,23,Mallorca,Cádiz,2,1
+2022-02-05,23,Osasuna,Sevilla,0,0
+2022-02-06,23,Valencia,Real Sociedad,0,0
+2022-02-06,23,Real Madrid,Granada,1,0
+2022-02-06,23,Real Betis,Villarreal,0,2
+2022-02-06,23,Barcelona,Atlético Madrid,4,2
+2022-02-07,23,Athletic Club,Espanyol,2,1
+2022-02-11,24,Sevilla,Elche,2,0
+2022-02-12,24,Atlético Madrid,Getafe,4,3
+2022-02-12,24,Cádiz,Celta Vigo,0,0
+2022-02-12,24,Rayo Vallecano,Osasuna,0,3
+2022-02-12,24,Villarreal,Real Madrid,0,0
+2022-02-13,24,Levante,Real Betis,2,4
+2022-02-13,24,Real Sociedad,Granada,2,0
+2022-02-13,24,Alavés,Valencia,2,1
+2022-02-13,24,Espanyol,Barcelona,2,2
+2022-02-14,24,Mallorca,Athletic Club,3,2
+2022-02-16,21,Atlético Madrid,Levante,0,1
+2022-02-18,25,Elche,Rayo Vallecano,2,1
+2022-02-19,25,Cádiz,Getafe,1,1
+2022-02-19,25,Granada,Villarreal,1,4
+2022-02-19,25,Osasuna,Atlético Madrid,0,3
+2022-02-19,25,Real Madrid,Alavés,3,0
+2022-02-20,25,Athletic Club,Real Sociedad,4,0
+2022-02-20,25,Espanyol,Sevilla,1,1
+2022-02-20,25,Real Betis,Mallorca,2,1
+2022-02-20,25,Valencia,Barcelona,1,4
+2022-02-21,25,Celta Vigo,Levante,1,1
+2022-02-25,26,Levante,Elche,3,0
+2022-02-26,26,Rayo Vallecano,Real Madrid,0,1
+2022-02-26,26,Mallorca,Valencia,0,1
+2022-02-26,26,Atlético Madrid,Celta Vigo,2,0
+2022-02-26,26,Getafe,Alavés,2,2
+2022-02-27,26,Barcelona,Athletic Club,4,0
+2022-02-27,26,Real Sociedad,Osasuna,1,0
+2022-02-27,26,Sevilla,Real Betis,2,1
+2022-02-27,26,Villarreal,Espanyol,5,1
+2022-02-28,26,Granada,Cádiz,0,0
+2022-03-02,21,Mallorca,Real Sociedad,0,2
+2022-03-04,27,Alavés,Sevilla,0,0
+2022-03-05,27,Valencia,Granada,3,1
+2022-03-05,27,Real Madrid,Real Sociedad,4,1
+2022-03-05,27,Osasuna,Villarreal,1,0
+2022-03-05,27,Espanyol,Getafe,2,0
+2022-03-06,27,Celta Vigo,Mallorca,4,3
+2022-03-06,27,Cádiz,Rayo Vallecano,2,0
+2022-03-06,27,Elche,Barcelona,1,2
+2022-03-06,27,Real Betis,Atlético Madrid,1,3
+2022-03-07,27,Athletic Club,Levante,3,1
+2022-03-11,28,Atlético Madrid,Cádiz,2,1
+2022-03-12,28,Getafe,Valencia,0,0
+2022-03-12,28,Granada,Elche,0,1
+2022-03-12,28,Levante,Espanyol,1,1
+2022-03-12,28,Villarreal,Celta Vigo,1,0
+2022-03-13,28,Real Sociedad,Alavés,1,0
+2022-03-13,28,Real Betis,Athletic Club,1,0
+2022-03-13,28,Barcelona,Osasuna,4,0
+2022-03-13,28,Rayo Vallecano,Sevilla,1,1
+2022-03-14,28,Mallorca,Real Madrid,0,3
+2022-03-18,29,Athletic Club,Getafe,1,1
+2022-03-19,29,Alavés,Granada,2,3
+2022-03-19,29,Elche,Valencia,0,1
+2022-03-19,29,Osasuna,Levante,3,1
+2022-03-19,29,Rayo Vallecano,Atlético Madrid,0,1
+2022-03-20,29,Sevilla,Real Sociedad,0,0
+2022-03-20,29,Real Madrid,Barcelona,0,4
+2022-03-20,29,Celta Vigo,Real Betis,0,0
+2022-03-20,29,Cádiz,Villarreal,1,0
+2022-03-20,29,Espanyol,Mallorca,1,0
+2022-04-02,30,Atlético Madrid,Alavés,4,1
+2022-04-02,30,Celta Vigo,Real Madrid,1,2
+2022-04-02,30,Getafe,Mallorca,1,0
+2022-04-02,30,Levante,Villarreal,2,0
+2022-04-03,30,Athletic Club,Elche,2,1
+2022-04-03,30,Barcelona,Sevilla,1,0
+2022-04-03,30,Granada,Rayo Vallecano,2,2
+2022-04-03,30,Real Betis,Osasuna,4,1
+2022-04-03,30,Valencia,Cádiz,0,0
+2022-04-04,30,Real Sociedad,Espanyol,1,0
+2022-04-08,31,Sevilla,Granada,4,2
+2022-04-09,31,Cádiz,Real Betis,1,2
+2022-04-09,31,Mallorca,Atlético Madrid,1,0
+2022-04-09,31,Real Madrid,Getafe,2,0
+2022-04-09,31,Villarreal,Athletic Club,1,1
+2022-04-10,31,Elche,Real Sociedad,1,2
+2022-04-10,31,Espanyol,Celta Vigo,1,0
+2022-04-10,31,Levante,Barcelona,2,3
+2022-04-10,31,Osasuna,Alavés,1,0
+2022-04-11,31,Rayo Vallecano,Valencia,1,1
+2022-04-15,32,Real Sociedad,Real Betis,0,0
+2022-04-16,32,Alavés,Rayo Vallecano,1,0
+2022-04-16,32,Elche,Mallorca,3,0
+2022-04-16,32,Getafe,Villarreal,1,2
+2022-04-16,32,Valencia,Osasuna,1,2
+2022-04-17,32,Athletic Club,Celta Vigo,0,2
+2022-04-17,32,Atlético Madrid,Espanyol,2,1
+2022-04-17,32,Granada,Levante,1,4
+2022-04-17,32,Sevilla,Real Madrid,2,3
+2022-04-18,32,Barcelona,Cádiz,0,1
+2022-04-19,33,Villarreal,Valencia,2,0
+2022-04-19,33,Real Betis,Elche,0,1
+2022-04-19,33,Mallorca,Alavés,2,1
+2022-04-20,33,Atlético Madrid,Granada,0,0
+2022-04-20,33,Celta Vigo,Getafe,0,2
+2022-04-20,33,Osasuna,Real Madrid,1,3
+2022-04-21,33,Cádiz,Athletic Club,2,3
+2022-04-21,33,Espanyol,Rayo Vallecano,0,1
+2022-04-21,33,Levante,Sevilla,2,3
+2022-04-21,33,Real Sociedad,Barcelona,0,1
+2022-04-24,21,Barcelona,Rayo Vallecano,0,1
+2022-04-29,34,Sevilla,Cádiz,1,1
+2022-04-30,34,Valencia,Levante,1,1
+2022-04-30,34,Real Madrid,Espanyol,4,0
+2022-04-30,34,Alavés,Villarreal,2,1
+2022-04-30,34,Athletic Club,Atlético Madrid,2,0
+2022-05-01,34,Barcelona,Mallorca,2,1
+2022-05-01,34,Elche,Osasuna,1,1
+2022-05-01,34,Granada,Celta Vigo,1,1
+2022-05-01,34,Rayo Vallecano,Real Sociedad,1,1
+2022-05-02,34,Getafe,Real Betis,0,0
+2022-05-06,35,Levante,Real Sociedad,2,1
+2022-05-07,35,Real Betis,Barcelona,1,2
+2022-05-07,35,Mallorca,Granada,2,6
+2022-05-07,35,Cádiz,Elche,3,0
+2022-05-07,35,Celta Vigo,Alavés,4,0
+2022-05-07,35,Athletic Club,Valencia,0,0
+2022-05-08,35,Atlético Madrid,Real Madrid,1,0
+2022-05-08,35,Espanyol,Osasuna,1,1
+2022-05-08,35,Getafe,Rayo Vallecano,0,0
+2022-05-08,35,Villarreal,Sevilla,1,1
+2022-05-10,36,Barcelona,Celta Vigo,3,1
+2022-05-10,36,Granada,Athletic Club,1,0
+2022-05-10,36,Valencia,Real Betis,0,3
+2022-05-11,36,Osasuna,Getafe,1,1
+2022-05-11,36,Sevilla,Mallorca,0,0
+2022-05-11,36,Alavés,Espanyol,2,1
+2022-05-11,36,Elche,Atlético Madrid,0,2
+2022-05-12,36,Rayo Vallecano,Villarreal,1,5
+2022-05-12,36,Real Madrid,Levante,6,0
+2022-05-12,36,Real Sociedad,Cádiz,3,0
+2022-05-14,37,Espanyol,Valencia,1,1
+2022-05-15,37,Villarreal,Real Sociedad,1,2
+2022-05-15,37,Real Betis,Granada,2,0
+2022-05-15,37,Levante,Alavés,3,1
+2022-05-15,37,Getafe,Barcelona,0,0
+2022-05-15,37,Mallorca,Rayo Vallecano,2,1
+2022-05-15,37,Celta Vigo,Elche,1,0
+2022-05-15,37,Atlético Madrid,Sevilla,1,1
+2022-05-15,37,Athletic Club,Osasuna,2,0
+2022-05-15,37,Cádiz,Real Madrid,1,1
+2022-05-20,38,Rayo Vallecano,Levante,2,4
+2022-05-20,38,Real Madrid,Real Betis,0,0
+2022-05-21,38,Valencia,Celta Vigo,2,0
+2022-05-22,38,Real Sociedad,Atlético Madrid,1,2
+2022-05-22,38,Alavés,Cádiz,0,1
+2022-05-22,38,Barcelona,Villarreal,0,2
+2022-05-22,38,Elche,Getafe,3,1
+2022-05-22,38,Granada,Espanyol,0,0
+2022-05-22,38,Osasuna,Mallorca,0,2
+2022-05-22,38,Sevilla,Athletic Club,1,0

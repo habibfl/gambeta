@@ -1,0 +1,612 @@
+league,season,team,player,mp,starts,minutes,shots,shots_on_target,shots_on_target_pct,tackles_won,interceptions,yellow_cards,red_cards,second_yellow_cards,fouls_committed,fouls_drawn
+ESP-La Liga,2526,Alavés,Abde Rebbach,30,15,1496,34,12,35.3,21,16,8,0,0,40,30
+ESP-La Liga,2526,Alavés,Aitor Mañas,9,0,122,2,1,50.0,2,1,0,0,0,2,1
+ESP-La Liga,2526,Alavés,Ander Guevara,25,2,654,5,1,20.0,8,9,4,1,1,11,5
+ESP-La Liga,2526,Alavés,Antonio Blanco,36,36,3110,40,13,32.5,49,51,9,0,0,71,43
+ESP-La Liga,2526,Alavés,Antonio Sivera,38,38,3420,0,0,,1,0,3,0,0,1,1
+ESP-La Liga,2526,Alavés,Calebe,19,13,752,5,1,20.0,14,9,2,0,0,18,19
+ESP-La Liga,2526,Alavés,Carles Aleñá,34,23,1989,29,5,17.2,24,12,5,0,0,38,36
+ESP-La Liga,2526,Alavés,Carlos Ballestero,1,0,1,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2526,Alavés,Carlos Benavídez,13,3,324,3,2,66.7,6,3,2,1,1,8,2
+ESP-La Liga,2526,Alavés,Carlos Vicente,21,11,1258,12,6,50.0,18,7,1,0,0,12,42
+ESP-La Liga,2526,Alavés,Denis Suárez,30,15,1406,9,4,44.4,12,7,6,0,0,20,26
+ESP-La Liga,2526,Alavés,Diego Morcillo,1,0,10,1,0,0.0,0,0,0,0,0,1,1
+ESP-La Liga,2526,Alavés,Facundo Garcés,10,8,793,8,4,50.0,8,7,3,0,0,13,3
+ESP-La Liga,2526,Alavés,Ibrahim Diabaté,10,6,578,15,5,33.3,1,2,1,0,0,6,5
+ESP-La Liga,2526,Alavés,Jon Guridi,28,15,1238,15,4,26.7,19,10,1,0,0,15,8
+ESP-La Liga,2526,Alavés,Jon Pacheco,22,20,1735,4,1,25.0,16,11,5,1,1,14,7
+ESP-La Liga,2526,Alavés,Jonny Castro,34,34,2994,9,3,33.3,41,40,7,0,0,37,30
+ESP-La Liga,2526,Alavés,Lander Pinillos,1,0,2,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2526,Alavés,Lucas Boyé,29,22,1958,63,21,33.3,25,7,4,1,1,58,39
+ESP-La Liga,2526,Alavés,Mariano,10,3,288,6,3,50.0,1,0,1,0,0,13,0
+ESP-La Liga,2526,Alavés,Moussa Diarra,3,3,216,0,0,,2,1,1,0,0,4,1
+ESP-La Liga,2526,Alavés,Nahuel Tenaglia,36,36,3239,24,8,33.3,43,47,3,0,0,31,42
+ESP-La Liga,2526,Alavés,Pablo Ibáñez,37,28,2236,47,13,27.7,37,21,7,0,0,38,66
+ESP-La Liga,2526,Alavés,Toni Martínez,37,32,2714,93,36,38.7,15,4,2,0,0,46,37
+ESP-La Liga,2526,Alavés,Victor Parada,30,25,2146,12,3,25.0,14,9,9,1,1,29,15
+ESP-La Liga,2526,Alavés,Ville Koski,5,3,282,1,1,100.0,3,4,0,0,0,2,0
+ESP-La Liga,2526,Alavés,Youssef Lekhedim,25,13,1335,11,3,27.3,10,12,7,0,0,24,13
+ESP-La Liga,2526,Alavés,Ángel Pérez,16,14,1288,14,4,28.6,13,9,4,0,0,16,17
+ESP-La Liga,2526,Athletic Club,Adama Boiro,14,8,815,2,0,0.0,11,18,1,0,0,6,11
+ESP-La Liga,2526,Athletic Club,Aitor Paredes,19,18,1630,13,4,30.8,12,26,4,0,0,19,7
+ESP-La Liga,2526,Athletic Club,Alejandro Rego,29,11,1279,12,3,25.0,20,21,6,0,0,40,6
+ESP-La Liga,2526,Athletic Club,Alex Padilla,1,1,90,0,0,,0,0,0,1,0,0,0
+ESP-La Liga,2526,Athletic Club,Andoni Gorosabel,24,15,1360,5,1,20.0,24,18,3,0,0,13,12
+ESP-La Liga,2526,Athletic Club,Asier Hierro,1,0,34,1,0,0.0,0,0,0,0,0,0,0
+ESP-La Liga,2526,Athletic Club,Aymeric Laporte,25,24,2058,15,5,33.3,17,27,4,0,0,9,13
+ESP-La Liga,2526,Athletic Club,Beñat Prados,2,1,85,1,0,0.0,2,2,1,0,0,5,0
+ESP-La Liga,2526,Athletic Club,Daniel Vivian,31,28,2564,17,6,35.3,38,34,8,1,0,38,17
+ESP-La Liga,2526,Athletic Club,Eder García,2,0,38,1,0,0.0,0,0,1,0,0,2,0
+ESP-La Liga,2526,Athletic Club,Gorka Guruzeta,35,28,2363,84,32,38.1,6,11,6,1,1,49,30
+ESP-La Liga,2526,Athletic Club,Iñaki Williams,30,25,2157,57,20,35.1,9,8,2,0,0,28,23
+ESP-La Liga,2526,Athletic Club,Iñigo Lekue,11,8,600,3,1,33.3,10,4,2,2,0,12,0
+ESP-La Liga,2526,Athletic Club,Iñigo Ruiz de Galarreta,34,30,2206,20,2,10.0,32,24,10,0,0,54,41
+ESP-La Liga,2526,Athletic Club,Jesús Areso,26,14,1506,3,0,0.0,16,20,3,0,0,19,7
+ESP-La Liga,2526,Athletic Club,Maroan Sannadi,10,2,288,8,4,50.0,1,1,2,0,0,8,5
+ESP-La Liga,2526,Athletic Club,Mikel Jauregizar,36,34,2831,39,11,28.2,45,48,6,1,1,49,34
+ESP-La Liga,2526,Athletic Club,Mikel Vesga,23,1,465,3,0,0.0,10,9,0,0,0,8,7
+ESP-La Liga,2526,Athletic Club,Nico Williams,25,20,1674,46,16,34.8,9,7,2,0,0,26,29
+ESP-La Liga,2526,Athletic Club,Nicolás Serrano,16,4,366,16,4,25.0,5,2,0,0,0,10,8
+ESP-La Liga,2526,Athletic Club,Oihan Sancet,28,22,1788,48,15,31.3,14,3,4,1,0,28,28
+ESP-La Liga,2526,Athletic Club,Roberto Navarro,32,10,1307,21,10,47.6,10,7,1,0,0,18,16
+ESP-La Liga,2526,Athletic Club,Selton Sánchez,7,2,196,4,1,25.0,2,1,0,0,0,5,5
+ESP-La Liga,2526,Athletic Club,Unai Gómez,26,12,936,23,7,30.4,8,3,1,0,0,12,6
+ESP-La Liga,2526,Athletic Club,Unai Simón,37,37,3330,0,0,,0,0,1,0,0,0,8
+ESP-La Liga,2526,Athletic Club,Urko Izeta,13,1,193,11,5,45.5,0,0,2,0,0,5,1
+ESP-La Liga,2526,Athletic Club,Yeray Álvarez,7,6,513,1,0,0.0,1,14,0,0,0,3,5
+ESP-La Liga,2526,Athletic Club,Yuri Berchiche,32,31,2705,24,5,20.8,29,34,5,0,0,26,34
+ESP-La Liga,2526,Athletic Club,Álex Berenguer,31,25,2154,44,20,45.5,17,13,4,0,0,28,38
+ESP-La Liga,2526,Atlético Madrid,Ademola Lookman,12,9,617,21,5,23.8,3,1,1,0,0,7,10
+ESP-La Liga,2526,Atlético Madrid,Aleksa Puric,2,0,46,0,0,,0,2,0,0,0,1,1
+ESP-La Liga,2526,Atlético Madrid,Alexander Sørloth,35,20,1980,68,35,51.5,7,0,4,1,0,30,16
+ESP-La Liga,2526,Atlético Madrid,Antoine Griezmann,34,13,1481,47,25,53.2,9,8,1,0,0,4,10
+ESP-La Liga,2526,Atlético Madrid,Clément Lenglet,19,17,1391,5,0,0.0,10,20,6,1,1,22,7
+ESP-La Liga,2526,Atlético Madrid,Conor Gallagher,19,4,679,13,5,38.5,12,11,2,0,0,18,9
+ESP-La Liga,2526,Atlético Madrid,Daniel Martinez,1,1,90,0,0,,0,1,0,0,0,1,0
+ESP-La Liga,2526,Atlético Madrid,Dávid Hancko,30,27,2432,21,5,23.8,27,19,2,0,0,15,4
+ESP-La Liga,2526,Atlético Madrid,Giacomo Raspadori,12,1,236,7,3,42.9,1,0,1,0,0,3,7
+ESP-La Liga,2526,Atlético Madrid,Giuliano Simeone,31,25,2099,36,14,38.9,25,20,2,0,0,21,40
+ESP-La Liga,2526,Atlético Madrid,Iker Luque,1,0,28,3,2,66.7,0,0,0,0,0,2,0
+ESP-La Liga,2526,Atlético Madrid,Jan Oblak,30,30,2700,0,0,,0,0,0,0,0,0,4
+ESP-La Liga,2526,Atlético Madrid,Jano Monserrate,2,0,23,1,1,100.0,2,0,0,0,0,2,1
+ESP-La Liga,2526,Atlético Madrid,Javi Galán,5,1,134,0,0,,2,1,0,0,0,2,3
+ESP-La Liga,2526,Atlético Madrid,Javi Morcillo,5,1,172,2,0,0.0,4,3,2,0,0,6,2
+ESP-La Liga,2526,Atlético Madrid,Javier Boñar,4,3,299,2,1,50.0,3,0,0,0,0,2,2
+ESP-La Liga,2526,Atlético Madrid,Johnny Cardoso,15,12,887,2,0,0.0,21,16,5,0,0,23,14
+ESP-La Liga,2526,Atlético Madrid,José María Giménez,16,13,1178,13,3,23.1,12,15,3,0,0,20,10
+ESP-La Liga,2526,Atlético Madrid,Juan Musso,8,8,720,0,0,,0,0,2,0,0,1,3
+ESP-La Liga,2526,Atlético Madrid,Julio Diaz,4,4,310,1,0,0.0,3,4,2,0,0,4,3
+ESP-La Liga,2526,Atlético Madrid,Julián Álvarez,29,22,1895,54,26,48.1,13,3,2,0,0,14,18
+ESP-La Liga,2526,Atlético Madrid,Koke,34,24,2219,14,4,28.6,30,19,6,0,0,21,22
+ESP-La Liga,2526,Atlético Madrid,Marc Pubill,19,15,1381,11,4,36.4,15,18,2,0,0,16,14
+ESP-La Liga,2526,Atlético Madrid,Marcos Llorente,29,25,2181,18,6,33.3,41,13,7,1,1,28,11
+ESP-La Liga,2526,Atlético Madrid,Matteo Ruggeri,26,20,1774,5,2,40.0,23,20,4,0,0,28,2
+ESP-La Liga,2526,Atlético Madrid,Miguel Cubo,2,0,50,3,2,66.7,2,0,0,0,0,1,3
+ESP-La Liga,2526,Atlético Madrid,Nahuel Molina,26,13,1331,14,4,28.6,24,14,4,0,0,14,5
+ESP-La Liga,2526,Atlético Madrid,Nicolás González,24,18,1448,43,21,48.8,16,11,4,1,0,28,25
+ESP-La Liga,2526,Atlético Madrid,Obed Vargas,12,8,740,5,0,0.0,16,8,2,0,0,4,9
+ESP-La Liga,2526,Atlético Madrid,Pablo Barrios,23,20,1661,23,6,26.1,16,26,0,0,0,12,23
+ESP-La Liga,2526,Atlético Madrid,Rayane Belaid,2,2,132,4,0,0.0,0,0,0,0,0,1,1
+ESP-La Liga,2526,Atlético Madrid,Robin Le Normand,28,17,1789,6,1,16.7,20,20,5,0,0,22,14
+ESP-La Liga,2526,Atlético Madrid,Rodrigo Mendoza,8,8,434,6,2,33.3,3,0,2,0,0,11,7
+ESP-La Liga,2526,Atlético Madrid,Taufik Seidu,1,0,23,0,0,,0,0,1,0,0,2,0
+ESP-La Liga,2526,Atlético Madrid,Thiago Almada,27,16,1311,21,10,47.6,18,9,2,1,0,13,16
+ESP-La Liga,2526,Atlético Madrid,Álex Baena,27,21,1560,29,7,24.1,11,16,5,0,0,26,29
+ESP-La Liga,2526,Barcelona,Alejandro Balde,28,21,1869,10,1,10.0,21,6,2,0,0,14,25
+ESP-La Liga,2526,Barcelona,Alvaro Cortes,1,1,90,0,0,,1,1,0,0,0,0,1
+ESP-La Liga,2526,Barcelona,Andreas Christensen,13,3,409,4,2,50.0,3,2,2,0,0,6,3
+ESP-La Liga,2526,Barcelona,Dani Olmo,33,24,2067,70,21,30.0,23,14,1,0,0,27,42
+ESP-La Liga,2526,Barcelona,Dro Fernández,4,1,92,0,0,,0,0,0,0,0,1,1
+ESP-La Liga,2526,Barcelona,Eric García,34,32,2721,25,7,28.0,44,50,6,0,0,33,24
+ESP-La Liga,2526,Barcelona,Fermin López,30,19,1797,68,25,36.8,22,7,3,0,0,34,20
+ESP-La Liga,2526,Barcelona,Ferran Torres,33,23,1965,69,37,53.6,6,4,2,0,0,13,20
+ESP-La Liga,2526,Barcelona,Frenkie de Jong,25,16,1636,7,2,28.6,19,17,4,1,1,10,26
+ESP-La Liga,2526,Barcelona,Gavi,11,7,573,0,0,,8,3,3,0,0,11,14
+ESP-La Liga,2526,Barcelona,Gerard Martín,32,26,2119,7,4,57.1,29,31,6,0,0,16,7
+ESP-La Liga,2526,Barcelona,Joan García,30,30,2700,0,0,,4,1,1,0,0,0,4
+ESP-La Liga,2526,Barcelona,Jofre Torrents,3,0,50,0,0,,2,0,0,0,0,0,0
+ESP-La Liga,2526,Barcelona,João Cancelo,16,11,954,13,4,30.8,19,11,1,0,0,11,14
+ESP-La Liga,2526,Barcelona,Jules Koundé,30,24,2261,14,4,28.6,24,31,6,0,0,24,24
+ESP-La Liga,2526,Barcelona,Lamine Yamal,28,26,2262,117,37,31.6,20,8,1,0,0,28,52
+ESP-La Liga,2526,Barcelona,Marc Bernal,22,9,790,7,2,28.6,19,12,4,0,0,15,11
+ESP-La Liga,2526,Barcelona,Marc Casado,24,10,989,11,0,0.0,9,7,1,0,0,25,20
+ESP-La Liga,2526,Barcelona,Marcus Rashford,32,18,1763,76,29,38.2,8,2,3,0,0,10,25
+ESP-La Liga,2526,Barcelona,Pau Cubarsí,31,31,2703,10,2,20.0,28,30,3,0,0,25,9
+ESP-La Liga,2526,Barcelona,Pedri,29,23,2104,21,10,47.6,33,24,2,1,1,9,43
+ESP-La Liga,2526,Barcelona,Raphinha,22,18,1380,65,24,36.9,6,6,5,0,0,10,10
+ESP-La Liga,2526,Barcelona,Robert Lewandowski,31,17,1664,63,29,46.0,3,3,2,0,0,13,21
+ESP-La Liga,2526,Barcelona,Ronald Araújo,24,11,1071,12,5,41.7,15,10,2,0,0,17,3
+ESP-La Liga,2526,Barcelona,Roony Bardghji,21,7,648,22,12,54.5,4,2,0,0,0,7,8
+ESP-La Liga,2526,Barcelona,Tomas Marques,2,0,11,0,0,,0,0,0,0,0,1,0
+ESP-La Liga,2526,Barcelona,Toni Fernández,1,1,45,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2526,Barcelona,Wojciech Szczęsny,8,8,720,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2526,Barcelona,Xavi Espart,4,1,165,1,0,0.0,1,5,0,0,0,0,4
+ESP-La Liga,2526,Celta Vigo,Andrés Antañón,2,1,63,2,2,100.0,0,0,0,0,0,1,0
+ESP-La Liga,2526,Celta Vigo,Borja Iglesias,35,21,1900,46,26,56.5,5,0,7,0,0,38,30
+ESP-La Liga,2526,Celta Vigo,Bryan Zaragoza,19,13,1131,26,12,46.2,5,2,1,0,0,7,17
+ESP-La Liga,2526,Celta Vigo,Carl Starfelt,19,17,1491,4,1,25.0,16,16,3,1,1,19,8
+ESP-La Liga,2526,Celta Vigo,Carlos Dominguez,8,6,610,2,1,50.0,8,5,1,0,0,6,1
+ESP-La Liga,2526,Celta Vigo,Damián Rodríguez,2,2,150,3,0,0.0,0,1,1,0,0,3,0
+ESP-La Liga,2526,Celta Vigo,Fer López,17,13,1170,13,5,38.5,11,6,3,0,0,24,18
+ESP-La Liga,2526,Celta Vigo,Ferran Jutglà,30,21,1652,45,26,57.8,3,8,4,0,0,24,30
+ESP-La Liga,2526,Celta Vigo,Fran Beltrán,10,7,528,6,1,16.7,5,8,0,0,0,10,3
+ESP-La Liga,2526,Celta Vigo,Hugo García,1,0,8,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2526,Celta Vigo,Hugo González,1,0,8,0,0,,1,0,0,0,0,0,0
+ESP-La Liga,2526,Celta Vigo,Hugo Sotelo,20,16,1338,2,1,50.0,16,13,3,0,0,27,13
+ESP-La Liga,2526,Celta Vigo,Hugo Álvarez,28,15,1340,14,8,57.1,9,10,2,0,0,16,17
+ESP-La Liga,2526,Celta Vigo,Iago Aspas,32,11,1140,28,12,42.9,11,12,4,0,0,5,17
+ESP-La Liga,2526,Celta Vigo,Ilaix Moriba,36,26,2495,18,5,27.8,42,24,8,0,0,40,58
+ESP-La Liga,2526,Celta Vigo,Ionuț Radu,38,38,3420,0,0,,0,1,2,0,0,0,8
+ESP-La Liga,2526,Celta Vigo,Javi Rodríguez,33,28,2558,12,1,8.3,23,28,5,0,0,33,33
+ESP-La Liga,2526,Celta Vigo,Javi Rueda,26,16,1404,11,3,27.3,12,20,6,0,0,25,21
+ESP-La Liga,2526,Celta Vigo,Jones El-Abdellaoui,22,4,681,17,4,23.5,3,3,0,0,0,7,3
+ESP-La Liga,2526,Celta Vigo,Joseph Aidoo,8,7,639,2,0,0.0,3,10,0,0,0,5,1
+ESP-La Liga,2526,Celta Vigo,Manu Fernández,14,9,758,2,0,0.0,9,7,2,0,0,8,7
+ESP-La Liga,2526,Celta Vigo,Marcos Alonso,32,31,2768,24,3,12.5,24,30,5,0,0,23,20
+ESP-La Liga,2526,Celta Vigo,Matías Vecino,6,2,135,2,0,0.0,6,4,0,0,0,4,0
+ESP-La Liga,2526,Celta Vigo,Miguel Román,19,14,1311,9,2,22.2,17,12,3,0,0,20,11
+ESP-La Liga,2526,Celta Vigo,Mihailo Ristić,5,4,253,1,0,0.0,0,2,0,0,0,0,2
+ESP-La Liga,2526,Celta Vigo,Pablo Durán,30,17,1425,37,15,40.5,11,7,1,0,0,15,12
+ESP-La Liga,2526,Celta Vigo,Sergio Carreira,34,29,2694,16,7,43.8,18,27,2,0,0,20,36
+ESP-La Liga,2526,Celta Vigo,Williot Swedberg,29,13,1270,23,12,52.2,17,4,2,0,0,30,34
+ESP-La Liga,2526,Celta Vigo,Yoel Lago,12,11,938,1,0,0.0,10,7,4,0,0,17,14
+ESP-La Liga,2526,Celta Vigo,Álvaro Núñez,6,5,328,2,1,50.0,1,1,0,0,0,2,5
+ESP-La Liga,2526,Celta Vigo,Óscar Mingueza,34,21,1968,14,5,35.7,20,9,4,0,0,15,28
+ESP-La Liga,2526,Elche,Adam Boayar,7,0,104,5,2,40.0,2,1,0,0,0,0,1
+ESP-La Liga,2526,Elche,Adrià Pedrosa,26,8,1090,12,3,25.0,19,16,4,0,0,18,8
+ESP-La Liga,2526,Elche,Aleix Febas,36,36,3160,23,8,34.8,46,27,10,0,0,34,118
+ESP-La Liga,2526,Elche,Ali Houary,2,2,123,2,0,0.0,2,1,0,0,0,7,2
+ESP-La Liga,2526,Elche,André Silva,31,22,1849,57,29,50.9,8,4,3,0,0,24,34
+ESP-La Liga,2526,Elche,Bambo Diaby,4,1,102,0,0,,0,1,1,0,0,3,3
+ESP-La Liga,2526,Elche,Buba Sangaré,12,8,538,2,0,0.0,12,8,3,0,0,23,7
+ESP-La Liga,2526,Elche,David Affengruber,36,33,2949,14,4,28.6,50,50,7,1,0,34,35
+ESP-La Liga,2526,Elche,Federico Redondo,11,1,179,1,0,0.0,2,5,0,1,0,8,5
+ESP-La Liga,2526,Elche,Germán Valera,36,33,2857,28,8,28.6,40,23,5,1,0,40,70
+ESP-La Liga,2526,Elche,Gonzalo Villar,12,8,718,4,1,25.0,9,2,3,0,0,11,25
+ESP-La Liga,2526,Elche,Grady Diangana,20,13,926,16,2,12.5,6,4,3,0,0,15,19
+ESP-La Liga,2526,Elche,Héctor Fort,14,7,482,12,5,41.7,3,5,0,0,0,5,1
+ESP-La Liga,2526,Elche,Iñaki Peña,16,16,1440,0,0,,0,0,0,0,0,0,1
+ESP-La Liga,2526,Elche,Jairo Izquierdo,1,0,24,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2526,Elche,John Donald,21,6,665,6,2,33.3,12,8,3,0,0,17,6
+ESP-La Liga,2526,Elche,Josan,19,4,565,3,1,33.3,8,6,2,0,0,5,6
+ESP-La Liga,2526,Elche,Lucas Cepeda,10,4,402,13,5,38.5,6,1,1,0,0,7,10
+ESP-La Liga,2526,Elche,Léo Pétrot,32,18,1572,8,0,0.0,22,17,2,1,0,19,6
+ESP-La Liga,2526,Elche,Marc Aguado,35,30,2500,3,2,66.7,26,42,3,0,0,25,23
+ESP-La Liga,2526,Elche,Martim Neto,25,15,1347,12,4,33.3,12,2,3,0,0,19,11
+ESP-La Liga,2526,Elche,Matías Dituro,22,22,1980,0,0,,0,1,1,0,0,0,7
+ESP-La Liga,2526,Elche,Mourad El Ghezouani,2,0,50,1,0,0.0,3,0,0,0,0,1,1
+ESP-La Liga,2526,Elche,Pedro Bigas,28,25,2063,10,3,30.0,22,30,5,1,1,24,19
+ESP-La Liga,2526,Elche,Rafa Mir,27,21,1803,69,36,52.2,7,4,4,0,0,39,16
+ESP-La Liga,2526,Elche,Rodrigo Mendoza,16,6,794,11,2,18.2,9,5,4,0,0,19,16
+ESP-La Liga,2526,Elche,Tete Morente,13,11,929,8,1,12.5,11,11,1,0,0,20,10
+ESP-La Liga,2526,Elche,Víctor Chust,31,22,2166,9,3,33.3,35,20,8,1,1,38,10
+ESP-La Liga,2526,Elche,Yago Santiago,9,3,281,2,0,0.0,1,1,1,0,0,3,2
+ESP-La Liga,2526,Elche,Álex Sánchez,1,0,6,0,0,,1,0,0,0,0,0,0
+ESP-La Liga,2526,Elche,Álvaro Núñez,19,19,1647,4,0,0.0,15,15,2,0,0,12,17
+ESP-La Liga,2526,Elche,Álvaro Rodríguez,34,24,2201,75,24,32.0,14,4,2,0,0,37,49
+ESP-La Liga,2526,Espanyol,Antoniu,13,3,289,5,1,20.0,4,2,2,0,0,10,8
+ESP-La Liga,2526,Espanyol,Carlos Romero,36,36,3191,42,12,28.6,60,38,4,0,0,40,19
+ESP-La Liga,2526,Espanyol,Charles Pickel,24,4,707,10,4,40.0,6,6,4,2,1,14,2
+ESP-La Liga,2526,Espanyol,Clemens Riedel,20,16,1396,3,1,33.3,14,11,5,0,0,23,8
+ESP-La Liga,2526,Espanyol,Cyril Ngonge,9,6,424,11,4,36.4,3,4,4,0,0,9,12
+ESP-La Liga,2526,Espanyol,Edu Expósito,36,32,2523,44,13,29.5,29,24,9,0,0,28,42
+ESP-La Liga,2526,Espanyol,Fernando Calero,28,24,2148,12,1,8.3,18,31,5,0,0,15,9
+ESP-La Liga,2526,Espanyol,Fortuño,1,1,90,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2526,Espanyol,Javi Puado,10,8,674,15,9,60.0,2,3,2,0,0,11,7
+ESP-La Liga,2526,Espanyol,Jofre,26,9,930,23,7,30.4,6,6,1,0,0,13,27
+ESP-La Liga,2526,Espanyol,José Salinas,11,2,257,1,0,0.0,2,3,2,0,0,8,4
+ESP-La Liga,2526,Espanyol,Kiké,37,17,1734,60,27,45.0,8,4,3,0,0,33,44
+ESP-La Liga,2526,Espanyol,Leandro Cabrera,37,37,3330,40,12,30.0,23,23,4,0,0,38,9
+ESP-La Liga,2526,Espanyol,Lluc Castell,1,0,19,0,0,,0,0,0,0,0,1,1
+ESP-La Liga,2526,Espanyol,Luca Koleosho,3,0,63,1,0,0.0,1,1,0,0,0,3,0
+ESP-La Liga,2526,Espanyol,Marko Dmitrović,37,37,3330,0,0,,2,0,0,0,0,0,5
+ESP-La Liga,2526,Espanyol,Miguel Ángel Rubio,12,1,206,2,1,50.0,1,1,0,0,0,1,1
+ESP-La Liga,2526,Espanyol,Omar El Hilali,36,32,2826,1,0,0.0,55,39,9,0,0,44,24
+ESP-La Liga,2526,Espanyol,Pere Milla,33,24,1973,59,21,35.6,24,18,6,1,0,24,38
+ESP-La Liga,2526,Espanyol,Pol Lozano,33,28,2157,17,5,29.4,19,23,12,1,1,64,29
+ESP-La Liga,2526,Espanyol,Ramón Terrats,29,12,1030,15,3,20.0,13,11,0,0,0,15,22
+ESP-La Liga,2526,Espanyol,Roberto Férnandez,38,25,2382,59,23,39.0,5,6,3,0,0,40,47
+ESP-La Liga,2526,Espanyol,Rubén,21,8,812,8,1,12.5,10,10,2,0,0,11,12
+ESP-La Liga,2526,Espanyol,Tyrhys Dolan,36,28,2415,34,12,35.3,35,15,7,1,1,37,46
+ESP-La Liga,2526,Espanyol,Urko González,35,28,2623,18,1,5.6,33,29,7,0,0,42,42
+ESP-La Liga,2526,Getafe,Abdel Abqar,23,17,1437,7,1,14.3,17,20,10,1,0,30,36
+ESP-La Liga,2526,Getafe,Abu Kamara,12,1,256,4,1,25.0,2,3,1,0,0,2,4
+ESP-La Liga,2526,Getafe,Adrián Liso,28,21,1702,26,10,38.5,22,4,5,1,1,39,43
+ESP-La Liga,2526,Getafe,Alejandro Mestanza,3,1,71,1,0,0.0,1,0,0,0,0,1,2
+ESP-La Liga,2526,Getafe,Alex Sola,1,0,13,0,0,,0,0,0,0,0,0,2
+ESP-La Liga,2526,Getafe,Allan Nyom,15,7,523,3,1,33.3,6,1,6,1,0,13,8
+ESP-La Liga,2526,Getafe,Borja Mayoral,16,12,1058,15,7,46.7,5,4,0,0,0,6,7
+ESP-La Liga,2526,Getafe,Christantus Uche,3,3,270,6,1,16.7,2,0,1,0,0,10,8
+ESP-La Liga,2526,Getafe,Coba da Costa,14,2,348,5,1,20.0,6,0,1,0,0,7,6
+ESP-La Liga,2526,Getafe,Damián,3,2,151,0,0,,4,3,0,0,0,4,0
+ESP-La Liga,2526,Getafe,David Soria,38,38,3420,0,0,,0,0,2,0,0,0,3
+ESP-La Liga,2526,Getafe,Davinchi,14,7,700,4,2,50.0,17,7,2,0,0,27,2
+ESP-La Liga,2526,Getafe,Diego Rico,28,18,1758,11,1,9.1,29,33,4,0,0,22,35
+ESP-La Liga,2526,Getafe,Djené,34,32,2578,4,0,0.0,24,38,10,2,0,35,26
+ESP-La Liga,2526,Getafe,Domingos Duarte,34,34,2923,13,4,30.8,18,33,11,0,0,32,24
+ESP-La Liga,2526,Getafe,Hugo Solozabal,1,0,11,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2526,Getafe,Iglesias,37,36,3185,26,5,19.2,72,28,4,0,0,63,70
+ESP-La Liga,2526,Getafe,Ismael Bekhoucha,4,1,122,1,0,0.0,5,2,2,0,0,7,3
+ESP-La Liga,2526,Getafe,Javier Muñoz,17,4,551,13,6,46.2,5,6,0,0,0,9,2
+ESP-La Liga,2526,Getafe,Jorge Montes,1,0,27,0,0,,2,0,0,0,0,1,0
+ESP-La Liga,2526,Getafe,Joselu Pérez,2,0,22,1,0,0.0,0,0,0,0,0,1,2
+ESP-La Liga,2526,Getafe,Juanmi,8,0,179,2,1,50.0,0,0,0,0,0,2,1
+ESP-La Liga,2526,Getafe,Kiko Femenía,28,25,2008,8,3,37.5,24,36,6,0,0,21,11
+ESP-La Liga,2526,Getafe,Luis Milla,37,37,3271,27,4,14.8,33,42,5,1,0,32,43
+ESP-La Liga,2526,Getafe,Luis Vázquez,17,14,1194,25,9,36.0,3,4,2,0,0,21,32
+ESP-La Liga,2526,Getafe,Mario Martín,35,26,2125,26,6,23.1,32,16,11,0,0,71,34
+ESP-La Liga,2526,Getafe,Martin Satriano,18,18,1603,35,14,40.0,13,9,5,0,0,21,31
+ESP-La Liga,2526,Getafe,Mauro Arambarri,37,37,3249,58,19,32.8,43,21,6,0,0,60,67
+ESP-La Liga,2526,Getafe,Sebastián Boselli,11,4,380,4,1,25.0,13,0,4,0,0,6,0
+ESP-La Liga,2526,Getafe,Veljko Birmančević,6,1,142,2,1,50.0,0,2,0,0,0,3,3
+ESP-La Liga,2526,Getafe,Yvan Neyou,5,0,67,0,0,,0,0,2,0,0,4,2
+ESP-La Liga,2526,Getafe,Zaid Romero,15,15,1349,10,2,20.0,23,28,5,1,1,11,12
+ESP-La Liga,2526,Getafe,Álex Sancris,18,5,708,13,5,38.5,5,2,4,1,1,16,12
+ESP-La Liga,2526,Girona,Abel Ruiz,9,0,187,5,1,20.0,1,1,0,0,0,2,1
+ESP-La Liga,2526,Girona,Alejandro Francés,24,11,1116,16,4,25.0,15,16,2,1,0,15,23
+ESP-La Liga,2526,Girona,Arnau Martinez,35,33,2666,19,4,21.1,39,37,6,0,0,24,30
+ESP-La Liga,2526,Girona,Axel Witsel,32,30,2526,20,5,25.0,24,30,2,1,1,34,37
+ESP-La Liga,2526,Girona,Azzedine Ounahi,24,20,1760,51,19,37.3,15,16,6,0,0,18,63
+ESP-La Liga,2526,Girona,Bojan Miovski,1,1,44,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2526,Girona,Bryan Gil,29,20,1578,27,7,25.9,18,9,6,0,0,20,37
+ESP-La Liga,2526,Girona,Claudio Echeverri,17,5,624,21,7,33.3,6,1,4,0,0,8,14
+ESP-La Liga,2526,Girona,Cristhian Stuani,21,1,412,19,12,63.2,4,1,4,0,0,12,11
+ESP-La Liga,2526,Girona,Daley Blind,31,30,2606,5,1,20.0,34,38,1,0,0,19,20
+ESP-La Liga,2526,Girona,David López,6,3,293,1,1,100.0,2,0,0,0,0,2,2
+ESP-La Liga,2526,Girona,Dawda Camara,2,1,72,2,1,50.0,0,1,0,0,0,2,0
+ESP-La Liga,2526,Girona,Donny van de Beek,2,1,41,2,1,50.0,0,0,0,0,0,0,0
+ESP-La Liga,2526,Girona,Fran Beltrán,17,11,1012,10,3,30.0,14,11,3,0,0,10,9
+ESP-La Liga,2526,Girona,Hugo Rincón,33,16,1750,7,2,28.6,33,5,4,0,0,32,53
+ESP-La Liga,2526,Girona,Iván Martín,35,29,2532,13,5,38.5,39,17,5,1,1,30,31
+ESP-La Liga,2526,Girona,Jhon Solis,12,3,380,3,2,66.7,3,4,0,0,0,2,7
+ESP-La Liga,2526,Girona,Joel Roca,32,16,1473,48,16,33.3,11,2,4,1,0,13,45
+ESP-La Liga,2526,Girona,Juan Arango,2,0,18,0,0,,0,0,1,0,0,1,0
+ESP-La Liga,2526,Girona,Ladislav Krejčí,2,2,180,1,0,0.0,0,1,1,0,0,2,0
+ESP-La Liga,2526,Girona,Lancinet Kourouma,5,0,43,0,0,,0,1,0,1,0,2,1
+ESP-La Liga,2526,Girona,Marc-André ter Stegen,2,2,180,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2526,Girona,Paulo Gazzaniga,35,35,3102,0,0,,1,0,4,1,0,1,5
+ESP-La Liga,2526,Girona,Portu,10,4,474,9,5,55.6,1,2,2,0,0,6,4
+ESP-La Liga,2526,Girona,Thomas Lemar,27,14,1258,17,8,47.1,15,5,4,0,0,19,20
+ESP-La Liga,2526,Girona,Viktor Tsyhankov,32,31,2630,51,21,41.2,22,21,3,0,0,22,35
+ESP-La Liga,2526,Girona,Vitor Reis,36,35,3138,19,4,21.1,32,35,9,1,0,40,24
+ESP-La Liga,2526,Girona,Vladyslav Krapyvtsov,2,1,136,0,0,,0,0,0,0,0,0,1
+ESP-La Liga,2526,Girona,Vladyslav Vanat,27,27,1942,27,18,66.7,3,3,4,0,0,28,17
+ESP-La Liga,2526,Girona,Yangel Herrera,2,2,110,1,0,0.0,1,1,0,0,0,1,3
+ESP-La Liga,2526,Girona,Yaser Asprilla,15,6,611,15,5,33.3,4,5,0,0,0,11,8
+ESP-La Liga,2526,Girona,Álex Moreno,31,28,2559,17,5,29.4,28,29,5,0,0,32,20
+ESP-La Liga,2526,Levante,Adrián de la Fuente,33,30,2711,39,9,23.1,18,48,5,0,0,34,27
+ESP-La Liga,2526,Levante,Alan Matturro,19,10,947,8,1,12.5,13,6,0,1,0,7,10
+ESP-La Liga,2526,Levante,Brugui,19,10,1005,28,9,32.1,6,4,1,1,0,11,8
+ESP-La Liga,2526,Levante,Carlos Espí,25,13,1343,57,24,42.1,7,9,3,0,0,31,25
+ESP-La Liga,2526,Levante,Carlos Álvarez,30,23,1890,30,11,36.7,13,13,3,0,0,22,49
+ESP-La Liga,2526,Levante,Diego Pampín,8,6,534,3,0,0.0,5,5,3,0,0,8,7
+ESP-La Liga,2526,Levante,Goduine Koyalipou,11,2,247,10,4,40.0,3,1,1,0,0,2,1
+ESP-La Liga,2526,Levante,Iker Losada,23,10,902,14,4,28.6,12,10,1,0,0,6,7
+ESP-La Liga,2526,Levante,Iván Romero,32,28,2259,59,18,30.5,22,12,5,0,0,41,77
+ESP-La Liga,2526,Levante,Jeremy Toljan,37,37,3164,9,1,11.1,39,31,8,0,0,33,19
+ESP-La Liga,2526,Levante,Jorge Cabello,5,4,362,0,0,,3,0,1,0,0,3,3
+ESP-La Liga,2526,Levante,José Luis Morales,20,1,363,11,4,36.4,5,3,1,0,0,3,4
+ESP-La Liga,2526,Levante,Kareem Tunde,21,17,1133,21,3,14.3,11,14,3,0,0,16,24
+ESP-La Liga,2526,Levante,Karl Etta Eyong,30,15,1416,43,21,48.8,11,6,3,0,0,29,30
+ESP-La Liga,2526,Levante,Kervin Arriaga,27,16,1532,16,6,37.5,26,14,8,1,1,22,22
+ESP-La Liga,2526,Levante,Manu Sánchez,33,31,2814,13,4,30.8,54,35,8,0,0,35,20
+ESP-La Liga,2526,Levante,Mathew Ryan,36,36,3240,2,0,0.0,1,1,4,0,0,0,1
+ESP-La Liga,2526,Levante,Matias Moreno,28,27,2252,10,0,0.0,25,38,8,0,0,23,23
+ESP-La Liga,2526,Levante,Nacho Pérez,3,1,148,0,0,,1,2,1,0,0,1,1
+ESP-La Liga,2526,Levante,Olasagasti,33,18,1734,28,9,32.1,15,14,2,1,0,20,33
+ESP-La Liga,2526,Levante,Oriol Rey,20,14,1319,8,1,12.5,12,12,4,0,0,23,14
+ESP-La Liga,2526,Levante,Pablo Cuñat,2,2,180,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2526,Levante,Pablo Martínez,27,21,1857,28,4,14.3,10,19,3,0,0,30,12
+ESP-La Liga,2526,Levante,Paco Cortés,12,4,472,12,4,33.3,1,2,2,0,0,6,6
+ESP-La Liga,2526,Levante,Sergio Lozano,1,0,12,0,0,,1,0,0,0,0,0,0
+ESP-La Liga,2526,Levante,Tay Abed,7,0,93,2,1,50.0,1,2,0,0,0,2,2
+ESP-La Liga,2526,Levante,Ugo Raghouber,16,8,706,3,0,0.0,10,15,1,0,0,10,14
+ESP-La Liga,2526,Levante,Unai Elgezabal,12,11,958,3,1,33.3,4,4,2,0,0,11,6
+ESP-La Liga,2526,Levante,Unai Vencedor Paris,16,11,812,0,0,,13,4,3,1,0,25,8
+ESP-La Liga,2526,Levante,Víctor García,21,12,1040,19,8,42.1,15,7,1,0,0,13,11
+ESP-La Liga,2526,Mallorca,Abdón Prats,15,0,143,5,2,40.0,0,0,0,0,0,2,3
+ESP-La Liga,2526,Mallorca,Antonio Raillo,24,23,2070,12,1,8.3,13,12,4,0,0,23,15
+ESP-La Liga,2526,Mallorca,Antonio Sánchez,30,9,1073,6,3,50.0,12,16,5,1,1,16,10
+ESP-La Liga,2526,Mallorca,Dani Rodríguez,2,0,68,1,0,0.0,1,0,0,0,0,0,3
+ESP-La Liga,2526,Mallorca,David López,14,9,837,4,0,0.0,7,9,2,0,0,13,4
+ESP-La Liga,2526,Mallorca,Jan Salas,2,0,17,0,0,,0,0,0,0,0,0,1
+ESP-La Liga,2526,Mallorca,Jan Virgili,31,19,1792,32,16,50.0,10,7,0,1,0,22,24
+ESP-La Liga,2526,Mallorca,Javier Llabrés,16,1,187,5,2,40.0,2,0,0,0,0,4,3
+ESP-La Liga,2526,Mallorca,Javier Olaizola,2,0,51,0,0,,1,0,0,0,0,0,1
+ESP-La Liga,2526,Mallorca,Johan Mojica,35,30,2724,17,2,11.8,30,24,6,1,0,29,30
+ESP-La Liga,2526,Mallorca,Justin-Noël Kalumba,3,1,81,1,0,0.0,1,0,0,0,0,2,4
+ESP-La Liga,2526,Mallorca,Leo Román,33,33,2970,0,0,,1,1,4,0,0,1,2
+ESP-La Liga,2526,Mallorca,Lucas Bergström,5,5,450,0,0,,0,0,1,0,0,0,0
+ESP-La Liga,2526,Mallorca,Luis Orejuela,1,1,90,1,0,0.0,0,1,0,0,0,1,4
+ESP-La Liga,2526,Mallorca,Manu Morlanes,32,22,1765,13,4,30.8,30,19,5,1,1,28,12
+ESP-La Liga,2526,Mallorca,Marash Kumbulla,8,5,439,3,0,0.0,2,2,1,0,0,2,5
+ESP-La Liga,2526,Mallorca,Marc Domenech,7,2,214,3,0,0.0,2,0,0,0,0,3,3
+ESP-La Liga,2526,Mallorca,Martin Valjent,37,37,3308,17,8,47.1,33,24,6,0,0,36,12
+ESP-La Liga,2526,Mallorca,Mateo Joseph,29,19,1699,33,14,42.4,19,13,2,0,0,19,31
+ESP-La Liga,2526,Mallorca,Mateu Morey,18,9,704,4,2,50.0,8,6,2,0,0,15,10
+ESP-La Liga,2526,Mallorca,Miguel Calatayud,2,0,43,1,0,0.0,0,0,0,0,0,2,0
+ESP-La Liga,2526,Mallorca,Omar Mascarell,30,26,2239,7,3,42.9,28,35,5,0,0,38,14
+ESP-La Liga,2526,Mallorca,Pablo Maffeo,31,30,2662,7,1,14.3,34,33,11,0,0,26,23
+ESP-La Liga,2526,Mallorca,Pablo Torre,35,19,1599,25,12,48.0,17,9,4,0,0,29,36
+ESP-La Liga,2526,Mallorca,Samu Costa,34,31,2697,39,16,41.0,37,26,11,0,0,64,68
+ESP-La Liga,2526,Mallorca,Sergi Darder,38,30,2680,36,13,36.1,13,23,3,0,0,21,29
+ESP-La Liga,2526,Mallorca,Takuma Asano,20,8,664,17,2,11.8,10,1,2,0,0,9,10
+ESP-La Liga,2526,Mallorca,Toni Lato,12,7,583,0,0,,8,6,3,0,0,7,3
+ESP-La Liga,2526,Mallorca,Vedat Muriqi,37,36,3128,114,50,43.9,3,3,4,1,0,42,64
+ESP-La Liga,2526,Mallorca,Zito Luvumbo,10,6,508,9,7,77.8,0,0,2,0,0,13,20
+ESP-La Liga,2526,Osasuna,Abel Bretones,28,17,1624,11,3,27.3,12,16,5,1,0,16,19
+ESP-La Liga,2526,Osasuna,Aimar Oroz,31,26,2139,29,4,13.8,18,8,6,0,0,33,67
+ESP-La Liga,2526,Osasuna,Aitor Fernández,2,1,136,0,0,,0,0,3,0,0,0,0
+ESP-La Liga,2526,Osasuna,Ante Budimir,37,35,2938,103,41,39.8,16,6,3,0,0,52,36
+ESP-La Liga,2526,Osasuna,Asier Osambela,17,2,343,6,3,50.0,2,4,1,1,0,15,1
+ESP-La Liga,2526,Osasuna,Catena,35,35,3071,19,4,21.1,29,32,11,1,0,46,14
+ESP-La Liga,2526,Osasuna,Enzo Boyomo,30,29,2542,11,4,36.4,36,17,7,0,0,33,5
+ESP-La Liga,2526,Osasuna,Iker Benito,6,1,159,2,1,50.0,0,2,1,0,0,3,3
+ESP-La Liga,2526,Osasuna,Iker Muñoz,19,8,952,9,4,44.4,7,12,5,0,0,18,21
+ESP-La Liga,2526,Osasuna,Iñigo Arguibide,6,2,187,0,0,,3,1,0,1,0,3,0
+ESP-La Liga,2526,Osasuna,Javi Galán,20,19,1672,6,1,16.7,30,27,3,0,0,30,37
+ESP-La Liga,2526,Osasuna,Jon Moncayola,36,35,3016,23,5,21.7,26,27,9,0,0,41,13
+ESP-La Liga,2526,Osasuna,Jorge Herrando,28,17,1600,3,0,0.0,15,22,3,0,0,24,9
+ESP-La Liga,2526,Osasuna,Juan Cruz Armada,15,7,649,1,0,0.0,3,4,2,0,0,4,2
+ESP-La Liga,2526,Osasuna,Kike Barja,27,2,446,8,4,50.0,2,3,3,0,0,11,11
+ESP-La Liga,2526,Osasuna,Lucas Torró,34,31,2293,29,9,31.0,19,30,6,0,0,40,27
+ESP-La Liga,2526,Osasuna,Moi Gómez,26,12,1201,11,2,18.2,9,11,3,0,0,20,22
+ESP-La Liga,2526,Osasuna,Raúl,36,6,1041,39,23,59.0,13,7,2,1,0,12,15
+ESP-La Liga,2526,Osasuna,Raúl Moro,14,7,625,6,0,0.0,0,1,0,0,0,2,6
+ESP-La Liga,2526,Osasuna,Rubén García,35,28,2229,31,10,32.3,31,17,6,0,0,36,27
+ESP-La Liga,2526,Osasuna,Sergio Herrera,37,37,3284,0,0,,0,0,3,1,0,3,5
+ESP-La Liga,2526,Osasuna,Sheraldo Becker,9,0,158,3,0,0.0,1,3,0,0,0,4,1
+ESP-La Liga,2526,Osasuna,Valentin Rosier,31,30,2547,19,3,15.8,32,43,6,1,1,33,20
+ESP-La Liga,2526,Osasuna,Víctor Muñoz,34,31,2656,81,31,38.3,13,10,3,0,0,32,54
+ESP-La Liga,2526,Oviedo,Aarón Escandell,36,36,3240,0,0,,0,0,3,0,0,1,8
+ESP-La Liga,2526,Oviedo,Alberto Reina,37,31,2462,24,11,45.8,18,19,6,1,1,37,46
+ESP-La Liga,2526,Oviedo,Borja Sánchez Laborde,1,0,14,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2526,Oviedo,Dani Calvo,20,17,1611,3,0,0.0,15,10,3,0,0,11,6
+ESP-La Liga,2526,Oviedo,David Carmo,22,20,1786,10,3,30.0,18,21,8,1,1,20,4
+ESP-La Liga,2526,Oviedo,David Costas,25,22,2066,5,1,20.0,22,27,3,0,0,16,10
+ESP-La Liga,2526,Oviedo,Eric Bailly,15,15,1234,6,1,16.7,10,17,3,0,0,13,7
+ESP-La Liga,2526,Oviedo,Federico Viñas,33,28,2439,57,21,36.8,32,13,7,3,1,46,69
+ESP-La Liga,2526,Oviedo,Haissem Hassan,37,20,1942,34,8,23.5,26,6,1,0,0,12,25
+ESP-La Liga,2526,Oviedo,Horaţiu Moldovan,2,2,180,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2526,Oviedo,Ilyas Chaira,36,30,2447,81,35,43.2,34,4,2,1,0,53,41
+ESP-La Liga,2526,Oviedo,Javi López,25,20,1711,7,1,14.3,23,20,3,1,0,38,26
+ESP-La Liga,2526,Oviedo,Josip Brekalo,14,6,486,9,3,33.3,7,2,1,0,0,7,6
+ESP-La Liga,2526,Oviedo,Kwasi Sibo,26,21,1681,9,2,22.2,20,14,3,1,0,30,4
+ESP-La Liga,2526,Oviedo,Leander Dendoncker,19,15,1330,9,4,44.4,25,11,2,0,0,12,3
+ESP-La Liga,2526,Oviedo,Lucas Ahijado,20,11,1098,10,2,20.0,29,17,3,0,0,14,3
+ESP-La Liga,2526,Oviedo,Luka Ilić,19,8,742,9,5,55.6,5,7,4,1,1,16,7
+ESP-La Liga,2526,Oviedo,Marco Esteban,1,0,45,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2526,Oviedo,Nacho Vidal,29,27,2263,15,3,20.0,30,29,4,0,0,24,27
+ESP-La Liga,2526,Oviedo,Nicolas Fonseca,19,12,1018,8,1,12.5,25,17,6,0,0,27,12
+ESP-La Liga,2526,Oviedo,Oier Luengo,3,3,225,1,0,0.0,5,2,1,0,0,2,1
+ESP-La Liga,2526,Oviedo,Omar Falah,1,0,14,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2526,Oviedo,Ovie Ejaria,8,2,200,3,1,33.3,2,3,1,0,0,3,5
+ESP-La Liga,2526,Oviedo,Pablo Agudín,7,0,90,2,0,0.0,0,0,0,0,0,4,1
+ESP-La Liga,2526,Oviedo,Rahim Bonkano,27,18,1713,3,0,0.0,19,29,2,0,0,10,8
+ESP-La Liga,2526,Oviedo,Salomón Rondón,16,13,1032,24,5,20.8,0,1,2,0,0,11,21
+ESP-La Liga,2526,Oviedo,Santi Cazorla,28,6,940,7,1,14.3,10,4,2,1,0,6,19
+ESP-La Liga,2526,Oviedo,Santiago Colombatto,32,23,2064,15,2,13.3,22,14,6,0,0,44,41
+ESP-La Liga,2526,Oviedo,Thiago Borbas,12,0,179,5,2,40.0,1,0,1,0,0,7,3
+ESP-La Liga,2526,Oviedo,Thiago Fernández,16,9,817,13,5,38.5,7,5,4,0,0,7,11
+ESP-La Liga,2526,Oviedo,Álex Forés,18,3,360,8,2,25.0,1,1,0,0,0,3,6
+ESP-La Liga,2526,Rayo Vallecano,Abdul Mumin,3,1,79,0,0,,0,2,0,0,0,2,1
+ESP-La Liga,2526,Rayo Vallecano,Alexandre Alemão,26,11,1136,26,12,46.2,2,1,3,0,0,23,27
+ESP-La Liga,2526,Rayo Vallecano,Alfonso Espino,30,15,1486,20,9,45.0,33,15,3,0,0,24,30
+ESP-La Liga,2526,Rayo Vallecano,Andrei Ratiu,35,31,2807,31,9,29.0,44,39,9,0,0,22,21
+ESP-La Liga,2526,Rayo Vallecano,Augusto Batalla,34,34,3060,0,0,,1,0,6,0,0,1,4
+ESP-La Liga,2526,Rayo Vallecano,Carlos Martín,11,7,450,9,4,44.4,7,0,1,0,0,11,5
+ESP-La Liga,2526,Rayo Vallecano,Dani Cárdenas,4,4,360,0,0,,1,0,0,0,0,0,0
+ESP-La Liga,2526,Rayo Vallecano,Florian Lejeune,36,36,3230,50,18,36.0,47,47,7,0,0,47,14
+ESP-La Liga,2526,Rayo Vallecano,Francisco Perez,29,12,1237,17,8,47.1,10,2,4,0,0,18,15
+ESP-La Liga,2526,Rayo Vallecano,Gerard Gumbau,28,14,1175,20,5,25.0,16,11,4,0,0,38,5
+ESP-La Liga,2526,Rayo Vallecano,Ilias Akhomach,11,7,709,18,6,33.3,10,2,2,0,0,9,29
+ESP-La Liga,2526,Rayo Vallecano,Isaac Palazón Camacho,31,27,2248,52,15,28.8,12,3,10,1,0,36,51
+ESP-La Liga,2526,Rayo Vallecano,Iván Balliu,14,6,582,4,0,0.0,9,9,2,0,0,9,5
+ESP-La Liga,2526,Rayo Vallecano,Jorge de Frutos,36,31,2463,62,28,45.2,16,11,3,0,0,34,39
+ESP-La Liga,2526,Rayo Vallecano,Jozhua Vertrouwd,9,3,446,1,0,0.0,3,4,0,0,0,6,3
+ESP-La Liga,2526,Rayo Vallecano,Luiz Felipe,10,7,470,3,1,33.3,8,7,1,0,0,5,1
+ESP-La Liga,2526,Rayo Vallecano,Nobel Mendy,24,22,1797,11,3,27.3,15,23,9,2,1,32,12
+ESP-La Liga,2526,Rayo Vallecano,Pathé Ciss,29,20,1999,20,8,40.0,35,35,9,2,0,30,13
+ESP-La Liga,2526,Rayo Vallecano,Pedro Díaz,34,21,1870,44,6,13.6,25,9,2,0,0,20,13
+ESP-La Liga,2526,Rayo Vallecano,Pelayo Fernandez,1,0,45,1,0,0.0,0,0,0,0,0,1,0
+ESP-La Liga,2526,Rayo Vallecano,Pep Chavarría,33,29,2682,18,3,16.7,31,32,6,1,1,33,35
+ESP-La Liga,2526,Rayo Vallecano,Randy Nteka,13,3,374,13,6,46.2,4,0,3,0,0,11,7
+ESP-La Liga,2526,Rayo Vallecano,Samu Becerra,3,0,12,0,0,,0,0,0,0,0,1,0
+ESP-La Liga,2526,Rayo Vallecano,Sergio Camello,22,8,823,27,14,51.9,8,4,3,1,0,8,14
+ESP-La Liga,2526,Rayo Vallecano,Unai López,28,19,1612,22,4,18.2,16,21,8,1,1,37,14
+ESP-La Liga,2526,Rayo Vallecano,Álvaro García,32,23,2101,47,19,40.4,15,14,3,0,0,19,12
+ESP-La Liga,2526,Rayo Vallecano,Óscar Trejo,7,1,144,1,1,100.0,3,0,2,0,0,3,5
+ESP-La Liga,2526,Rayo Vallecano,Óscar Valentín,33,26,2108,13,4,30.8,43,29,3,1,0,31,22
+ESP-La Liga,2526,Real Betis,Abde Ezzalzouli,29,26,2247,73,26,35.6,32,15,3,0,0,28,71
+ESP-La Liga,2526,Real Betis,Adrián,1,1,90,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2526,Real Betis,Aitor Ruibal,27,20,1808,31,12,38.7,32,20,6,1,1,32,25
+ESP-La Liga,2526,Real Betis,Antony,32,30,2447,90,34,37.8,23,22,6,1,0,20,44
+ESP-La Liga,2526,Real Betis,Cucho,32,30,2580,89,27,30.3,16,11,5,0,0,22,38
+ESP-La Liga,2526,Real Betis,Cédric Bakambu,18,5,569,21,9,42.9,2,2,1,0,0,11,9
+ESP-La Liga,2526,Real Betis,Daniel Guerrero,1,0,1,0,0,,0,0,0,0,0,0,1
+ESP-La Liga,2526,Real Betis,Diego Llorente,18,14,1229,4,3,75.0,15,27,5,0,0,13,13
+ESP-La Liga,2526,Real Betis,Ezequiel Ávila,16,3,380,8,2,25.0,3,5,3,0,0,6,8
+ESP-La Liga,2526,Real Betis,Giovani Lo Celso,24,15,1393,30,11,36.7,13,6,4,0,0,9,42
+ESP-La Liga,2526,Real Betis,Héctor Bellerín,27,20,1822,7,5,71.4,16,14,2,0,0,15,4
+ESP-La Liga,2526,Real Betis,Isco,8,1,233,7,1,14.3,2,2,0,0,0,4,9
+ESP-La Liga,2526,Real Betis,Iván Corralejo,1,0,15,0,0,,0,0,0,0,0,1,1
+ESP-La Liga,2526,Real Betis,Junior Firpo,12,10,827,5,0,0.0,14,10,2,0,0,11,8
+ESP-La Liga,2526,Real Betis,Marc Bartra,25,21,1978,16,5,31.3,18,29,3,0,0,15,11
+ESP-La Liga,2526,Real Betis,Marc Roca,29,23,2026,17,7,41.2,29,23,1,0,0,42,23
+ESP-La Liga,2526,Real Betis,Natan,33,32,2807,10,1,10.0,17,37,8,0,0,28,11
+ESP-La Liga,2526,Real Betis,Nelson Deossa,20,8,743,18,0,0.0,8,6,3,0,0,17,24
+ESP-La Liga,2526,Real Betis,Pablo Fornals,37,34,2848,43,18,41.9,26,34,2,0,0,32,26
+ESP-La Liga,2526,Real Betis,Pablo Garcia,15,2,388,13,4,30.8,5,3,1,0,0,5,9
+ESP-La Liga,2526,Real Betis,Pau López,9,9,810,0,0,,1,0,1,0,0,0,2
+ESP-La Liga,2526,Real Betis,Ricardo Rodríguez,23,18,1547,3,0,0.0,14,8,0,0,0,11,5
+ESP-La Liga,2526,Real Betis,Rodrigo Riquelme,25,7,821,24,7,29.2,11,5,2,0,0,8,11
+ESP-La Liga,2526,Real Betis,Sergi Altimira,24,13,1186,7,3,42.9,36,20,3,0,0,14,22
+ESP-La Liga,2526,Real Betis,Sofyan Amrabat,17,14,1295,8,1,12.5,13,11,4,0,0,22,19
+ESP-La Liga,2526,Real Betis,Valentín Gómez,28,19,1882,11,5,45.5,25,23,5,0,0,26,11
+ESP-La Liga,2526,Real Betis,Álvaro Fidalgo,9,8,542,4,2,50.0,5,4,0,0,0,2,6
+ESP-La Liga,2526,Real Betis,Álvaro Vallés,28,28,2520,0,0,,0,1,1,0,0,0,4
+ESP-La Liga,2526,Real Betis,Ángel Ortíz,13,7,584,1,0,0.0,19,1,1,0,0,9,9
+ESP-La Liga,2526,Real Madrid,Andriy Lunin,6,6,540,0,0,,0,0,0,1,0,0,0
+ESP-La Liga,2526,Real Madrid,Antonio Rüdiger,18,16,1490,13,1,7.7,5,4,0,0,0,11,2
+ESP-La Liga,2526,Real Madrid,Arda Güler,33,25,2014,49,19,38.8,28,8,1,0,0,21,32
+ESP-La Liga,2526,Real Madrid,Aurélien Tchouaméni,33,31,2615,45,7,15.6,41,45,8,0,0,31,27
+ESP-La Liga,2526,Real Madrid,Brahim Díaz,30,13,1257,15,7,46.7,10,2,2,0,0,19,37
+ESP-La Liga,2526,Real Madrid,César Palacios,5,0,86,2,0,0.0,2,3,0,0,0,4,3
+ESP-La Liga,2526,Real Madrid,Dani Carvajal,17,10,977,5,1,20.0,12,6,0,0,0,7,9
+ESP-La Liga,2526,Real Madrid,Dani Ceballos,16,4,486,3,0,0.0,10,7,1,0,0,6,15
+ESP-La Liga,2526,Real Madrid,Daniel Yáñez,2,0,47,0,0,,1,0,0,0,0,0,4
+ESP-La Liga,2526,Real Madrid,David Alaba,11,5,424,4,1,25.0,4,0,1,0,0,1,0
+ESP-La Liga,2526,Real Madrid,David Jiménez,2,1,76,1,1,100.0,1,0,0,0,0,0,0
+ESP-La Liga,2526,Real Madrid,Dean Huijsen,28,24,2034,20,5,25.0,18,18,7,1,0,21,13
+ESP-La Liga,2526,Real Madrid,Diego Aguado,1,0,30,0,0,,1,0,0,0,0,0,0
+ESP-La Liga,2526,Real Madrid,Eduardo Camavinga,29,16,1528,13,2,15.4,37,15,2,0,0,34,31
+ESP-La Liga,2526,Real Madrid,Endrick,1,0,12,0,0,,0,0,0,1,0,0,1
+ESP-La Liga,2526,Real Madrid,Federico Valverde,33,31,2740,51,22,43.1,25,25,3,1,0,18,14
+ESP-La Liga,2526,Real Madrid,Ferland Mendy,5,3,207,0,0,,1,2,0,0,0,2,1
+ESP-La Liga,2526,Real Madrid,Fran Garcia,13,10,929,6,2,33.3,12,6,2,1,1,7,14
+ESP-La Liga,2526,Real Madrid,Franco Mastantuono,23,11,1037,30,7,23.3,12,3,5,1,0,18,30
+ESP-La Liga,2526,Real Madrid,Gonzalo García,30,9,964,21,11,52.4,7,2,2,0,0,9,6
+ESP-La Liga,2526,Real Madrid,Jorge Cestero,2,0,13,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2526,Real Madrid,Jude Bellingham,28,22,1916,51,26,51.0,37,14,3,0,0,33,55
+ESP-La Liga,2526,Real Madrid,Kylian Mbappé,31,29,2599,146,63,43.2,1,3,4,0,0,13,36
+ESP-La Liga,2526,Real Madrid,Manuel Serrano,1,0,7,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2526,Real Madrid,Manuel Ángel,4,1,96,2,1,50.0,3,0,0,0,0,2,4
+ESP-La Liga,2526,Real Madrid,Raúl Asencio,23,18,1708,14,4,28.6,12,10,4,0,0,17,23
+ESP-La Liga,2526,Real Madrid,Rodrygo,19,6,684,27,11,40.7,8,3,3,0,0,5,23
+ESP-La Liga,2526,Real Madrid,Thiago Pinar,10,8,592,6,2,33.3,4,7,2,0,0,12,7
+ESP-La Liga,2526,Real Madrid,Thibaut Courtois,32,32,2880,0,0,,1,0,1,0,0,1,2
+ESP-La Liga,2526,Real Madrid,Trent Alexander-Arnold,21,14,1163,10,2,20.0,10,13,4,0,0,10,5
+ESP-La Liga,2526,Real Madrid,Victor Valdepeñas,1,1,77,0,0,,3,0,0,0,0,3,1
+ESP-La Liga,2526,Real Madrid,Vinicius Júnior,36,32,2815,100,46,46.0,15,2,8,0,0,38,81
+ESP-La Liga,2526,Real Madrid,Álvaro Carreras,28,26,2332,9,3,33.3,18,38,5,1,0,22,33
+ESP-La Liga,2526,Real Madrid,Álvaro Leiva,1,0,4,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2526,Real Madrid,Éder Militão,16,14,1139,21,9,42.9,16,10,2,0,0,15,13
+ESP-La Liga,2526,Real Sociedad,Aihen Muñoz,21,9,848,6,2,33.3,18,5,1,0,0,7,3
+ESP-La Liga,2526,Real Sociedad,Ander Barrenetxea,30,22,1763,35,11,31.4,18,17,5,0,0,37,30
+ESP-La Liga,2526,Real Sociedad,Aritz Elustondo,16,8,720,4,2,50.0,8,10,0,0,0,17,11
+ESP-La Liga,2526,Real Sociedad,Arkaitz Mariezkurrena,1,0,1,0,0,,0,0,0,0,0,2,0
+ESP-La Liga,2526,Real Sociedad,Arsen Zakharyan,17,3,458,14,3,21.4,6,2,2,0,0,9,2
+ESP-La Liga,2526,Real Sociedad,Beñat Turrientes,27,16,1348,20,6,30.0,23,9,7,0,0,28,23
+ESP-La Liga,2526,Real Sociedad,Brais Méndez,29,21,1660,36,16,44.4,18,8,4,1,0,42,35
+ESP-La Liga,2526,Real Sociedad,Carlos Soler,33,26,2317,35,19,54.3,22,16,3,1,0,28,20
+ESP-La Liga,2526,Real Sociedad,Daniel Díaz,1,0,18,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2526,Real Sociedad,Duje Ćaleta-Car,27,24,2150,13,3,23.1,14,29,6,1,0,30,8
+ESP-La Liga,2526,Real Sociedad,Gonçalo Guedes,32,22,1823,46,18,39.1,16,4,3,0,0,18,33
+ESP-La Liga,2526,Real Sociedad,Gorka Carrera,3,0,62,1,1,100.0,0,1,1,0,0,2,2
+ESP-La Liga,2526,Real Sociedad,Ibai Aguirre,1,0,6,0,0,,0,0,0,0,0,1,0
+ESP-La Liga,2526,Real Sociedad,Igor Zubeldia,25,23,2082,6,1,16.7,21,23,9,0,0,38,5
+ESP-La Liga,2526,Real Sociedad,Iñaki Rupérez,1,0,1,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2526,Real Sociedad,Job Ochieng',2,1,93,1,0,0.0,1,1,0,0,0,1,0
+ESP-La Liga,2526,Real Sociedad,Jon Aramburu,35,31,2773,21,5,23.8,66,47,11,0,0,69,45
+ESP-La Liga,2526,Real Sociedad,Jon Gorrotxategi,30,26,2210,13,1,7.7,29,31,7,0,0,33,27
+ESP-La Liga,2526,Real Sociedad,Jon Karrikaburu,7,0,135,7,2,28.6,2,0,0,0,0,3,4
+ESP-La Liga,2526,Real Sociedad,Jon Martin,25,25,2250,15,5,33.3,16,35,6,0,0,18,12
+ESP-La Liga,2526,Real Sociedad,Lander Astiazaran,1,0,1,1,0,0.0,0,1,0,0,0,0,0
+ESP-La Liga,2526,Real Sociedad,Luka Sučić,22,10,1022,23,7,30.4,8,5,1,0,0,11,6
+ESP-La Liga,2526,Real Sociedad,Luken Beitia,2,1,95,0,0,,0,1,0,0,0,3,1
+ESP-La Liga,2526,Real Sociedad,Mikel Goti,4,1,76,3,0,0.0,1,0,0,0,0,6,0
+ESP-La Liga,2526,Real Sociedad,Mikel Oyarzabal,34,30,2710,79,36,45.6,20,5,3,0,0,28,42
+ESP-La Liga,2526,Real Sociedad,Orri Steinn Óskarsson,20,8,835,27,19,70.4,5,1,5,0,0,15,7
+ESP-La Liga,2526,Real Sociedad,Pablo Marín,34,15,1502,13,4,30.8,18,9,2,0,0,22,23
+ESP-La Liga,2526,Real Sociedad,Sergio Gómez,35,30,2701,12,0,0.0,53,32,5,1,0,45,15
+ESP-La Liga,2526,Real Sociedad,Takefusa Kubo,24,17,1503,28,12,42.9,18,10,2,0,0,9,51
+ESP-La Liga,2526,Real Sociedad,Umar Sadiq,5,2,153,4,0,0.0,0,0,1,0,0,2,2
+ESP-La Liga,2526,Real Sociedad,Unai Marrero,1,1,90,0,0,,0,0,1,0,0,0,0
+ESP-La Liga,2526,Real Sociedad,Urko González,1,0,11,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2526,Real Sociedad,Wesley,5,1,88,1,0,0.0,0,0,0,0,0,3,1
+ESP-La Liga,2526,Real Sociedad,Yangel Herrera,12,6,526,5,1,20.0,6,1,2,0,0,13,18
+ESP-La Liga,2526,Real Sociedad,Álex Remiro,37,37,3330,0,0,,1,1,1,0,0,0,7
+ESP-La Liga,2526,Real Sociedad,Álvaro Odriozola,5,2,201,1,1,100.0,1,1,0,0,0,1,3
+ESP-La Liga,2526,Sevilla,Adnan Januzaj,12,2,321,7,0,0.0,4,1,1,0,0,8,10
+ESP-La Liga,2526,Sevilla,Adrià Pedrosa,1,0,6,0,0,,0,0,0,0,0,0,1
+ESP-La Liga,2526,Sevilla,Akor Adams,32,21,2064,61,30,49.2,4,1,3,0,0,36,12
+ESP-La Liga,2526,Sevilla,Alexis Sánchez,28,11,1308,25,9,36.0,13,7,3,0,0,16,26
+ESP-La Liga,2526,Sevilla,Alfon,10,4,312,11,7,63.6,0,1,0,0,0,3,6
+ESP-La Liga,2526,Sevilla,Batista Mendy,27,19,1617,17,5,29.4,23,18,6,0,0,37,27
+ESP-La Liga,2526,Sevilla,Carmona,35,29,2565,20,3,15.0,40,45,13,0,0,49,44
+ESP-La Liga,2526,Sevilla,Castrin,19,13,1277,11,3,27.3,15,22,4,0,0,13,13
+ESP-La Liga,2526,Sevilla,Chidera Ejuke,27,6,932,23,3,13.0,13,7,0,0,0,5,16
+ESP-La Liga,2526,Sevilla,César Azpilicueta,17,17,1213,1,0,0.0,19,22,4,0,0,24,9
+ESP-La Liga,2526,Sevilla,Djibril Sow,33,27,2187,19,8,42.1,27,23,6,0,0,42,29
+ESP-La Liga,2526,Sevilla,Dodi Lukebakio,2,2,180,2,1,50.0,0,1,0,0,0,3,3
+ESP-La Liga,2526,Sevilla,Federico Gattoni,1,0,10,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2526,Sevilla,Fábio Cardoso,4,4,295,0,0,,3,4,0,0,0,9,1
+ESP-La Liga,2526,Sevilla,Gabriel Suazo,29,25,2096,5,2,40.0,62,29,7,0,0,33,15
+ESP-La Liga,2526,Sevilla,Isaac Romero,29,18,1484,41,14,34.1,10,5,6,1,0,29,24
+ESP-La Liga,2526,Sevilla,Joan Jordán,3,0,25,0,0,,0,0,1,1,0,4,0
+ESP-La Liga,2526,Sevilla,Joaquín Martínez Gauna,21,14,1408,17,8,47.1,20,8,1,0,0,12,16
+ESP-La Liga,2526,Sevilla,Juanlu Sánchez,32,23,1990,14,1,7.1,42,11,6,1,1,23,42
+ESP-La Liga,2526,Sevilla,Kike Salas,26,24,2203,19,8,42.1,35,37,1,0,0,31,20
+ESP-La Liga,2526,Sevilla,Lucien Agoume,34,31,2686,15,2,13.3,40,49,12,0,0,58,16
+ESP-La Liga,2526,Sevilla,Manu Bueno,8,2,272,2,0,0.0,1,0,2,0,0,4,3
+ESP-La Liga,2526,Sevilla,Marcão,13,11,938,10,2,20.0,4,4,5,1,1,22,21
+ESP-La Liga,2526,Sevilla,Miguel Ángel Sierra,4,0,62,4,1,25.0,1,0,0,0,0,1,3
+ESP-La Liga,2526,Sevilla,Neal Maupay,12,10,865,17,7,41.2,1,1,2,0,0,15,16
+ESP-La Liga,2526,Sevilla,Nemanja Gudelj,34,26,2348,31,9,29.0,23,23,9,0,0,40,11
+ESP-La Liga,2526,Sevilla,Odysseas Vlachodimos,33,33,2970,0,0,,0,1,1,0,0,0,2
+ESP-La Liga,2526,Sevilla,Peque,26,12,982,15,6,40.0,8,1,7,0,0,15,47
+ESP-La Liga,2526,Sevilla,Ramón Martínez,2,0,102,0,0,,0,1,0,0,0,1,1
+ESP-La Liga,2526,Sevilla,Ruben Vargas,24,20,1594,41,8,19.5,15,7,2,0,0,13,17
+ESP-La Liga,2526,Sevilla,Stanis Idumbo,1,1,45,1,0,0.0,0,0,0,0,0,0,0
+ESP-La Liga,2526,Sevilla,Tanguy Nianzou,12,8,655,9,0,0.0,10,4,5,1,0,15,6
+ESP-La Liga,2526,Sevilla,Ørjan Nyland,5,5,450,0,0,,0,0,1,0,0,0,0
+ESP-La Liga,2526,Valencia,André Almeida,22,11,1017,9,3,33.3,11,8,0,0,0,12,22
+ESP-La Liga,2526,Valencia,Arnaut Danjuma,30,18,1628,36,14,38.9,10,2,0,0,0,21,22
+ESP-La Liga,2526,Valencia,Baptiste Santamaria,19,7,754,6,2,33.3,5,8,2,0,0,13,10
+ESP-La Liga,2526,Valencia,Copete,21,19,1759,13,0,0.0,15,25,5,0,0,20,11
+ESP-La Liga,2526,Valencia,César Tárrega,32,29,2598,11,1,9.1,24,24,7,0,0,40,13
+ESP-La Liga,2526,Valencia,Dani Raba,13,3,270,9,1,11.1,4,4,0,0,0,6,2
+ESP-La Liga,2526,Valencia,Diego López,34,20,1762,28,8,28.6,16,14,2,0,0,20,33
+ESP-La Liga,2526,Valencia,Dimitri Foulquier,15,12,1150,6,1,16.7,9,8,1,0,0,16,7
+ESP-La Liga,2526,Valencia,Eray Cömert,17,15,1337,11,3,27.3,14,21,3,1,0,9,13
+ESP-La Liga,2526,Valencia,Filip Ugrinic,27,17,1504,20,3,15.0,16,11,3,0,0,17,13
+ESP-La Liga,2526,Valencia,Guido Rodríguez,16,14,1309,15,5,33.3,27,10,4,0,0,21,28
+ESP-La Liga,2526,Valencia,Hugo Duro,36,22,1979,36,14,38.9,9,3,4,0,0,22,38
+ESP-La Liga,2526,Valencia,Javier Guerra,36,25,2061,31,12,38.7,15,23,3,0,0,27,20
+ESP-La Liga,2526,Valencia,Jesus Vazquez,24,7,974,8,2,25.0,10,4,2,0,0,16,8
+ESP-La Liga,2526,Valencia,José Luis García Vayá,31,26,2225,24,3,12.5,33,19,4,0,0,30,14
+ESP-La Liga,2526,Valencia,José Luis Gayà,32,31,2448,13,3,23.1,44,23,6,1,0,31,20
+ESP-La Liga,2526,Valencia,Julen Agirrezabala,18,18,1620,0,0,,1,0,1,0,0,0,1
+ESP-La Liga,2526,Valencia,Largie Ramazani,27,11,1234,51,19,37.3,12,14,4,0,0,17,20
+ESP-La Liga,2526,Valencia,Lucas Beltrán,27,16,1365,34,9,26.5,10,4,1,0,0,26,39
+ESP-La Liga,2526,Valencia,Luis Rioja,37,31,2624,44,5,11.4,25,17,1,0,0,13,29
+ESP-La Liga,2526,Valencia,Mouctar Diakhaby,8,7,543,4,3,75.0,6,9,3,0,0,7,3
+ESP-La Liga,2526,Valencia,Renzo Saravia,5,4,351,1,0,0.0,5,7,2,0,0,4,10
+ESP-La Liga,2526,Valencia,Ruben Lendinez,1,0,4,0,0,,1,0,0,0,0,1,0
+ESP-La Liga,2526,Valencia,Stole Dimitrievski,20,20,1800,0,0,,0,1,1,0,0,0,4
+ESP-La Liga,2526,Valencia,Thierry Correia,24,17,1392,5,1,20.0,22,18,5,0,0,28,25
+ESP-La Liga,2526,Valencia,Umar Sadiq,20,8,911,25,10,40.0,5,1,3,0,0,30,19
+ESP-La Liga,2526,Valencia,Unai Núñez,13,10,911,9,1,11.1,11,11,3,0,0,12,7
+ESP-La Liga,2526,Villarreal,Adrià Altimira,1,0,9,0,0,,1,0,0,0,0,0,0
+ESP-La Liga,2526,Villarreal,Alassane Diatta,1,0,25,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2526,Villarreal,Alberto Moleiro,37,30,2478,46,20,43.5,21,14,4,0,0,33,27
+ESP-La Liga,2526,Villarreal,Alex Freeman,9,3,346,1,0,0.0,8,5,0,0,0,2,3
+ESP-La Liga,2526,Villarreal,Alfon,10,3,333,6,3,50.0,1,2,0,0,0,7,2
+ESP-La Liga,2526,Villarreal,Alfonso Pedraza,27,19,1689,11,3,27.3,31,29,8,0,0,27,23
+ESP-La Liga,2526,Villarreal,Arnau Tenas,10,10,900,0,0,,1,0,0,0,0,0,1
+ESP-La Liga,2526,Villarreal,Ayoze Pérez,25,12,1124,24,11,45.8,11,3,4,0,0,17,23
+ESP-La Liga,2526,Villarreal,Carlos Macià,5,0,83,1,0,0.0,0,2,1,0,0,1,0
+ESP-La Liga,2526,Villarreal,Daniel Parejo,32,16,1392,3,1,33.3,29,14,3,0,0,16,27
+ESP-La Liga,2526,Villarreal,Georges Mikautadze,32,23,2109,65,32,49.2,4,5,1,0,0,13,45
+ESP-La Liga,2526,Villarreal,Gerard Moreno,22,16,1343,39,16,41.0,8,3,0,0,0,14,16
+ESP-La Liga,2526,Villarreal,Hugo López,2,1,56,0,0,,1,1,0,0,0,2,0
+ESP-La Liga,2526,Villarreal,Ilias Akhomach,9,2,188,6,2,33.3,4,0,0,0,0,9,7
+ESP-La Liga,2526,Villarreal,Juan Foyth,13,12,934,2,0,0.0,13,15,2,0,0,8,1
+ESP-La Liga,2526,Villarreal,Karl Etta Eyong,3,3,256,7,3,42.9,2,0,0,0,0,3,4
+ESP-La Liga,2526,Villarreal,Logan Costa,2,0,30,0,0,,0,0,0,0,0,1,0
+ESP-La Liga,2526,Villarreal,Luiz Lúcio Reis Júnior,28,28,2520,0,0,,0,1,3,0,0,2,4
+ESP-La Liga,2526,Villarreal,Manor Solomon,6,1,150,2,1,50.0,1,0,0,0,0,0,2
+ESP-La Liga,2526,Villarreal,Nicolas Pépé,36,26,2393,63,25,39.7,21,15,4,0,0,23,43
+ESP-La Liga,2526,Villarreal,Pape Gueye,30,26,2131,47,13,27.7,22,35,8,0,0,35,54
+ESP-La Liga,2526,Villarreal,Pau Cabanes,1,0,16,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2526,Villarreal,Pau Navarro,23,23,1921,2,2,100.0,35,18,4,0,0,34,11
+ESP-La Liga,2526,Villarreal,Rafa Marín,23,21,1979,5,1,20.0,22,20,1,0,0,16,8
+ESP-La Liga,2526,Villarreal,Renato Veiga,32,27,2481,9,3,33.3,9,26,5,1,0,24,6
+ESP-La Liga,2526,Villarreal,Santi Comesaña,34,28,2407,27,7,25.9,25,31,5,1,0,43,28
+ESP-La Liga,2526,Villarreal,Santiago Mouriño,28,27,2377,15,3,20.0,64,29,11,1,1,54,36
+ESP-La Liga,2526,Villarreal,Sergi Cardona,31,20,1970,18,5,27.8,31,37,4,0,0,28,23
+ESP-La Liga,2526,Villarreal,Tajon Buchanan,34,21,1819,27,11,40.7,19,22,8,0,0,18,36
+ESP-La Liga,2526,Villarreal,Tani Oluwaseyi,27,9,901,16,7,43.8,5,1,1,0,0,11,8
+ESP-La Liga,2526,Villarreal,Thomas Partey,25,8,934,11,2,18.2,6,13,1,0,0,11,6
+ESP-La Liga,2526,Villarreal,Willy Kambwala,2,1,86,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2526,Villarreal,Yéremy Pino,2,2,159,2,1,50.0,1,3,0,0,0,2,0

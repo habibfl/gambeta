@@ -1,0 +1,552 @@
+league,season,team,player,mp,starts,minutes,shots,shots_on_target,shots_on_target_pct,tackles_won,interceptions,yellow_cards,red_cards,second_yellow_cards,fouls_committed,fouls_drawn
+ENG-Premier League,2526,Arsenal,Ben White,12,9,702,5,1,20.0,9,9,0,0,0,5,6
+ENG-Premier League,2526,Arsenal,Bukayo Saka,31,25,2222,71,27,38.0,19,16,2,0,0,33,54
+ENG-Premier League,2526,Arsenal,Christian Nørgaard,7,1,106,2,1,50.0,2,1,0,0,0,3,0
+ENG-Premier League,2526,Arsenal,Cristhian Mosquera,20,9,994,1,0,0.0,21,8,4,0,0,17,7
+ENG-Premier League,2526,Arsenal,David Raya,37,37,3330,0,0,,1,1,1,0,0,0,14
+ENG-Premier League,2526,Arsenal,Declan Rice,36,35,3094,40,13,32.5,33,33,3,0,0,26,11
+ENG-Premier League,2526,Arsenal,Eberechi Eze,32,21,1812,57,18,31.6,13,11,1,0,0,14,38
+ENG-Premier League,2526,Arsenal,Ethan Nwaneri,6,0,171,6,0,0.0,0,0,0,0,0,2,0
+ENG-Premier League,2526,Arsenal,Gabriel Jesus,14,3,429,19,12,63.2,0,2,3,0,0,9,1
+ENG-Premier League,2526,Arsenal,Gabriel Magalhães,32,30,2751,27,7,25.9,20,22,4,0,0,21,34
+ENG-Premier League,2526,Arsenal,Gabriel Martinelli,30,11,1081,29,13,44.8,8,1,3,0,0,10,14
+ENG-Premier League,2526,Arsenal,Jurriën Timber,30,28,2454,25,7,28.0,35,24,5,0,0,38,29
+ENG-Premier League,2526,Arsenal,Kai Havertz,12,7,581,18,4,22.2,5,1,1,0,0,8,8
+ENG-Premier League,2526,Arsenal,Kepa Arrizabalaga,1,1,90,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2526,Arsenal,Leandro Trossard,31,21,2000,53,15,28.3,15,9,2,0,0,13,39
+ENG-Premier League,2526,Arsenal,Martin Ødegaard,24,16,1369,22,8,36.4,9,7,0,0,0,9,9
+ENG-Premier League,2526,Arsenal,Martín Zubimendi,38,34,2992,27,9,33.3,39,39,4,0,0,33,15
+ENG-Premier League,2526,Arsenal,Max Dowman,6,1,157,6,1,16.7,2,1,0,0,0,2,7
+ENG-Premier League,2526,Arsenal,Mikel Merino,22,10,1036,22,8,36.4,13,9,1,0,0,22,20
+ENG-Premier League,2526,Arsenal,Myles Lewis-Skelly,20,5,709,2,0,0.0,5,5,3,0,0,10,16
+ENG-Premier League,2526,Arsenal,Noni Madueke,26,16,1211,25,9,36.0,10,5,0,0,0,15,15
+ENG-Premier League,2526,Arsenal,Piero Hincapié,25,20,1792,3,2,66.7,26,26,2,0,0,18,14
+ENG-Premier League,2526,Arsenal,Riccardo Calafiori,26,22,1699,32,8,25.0,19,13,5,0,0,26,10
+ENG-Premier League,2526,Arsenal,Viktor Gyökeres,36,26,2224,55,22,40.0,5,1,5,0,0,35,31
+ENG-Premier League,2526,Arsenal,William Saliba,31,30,2614,5,1,20.0,23,15,2,0,0,22,16
+ENG-Premier League,2526,Aston Villa,Alysson,3,0,49,1,0,0.0,0,1,0,0,0,0,1
+ENG-Premier League,2526,Aston Villa,Amadou Onana,25,21,1758,19,7,36.8,30,19,3,0,0,20,25
+ENG-Premier League,2526,Aston Villa,Andrés García,6,1,86,0,0,,4,0,0,0,0,1,0
+ENG-Premier League,2526,Aston Villa,Boubacar Kamara,18,17,1411,7,4,57.1,16,15,5,0,0,16,30
+ENG-Premier League,2526,Aston Villa,Bradley Burrowes,1,0,17,0,0,,0,0,0,0,0,0,1
+ENG-Premier League,2526,Aston Villa,Donyell Malen,21,5,656,27,9,33.3,2,0,0,0,0,2,6
+ENG-Premier League,2526,Aston Villa,Douglas Luiz,13,7,604,6,4,66.7,11,7,1,0,0,9,10
+ENG-Premier League,2526,Aston Villa,Emi Buendía,36,21,1755,49,13,26.5,27,13,6,0,0,41,45
+ENG-Premier League,2526,Aston Villa,Emiliano Martínez,32,32,2835,0,0,,0,0,2,0,0,0,17
+ENG-Premier League,2526,Aston Villa,Evann Guessand,13,6,588,8,5,62.5,9,3,0,0,0,11,12
+ENG-Premier League,2526,Aston Villa,Ezri Konsa,34,34,3035,11,2,18.2,8,22,0,1,0,11,42
+ENG-Premier League,2526,Aston Villa,George Hemmings,2,0,27,1,0,0.0,0,0,0,0,0,1,0
+ENG-Premier League,2526,Aston Villa,Harvey Elliott,4,1,112,5,0,0.0,0,0,0,0,0,0,2
+ENG-Premier League,2526,Aston Villa,Ian Maatsen,30,17,1605,20,5,25.0,31,18,2,0,0,17,19
+ENG-Premier League,2526,Aston Villa,Jadon Sancho,23,9,876,10,3,30.0,2,2,0,0,0,3,2
+ENG-Premier League,2526,Aston Villa,Jamaldeen Jimoh,1,0,9,0,0,,0,0,0,0,0,0,1
+ENG-Premier League,2526,Aston Villa,John McGinn,30,28,2137,28,12,42.9,17,12,5,0,0,31,48
+ENG-Premier League,2526,Aston Villa,Lamare Bogarde,28,11,1053,0,0,,19,4,5,0,0,17,20
+ENG-Premier League,2526,Aston Villa,Leon Bailey,13,3,459,8,1,12.5,6,4,1,0,0,6,5
+ENG-Premier League,2526,Aston Villa,Lucas Digne,31,21,1852,14,5,35.7,26,13,3,0,0,14,12
+ENG-Premier League,2526,Aston Villa,Marco Bizot,7,6,585,0,0,,0,0,2,0,0,1,1
+ENG-Premier League,2526,Aston Villa,Matty Cash,35,34,3014,30,10,33.3,32,24,9,0,0,42,30
+ENG-Premier League,2526,Aston Villa,Morgan Rogers,37,37,3280,84,32,38.1,23,13,7,0,0,46,49
+ENG-Premier League,2526,Aston Villa,Ollie Watkins,37,33,2839,83,38,45.8,14,5,4,0,0,35,32
+ENG-Premier League,2526,Aston Villa,Pau Torres,21,18,1676,9,1,11.1,14,11,1,0,0,7,5
+ENG-Premier League,2526,Aston Villa,Ross Barkley,21,7,857,18,8,44.4,11,2,1,0,0,9,8
+ENG-Premier League,2526,Aston Villa,Tammy Abraham,12,2,286,9,3,33.3,1,0,0,0,0,2,0
+ENG-Premier League,2526,Aston Villa,Tyrone Mings,17,15,1324,9,1,11.1,2,11,1,0,0,10,8
+ENG-Premier League,2526,Aston Villa,Victor Lindelöf,17,11,948,3,0,0.0,3,8,0,0,0,2,0
+ENG-Premier League,2526,Aston Villa,Youri Tielemans,25,21,1862,24,7,29.2,39,16,0,0,0,25,40
+ENG-Premier League,2526,Bournemouth,Adam Smith,22,14,1077,0,0,,12,10,3,0,0,19,11
+ENG-Premier League,2526,Bournemouth,Adrien Truffert,38,38,3379,16,6,37.5,51,43,5,0,0,39,32
+ENG-Premier League,2526,Bournemouth,Alex Scott,37,34,2849,44,13,29.5,38,35,5,0,0,45,60
+ENG-Premier League,2526,Bournemouth,Alex Tóth,9,2,140,2,0,0.0,0,3,1,0,0,1,2
+ENG-Premier League,2526,Bournemouth,Amine Adli,31,10,1094,20,9,45.0,17,6,2,0,0,29,23
+ENG-Premier League,2526,Bournemouth,Antoine Semenyo,20,20,1798,49,27,55.1,20,6,6,0,0,37,14
+ENG-Premier League,2526,Bournemouth,Bafodé Diakité,18,15,1277,1,0,0.0,15,10,1,0,0,8,4
+ENG-Premier League,2526,Bournemouth,Ben Gannon-Doak,8,0,113,3,1,33.3,2,1,0,0,0,3,1
+ENG-Premier League,2526,Bournemouth,Ben Winterburn,1,0,7,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2526,Bournemouth,David Brooks,31,13,1204,48,13,27.1,13,4,7,0,0,11,13
+ENG-Premier League,2526,Bournemouth,Eli Junior Kroupi,33,21,1672,52,22,42.3,6,9,5,0,0,27,12
+ENG-Premier League,2526,Bournemouth,Enes Ünal,23,0,232,15,3,20.0,1,0,1,0,0,6,10
+ENG-Premier League,2526,Bournemouth,Evanilson,36,32,2742,72,23,31.9,5,6,2,0,0,26,37
+ENG-Premier League,2526,Bournemouth,Hamed Junior Traorè,1,0,17,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2526,Bournemouth,James Hill,29,22,2106,12,2,16.7,20,37,5,0,0,17,13
+ENG-Premier League,2526,Bournemouth,Julio Soler,3,0,35,0,0,,0,0,0,0,0,2,2
+ENG-Premier League,2526,Bournemouth,Justin Kluivert,20,10,952,17,4,23.5,7,4,5,0,0,18,10
+ENG-Premier League,2526,Bournemouth,Lewis Cook,18,8,874,3,0,0.0,17,21,1,1,0,8,5
+ENG-Premier League,2526,Bournemouth,Marcos Senesi,37,37,3288,17,5,29.4,34,50,8,0,0,35,37
+ENG-Premier League,2526,Bournemouth,Marcus Tavernier,34,31,2731,70,24,34.3,21,16,6,0,0,31,35
+ENG-Premier League,2526,Bournemouth,Rayan,15,13,1111,28,8,28.6,6,8,1,0,0,9,6
+ENG-Premier League,2526,Bournemouth,Ryan Christie,26,9,994,25,8,32.0,20,11,3,1,0,16,22
+ENG-Premier League,2526,Bournemouth,Tyler Adams,25,21,1772,10,6,60.0,24,30,8,0,0,36,13
+ENG-Premier League,2526,Bournemouth,Veljko Milosavljević,7,4,368,1,0,0.0,4,4,0,0,0,0,0
+ENG-Premier League,2526,Bournemouth,Álex Jiménez,31,26,2317,21,4,19.0,45,27,10,0,0,35,20
+ENG-Premier League,2526,Bournemouth,Đorđe Petrović,38,38,3420,0,0,,0,0,3,0,0,0,2
+ENG-Premier League,2526,Brentford,Aaron Hickey,21,8,691,6,1,16.7,7,8,1,0,0,7,9
+ENG-Premier League,2526,Brentford,Antoni Milambo,1,1,45,0,0,,1,0,0,0,0,0,0
+ENG-Premier League,2526,Brentford,Caoimhín Kelleher,37,37,3330,0,0,,0,1,1,0,0,3,6
+ENG-Premier League,2526,Brentford,Dango Ouattara,32,25,2276,56,20,35.7,14,24,5,0,0,27,39
+ENG-Premier League,2526,Brentford,Ethan Pinnock,4,4,318,1,1,100.0,5,5,1,0,0,0,2
+ENG-Premier League,2526,Brentford,Fabio Carvalho,6,1,102,2,1,50.0,2,0,0,0,0,0,0
+ENG-Premier League,2526,Brentford,Frank Onyeka,6,0,92,0,0,,0,0,0,0,0,3,3
+ENG-Premier League,2526,Brentford,Hákon Valdimarsson,1,1,90,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2526,Brentford,Igor Thiago,38,37,3282,84,43,51.2,21,12,7,0,0,74,26
+ENG-Premier League,2526,Brentford,Jordan Henderson,32,22,1919,6,1,16.7,14,16,6,0,0,13,7
+ENG-Premier League,2526,Brentford,Josh Dasilva,2,0,3,1,0,0.0,0,0,0,0,0,0,0
+ENG-Premier League,2526,Brentford,Kaye Furo,1,0,1,0,0,,0,0,0,0,0,1,0
+ENG-Premier League,2526,Brentford,Keane Lewis-Potter,36,22,1972,31,9,29.0,14,10,1,0,0,15,36
+ENG-Premier League,2526,Brentford,Kevin Schade,35,32,2745,57,24,42.1,27,19,6,1,0,50,43
+ENG-Premier League,2526,Brentford,Kristoffer Ajer,27,20,1810,10,3,30.0,23,15,4,0,0,23,5
+ENG-Premier League,2526,Brentford,Mathias Jensen,36,26,2247,29,8,27.6,23,21,3,0,0,20,15
+ENG-Premier League,2526,Brentford,Michael Kayode,37,37,3258,9,3,33.3,47,39,8,0,0,26,50
+ENG-Premier League,2526,Brentford,Mikkel Damsgaard,33,24,2054,29,11,37.9,34,24,0,0,0,18,23
+ENG-Premier League,2526,Brentford,Myles Peart-Harris,1,0,1,0,0,,0,0,0,0,0,1,0
+ENG-Premier League,2526,Brentford,Nathan Collins,35,32,2975,20,6,30.0,13,36,7,0,0,20,17
+ENG-Premier League,2526,Brentford,Reiss Nelson,10,0,126,5,1,20.0,3,0,0,0,0,0,2
+ENG-Premier League,2526,Brentford,Rico Henry,25,14,1328,5,0,0.0,11,7,2,0,0,15,17
+ENG-Premier League,2526,Brentford,Romelle Donovan,4,0,41,3,1,33.3,0,0,0,0,0,2,3
+ENG-Premier League,2526,Brentford,Sepp van den Berg,32,30,2763,23,7,30.4,9,26,2,0,0,15,11
+ENG-Premier League,2526,Brentford,Vitaly Janelt,25,15,1443,12,3,25.0,17,27,8,0,0,20,13
+ENG-Premier League,2526,Brentford,Yehor Yarmoliuk,37,30,2659,16,4,25.0,46,28,7,0,0,37,12
+ENG-Premier League,2526,Brighton,Bart Verbruggen,38,38,3420,0,0,,1,0,3,0,0,2,2
+ENG-Premier League,2526,Brighton,Brajan Gruda,18,8,719,16,6,37.5,5,2,2,0,0,11,14
+ENG-Premier League,2526,Brighton,Carlos Baleba,31,23,1652,20,2,10.0,21,28,5,0,0,31,24
+ENG-Premier League,2526,Brighton,Charalampos Kostoulas,21,2,369,21,8,38.1,6,1,2,0,0,7,7
+ENG-Premier League,2526,Brighton,Danny Welbeck,37,26,2258,56,28,50.0,14,8,5,0,0,31,10
+ENG-Premier League,2526,Brighton,Diego Coppola,5,2,194,0,0,,2,1,2,0,0,4,0
+ENG-Premier League,2526,Brighton,Diego Gómez,32,26,2120,42,14,33.3,49,19,9,0,0,49,11
+ENG-Premier League,2526,Brighton,Ferdi Kadioglu,37,34,3133,28,13,46.4,39,25,6,0,0,22,36
+ENG-Premier League,2526,Brighton,Georginio Rutter,32,20,1786,42,14,33.3,19,11,2,0,0,30,34
+ENG-Premier League,2526,Brighton,Harry Howell,3,1,94,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2526,Brighton,Jack Hinshelwood,27,20,1741,37,15,40.5,13,6,0,0,0,32,12
+ENG-Premier League,2526,Brighton,James Milner,20,7,784,8,2,25.0,9,5,2,0,0,15,3
+ENG-Premier League,2526,Brighton,Jan Paul van Hecke,36,36,3210,23,10,43.5,31,45,9,0,0,27,43
+ENG-Premier League,2526,Brighton,Joe Knight,1,0,1,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2526,Brighton,Joël Veltman,24,9,1058,4,1,25.0,17,19,5,0,0,10,22
+ENG-Premier League,2526,Brighton,Kaoru Mitoma,25,19,1721,32,13,40.6,12,8,5,0,0,31,21
+ENG-Premier League,2526,Brighton,Lewis Dunk,33,31,2838,23,3,13.0,22,30,10,0,0,14,12
+ENG-Premier League,2526,Brighton,Mats Wieffer,26,23,1903,18,6,33.3,43,24,8,0,0,30,22
+ENG-Premier League,2526,Brighton,Matt O'Riley,6,2,204,4,2,50.0,2,0,0,0,0,2,1
+ENG-Premier League,2526,Brighton,Maxim De Cuyper,30,17,1414,13,6,46.2,10,11,2,0,0,18,21
+ENG-Premier League,2526,Brighton,Nehemiah Oriola,1,0,1,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2526,Brighton,Olivier Boscagli,12,9,802,1,0,0.0,11,16,2,0,0,7,10
+ENG-Premier League,2526,Brighton,Pascal Groß,19,18,1636,18,9,50.0,17,11,2,0,0,17,12
+ENG-Premier League,2526,Brighton,Solly March,4,0,41,1,1,100.0,2,0,0,0,0,0,1
+ENG-Premier League,2526,Brighton,Stefanos Tzimas,9,1,139,4,1,25.0,1,0,0,0,0,4,1
+ENG-Premier League,2526,Brighton,Tom Watson,6,0,62,1,1,100.0,1,0,1,0,0,3,0
+ENG-Premier League,2526,Brighton,Yankuba Minteh,34,26,2391,41,11,26.8,37,15,3,0,0,32,22
+ENG-Premier League,2526,Brighton,Yasin Ayari,29,20,1929,41,10,24.4,25,26,1,0,0,24,28
+ENG-Premier League,2526,Burnley,Armando Broja,24,8,860,16,6,37.5,3,3,0,0,0,14,16
+ENG-Premier League,2526,Burnley,Ashley Barnes,7,0,46,2,1,50.0,0,0,2,0,0,2,2
+ENG-Premier League,2526,Burnley,Axel Tuanzebe,14,14,1201,2,1,50.0,8,12,1,0,0,13,2
+ENG-Premier League,2526,Burnley,Bashir Humphreys,20,17,1578,9,3,33.3,17,11,6,0,0,14,10
+ENG-Premier League,2526,Burnley,Florentino Luís,31,25,2105,13,2,15.4,49,40,6,0,0,40,8
+ENG-Premier League,2526,Burnley,Hannibal Mejbri,27,15,1229,19,5,26.3,17,7,10,0,0,23,46
+ENG-Premier League,2526,Burnley,Hjalmar Ekdal,19,17,1539,6,1,16.7,17,12,0,0,0,5,7
+ENG-Premier League,2526,Burnley,Jacob Bruun Larsen,28,10,1030,17,4,23.5,3,6,0,0,0,1,0
+ENG-Premier League,2526,Burnley,Jaidon Anthony,37,32,2722,55,23,41.8,21,16,4,0,0,27,47
+ENG-Premier League,2526,Burnley,James Ward-Prowse,13,7,684,3,2,66.7,4,15,1,0,0,4,11
+ENG-Premier League,2526,Burnley,Jaydon Amauri Banel,1,0,10,0,0,,0,0,0,0,0,0,1
+ENG-Premier League,2526,Burnley,Joe Worrall,11,5,500,1,0,0.0,2,6,0,0,0,4,1
+ENG-Premier League,2526,Burnley,Josh Cullen,18,18,1514,11,6,54.5,19,24,2,0,0,16,18
+ENG-Premier League,2526,Burnley,Josh Laurent,33,18,1764,15,4,26.7,25,28,7,1,0,31,11
+ENG-Premier League,2526,Burnley,Kyle Walker,36,35,3096,4,0,0.0,32,43,9,0,0,32,22
+ENG-Premier League,2526,Burnley,Lesley Ugochukwu,35,27,2336,23,8,34.8,26,17,3,1,1,28,30
+ENG-Premier League,2526,Burnley,Loum Tchaouna,29,14,1272,23,9,39.1,9,2,2,0,0,12,16
+ENG-Premier League,2526,Burnley,Lucas,20,15,1409,16,4,25.0,22,19,1,1,0,15,4
+ENG-Premier League,2526,Burnley,Lyle Foster,26,15,1371,20,6,30.0,12,4,4,0,0,22,13
+ENG-Premier League,2526,Burnley,Marcus Edwards,23,11,1067,23,6,26.1,6,3,0,0,0,7,18
+ENG-Premier League,2526,Burnley,Martin Dúbravka,35,35,3150,0,0,,1,0,1,0,0,0,8
+ENG-Premier League,2526,Burnley,Max Weiß,3,3,270,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2526,Burnley,Maxime Estève,34,34,2932,10,1,10.0,27,37,1,0,0,13,12
+ENG-Premier League,2526,Burnley,Mike Trésor,6,0,43,0,0,,1,0,0,0,0,0,0
+ENG-Premier League,2526,Burnley,Oliver Sonne,7,1,169,3,1,33.3,1,1,0,0,0,4,0
+ENG-Premier League,2526,Burnley,Quilindschy Hartman,21,21,1825,9,3,33.3,31,32,1,0,0,13,3
+ENG-Premier League,2526,Burnley,Zeki Amdouni,4,0,73,3,1,33.3,0,0,0,0,0,1,1
+ENG-Premier League,2526,Burnley,Zian Flemming,29,21,1769,52,21,40.4,10,6,5,0,0,51,26
+ENG-Premier League,2526,Chelsea,Alejandro Garnacho,24,14,1268,33,7,21.2,13,4,2,0,0,9,23
+ENG-Premier League,2526,Chelsea,Andrey Santos,27,13,1260,11,2,18.2,21,18,4,0,0,13,22
+ENG-Premier League,2526,Chelsea,Benoît Badiashile,8,6,471,0,0,,5,9,2,0,0,6,2
+ENG-Premier League,2526,Chelsea,Cole Palmer,26,24,1955,64,25,39.1,12,13,5,0,0,13,37
+ENG-Premier League,2526,Chelsea,Dario Essugo,3,0,30,0,0,,3,0,2,0,0,3,1
+ENG-Premier League,2526,Chelsea,Enzo Fernández,36,35,3115,72,31,43.1,24,20,10,0,0,36,45
+ENG-Premier League,2526,Chelsea,Estêvão Willian,22,12,848,28,8,28.6,6,4,4,0,0,12,9
+ENG-Premier League,2526,Chelsea,Facundo Buonanotte,1,1,45,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2526,Chelsea,Filip Jørgensen,5,3,379,0,0,,0,1,0,0,0,0,0
+ENG-Premier League,2526,Chelsea,Jamie Gittens,16,5,495,10,2,20.0,4,2,0,0,0,6,8
+ENG-Premier League,2526,Chelsea,Jesse Derry,1,1,44,2,1,50.0,1,0,0,0,0,0,1
+ENG-Premier League,2526,Chelsea,Jorrel Hato,22,12,1148,4,0,0.0,19,17,7,0,0,15,2
+ENG-Premier League,2526,Chelsea,Joshua Acheampong,17,8,666,4,2,50.0,8,12,1,0,0,2,9
+ENG-Premier League,2526,Chelsea,João Pedro,35,31,2661,73,28,38.4,17,6,5,0,0,38,55
+ENG-Premier League,2526,Chelsea,Levi Colwill,3,2,225,0,0,,2,5,0,0,0,1,2
+ENG-Premier League,2526,Chelsea,Liam Delap,28,12,1107,36,11,30.6,3,1,4,0,0,25,19
+ENG-Premier League,2526,Chelsea,Malo Gusto,34,26,2261,12,6,50.0,23,30,5,1,1,20,20
+ENG-Premier League,2526,Chelsea,Mamadou Sarr,3,1,102,1,0,0.0,0,1,0,0,0,0,0
+ENG-Premier League,2526,Chelsea,Marc Cucurella,34,31,2707,20,6,30.0,40,28,8,1,0,45,29
+ENG-Premier League,2526,Chelsea,Marc Guiu,8,1,257,12,2,16.7,0,0,1,0,0,9,2
+ENG-Premier League,2526,Chelsea,Moisés Caicedo,33,32,2795,27,7,25.9,47,59,11,1,0,54,55
+ENG-Premier League,2526,Chelsea,Pedro Neto,34,30,2631,46,13,28.3,11,6,4,1,1,17,25
+ENG-Premier League,2526,Chelsea,Reece James,29,20,1963,22,7,31.8,33,32,4,0,0,26,22
+ENG-Premier League,2526,Chelsea,Robert Sánchez,35,35,3039,0,0,,0,1,3,1,0,2,13
+ENG-Premier League,2526,Chelsea,Roméo Lavia,12,4,382,3,0,0.0,7,5,0,0,0,8,8
+ENG-Premier League,2526,Chelsea,Shumaira Mheuka,1,0,2,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2526,Chelsea,Tosin Adarabioyo,16,8,795,2,0,0.0,6,9,2,0,0,6,0
+ENG-Premier League,2526,Chelsea,Trevoh Chalobah,34,31,2783,16,5,31.3,22,37,3,1,0,20,18
+ENG-Premier League,2526,Chelsea,Tyrique George,4,0,145,3,2,66.7,2,0,2,0,0,6,1
+ENG-Premier League,2526,Chelsea,Wesley Fofana,25,20,1722,8,1,12.5,11,38,9,2,2,27,17
+ENG-Premier League,2526,Crystal Palace,Adam Wharton,34,29,2552,32,6,18.8,36,27,6,1,1,35,31
+ENG-Premier League,2526,Crystal Palace,Borna Sosa,7,0,101,1,0,0.0,0,2,1,0,0,4,0
+ENG-Premier League,2526,Crystal Palace,Brennan Johnson,18,13,1112,17,3,17.6,7,2,4,0,0,18,11
+ENG-Premier League,2526,Crystal Palace,Chadi Riad,9,6,552,4,2,50.0,5,4,2,0,0,5,3
+ENG-Premier League,2526,Crystal Palace,Chris Richards,33,31,2827,15,2,13.3,35,43,4,0,0,17,5
+ENG-Premier League,2526,Crystal Palace,Christantus Uche,14,0,173,6,2,33.3,1,0,0,0,0,4,7
+ENG-Premier League,2526,Crystal Palace,Daichi Kamada,28,22,1902,19,4,21.1,35,14,3,0,0,30,28
+ENG-Premier League,2526,Crystal Palace,Daniel Muñoz,29,29,2399,26,12,46.2,48,24,7,0,0,34,18
+ENG-Premier League,2526,Crystal Palace,Dean Henderson,37,37,3330,0,0,,0,1,5,0,0,2,5
+ENG-Premier League,2526,Crystal Palace,Eberechi Eze,1,1,83,6,2,33.3,1,0,0,0,0,2,1
+ENG-Premier League,2526,Crystal Palace,Eddie Nketiah,12,2,424,15,6,40.0,6,2,2,0,0,7,7
+ENG-Premier League,2526,Crystal Palace,Evann Guessand,8,3,330,3,1,33.3,2,2,0,0,0,4,8
+ENG-Premier League,2526,Crystal Palace,Ismaila Sarr,28,24,2174,48,21,43.8,9,7,2,0,0,12,42
+ENG-Premier League,2526,Crystal Palace,Jaydee Canvot,20,14,1336,7,1,14.3,22,12,3,0,0,12,7
+ENG-Premier League,2526,Crystal Palace,Jean-Philippe Mateta,32,25,2218,63,32,50.8,4,6,2,0,0,21,19
+ENG-Premier League,2526,Crystal Palace,Jefferson Lerma,31,18,1733,19,7,36.8,18,25,7,0,0,25,24
+ENG-Premier League,2526,Crystal Palace,Joél Drakes-Thomas,2,0,9,0,0,,1,0,0,0,0,1,0
+ENG-Premier League,2526,Crystal Palace,Justin Devenny,21,7,796,13,4,30.8,11,1,0,0,0,11,10
+ENG-Premier League,2526,Crystal Palace,Jørgen Strand Larsen,14,12,903,23,7,30.4,0,1,2,0,0,21,10
+ENG-Premier League,2526,Crystal Palace,Kaden Rodney,1,0,4,0,0,,0,0,0,0,0,1,0
+ENG-Premier League,2526,Crystal Palace,Marc Guéhi,20,20,1800,15,4,26.7,19,24,4,0,0,14,18
+ENG-Premier League,2526,Crystal Palace,Maxence Lacroix,35,35,3085,25,7,28.0,38,45,4,1,0,34,19
+ENG-Premier League,2526,Crystal Palace,Nathaniel Clyne,10,7,594,3,0,0.0,9,7,1,0,0,4,2
+ENG-Premier League,2526,Crystal Palace,Odsonne Édouard,1,0,3,0,0,,1,0,0,0,0,0,1
+ENG-Premier League,2526,Crystal Palace,Rio Cardines,1,1,90,1,0,0.0,1,0,0,0,0,0,1
+ENG-Premier League,2526,Crystal Palace,Romain Esse,4,0,44,0,0,,1,0,0,0,0,2,2
+ENG-Premier League,2526,Crystal Palace,Tyrick Mitchell,38,36,3251,19,7,36.8,65,33,6,0,0,24,28
+ENG-Premier League,2526,Crystal Palace,Walter Benítez,1,1,90,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2526,Crystal Palace,Will Hughes,31,19,1571,17,0,0.0,16,15,7,0,0,24,25
+ENG-Premier League,2526,Crystal Palace,Yéremy Pino,34,26,2080,45,11,24.4,20,8,4,0,0,30,24
+ENG-Premier League,2526,Everton,Beto,37,17,1568,43,17,39.5,5,1,3,0,0,32,12
+ENG-Premier League,2526,Everton,Carlos Alcaraz,20,6,689,20,5,25.0,9,2,4,0,0,10,12
+ENG-Premier League,2526,Everton,Dwight McNeil,22,14,1168,24,5,20.8,16,10,1,0,0,11,7
+ENG-Premier League,2526,Everton,Harrison Armstrong,13,6,529,5,2,40.0,10,4,0,0,0,6,15
+ENG-Premier League,2526,Everton,Idrissa Gueye,25,25,2093,29,7,24.1,21,29,1,1,0,21,31
+ENG-Premier League,2526,Everton,Iliman Ndiaye,32,32,2778,43,22,51.2,40,17,2,0,0,30,37
+ENG-Premier League,2526,Everton,Jack Grealish,20,18,1627,26,8,30.8,15,11,5,1,1,13,58
+ENG-Premier League,2526,Everton,Jake O'Brien,37,35,3120,13,6,46.2,32,13,6,1,0,23,17
+ENG-Premier League,2526,Everton,James Garner,38,38,3413,45,14,31.1,72,57,12,0,0,39,42
+ENG-Premier League,2526,Everton,James Tarkowski,37,37,3330,20,10,50.0,30,29,8,0,0,32,35
+ENG-Premier League,2526,Everton,Jarrad Branthwaite,10,7,680,6,2,33.3,6,11,1,0,0,3,1
+ENG-Premier League,2526,Everton,Jordan Pickford,38,38,3420,0,0,,1,0,4,0,0,1,6
+ENG-Premier League,2526,Everton,Kiernan Dewsbury-Hall,31,30,2626,39,15,38.5,26,14,6,0,0,32,48
+ENG-Premier League,2526,Everton,Merlin Röhl,16,6,682,11,1,9.1,13,4,0,0,0,20,7
+ENG-Premier League,2526,Everton,Michael Keane,33,29,2591,27,7,25.9,24,37,1,1,0,16,6
+ENG-Premier League,2526,Everton,Nathan Patterson,7,3,241,1,1,100.0,4,2,0,0,0,2,2
+ENG-Premier League,2526,Everton,Séamus Coleman,5,1,21,0,0,,0,0,0,0,0,0,1
+ENG-Premier League,2526,Everton,Thierno Barry,38,21,1914,38,14,36.8,4,5,3,0,0,46,8
+ENG-Premier League,2526,Everton,Tim Iroegbunam,29,17,1487,12,1,8.3,44,22,9,0,0,29,20
+ENG-Premier League,2526,Everton,Tyler Dibling,14,4,358,4,0,0.0,3,6,2,0,0,11,11
+ENG-Premier League,2526,Everton,Tyrique George,11,1,218,7,3,42.9,3,2,0,0,0,3,1
+ENG-Premier League,2526,Everton,Vitaliy Mykolenko,33,33,2958,9,2,22.2,25,27,6,0,0,29,28
+ENG-Premier League,2526,Fulham,Adama Traoré,15,1,274,5,1,20.0,1,0,0,0,0,6,8
+ENG-Premier League,2526,Fulham,Alex Iwobi,29,29,2419,39,15,38.5,18,15,3,0,0,8,10
+ENG-Premier League,2526,Fulham,Antonee Robinson,22,17,1492,6,1,16.7,31,28,5,0,0,15,9
+ENG-Premier League,2526,Fulham,Bernd Leno,38,38,3420,0,0,,1,1,3,0,0,0,6
+ENG-Premier League,2526,Fulham,Calvin Bassey,30,28,2534,12,1,8.3,32,22,5,0,0,28,40
+ENG-Premier League,2526,Fulham,Emile Smith Rowe,37,22,1923,36,11,30.6,22,22,1,0,0,10,17
+ENG-Premier League,2526,Fulham,Harrison Reed,7,1,94,2,1,50.0,0,0,0,0,0,2,1
+ENG-Premier League,2526,Fulham,Harry Wilson,36,32,2673,78,25,32.1,19,16,7,0,0,13,37
+ENG-Premier League,2526,Fulham,Issa Diop,13,8,816,2,1,50.0,2,6,2,0,0,9,3
+ENG-Premier League,2526,Fulham,Joachim Andersen,33,33,2875,16,4,25.0,26,34,7,1,0,30,13
+ENG-Premier League,2526,Fulham,Jonah Kusi-Asare,7,0,55,0,0,,1,0,1,0,0,4,2
+ENG-Premier League,2526,Fulham,Jorge Cuenca,15,11,938,1,0,0.0,10,15,6,0,0,10,1
+ENG-Premier League,2526,Fulham,Joshua King,32,15,1308,26,11,42.3,12,3,4,0,0,13,30
+ENG-Premier League,2526,Fulham,Kenny Tete,22,21,1791,16,3,18.8,38,26,2,0,0,27,31
+ENG-Premier League,2526,Fulham,Kevin,26,9,1041,25,10,40.0,10,9,1,0,0,14,17
+ENG-Premier League,2526,Fulham,Oscar Bobb,14,6,571,8,3,37.5,7,6,0,0,0,4,8
+ENG-Premier League,2526,Fulham,Raúl Jiménez,36,27,2189,73,18,24.7,20,7,5,0,0,46,34
+ENG-Premier League,2526,Fulham,Rodrigo Muniz,21,10,1000,32,5,15.6,3,2,2,0,0,21,18
+ENG-Premier League,2526,Fulham,Ryan Sessegnon,27,20,1823,16,4,25.0,29,23,0,0,0,33,3
+ENG-Premier League,2526,Fulham,Samuel Chukwueze,23,10,1079,25,7,28.0,4,6,0,0,0,5,12
+ENG-Premier League,2526,Fulham,Sander Berge,35,34,2905,14,3,21.4,41,26,5,0,0,35,14
+ENG-Premier League,2526,Fulham,Saša Lukić,26,20,1734,18,6,33.3,28,16,9,0,0,53,25
+ENG-Premier League,2526,Fulham,Timothy Castagne,30,20,1845,14,6,42.9,24,28,4,0,0,18,11
+ENG-Premier League,2526,Fulham,Tom Cairney,24,6,775,17,2,11.8,4,4,3,0,0,10,11
+ENG-Premier League,2526,Leeds United,Anton Stach,29,28,2370,55,14,25.5,35,19,3,0,0,36,24
+ENG-Premier League,2526,Leeds United,Ao Tanaka,28,14,1315,17,5,29.4,15,21,1,0,0,13,10
+ENG-Premier League,2526,Leeds United,Brenden Aaronson,37,30,2449,47,17,36.2,27,17,3,0,0,20,51
+ENG-Premier League,2526,Leeds United,Daniel James,19,6,559,14,3,21.4,5,1,0,0,0,1,8
+ENG-Premier League,2526,Leeds United,Dominic Calvert-Lewin,35,30,2721,73,34,46.6,4,5,3,0,0,45,37
+ENG-Premier League,2526,Leeds United,Ethan Ampadu,35,35,3119,26,6,23.1,46,50,10,0,0,50,36
+ENG-Premier League,2526,Leeds United,Facundo Buonanotte,3,0,39,2,0,0.0,0,1,1,0,0,1,0
+ENG-Premier League,2526,Leeds United,Gabriel Gudmundsson,32,31,2631,18,3,16.7,47,28,6,1,1,31,56
+ENG-Premier League,2526,Leeds United,Ilia Gruev,23,15,1323,7,1,14.3,13,14,3,0,0,16,9
+ENG-Premier League,2526,Leeds United,Jack Harrison,11,1,269,6,2,33.3,2,4,0,0,0,1,4
+ENG-Premier League,2526,Leeds United,Jaka Bijol,25,21,1890,15,6,40.0,13,22,4,0,0,19,10
+ENG-Premier League,2526,Leeds United,James Justin,29,21,1901,24,6,25.0,38,26,4,0,0,13,31
+ENG-Premier League,2526,Leeds United,Jayden Bogle,34,32,2793,18,4,22.2,43,30,6,0,0,39,29
+ENG-Premier League,2526,Leeds United,Joe Rodon,35,33,2951,18,7,38.9,19,30,3,0,0,17,19
+ENG-Premier League,2526,Leeds United,Joël Piroe,16,2,258,14,3,21.4,1,1,0,0,0,4,0
+ENG-Premier League,2526,Leeds United,Karl Darlow,22,22,1980,0,0,,0,0,1,0,0,0,7
+ENG-Premier League,2526,Leeds United,Lucas Perri,16,16,1440,0,0,,0,0,2,0,0,1,3
+ENG-Premier League,2526,Leeds United,Lukas Nmecha,31,10,1083,30,16,53.3,7,3,0,0,0,18,18
+ENG-Premier League,2526,Leeds United,Noah Okafor,28,19,1561,35,15,42.9,15,12,3,0,0,18,14
+ENG-Premier League,2526,Leeds United,Pascal Struijk,34,33,2936,31,5,16.1,22,32,5,0,0,27,22
+ENG-Premier League,2526,Leeds United,Sam Byram,2,0,9,0,0,,1,0,0,0,0,1,0
+ENG-Premier League,2526,Leeds United,Sean Longstaff,23,10,1011,16,4,25.0,24,12,2,0,0,13,17
+ENG-Premier League,2526,Leeds United,Sebastiaan Bornauw,12,5,429,1,0,0.0,4,7,1,0,0,7,0
+ENG-Premier League,2526,Leeds United,Wilfried Gnonto,23,4,537,10,0,0.0,13,3,3,0,0,7,11
+ENG-Premier League,2526,Liverpool,Alexander Isak,14,8,699,17,6,35.3,6,0,0,0,0,5,1
+ENG-Premier League,2526,Liverpool,Alexis Mac Allister,37,31,2658,52,12,23.1,27,18,7,0,0,35,32
+ENG-Premier League,2526,Liverpool,Alisson,26,26,2340,0,0,,0,0,1,0,0,1,7
+ENG-Premier League,2526,Liverpool,Andy Robertson,24,11,1176,10,3,30.0,10,7,0,0,0,4,1
+ENG-Premier League,2526,Liverpool,Cody Gakpo,36,32,2737,87,21,24.1,15,12,3,0,0,42,44
+ENG-Premier League,2526,Liverpool,Conor Bradley,15,12,929,6,0,0.0,15,12,5,0,0,18,20
+ENG-Premier League,2526,Liverpool,Curtis Jones,34,18,1937,22,7,31.8,23,18,2,0,0,17,29
+ENG-Premier League,2526,Liverpool,Dominik Szoboszlai,36,36,3231,71,23,32.4,32,29,8,1,0,42,30
+ENG-Premier League,2526,Liverpool,Federico Chiesa,26,1,339,17,5,29.4,5,4,3,0,0,11,7
+ENG-Premier League,2526,Liverpool,Florian Wirtz,33,27,2378,51,18,35.3,26,12,1,0,0,22,19
+ENG-Premier League,2526,Liverpool,Freddie Woodman,3,2,213,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2526,Liverpool,Giorgi Mamardashvili,10,10,867,0,0,,1,1,0,0,0,1,2
+ENG-Premier League,2526,Liverpool,Harvey Elliott,1,0,1,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2526,Liverpool,Hugo Ekitike,28,21,1803,65,19,29.2,7,4,0,0,0,35,12
+ENG-Premier League,2526,Liverpool,Ibrahima Konaté,36,36,3090,12,4,33.3,31,28,7,0,0,33,41
+ENG-Premier League,2526,Liverpool,Jeremie Frimpong,21,12,1040,10,2,20.0,9,6,1,0,0,8,21
+ENG-Premier League,2526,Liverpool,Joe Gomez,21,7,607,5,1,20.0,7,8,4,0,0,14,0
+ENG-Premier League,2526,Liverpool,Milos Kerkez,34,27,2257,9,2,22.2,26,15,4,0,0,22,30
+ENG-Premier League,2526,Liverpool,Mohamed Salah,27,23,2146,68,19,27.9,12,3,1,0,0,10,16
+ENG-Premier League,2526,Liverpool,Rio Ngumoha,19,5,560,16,6,37.5,2,3,0,0,0,4,12
+ENG-Premier League,2526,Liverpool,Ryan Gravenberch,36,34,2992,38,13,34.2,35,44,5,0,0,38,42
+ENG-Premier League,2526,Liverpool,Trey Nyoni,6,0,24,1,0,0.0,0,0,0,0,0,1,0
+ENG-Premier League,2526,Liverpool,Virgil van Dijk,38,38,3420,30,14,46.7,15,26,4,0,0,19,18
+ENG-Premier League,2526,Liverpool,Wataru Endo,8,1,175,1,0,0.0,3,0,1,0,0,2,3
+ENG-Premier League,2526,Manchester City,Abdukodir Khusanov,21,15,1432,7,1,14.3,20,29,2,0,0,14,6
+ENG-Premier League,2526,Manchester City,Antoine Semenyo,17,17,1397,34,14,41.2,11,6,1,0,0,17,7
+ENG-Premier League,2526,Manchester City,Bernardo Silva,38,34,2872,30,7,23.3,28,21,10,0,0,36,22
+ENG-Premier League,2526,Manchester City,Divine Mukasa,2,0,27,0,0,,0,0,0,0,0,1,0
+ENG-Premier League,2526,Manchester City,Erling Haaland,35,34,2953,126,59,46.8,7,4,2,0,0,24,25
+ENG-Premier League,2526,Manchester City,Gianluigi Donnarumma,34,34,3060,0,0,,0,1,8,0,0,0,4
+ENG-Premier League,2526,Manchester City,James Trafford,4,4,360,0,0,,1,0,0,0,0,0,1
+ENG-Premier League,2526,Manchester City,Jeremy Doku,30,19,1784,39,15,38.5,16,12,0,0,0,23,61
+ENG-Premier League,2526,Manchester City,John Stones,9,5,439,0,0,,1,3,0,0,0,0,0
+ENG-Premier League,2526,Manchester City,Joško Gvardiol,18,16,1372,17,6,35.3,13,16,2,0,0,16,7
+ENG-Premier League,2526,Manchester City,Marc Guéhi,15,15,1350,17,5,29.4,12,25,2,0,0,11,20
+ENG-Premier League,2526,Manchester City,Mateo Kovačić,6,1,130,2,0,0.0,1,2,0,0,0,0,2
+ENG-Premier League,2526,Manchester City,Matheus Nunes,34,32,2862,7,2,28.6,41,29,5,0,0,17,30
+ENG-Premier League,2526,Manchester City,Max Alleyne,2,2,135,2,1,50.0,3,3,0,0,0,0,0
+ENG-Premier League,2526,Manchester City,Nathan Aké,18,6,695,7,1,14.3,6,5,1,0,0,3,8
+ENG-Premier League,2526,Manchester City,Nico O'Reilly,34,29,2646,41,15,36.6,36,20,5,0,0,45,18
+ENG-Premier League,2526,Manchester City,Nicolás González,25,17,1569,14,2,14.3,30,24,6,0,0,30,18
+ENG-Premier League,2526,Manchester City,Omar Marmoush,21,8,700,30,9,30.0,8,2,3,0,0,10,21
+ENG-Premier League,2526,Manchester City,Oscar Bobb,9,5,468,4,0,0.0,5,3,1,0,0,5,9
+ENG-Premier League,2526,Manchester City,Phil Foden,33,23,2086,55,19,34.5,16,10,4,0,0,18,31
+ENG-Premier League,2526,Manchester City,Rayan Aït-Nouri,17,12,974,10,2,20.0,21,13,2,0,0,17,10
+ENG-Premier League,2526,Manchester City,Rayan Cherki,33,19,1786,55,13,23.6,16,7,1,0,0,18,34
+ENG-Premier League,2526,Manchester City,Rico Lewis,11,4,407,3,0,0.0,4,7,2,0,0,5,9
+ENG-Premier League,2526,Manchester City,Rodri,21,17,1511,16,3,18.8,25,12,3,0,0,14,31
+ENG-Premier League,2526,Manchester City,Rúben Dias,26,24,2141,10,4,40.0,6,23,3,0,0,15,9
+ENG-Premier League,2526,Manchester City,Sávio,24,7,833,20,11,55.0,5,5,2,0,0,9,15
+ENG-Premier League,2526,Manchester City,Tijjani Reijnders,28,19,1631,49,16,32.7,4,11,2,0,0,19,15
+ENG-Premier League,2526,Manchester Utd,Altay Bayındır,6,6,540,0,0,,0,0,0,0,0,0,3
+ENG-Premier League,2526,Manchester Utd,Amad Diallo,32,27,2341,53,23,43.4,23,15,2,0,0,24,38
+ENG-Premier League,2526,Manchester Utd,Ayden Heaven,17,11,924,3,0,0.0,13,1,2,0,0,7,9
+ENG-Premier League,2526,Manchester Utd,Bendito Mantato,1,0,16,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2526,Manchester Utd,Benjamin Šeško,30,17,1643,61,34,55.7,3,3,2,0,0,17,6
+ENG-Premier League,2526,Manchester Utd,Bruno Fernandes,35,35,3063,85,24,28.2,35,21,5,0,0,24,35
+ENG-Premier League,2526,Manchester Utd,Bryan Mbeumo,33,31,2609,73,32,43.8,11,7,4,0,0,23,28
+ENG-Premier League,2526,Manchester Utd,Casemiro,34,33,2571,52,18,34.6,45,30,11,1,1,46,36
+ENG-Premier League,2526,Manchester Utd,Diogo Dalot,34,29,2614,24,6,25.0,30,26,5,0,0,25,14
+ENG-Premier League,2526,Manchester Utd,Harry Maguire,23,19,1653,14,4,28.6,17,12,3,1,0,16,16
+ENG-Premier League,2526,Manchester Utd,Jack Fletcher,3,0,108,1,0,0.0,1,1,0,0,0,2,1
+ENG-Premier League,2526,Manchester Utd,Joshua Zirkzee,24,5,626,25,9,36.0,6,1,3,0,0,8,6
+ENG-Premier League,2526,Manchester Utd,Kobbie Mainoo,28,16,1662,13,3,23.1,20,19,2,0,0,12,22
+ENG-Premier League,2526,Manchester Utd,Leny Yoro,32,18,1740,9,3,33.3,20,31,1,0,0,17,5
+ENG-Premier League,2526,Manchester Utd,Lisandro Martínez,18,13,1233,5,0,0.0,11,12,0,1,0,9,2
+ENG-Premier League,2526,Manchester Utd,Luke Shaw,38,38,3219,10,3,30.0,45,43,9,0,0,48,20
+ENG-Premier League,2526,Manchester Utd,Manuel Ugarte,22,8,887,13,1,7.7,30,20,1,0,0,24,15
+ENG-Premier League,2526,Manchester Utd,Mason Mount,23,12,1017,19,5,26.3,13,9,2,0,0,17,12
+ENG-Premier League,2526,Manchester Utd,Matheus Cunha,33,29,2494,90,35,38.9,23,21,4,0,0,28,54
+ENG-Premier League,2526,Manchester Utd,Matthijs de Ligt,13,13,1170,11,3,27.3,13,11,0,0,0,6,5
+ENG-Premier League,2526,Manchester Utd,Noussair Mazraoui,20,11,985,5,0,0.0,15,11,3,0,0,12,14
+ENG-Premier League,2526,Manchester Utd,Patrick Dorgu,26,15,1449,25,11,44.0,30,16,5,0,0,23,47
+ENG-Premier League,2526,Manchester Utd,Senne Lammens,32,32,2880,0,0,,1,0,0,0,0,0,4
+ENG-Premier League,2526,Manchester Utd,Shea Lacey,3,0,43,4,1,25.0,0,0,0,0,0,2,2
+ENG-Premier League,2526,Manchester Utd,Tyler Fletcher,2,0,18,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2526,Manchester Utd,Tyler Fredricson,1,0,3,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2526,Manchester Utd,Tyrell Malacia,3,0,18,0,0,,1,0,0,0,0,0,0
+ENG-Premier League,2526,Newcastle,Aaron Ramsdale,12,11,1004,0,0,,0,0,2,0,0,0,1
+ENG-Premier League,2526,Newcastle,Alex Murphy,2,0,9,0,0,,0,1,0,0,0,0,0
+ENG-Premier League,2526,Newcastle,Anthony Elanga,32,14,1319,17,4,23.5,11,3,0,0,0,8,25
+ENG-Premier League,2526,Newcastle,Anthony Gordon,26,24,1795,48,20,41.7,13,3,3,1,0,13,40
+ENG-Premier League,2526,Newcastle,Bruno Guimarães,29,27,2453,42,23,54.8,41,16,6,0,0,45,75
+ENG-Premier League,2526,Newcastle,Dan Burn,29,25,2199,10,3,30.0,26,20,11,1,1,36,13
+ENG-Premier League,2526,Newcastle,Emil Krafth,1,1,45,0,0,,0,0,0,0,0,1,0
+ENG-Premier League,2526,Newcastle,Fabian Schär,16,11,1091,17,4,23.5,9,16,1,0,0,15,7
+ENG-Premier League,2526,Newcastle,Harvey Barnes,37,19,1966,58,21,36.2,5,3,1,0,0,17,23
+ENG-Premier League,2526,Newcastle,Jacob Murphy,33,19,1617,42,13,31.0,12,6,2,0,0,9,13
+ENG-Premier League,2526,Newcastle,Jacob Ramsey,28,15,1450,16,4,25.0,21,9,5,1,1,16,14
+ENG-Premier League,2526,Newcastle,Jamaal Lascelles,2,0,21,1,0,0.0,0,0,0,0,0,0,0
+ENG-Premier League,2526,Newcastle,Joe Willock,24,10,983,17,6,35.3,15,7,3,0,0,16,11
+ENG-Premier League,2526,Newcastle,Joelinton,27,23,1951,32,11,34.4,23,28,10,0,0,46,27
+ENG-Premier League,2526,Newcastle,Kieran Trippier,21,18,1586,2,0,0.0,13,7,3,0,0,22,19
+ENG-Premier League,2526,Newcastle,Lewis Hall,30,24,2181,25,6,24.0,31,29,4,0,0,17,40
+ENG-Premier League,2526,Newcastle,Lewis Miley,23,15,1496,12,4,33.3,18,20,0,0,0,5,4
+ENG-Premier League,2526,Newcastle,Malick Thiaw,35,33,2965,28,14,50.0,34,30,4,0,0,24,11
+ENG-Premier League,2526,Newcastle,Nick Pope,27,27,2416,1,1,100.0,1,0,2,0,0,1,2
+ENG-Premier League,2526,Newcastle,Nick Woltemade,33,24,1902,32,13,40.6,13,5,0,0,0,20,20
+ENG-Premier League,2526,Newcastle,Sandro Tonali,35,31,2534,37,8,21.6,25,28,4,0,0,24,42
+ENG-Premier League,2526,Newcastle,Sean Neave,1,0,14,1,0,0.0,0,0,0,0,0,0,0
+ENG-Premier League,2526,Newcastle,Sven Botman,25,21,1835,15,4,26.7,14,25,2,0,0,13,19
+ENG-Premier League,2526,Newcastle,Tino Livramento,17,14,1328,3,0,0.0,14,2,1,0,0,7,16
+ENG-Premier League,2526,Newcastle,William Osula,24,8,819,23,12,52.2,5,1,0,0,0,24,16
+ENG-Premier League,2526,Newcastle,Yoane Wissa,19,4,531,13,5,38.5,5,0,3,0,0,6,2
+ENG-Premier League,2526,Nottingham,Angus Gunn,1,0,45,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2526,Nottingham,Arnaud Kalimuendo,9,0,96,4,1,25.0,1,0,0,0,0,2,0
+ENG-Premier League,2526,Nottingham,Callum Hudson-Odoi,30,21,1841,30,10,33.3,7,8,0,0,0,12,12
+ENG-Premier League,2526,Nottingham,Chris Wood,15,11,901,23,9,39.1,1,1,0,0,0,6,6
+ENG-Premier League,2526,Nottingham,Dan Ndoye,24,14,1173,15,4,26.7,11,10,1,0,0,16,22
+ENG-Premier League,2526,Nottingham,Dilane Bakwa,14,6,553,9,3,33.3,3,0,1,0,0,9,14
+ENG-Premier League,2526,Nottingham,Douglas Luiz,8,5,315,5,1,20.0,3,7,2,0,0,4,5
+ENG-Premier League,2526,Nottingham,Elliot Anderson,38,37,3331,44,10,22.7,60,41,8,0,0,57,80
+ENG-Premier League,2526,Nottingham,Ibrahim Sangaré,28,25,2075,16,5,31.3,32,22,5,0,0,42,18
+ENG-Premier League,2526,Nottingham,Igor Jesus,37,28,2298,70,21,30.0,16,2,2,0,0,42,40
+ENG-Premier League,2526,Nottingham,Jair Cunha,9,6,517,3,1,33.3,5,5,0,0,0,0,6
+ENG-Premier League,2526,Nottingham,James Mcatee,14,2,298,4,0,0.0,4,3,1,0,0,4,5
+ENG-Premier League,2526,Nottingham,John,5,5,437,0,0,,0,0,1,0,0,0,0
+ENG-Premier League,2526,Nottingham,Jota Silva,1,0,12,0,0,,1,0,0,0,0,0,1
+ENG-Premier League,2526,Nottingham,Lorenzo Lucca,4,1,129,4,1,25.0,0,1,0,0,0,1,2
+ENG-Premier League,2526,Nottingham,Luca Netz,7,3,357,0,0,,8,1,0,0,0,5,2
+ENG-Premier League,2526,Nottingham,Matz Sels,31,30,2668,0,0,,1,0,2,0,0,0,4
+ENG-Premier League,2526,Nottingham,Morato,21,14,1345,5,2,40.0,18,11,5,0,0,16,7
+ENG-Premier League,2526,Nottingham,Morgan Gibbs-White,37,35,3097,83,32,38.6,16,12,1,0,0,26,41
+ENG-Premier League,2526,Nottingham,Murillo,25,25,2130,11,4,36.4,23,29,5,0,0,23,7
+ENG-Premier League,2526,Nottingham,Neco Williams,37,36,3204,46,19,41.3,61,46,6,1,0,29,52
+ENG-Premier League,2526,Nottingham,Nicolás Domínguez,27,17,1175,18,5,27.8,30,6,3,0,0,16,11
+ENG-Premier League,2526,Nottingham,Nicolò Savona,14,11,1028,5,3,60.0,12,5,2,0,0,12,5
+ENG-Premier League,2526,Nottingham,Nikola Milenković,38,37,3375,16,1,6.3,19,29,6,0,0,21,20
+ENG-Premier League,2526,Nottingham,Ola Aina,18,18,1588,12,1,8.3,21,26,3,0,0,13,15
+ENG-Premier League,2526,Nottingham,Oleksandr Zinchenko,5,4,353,4,2,50.0,6,2,0,0,0,1,2
+ENG-Premier League,2526,Nottingham,Omari Hutchinson,31,17,1688,25,11,44.0,11,11,1,0,0,23,24
+ENG-Premier League,2526,Nottingham,Ryan Yates,22,2,617,9,2,22.2,10,9,3,0,0,13,13
+ENG-Premier League,2526,Nottingham,Stefan Ortega,3,3,270,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2526,Nottingham,Taiwo Awoniyi,17,3,494,15,8,53.3,1,1,2,0,0,10,7
+ENG-Premier League,2526,Nottingham,Zach Abbott,3,2,164,0,0,,4,2,0,0,0,3,1
+ENG-Premier League,2526,Sunderland,Arthur Masuaku,3,2,126,1,0,0.0,2,2,1,0,0,3,0
+ENG-Premier League,2526,Sunderland,Bertrand Traoré,12,9,632,12,6,50.0,4,2,1,0,0,11,12
+ENG-Premier League,2526,Sunderland,Brian Brobbey,31,22,1927,36,18,50.0,2,0,6,0,0,33,37
+ENG-Premier League,2526,Sunderland,Chemsdine Talbi,28,16,1561,25,10,40.0,6,3,0,0,0,5,1
+ENG-Premier League,2526,Sunderland,Chris Rigg,18,11,761,12,3,25.0,8,4,1,0,0,8,8
+ENG-Premier League,2526,Sunderland,Dan Neil,3,0,14,0,0,,0,1,0,0,0,0,1
+ENG-Premier League,2526,Sunderland,Daniel Ballard,29,24,2149,26,9,34.6,17,20,4,1,0,29,29
+ENG-Premier League,2526,Sunderland,Dennis Cirkin,8,3,323,1,0,0.0,5,5,2,0,0,4,2
+ENG-Premier League,2526,Sunderland,Eliezer Mayenda,20,8,759,13,6,46.2,3,1,0,0,0,6,11
+ENG-Premier League,2526,Sunderland,Enzo Le Fée,36,33,2930,36,12,33.3,56,28,5,0,0,31,37
+ENG-Premier League,2526,Sunderland,Granit Xhaka,34,32,2904,21,5,23.8,33,29,8,0,0,23,40
+ENG-Premier League,2526,Sunderland,Habib Diarra,20,15,1405,26,8,30.8,7,4,6,0,0,19,27
+ENG-Premier League,2526,Sunderland,Jenson Seelt,2,1,134,0,0,,0,0,0,0,0,1,1
+ENG-Premier League,2526,Sunderland,Jocelin Ta Bi,1,1,38,0,0,,0,0,0,0,0,0,1
+ENG-Premier League,2526,Sunderland,Luke O'Nien,12,5,569,4,1,25.0,6,6,1,1,0,7,8
+ENG-Premier League,2526,Sunderland,Lutsharel Geertruida,28,17,1693,11,3,27.3,22,20,2,0,0,15,7
+ENG-Premier League,2526,Sunderland,Marc Guiu,2,0,15,1,0,0.0,0,0,0,0,0,0,0
+ENG-Premier League,2526,Sunderland,Melker Ellborg,3,3,270,0,0,,0,0,0,0,0,0,1
+ENG-Premier League,2526,Sunderland,Nilson Angulo,8,5,404,7,3,42.9,7,5,1,0,0,11,3
+ENG-Premier League,2526,Sunderland,Noah Sadiki,33,33,2889,19,5,26.3,26,33,9,0,0,31,40
+ENG-Premier League,2526,Sunderland,Nordi Mukiele,32,32,2784,26,4,15.4,45,37,5,0,0,35,26
+ENG-Premier League,2526,Sunderland,Omar Alderete,33,32,2798,24,9,37.5,18,36,6,0,0,34,10
+ENG-Premier League,2526,Sunderland,Patrick Roberts,1,0,28,1,0,0.0,0,0,0,0,0,0,0
+ENG-Premier League,2526,Sunderland,Reinildo Mandava,25,23,1966,4,0,0.0,23,29,7,1,0,32,35
+ENG-Premier League,2526,Sunderland,Robin Roefs,35,35,3150,0,0,,0,0,4,0,0,0,14
+ENG-Premier League,2526,Sunderland,Romaine Mundle,14,2,411,7,2,28.6,4,1,1,0,0,7,8
+ENG-Premier League,2526,Sunderland,Simon Adingra,14,9,653,6,2,33.3,8,2,2,0,0,18,3
+ENG-Premier League,2526,Sunderland,Trai Hume,38,34,3036,34,7,20.6,46,25,9,0,0,30,38
+ENG-Premier League,2526,Sunderland,Wilson Isidor,32,11,1165,43,17,39.5,8,2,1,0,0,14,7
+ENG-Premier League,2526,Tottenham,Antonín Kinský,7,7,630,0,0,,0,0,1,0,0,0,1
+ENG-Premier League,2526,Tottenham,Archie Gray,24,18,1478,11,5,45.5,8,17,5,0,0,12,2
+ENG-Premier League,2526,Tottenham,Ben Davies,3,2,137,2,2,100.0,4,1,1,0,0,2,0
+ENG-Premier League,2526,Tottenham,Brennan Johnson,16,6,610,6,2,33.3,9,2,2,0,0,2,4
+ENG-Premier League,2526,Tottenham,Callum Olusesi,1,0,15,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2526,Tottenham,Conor Gallagher,16,14,1184,11,4,36.4,14,18,2,0,0,25,23
+ENG-Premier League,2526,Tottenham,Cristian Romero,23,22,1868,17,6,35.3,30,31,11,2,1,32,16
+ENG-Premier League,2526,Tottenham,Dane Scarlett,2,0,9,0,0,,0,0,0,0,0,1,0
+ENG-Premier League,2526,Tottenham,Destiny Udogie,20,14,1338,4,1,25.0,20,7,4,0,0,17,22
+ENG-Premier League,2526,Tottenham,Djed Spence,30,23,2056,13,8,61.5,25,15,4,0,0,28,21
+ENG-Premier League,2526,Tottenham,Dominic Solanke,15,11,1001,20,11,55.0,16,3,1,0,0,12,9
+ENG-Premier League,2526,Tottenham,Guglielmo Vicario,31,31,2790,0,0,,1,0,1,0,0,0,3
+ENG-Premier League,2526,Tottenham,James Maddison,3,0,37,2,0,0.0,1,0,0,0,0,1,1
+ENG-Premier League,2526,Tottenham,James Rowswell,1,0,1,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2526,Tottenham,João Palhinha,33,23,2198,33,9,27.3,61,28,8,0,0,28,36
+ENG-Premier League,2526,Tottenham,Jun'ai Byfield,1,0,1,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2526,Tottenham,Kevin Danso,24,17,1494,11,2,18.2,13,25,8,0,0,21,13
+ENG-Premier League,2526,Tottenham,Lucas Bergvall,23,11,965,12,5,41.7,14,3,2,0,0,24,7
+ENG-Premier League,2526,Tottenham,Mathys Tel,31,13,1349,35,8,22.9,12,5,1,0,0,19,23
+ENG-Premier League,2526,Tottenham,Micky van de Ven,35,35,3041,16,6,37.5,20,21,9,1,0,28,22
+ENG-Premier League,2526,Tottenham,Mohammed Kudus,19,19,1535,26,9,34.6,17,3,3,0,0,23,15
+ENG-Premier League,2526,Tottenham,Pape Matar Sarr,26,13,1398,17,6,35.3,21,14,3,0,0,29,13
+ENG-Premier League,2526,Tottenham,Pedro Porro,34,32,2796,32,8,25.0,50,31,10,0,0,32,26
+ENG-Premier League,2526,Tottenham,Radu Drăgușin,10,5,517,4,0,0.0,3,16,0,0,0,9,1
+ENG-Premier League,2526,Tottenham,Randal Kolo Muani,30,21,1664,20,4,20.0,16,2,3,0,0,41,17
+ENG-Premier League,2526,Tottenham,Richarlison,32,20,1964,61,26,42.6,16,7,5,0,0,23,33
+ENG-Premier League,2526,Tottenham,Rodrigo Bentancur,26,23,1883,13,3,23.1,36,36,7,0,0,19,8
+ENG-Premier League,2526,Tottenham,Souza,4,2,144,1,1,100.0,0,2,1,0,0,3,2
+ENG-Premier League,2526,Tottenham,Wilson Odobert,24,10,985,21,8,38.1,8,0,0,0,0,2,10
+ENG-Premier League,2526,Tottenham,Xavi Simons,28,19,1755,42,10,23.8,20,15,5,1,0,21,44
+ENG-Premier League,2526,Tottenham,Yves Bissouma,11,7,603,5,2,40.0,11,8,4,0,0,8,6
+ENG-Premier League,2526,West Ham,Aaron Wan-Bissaka,25,23,2081,0,0,,24,41,4,0,0,23,12
+ENG-Premier League,2526,West Ham,Adama Traoré,9,0,121,2,0,0.0,1,0,1,0,0,1,0
+ENG-Premier League,2526,West Ham,Alphonse Areola,20,20,1800,0,0,,0,1,0,0,0,1,1
+ENG-Premier League,2526,West Ham,Andy Irving,7,2,158,0,0,,4,1,0,0,0,1,0
+ENG-Premier League,2526,West Ham,Axel Disasi,14,14,1254,5,3,60.0,10,12,1,0,0,5,4
+ENG-Premier League,2526,West Ham,Callum Marshall,2,0,60,1,0,0.0,0,2,0,0,0,0,0
+ENG-Premier League,2526,West Ham,Callum Wilson,32,11,1251,38,16,42.1,2,3,1,0,0,12,14
+ENG-Premier League,2526,West Ham,Crysencio Summerville,31,29,2470,54,15,27.8,26,15,6,0,0,49,67
+ENG-Premier League,2526,West Ham,El Hadji Malick Diouf,32,30,2707,18,4,22.2,19,32,6,0,0,28,25
+ENG-Premier League,2526,West Ham,Ezra Mayers,6,0,117,1,0,0.0,0,1,0,0,0,0,0
+ENG-Premier League,2526,West Ham,Freddie Potts,22,12,1171,3,1,33.3,18,16,1,0,0,15,14
+ENG-Premier League,2526,West Ham,George Earthy,1,0,9,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2526,West Ham,Guido Rodríguez,6,2,180,1,0,0.0,0,2,1,0,0,2,4
+ENG-Premier League,2526,West Ham,Igor,4,1,105,0,0,,0,1,0,0,0,1,0
+ENG-Premier League,2526,West Ham,James Ward-Prowse,5,5,413,2,0,0.0,2,6,0,0,0,4,2
+ENG-Premier League,2526,West Ham,Jarrod Bowen,38,38,3403,79,28,35.4,28,27,4,0,0,19,49
+ENG-Premier League,2526,West Ham,Jean-Clair Todibo,23,22,1814,2,0,0.0,24,16,5,1,0,9,3
+ENG-Premier League,2526,West Ham,Konstantinos Mavropanos,31,27,2534,23,8,34.8,24,47,2,0,0,16,9
+ENG-Premier League,2526,West Ham,Kyle Walker-Peters,23,15,1383,5,3,60.0,30,9,2,0,0,12,25
+ENG-Premier League,2526,West Ham,Lucas Paquetá,18,18,1511,23,11,47.8,22,7,7,1,1,27,30
+ENG-Premier League,2526,West Ham,Luis Guilherme,5,1,125,1,0,0.0,1,0,0,0,0,0,0
+ENG-Premier League,2526,West Ham,Mads Hermansen,18,18,1620,0,0,,0,0,0,0,0,0,2
+ENG-Premier League,2526,West Ham,Mateus Fernandes,36,35,3016,28,8,28.6,67,36,7,0,0,49,49
+ENG-Premier League,2526,West Ham,Max Kilman,21,17,1561,7,1,14.3,8,6,4,0,0,16,2
+ENG-Premier League,2526,West Ham,Mohamadou Kanté,11,0,75,2,0,0.0,4,0,2,0,0,4,1
+ENG-Premier League,2526,West Ham,Nayef Aguerd,2,2,180,2,0,0.0,0,1,0,0,0,0,1
+ENG-Premier League,2526,West Ham,Niclas Füllkrug,8,5,409,9,3,33.3,1,2,0,0,0,11,1
+ENG-Premier League,2526,West Ham,Oliver Scarles,13,9,659,3,0,0.0,19,13,2,0,0,7,7
+ENG-Premier League,2526,West Ham,Pablo,14,10,823,12,3,25.0,14,5,0,0,0,23,8
+ENG-Premier League,2526,West Ham,Soungoutou Magassa,22,11,981,7,2,28.6,23,17,4,0,0,17,17
+ENG-Premier League,2526,West Ham,Tomáš Souček,35,24,2200,26,14,53.8,23,16,3,1,0,37,22
+ENG-Premier League,2526,West Ham,Valentín Castellanos,18,17,1384,50,22,44.0,9,6,6,0,0,32,16
+ENG-Premier League,2526,Wolves,Adam Armstrong,14,14,1140,18,6,33.3,4,1,3,0,0,12,3
+ENG-Premier League,2526,Wolves,André,35,30,2762,15,1,6.7,42,25,12,0,0,47,43
+ENG-Premier League,2526,Wolves,Angel Gomes,12,7,461,6,2,33.3,5,1,1,0,0,7,9
+ENG-Premier League,2526,Wolves,Daniel Bentley,3,3,270,0,0,,0,0,0,0,0,0,2
+ENG-Premier League,2526,Wolves,David Møller Wolfe,22,11,1049,3,0,0.0,5,7,1,0,0,10,4
+ENG-Premier League,2526,Wolves,Emmanuel Agbadou,14,12,1101,10,3,30.0,21,14,1,1,0,10,5
+ENG-Premier League,2526,Wolves,Fer López,9,2,235,5,1,20.0,1,0,1,0,0,6,4
+ENG-Premier League,2526,Wolves,Hugo Bueno,35,26,2366,16,6,37.5,35,33,3,0,0,17,24
+ENG-Premier League,2526,Wolves,Hwang Hee-chan,26,18,1446,19,6,31.6,4,12,5,0,0,28,18
+ENG-Premier League,2526,Wolves,Jackson Tchatchoua,31,19,1845,3,1,33.3,15,14,3,0,0,8,9
+ENG-Premier League,2526,Wolves,Jean-Ricner Bellegarde,26,15,1248,21,7,33.3,15,9,5,0,0,20,41
+ENG-Premier League,2526,Wolves,Jerome Abbey,1,0,17,0,0,,0,1,0,0,0,0,0
+ENG-Premier League,2526,Wolves,Jhon Arias,23,14,1124,16,3,18.8,27,7,1,0,0,26,9
+ENG-Premier League,2526,Wolves,José Sá,23,23,2070,0,0,,0,0,2,0,0,0,6
+ENG-Premier League,2526,Wolves,João Gomes,35,32,2829,19,7,36.8,68,36,10,0,0,69,49
+ENG-Premier League,2526,Wolves,Jørgen Strand Larsen,22,14,1404,21,7,33.3,2,3,2,0,0,30,11
+ENG-Premier League,2526,Wolves,Ki-Jana Hoever,8,6,425,1,1,100.0,11,5,0,0,0,3,3
+ENG-Premier League,2526,Wolves,Ladislav Krejčí,28,27,2356,21,10,47.6,21,32,5,1,1,33,7
+ENG-Premier League,2526,Wolves,Marshall Munetsi,13,9,875,14,6,42.9,13,5,2,0,0,19,10
+ENG-Premier League,2526,Wolves,Mateus Mane,27,19,1795,41,17,41.5,13,5,0,0,0,26,47
+ENG-Premier League,2526,Wolves,Matt Doherty,11,11,787,3,0,0.0,8,7,4,0,0,16,6
+ENG-Premier League,2526,Wolves,Pedro Lima,9,3,260,4,1,25.0,5,4,0,0,0,6,1
+ENG-Premier League,2526,Wolves,Rodrigo Gomes,22,9,960,20,6,30.0,18,11,0,0,0,6,8
+ENG-Premier League,2526,Wolves,Sam Johnstone,12,12,1080,0,0,,1,0,0,0,0,0,0
+ENG-Premier League,2526,Wolves,Santiago Bueno,29,28,2553,10,7,70.0,30,27,4,0,0,29,11
+ENG-Premier League,2526,Wolves,Saša Kalajdžić,1,0,15,0,0,,0,1,0,0,0,0,0
+ENG-Premier League,2526,Wolves,Tawanda Chirewa,2,0,27,0,0,,0,0,0,0,0,3,1
+ENG-Premier League,2526,Wolves,Tolu Arokodare,33,13,1419,46,16,34.8,4,5,1,0,0,18,17
+ENG-Premier League,2526,Wolves,Tom Edozie,3,0,14,2,1,50.0,0,0,0,0,0,0,0
+ENG-Premier League,2526,Wolves,Toti Gomes,19,17,1424,5,2,40.0,11,13,2,1,0,11,11
+ENG-Premier League,2526,Wolves,Yerson Mosquera,27,24,2136,30,6,20.0,36,25,12,0,0,34,44

@@ -1,0 +1,610 @@
+league,season,team,player,mp,starts,minutes,shots,shots_on_target,shots_on_target_pct,tackles_won,interceptions,yellow_cards,red_cards,second_yellow_cards,fouls_committed,fouls_drawn
+ESP-La Liga,2324,Alavés,Abde Rebbach,23,6,722,17,4,23.5,5,4,1,0,0,13,10
+ESP-La Liga,2324,Alavés,Abdel Abqar,27,27,2312,10,3,30.0,21,25,10,0,0,32,23
+ESP-La Liga,2324,Alavés,Aleksandar Sedlar,11,11,946,4,1,25.0,8,15,2,0,0,14,4
+ESP-La Liga,2324,Alavés,Alex Sola,29,14,1262,28,7,25.0,15,10,2,0,0,11,28
+ESP-La Liga,2324,Alavés,Ander Guevara,37,33,2932,16,3,18.8,34,14,7,0,0,49,30
+ESP-La Liga,2324,Alavés,Andoni Gorosabel,36,33,2854,15,6,40.0,40,25,6,0,0,29,41
+ESP-La Liga,2324,Alavés,Antonio Blanco,33,29,2426,20,3,15.0,37,33,5,1,0,35,40
+ESP-La Liga,2324,Alavés,Antonio Sivera,34,34,3060,0,0,,0,0,3,0,0,0,2
+ESP-La Liga,2324,Alavés,Carlos Benavídez,29,10,1136,14,7,50.0,35,18,5,0,0,37,9
+ESP-La Liga,2324,Alavés,Carlos Vicente,18,12,1114,15,8,53.3,7,5,1,0,0,18,25
+ESP-La Liga,2324,Alavés,Eneko Ortiz,1,0,14,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2324,Alavés,Giuliano Simeone,14,6,630,15,3,20.0,5,5,1,0,0,11,6
+ESP-La Liga,2324,Alavés,Ianis Hagi,22,8,804,27,9,33.3,12,4,3,0,0,13,19
+ESP-La Liga,2324,Alavés,Javi López,32,25,2386,18,3,16.7,12,11,3,0,0,26,28
+ESP-La Liga,2324,Alavés,Jesús Owono,4,4,360,0,0,,0,0,1,0,0,0,0
+ESP-La Liga,2324,Alavés,Joaquín Panichelli,8,2,226,9,2,22.2,3,1,0,0,0,8,4
+ESP-La Liga,2324,Alavés,Jon Guridi,36,34,2678,36,8,22.2,24,19,2,0,0,22,30
+ESP-La Liga,2324,Alavés,Jon Karrikaburu,2,0,16,0,0,,0,0,0,0,0,1,0
+ESP-La Liga,2324,Alavés,Kiké,33,15,1423,57,26,45.6,5,2,3,0,0,24,36
+ESP-La Liga,2324,Alavés,Luis Rioja,37,31,2498,57,19,33.3,19,17,4,0,0,23,18
+ESP-La Liga,2324,Alavés,Mamadou Sylla,2,0,18,0,0,,0,0,0,0,0,1,2
+ESP-La Liga,2324,Alavés,Miguel,3,1,65,2,1,50.0,0,0,0,0,0,2,3
+ESP-La Liga,2324,Alavés,Nahuel Tenaglia,25,11,1141,8,1,12.5,15,13,5,0,0,13,14
+ESP-La Liga,2324,Alavés,Rafa Marín,33,27,2443,13,3,23.1,18,31,6,0,0,28,16
+ESP-La Liga,2324,Alavés,Rubén Duarte,28,21,1878,15,5,33.3,17,20,7,0,0,31,31
+ESP-La Liga,2324,Alavés,Samu Omorodion,34,21,1918,64,25,39.1,3,1,6,0,0,30,30
+ESP-La Liga,2324,Alavés,Tomás Mendes,1,0,6,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2324,Alavés,Unai Ropero,1,0,5,0,0,,0,0,0,0,0,1,0
+ESP-La Liga,2324,Alavés,Victor Parada,2,0,3,0,0,,1,0,0,0,0,0,0
+ESP-La Liga,2324,Alavés,Xeber,10,3,302,5,0,0.0,5,1,1,0,0,9,0
+ESP-La Liga,2324,Almería,Adri Embarba,36,29,2476,64,25,39.1,38,15,5,0,0,37,41
+ESP-La Liga,2324,Almería,Alejandro Pozo Pozo,21,9,976,4,2,50.0,13,7,3,0,0,16,6
+ESP-La Liga,2324,Almería,Aleksandar Radovanović,9,8,569,1,0,0.0,7,11,2,0,0,7,2
+ESP-La Liga,2324,Almería,Anthony Lozano,13,10,772,23,9,39.1,5,3,1,0,0,22,20
+ESP-La Liga,2324,Almería,Arnau Puigmal,11,3,255,0,0,,1,3,3,0,0,7,4
+ESP-La Liga,2324,Almería,Bruno Langa,11,9,820,8,2,25.0,11,5,1,1,0,4,12
+ESP-La Liga,2324,Almería,Chumi,31,26,2434,5,1,20.0,23,15,4,0,0,23,8
+ESP-La Liga,2324,Almería,César Montes,21,21,1788,13,2,15.4,15,10,5,0,0,22,11
+ESP-La Liga,2324,Almería,Diego Mariño,1,1,90,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2324,Almería,Dion Lopy,30,23,1916,23,8,34.8,36,14,5,0,0,30,40
+ESP-La Liga,2324,Almería,Fernando,4,4,360,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2324,Almería,Gonzalo Melero,28,10,1103,14,4,28.6,9,4,3,0,0,21,17
+ESP-La Liga,2324,Almería,Houboulang Mendes,7,4,396,1,0,0.0,14,2,0,0,0,6,10
+ESP-La Liga,2324,Almería,Ibrahima Koné,9,2,277,4,2,50.0,0,0,0,0,0,3,4
+ESP-La Liga,2324,Almería,Iddrisu Baba,25,14,1430,8,2,25.0,24,11,5,0,0,29,34
+ESP-La Liga,2324,Almería,Jonathan Viera,12,12,912,12,5,41.7,9,4,3,1,1,10,16
+ESP-La Liga,2324,Almería,Kaiky,8,5,523,3,1,33.3,4,3,2,0,0,7,0
+ESP-La Liga,2324,Almería,Largie Ramazani,29,16,1555,40,13,32.5,7,35,11,2,2,27,24
+ESP-La Liga,2324,Almería,Lucas Robertone,33,29,2381,37,13,35.1,35,47,11,0,0,38,54
+ESP-La Liga,2324,Almería,Luis Suárez,15,10,917,40,14,35.0,5,0,3,0,0,18,17
+ESP-La Liga,2324,Almería,Luka Romero,13,5,438,8,3,37.5,1,1,2,0,0,8,11
+ESP-La Liga,2324,Almería,Luís Maximiano,33,33,2970,0,0,,0,0,1,0,0,1,3
+ESP-La Liga,2324,Almería,Lázaro,14,2,285,8,4,50.0,1,1,0,0,0,3,7
+ESP-La Liga,2324,Almería,Léo Baptistão,32,22,1837,48,18,37.5,16,12,6,1,0,21,29
+ESP-La Liga,2324,Almería,Marc Pubill,23,22,1883,20,5,25.0,26,14,2,0,0,21,34
+ESP-La Liga,2324,Almería,Marciano Tchami,6,0,43,1,0,0.0,0,0,0,0,0,0,0
+ESP-La Liga,2324,Almería,Marcos Peña,7,4,441,4,1,25.0,14,13,3,0,0,8,4
+ESP-La Liga,2324,Almería,Marko Milovanović,11,2,308,5,1,20.0,4,0,0,0,0,15,6
+ESP-La Liga,2324,Almería,Paco Sanz,1,0,24,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2324,Almería,Rachad Fettal,1,0,17,1,0,0.0,0,0,0,0,0,1,0
+ESP-La Liga,2324,Almería,Sergio Akieme,19,19,1675,9,5,55.6,15,10,2,0,0,18,17
+ESP-La Liga,2324,Almería,Sergio Arribas,34,22,2047,60,22,36.7,17,14,1,0,0,14,42
+ESP-La Liga,2324,Almería,Srđan Babić,1,1,90,1,0,0.0,2,0,0,0,0,2,0
+ESP-La Liga,2324,Almería,Álex Centelles,14,11,980,2,1,50.0,7,16,2,0,0,10,13
+ESP-La Liga,2324,Almería,Édgar González,31,30,2522,13,3,23.1,21,35,7,1,1,29,7
+ESP-La Liga,2324,Athletic Club,Adu Ares,12,2,265,4,0,0.0,4,1,2,0,0,5,12
+ESP-La Liga,2324,Athletic Club,Aingeru Olabarrieta,1,0,9,1,0,0.0,0,0,0,0,0,0,0
+ESP-La Liga,2324,Athletic Club,Aitor Paredes,34,31,2704,13,3,23.1,12,31,9,1,1,37,11
+ESP-La Liga,2324,Athletic Club,Ander Herrera,23,10,1030,14,2,14.3,33,16,4,0,0,21,11
+ESP-La Liga,2324,Athletic Club,Asier Villalibre,18,4,513,12,6,50.0,1,0,0,0,0,7,11
+ESP-La Liga,2324,Athletic Club,Beñat Prados,26,16,1449,7,4,57.1,28,23,1,0,0,29,24
+ESP-La Liga,2324,Athletic Club,Dani García,17,7,745,6,3,50.0,11,8,4,0,0,11,7
+ESP-La Liga,2324,Athletic Club,Daniel Vivian,33,31,2878,11,1,9.1,29,29,6,0,0,37,26
+ESP-La Liga,2324,Athletic Club,Gorka Guruzeta,32,30,2217,65,31,47.7,22,15,2,0,0,44,23
+ESP-La Liga,2324,Athletic Club,Iker Muniain,20,5,594,13,7,53.8,1,0,1,0,0,5,11
+ESP-La Liga,2324,Athletic Club,Imanol,9,5,525,1,0,0.0,6,9,2,0,0,5,2
+ESP-La Liga,2324,Athletic Club,Iñaki Williams,34,32,2844,93,43,46.2,18,13,4,0,0,32,45
+ESP-La Liga,2324,Athletic Club,Iñigo Lekue,27,22,2002,5,0,0.0,21,16,4,0,0,15,7
+ESP-La Liga,2324,Athletic Club,Iñigo Ruiz de Galarreta,29,25,2091,11,2,18.2,32,12,7,0,0,54,41
+ESP-La Liga,2324,Athletic Club,Julen Agirrezabala,4,2,238,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2324,Athletic Club,Mikel Jauregizar,7,1,151,2,0,0.0,0,0,0,0,0,4,1
+ESP-La Liga,2324,Athletic Club,Mikel Vesga,27,18,1534,19,7,36.8,20,31,2,0,0,28,6
+ESP-La Liga,2324,Athletic Club,Nico Williams,31,29,2263,56,19,33.9,12,4,6,1,1,19,37
+ESP-La Liga,2324,Athletic Club,Oihan Sancet,30,25,1975,42,12,28.6,11,10,5,2,1,30,35
+ESP-La Liga,2324,Athletic Club,Peru Nolaskoain,2,0,10,0,0,,1,0,0,0,0,0,0
+ESP-La Liga,2324,Athletic Club,Raúl García,20,1,420,10,1,10.0,6,2,3,0,0,20,10
+ESP-La Liga,2324,Athletic Club,Unai Gómez,25,9,875,16,8,50.0,9,2,1,0,0,11,20
+ESP-La Liga,2324,Athletic Club,Unai Simón,36,36,3182,0,0,,1,1,2,0,0,0,8
+ESP-La Liga,2324,Athletic Club,Yeray Álvarez,19,14,1152,7,2,28.6,9,10,1,1,0,15,14
+ESP-La Liga,2324,Athletic Club,Yuri Berchiche,27,22,1930,18,6,33.3,26,19,5,0,0,29,33
+ESP-La Liga,2324,Athletic Club,Álex Berenguer,35,15,1592,32,12,37.5,15,5,4,0,0,30,22
+ESP-La Liga,2324,Athletic Club,Óscar de Marcos,28,26,2258,5,2,40.0,41,12,5,0,0,22,12
+ESP-La Liga,2324,Atlético Madrid,Abdellah Raihani,1,0,10,0,0,,0,0,0,0,0,0,1
+ESP-La Liga,2324,Atlético Madrid,Antoine Griezmann,33,31,2644,79,34,43.0,20,11,5,0,0,16,26
+ESP-La Liga,2324,Atlético Madrid,Arthur Vermeeren,5,2,162,0,0,,0,6,2,0,0,7,1
+ESP-La Liga,2324,Atlético Madrid,Axel Witsel,35,30,2783,7,3,42.9,21,16,5,0,0,24,28
+ESP-La Liga,2324,Atlético Madrid,César Azpilicueta,25,14,1423,2,2,100.0,15,16,4,0,0,29,12
+ESP-La Liga,2324,Atlético Madrid,Gabriel Paulista,5,5,405,1,1,100.0,5,3,1,0,0,4,0
+ESP-La Liga,2324,Atlético Madrid,Jan Oblak,38,38,3420,0,0,,0,0,1,0,0,0,2
+ESP-La Liga,2324,Atlético Madrid,Javi Galán,5,0,88,0,0,,3,1,1,0,0,1,4
+ESP-La Liga,2324,Atlético Madrid,José María Giménez,22,14,1326,7,1,14.3,9,10,5,0,0,17,2
+ESP-La Liga,2324,Atlético Madrid,Koke,35,32,2493,10,2,20.0,42,15,5,0,0,19,19
+ESP-La Liga,2324,Atlético Madrid,Marcos Llorente,37,29,2565,30,19,63.3,23,13,5,0,0,31,27
+ESP-La Liga,2324,Atlético Madrid,Mario Hermoso,31,29,2557,17,4,23.5,25,28,9,0,0,32,23
+ESP-La Liga,2324,Atlético Madrid,Memphis,23,9,893,38,15,39.5,2,1,2,0,0,14,16
+ESP-La Liga,2324,Atlético Madrid,Nahuel Molina,30,19,1852,12,5,41.7,22,8,4,1,0,20,16
+ESP-La Liga,2324,Atlético Madrid,Pablo Barrios,24,17,1555,17,7,41.2,25,27,5,0,0,23,24
+ESP-La Liga,2324,Atlético Madrid,Reinildo Mandava,16,7,731,5,3,60.0,21,15,2,0,0,14,8
+ESP-La Liga,2324,Atlético Madrid,Rodrigo De Paul,34,25,2075,30,12,40.0,21,11,7,0,0,26,59
+ESP-La Liga,2324,Atlético Madrid,Rodrigo Riquelme,34,17,1528,37,16,43.2,19,9,1,0,0,11,28
+ESP-La Liga,2324,Atlético Madrid,Salim El Jebari,1,0,13,0,0,,0,0,0,0,0,1,0
+ESP-La Liga,2324,Atlético Madrid,Samuel Lino,34,25,2080,54,21,38.9,34,14,1,0,0,27,56
+ESP-La Liga,2324,Atlético Madrid,Saúl Ñíguez,34,14,1374,16,4,25.0,39,15,10,1,1,42,14
+ESP-La Liga,2324,Atlético Madrid,Stefan Savić,23,19,1630,5,1,20.0,18,25,7,1,1,16,6
+ESP-La Liga,2324,Atlético Madrid,Thomas Lemar,3,3,164,2,0,0.0,1,0,0,0,0,3,2
+ESP-La Liga,2324,Atlético Madrid,Yannick Carrasco,3,3,221,2,1,50.0,4,1,0,0,0,2,2
+ESP-La Liga,2324,Atlético Madrid,Álvaro Morata,32,21,1904,67,34,50.7,10,1,4,1,1,33,36
+ESP-La Liga,2324,Atlético Madrid,Ángel Correa,32,14,1528,43,20,46.5,14,2,3,0,0,24,32
+ESP-La Liga,2324,Atlético Madrid,Çağlar Söyüncü,6,1,114,0,0,,1,1,0,1,0,3,1
+ESP-La Liga,2324,Barcelona,Abde Ezzalzouli,2,0,68,4,1,25.0,1,0,0,0,0,1,3
+ESP-La Liga,2324,Barcelona,Alejandro Balde,18,15,1378,5,1,20.0,9,5,1,0,0,8,18
+ESP-La Liga,2324,Barcelona,Andreas Christensen,30,27,1979,12,4,33.3,15,20,4,0,0,26,10
+ESP-La Liga,2324,Barcelona,Ansu Fati,3,0,50,7,1,14.3,0,1,0,0,0,0,4
+ESP-La Liga,2324,Barcelona,Eric García,2,0,57,1,0,0.0,0,0,1,0,0,1,0
+ESP-La Liga,2324,Barcelona,Fermin López,31,14,1446,51,25,49.0,20,3,2,0,0,43,17
+ESP-La Liga,2324,Barcelona,Ferran Torres,29,12,1211,38,15,39.5,8,5,2,0,0,8,16
+ESP-La Liga,2324,Barcelona,Frenkie de Jong,20,20,1634,7,4,57.1,26,15,7,0,0,19,22
+ESP-La Liga,2324,Barcelona,Gavi,12,10,944,10,5,50.0,23,8,5,0,0,31,23
+ESP-La Liga,2324,Barcelona,Héctor Fort,7,4,318,1,0,0.0,6,2,0,0,0,8,1
+ESP-La Liga,2324,Barcelona,Iñaki Peña,10,10,900,0,0,,0,0,0,0,0,0,1
+ESP-La Liga,2324,Barcelona,Iñigo Martínez,20,13,1296,8,1,12.5,5,13,5,0,0,10,11
+ESP-La Liga,2324,Barcelona,João Cancelo,32,29,2503,31,10,32.3,47,33,7,0,0,39,26
+ESP-La Liga,2324,Barcelona,João Félix,30,18,1540,61,25,41.0,16,11,3,0,0,21,54
+ESP-La Liga,2324,Barcelona,Jules Koundé,35,32,2899,24,7,29.2,24,28,4,0,0,23,16
+ESP-La Liga,2324,Barcelona,Lamine Yamal,37,22,2201,58,21,36.2,37,20,3,0,0,23,52
+ESP-La Liga,2324,Barcelona,Marc Casado,2,0,15,0,0,,1,1,0,0,0,0,2
+ESP-La Liga,2324,Barcelona,Marc Guiu,3,1,74,4,1,25.0,0,0,1,0,0,1,2
+ESP-La Liga,2324,Barcelona,Marc-André ter Stegen,28,28,2520,0,0,,0,0,3,0,0,0,1
+ESP-La Liga,2324,Barcelona,Marcos Alonso,5,3,252,3,2,66.7,3,3,0,0,0,7,6
+ESP-La Liga,2324,Barcelona,Oriol Romeu,28,11,936,10,2,20.0,22,11,4,0,0,15,11
+ESP-La Liga,2324,Barcelona,Pau Cubarsí,19,18,1558,3,0,0.0,13,11,4,0,0,15,2
+ESP-La Liga,2324,Barcelona,Pedri,24,16,1476,15,7,46.7,22,14,3,0,0,11,22
+ESP-La Liga,2324,Barcelona,Raphinha,28,17,1368,59,22,37.3,8,13,4,1,0,17,25
+ESP-La Liga,2324,Barcelona,Robert Lewandowski,35,32,2750,93,43,46.2,4,9,5,0,0,23,55
+ESP-La Liga,2324,Barcelona,Ronald Araújo,25,21,1997,23,9,39.1,22,10,6,0,0,25,9
+ESP-La Liga,2324,Barcelona,Sergi Roberto,14,10,860,10,4,40.0,11,8,4,0,0,8,7
+ESP-La Liga,2324,Barcelona,Vitor Roque,14,2,328,13,6,46.2,2,0,4,1,1,13,11
+ESP-La Liga,2324,Barcelona,İlkay Gündoğan,36,33,2994,43,17,39.5,20,20,5,0,0,16,42
+ESP-La Liga,2324,Celta Vigo,Anastasios Douvikas,32,7,905,26,15,57.7,7,0,2,0,0,17,30
+ESP-La Liga,2324,Celta Vigo,Carl Starfelt,27,26,2216,12,5,41.7,29,37,4,0,0,15,10
+ESP-La Liga,2324,Celta Vigo,Carles Pérez,16,7,772,24,6,25.0,5,5,3,0,0,15,12
+ESP-La Liga,2324,Celta Vigo,Carlos Dominguez,22,18,1584,5,0,0.0,21,22,2,0,0,15,8
+ESP-La Liga,2324,Celta Vigo,Carlos Dotor,17,7,708,4,0,0.0,7,4,2,0,0,13,10
+ESP-La Liga,2324,Celta Vigo,Damián Rodríguez,5,3,258,1,0,0.0,3,1,1,0,0,4,1
+ESP-La Liga,2324,Celta Vigo,Fran Beltrán,33,28,2428,21,3,14.3,34,19,2,0,0,28,16
+ESP-La Liga,2324,Celta Vigo,Franco Cervi,17,5,546,9,1,11.1,19,9,2,0,0,6,19
+ESP-La Liga,2324,Celta Vigo,Gabriel Veiga,1,0,18,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2324,Celta Vigo,Hugo Sotelo,17,8,721,8,1,12.5,17,2,1,0,0,16,3
+ESP-La Liga,2324,Celta Vigo,Hugo Álvarez,12,8,762,12,4,33.3,9,5,1,0,0,9,9
+ESP-La Liga,2324,Celta Vigo,Iago Aspas,35,31,2707,78,28,35.9,6,8,6,1,0,19,59
+ESP-La Liga,2324,Celta Vigo,Iván Villar,12,12,1014,0,0,,0,0,0,2,0,2,2
+ESP-La Liga,2324,Celta Vigo,Jailson Siqueira,14,9,897,5,3,60.0,18,12,1,0,0,13,13
+ESP-La Liga,2324,Celta Vigo,Javi Rueda,1,0,20,0,0,,0,0,0,0,0,0,1
+ESP-La Liga,2324,Celta Vigo,Javier Manquillo,12,10,744,1,0,0.0,12,2,3,0,0,14,4
+ESP-La Liga,2324,Celta Vigo,Jonathan Bamba,27,24,1981,41,16,39.0,8,17,0,0,0,15,65
+ESP-La Liga,2324,Celta Vigo,Joseph Aidoo,6,4,407,3,0,0.0,3,3,0,0,0,4,0
+ESP-La Liga,2324,Celta Vigo,Jørgen Strand Larsen,37,36,2863,82,35,42.7,11,5,5,0,0,64,48
+ESP-La Liga,2324,Celta Vigo,Kevin Vázquez,12,10,700,2,1,50.0,13,5,3,0,0,11,10
+ESP-La Liga,2324,Celta Vigo,Luca de la Torre,31,22,1956,24,8,33.3,21,11,4,1,1,39,19
+ESP-La Liga,2324,Celta Vigo,Manu Sánchez,26,20,1775,9,2,22.2,32,19,3,0,0,21,5
+ESP-La Liga,2324,Celta Vigo,Miguel Rodríguez,15,2,300,6,0,0.0,3,4,2,0,0,16,11
+ESP-La Liga,2324,Celta Vigo,Mihailo Ristić,12,9,808,10,4,40.0,8,11,2,0,0,12,14
+ESP-La Liga,2324,Celta Vigo,Renato Tapia,21,15,1337,19,1,5.3,27,20,5,1,1,25,27
+ESP-La Liga,2324,Celta Vigo,Tadeo Allende,10,2,336,8,2,25.0,2,3,1,0,0,2,3
+ESP-La Liga,2324,Celta Vigo,Unai Núñez,34,31,2801,22,5,22.7,30,49,4,0,0,37,24
+ESP-La Liga,2324,Celta Vigo,Vicente Guaita,27,26,2403,0,0,,1,0,2,0,0,1,5
+ESP-La Liga,2324,Celta Vigo,Williot Swedberg,15,4,439,12,6,50.0,5,1,1,0,0,6,11
+ESP-La Liga,2324,Celta Vigo,Yoel Lago,1,1,90,0,0,,1,0,0,0,0,1,2
+ESP-La Liga,2324,Celta Vigo,Óscar Mingueza,38,33,2998,28,13,46.4,38,19,4,0,0,21,44
+ESP-La Liga,2324,Cádiz,Aiham Ousou,6,5,430,2,0,0.0,6,6,0,0,0,4,6
+ESP-La Liga,2324,Cádiz,Borja Vázquez,1,0,4,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2324,Cádiz,Brian Ocampo,13,1,248,5,2,40.0,3,3,2,0,0,9,9
+ESP-La Liga,2324,Cádiz,Chris Ramos,37,30,2612,76,27,35.5,13,9,5,0,0,61,46
+ESP-La Liga,2324,Cádiz,Darwin Machís,21,10,785,21,10,47.6,15,4,0,1,0,12,14
+ESP-La Liga,2324,Cádiz,David Gil,5,4,372,0,0,,0,0,1,0,0,0,2
+ESP-La Liga,2324,Cádiz,Diadie Samassékou,4,0,92,1,1,100.0,3,3,0,0,0,2,0
+ESP-La Liga,2324,Cádiz,Fali,30,30,2547,11,3,27.3,25,27,12,0,0,23,19
+ESP-La Liga,2324,Cádiz,Fede San Emeterio,4,3,152,1,1,100.0,2,2,1,1,0,8,3
+ESP-La Liga,2324,Cádiz,Gonzalo Escalante,25,18,1697,14,3,21.4,23,27,2,1,0,31,14
+ESP-La Liga,2324,Cádiz,Isaac Carcelen,35,29,2611,10,3,30.0,32,23,2,0,0,16,44
+ESP-La Liga,2324,Cádiz,Iván Alejo,30,21,1692,11,2,18.2,23,6,17,0,0,49,49
+ESP-La Liga,2324,Cádiz,Javi Hernández,30,28,2514,30,8,26.7,23,17,10,0,0,45,19
+ESP-La Liga,2324,Cádiz,Jeremías Ledesma,34,34,3048,0,0,,1,0,0,0,0,1,5
+ESP-La Liga,2324,Cádiz,Jorge Meré,10,8,673,4,1,25.0,7,8,0,0,0,1,4
+ESP-La Liga,2324,Cádiz,Joseba Zaldúa,13,9,704,1,0,0.0,13,1,3,0,0,14,4
+ESP-La Liga,2324,Cádiz,José Mari,3,0,14,0,0,,1,0,1,0,0,1,1
+ESP-La Liga,2324,Cádiz,Juanmi,16,9,873,14,7,50.0,4,5,3,0,0,24,11
+ESP-La Liga,2324,Cádiz,Karl Etta Eyong,1,0,21,0,0,,1,0,0,0,0,1,0
+ESP-La Liga,2324,Cádiz,Lucas,28,15,1539,11,4,36.4,29,14,6,0,0,12,6
+ESP-La Liga,2324,Cádiz,Luis Hernández,9,8,723,1,1,100.0,3,8,4,0,0,8,0
+ESP-La Liga,2324,Cádiz,Mamadou Mbaye,4,2,288,2,1,50.0,3,5,2,0,0,6,0
+ESP-La Liga,2324,Cádiz,Maxi Gómez,31,12,1163,16,6,37.5,4,2,2,0,0,20,32
+ESP-La Liga,2324,Cádiz,Milutin Osmajić,1,0,5,2,0,0.0,0,0,0,0,0,0,0
+ESP-La Liga,2324,Cádiz,Moussa Diakité,1,0,1,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2324,Cádiz,Roberto Navarro,28,24,1888,30,9,30.0,29,16,0,1,0,15,27
+ESP-La Liga,2324,Cádiz,Roger Martí,23,18,1359,33,12,36.4,6,8,3,0,0,34,28
+ESP-La Liga,2324,Cádiz,Rominigue Kouamé,16,9,821,5,0,0.0,10,15,2,0,0,11,9
+ESP-La Liga,2324,Cádiz,Rubén Alcaraz,36,36,3134,48,12,25.0,65,30,14,0,0,84,71
+ESP-La Liga,2324,Cádiz,Rubén Sobrino,32,18,1646,21,3,14.3,29,17,8,1,0,46,31
+ESP-La Liga,2324,Cádiz,Sergi Guardiola,22,1,495,14,5,35.7,6,0,1,0,0,18,22
+ESP-La Liga,2324,Cádiz,Víctor Chust,22,22,1864,4,0,0.0,17,12,3,2,0,15,4
+ESP-La Liga,2324,Cádiz,Álex Fernández,26,14,1285,7,1,14.3,9,15,3,0,0,5,16
+ESP-La Liga,2324,Cádiz,Álvaro Negredo,7,0,54,3,1,33.3,0,1,0,0,0,0,2
+ESP-La Liga,2324,Getafe,Alberto Risco,4,1,137,2,1,50.0,2,0,0,0,0,1,1
+ESP-La Liga,2324,Getafe,Anthony Lozano,6,0,92,4,0,0.0,0,0,1,0,0,6,1
+ESP-La Liga,2324,Getafe,Borja Mayoral,27,25,2153,47,27,57.4,4,3,2,0,0,31,31
+ESP-La Liga,2324,Getafe,Carles Aleñá,29,10,1020,16,5,31.3,9,4,6,0,0,22,18
+ESP-La Liga,2324,Getafe,Carmona,30,15,1313,12,3,25.0,21,22,8,0,0,33,23
+ESP-La Liga,2324,Getafe,Damián Suárez,16,15,1299,4,1,25.0,20,10,7,1,0,24,12
+ESP-La Liga,2324,Getafe,Daniel Fuzato,1,0,7,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2324,Getafe,David Soria,38,38,3413,0,0,,0,1,3,0,0,1,2
+ESP-La Liga,2324,Getafe,Diego Rico,32,28,2535,18,5,27.8,46,39,10,0,0,32,56
+ESP-La Liga,2324,Getafe,Djené,33,30,2484,6,1,16.7,20,23,14,1,1,51,37
+ESP-La Liga,2324,Getafe,Domingos Duarte,15,11,907,1,0,0.0,4,9,5,2,1,8,8
+ESP-La Liga,2324,Getafe,Enes Ünal,3,1,140,1,0,0.0,0,0,0,0,0,5,5
+ESP-La Liga,2324,Getafe,Fabrizio Angileri,11,2,164,0,0,,1,4,2,1,0,1,1
+ESP-La Liga,2324,Getafe,Gastón Álvarez,34,29,2537,14,3,21.4,38,34,7,0,0,43,10
+ESP-La Liga,2324,Getafe,Gorka Rivera Alonso,1,0,3,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2324,Getafe,Iglesias,23,16,1412,15,6,40.0,21,16,4,0,0,17,10
+ESP-La Liga,2324,Getafe,Ilaix Moriba,14,8,605,4,1,25.0,12,5,5,1,1,19,23
+ESP-La Liga,2324,Getafe,Jaime Mata,35,22,1787,33,13,39.4,15,15,10,1,1,63,25
+ESP-La Liga,2324,Getafe,Jeremy Jorge,1,0,2,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2324,Getafe,Jordi,13,5,573,7,3,42.9,11,8,1,0,0,19,6
+ESP-La Liga,2324,Getafe,Juanmi Latasa,32,15,1555,44,15,34.1,8,4,7,1,1,66,40
+ESP-La Liga,2324,Getafe,Luis Milla,27,25,2115,16,5,31.3,34,30,6,0,0,43,29
+ESP-La Liga,2324,Getafe,Mason Greenwood,33,30,2662,102,35,34.3,6,3,6,1,0,39,42
+ESP-La Liga,2324,Getafe,Mauro Arambarri,7,3,339,9,2,22.2,2,1,2,0,0,18,3
+ESP-La Liga,2324,Getafe,Nabil Aberdin,2,2,180,0,0,,0,0,0,0,0,1,1
+ESP-La Liga,2324,Getafe,Nemanja Maksimović,37,37,3265,34,15,44.1,42,44,4,0,0,19,13
+ESP-La Liga,2324,Getafe,Omar Alderete,31,24,2195,24,5,20.8,20,14,8,1,0,34,11
+ESP-La Liga,2324,Getafe,Portu,3,0,97,1,1,100.0,3,0,1,0,0,0,0
+ESP-La Liga,2324,Getafe,Santiago García,1,0,25,0,0,,0,0,0,0,0,1,1
+ESP-La Liga,2324,Getafe,Stefan Mitrović,11,9,699,1,1,100.0,3,5,3,0,0,13,2
+ESP-La Liga,2324,Getafe,Yassin Tallal,1,0,3,0,0,,0,0,0,0,0,1,0
+ESP-La Liga,2324,Getafe,Yellu Santiago,14,8,656,5,2,40.0,8,1,4,0,0,17,12
+ESP-La Liga,2324,Getafe,Óscar Rodríguez Arnaiz,24,9,967,34,10,29.4,12,6,9,0,0,20,15
+ESP-La Liga,2324,Girona,Aleix García,37,36,3199,39,12,30.8,30,36,4,1,0,29,36
+ESP-La Liga,2324,Girona,Antal Yaakobishvili,1,0,61,0,0,,1,3,0,0,0,1,0
+ESP-La Liga,2324,Girona,Arnau Martinez,21,14,1241,1,0,0.0,15,9,5,0,0,14,22
+ESP-La Liga,2324,Girona,Artem Dovbyk,36,32,2587,85,46,54.1,3,0,2,0,0,27,13
+ESP-La Liga,2324,Girona,Bernardo Espinosa,2,0,2,0,0,,1,0,0,0,0,0,1
+ESP-La Liga,2324,Girona,Cristhian Stuani,31,5,804,34,17,50.0,11,5,6,0,0,28,7
+ESP-La Liga,2324,Girona,Daley Blind,34,33,2972,17,6,35.3,21,19,6,0,0,19,12
+ESP-La Liga,2324,Girona,David López,25,25,1965,16,6,37.5,21,19,4,0,0,17,15
+ESP-La Liga,2324,Girona,Eric García,30,30,2637,16,6,37.5,40,29,4,0,0,24,26
+ESP-La Liga,2324,Girona,Ibrahima Kebe,2,0,9,0,0,,1,1,1,0,0,1,2
+ESP-La Liga,2324,Girona,Iván Martín,36,33,2729,19,11,57.9,25,23,5,0,0,27,34
+ESP-La Liga,2324,Girona,Jastin García,3,0,32,0,0,,0,0,0,0,0,0,2
+ESP-La Liga,2324,Girona,Jhon Solis,18,2,384,9,3,33.3,9,8,0,0,0,10,5
+ESP-La Liga,2324,Girona,Juanpe,17,6,746,4,0,0.0,8,8,4,0,0,5,0
+ESP-La Liga,2324,Girona,Miguel Gutiérrez,35,35,3032,34,5,14.7,17,24,4,0,0,27,26
+ESP-La Liga,2324,Girona,Pablo Torre,26,4,701,13,1,7.7,2,4,1,0,0,8,21
+ESP-La Liga,2324,Girona,Paulo Gazzaniga,38,38,3420,0,0,,1,0,2,0,0,0,8
+ESP-La Liga,2324,Girona,Portu,33,11,1188,21,11,52.4,13,4,3,0,0,18,16
+ESP-La Liga,2324,Girona,Silvi Clúa,1,0,1,0,0,,0,0,0,0,0,1,0
+ESP-La Liga,2324,Girona,Sávio,37,35,2976,45,20,44.4,26,20,5,0,0,30,66
+ESP-La Liga,2324,Girona,Toni Villa,2,0,13,1,1,100.0,0,0,0,0,0,0,1
+ESP-La Liga,2324,Girona,Valery Fernández,27,2,506,5,2,40.0,9,1,1,0,0,7,13
+ESP-La Liga,2324,Girona,Viktor Tsyhankov,30,26,2052,44,16,36.4,20,10,0,0,0,14,41
+ESP-La Liga,2324,Girona,Yan Couto,34,24,2245,29,11,37.9,33,10,8,0,0,34,42
+ESP-La Liga,2324,Girona,Yangel Herrera,29,27,2107,52,18,34.6,38,25,9,0,0,65,62
+ESP-La Liga,2324,Granada,Adri Bosch,1,0,26,0,0,,1,0,0,0,0,0,0
+ESP-La Liga,2324,Granada,Alberto Perea,2,0,2,0,0,,0,0,0,0,0,0,2
+ESP-La Liga,2324,Granada,Alberto Soro,1,0,8,0,0,,0,0,0,0,0,0,1
+ESP-La Liga,2324,Granada,André Ferreira,15,14,1340,0,0,,0,0,1,0,0,2,2
+ESP-La Liga,2324,Granada,Antonio Puertas,27,6,730,19,5,26.3,7,7,3,1,0,19,12
+ESP-La Liga,2324,Granada,Augusto Batalla,17,17,1530,1,0,0.0,0,0,3,0,0,0,2
+ESP-La Liga,2324,Granada,Brau,1,0,31,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2324,Granada,Bruno Méndez,17,15,1333,8,5,62.5,19,25,4,0,0,14,0
+ESP-La Liga,2324,Granada,Bryan Zaragoza,21,18,1638,33,19,57.6,8,3,5,0,0,12,33
+ESP-La Liga,2324,Granada,Carlos Neva,36,36,3146,4,0,0.0,19,31,4,0,0,22,44
+ESP-La Liga,2324,Granada,Facundo Pellistri,15,14,1232,17,6,35.3,19,4,2,1,1,21,21
+ESP-La Liga,2324,Granada,Faitout Maouassa,6,2,229,5,0,0.0,6,1,0,0,0,3,3
+ESP-La Liga,2324,Granada,Famara Diedhiou,8,0,89,5,3,60.0,1,0,1,0,0,6,3
+ESP-La Liga,2324,Granada,Gerard Gumbau,35,31,2674,45,9,20.0,33,26,12,0,0,62,26
+ESP-La Liga,2324,Granada,Gonzalo Villar,35,21,1803,22,5,22.7,33,7,7,0,0,45,66
+ESP-La Liga,2324,Granada,Ignasi Miquel,34,33,2992,22,8,36.4,32,46,5,0,0,32,26
+ESP-La Liga,2324,Granada,Jesús Vallejo,3,1,108,0,0,,1,0,1,0,0,2,1
+ESP-La Liga,2324,Granada,José Callejón,25,7,803,11,3,27.3,5,5,2,0,0,12,21
+ESP-La Liga,2324,Granada,Kamil Jóźwiak,11,7,571,4,1,25.0,10,2,2,0,0,13,12
+ESP-La Liga,2324,Granada,Kamil Piątkowski,9,6,505,4,2,50.0,10,8,1,1,0,3,3
+ESP-La Liga,2324,Granada,Lucas Boyé,31,30,2541,56,15,26.8,25,12,8,1,0,72,43
+ESP-La Liga,2324,Granada,Marc Martínez,3,3,270,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2324,Granada,Martin Hongla,13,6,562,3,1,33.3,3,5,0,0,0,7,1
+ESP-La Liga,2324,Granada,Matias Arezo,14,3,369,12,4,33.3,3,2,1,0,0,6,1
+ESP-La Liga,2324,Granada,Miguel Ángel Rubio,19,17,1560,9,2,22.2,14,27,5,0,0,20,11
+ESP-La Liga,2324,Granada,Myrto Uzuni,34,28,2448,64,29,45.3,13,3,3,0,0,26,19
+ESP-La Liga,2324,Granada,Njegoš Petrović,10,0,157,3,1,33.3,2,1,0,0,0,0,1
+ESP-La Liga,2324,Granada,Pablo Saenz,1,0,19,0,0,,3,0,0,0,0,0,1
+ESP-La Liga,2324,Granada,Raúl Fernández,4,4,280,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2324,Granada,Raúl Torrente,17,14,1250,3,0,0.0,15,12,4,0,0,18,8
+ESP-La Liga,2324,Granada,Ricard Sánchez,33,25,2295,14,5,35.7,18,13,8,0,0,27,21
+ESP-La Liga,2324,Granada,Samu Omorodion,1,1,80,3,2,66.7,1,0,0,0,0,1,3
+ESP-La Liga,2324,Granada,Sergio Rodelas,3,2,122,2,0,0.0,2,0,0,0,0,2,1
+ESP-La Liga,2324,Granada,Sergio Ruiz,35,30,2494,13,1,7.7,47,27,9,0,0,44,66
+ESP-La Liga,2324,Granada,Shon Weissman,5,0,82,1,0,0.0,1,0,0,0,0,1,1
+ESP-La Liga,2324,Granada,Theo Corbeanu,9,2,182,5,2,40.0,2,2,2,0,0,2,1
+ESP-La Liga,2324,Granada,Víctor Díaz,4,2,162,0,0,,3,1,1,0,0,0,0
+ESP-La Liga,2324,Granada,Wilson Manafá,4,3,240,1,0,0.0,4,2,1,0,0,3,0
+ESP-La Liga,2324,Granada,Álvaro Carreras,13,5,475,7,1,14.3,7,8,1,0,0,6,11
+ESP-La Liga,2324,Granada,Óscar Melendo,26,15,1122,6,2,33.3,6,4,2,0,0,11,37
+ESP-La Liga,2324,Las Palmas,Aarón Escandell,2,1,153,0,0,,0,0,0,1,0,0,0
+ESP-La Liga,2324,Las Palmas,Alberto Moleiro,28,21,1803,33,10,30.3,6,7,1,0,0,17,18
+ESP-La Liga,2324,Las Palmas,Benito Ramírez,20,2,384,10,3,30.0,4,2,0,0,0,4,4
+ESP-La Liga,2324,Las Palmas,Cristian Herrera,8,1,166,1,1,100.0,1,0,1,0,0,3,3
+ESP-La Liga,2324,Las Palmas,Daley Sinkgraven,10,6,374,0,0,,5,6,0,1,0,4,5
+ESP-La Liga,2324,Las Palmas,Enzo Loiodice,34,19,1790,16,6,37.5,35,12,2,0,0,32,38
+ESP-La Liga,2324,Las Palmas,Eric Curbelo,2,1,102,0,0,,3,2,0,0,0,0,0
+ESP-La Liga,2324,Las Palmas,Fabio González,6,1,123,0,0,,2,0,1,0,0,1,1
+ESP-La Liga,2324,Las Palmas,Iñaki González,1,0,5,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2324,Las Palmas,Javier Muñoz,37,30,2640,38,9,23.7,23,20,6,0,0,37,16
+ESP-La Liga,2324,Las Palmas,Jonathan Viera,9,7,617,14,6,42.9,4,0,1,0,0,3,17
+ESP-La Liga,2324,Las Palmas,José Campaña,8,1,171,1,0,0.0,2,2,0,0,0,0,5
+ESP-La Liga,2324,Las Palmas,Juanma Herzog,4,3,292,3,3,100.0,5,1,1,0,0,1,1
+ESP-La Liga,2324,Las Palmas,Julian Araujo,25,15,1462,7,2,28.6,21,10,5,0,0,13,9
+ESP-La Liga,2324,Las Palmas,Kirian Rodríguez,37,36,3211,43,14,32.6,33,26,8,0,0,23,37
+ESP-La Liga,2324,Las Palmas,Marc Cardona,26,6,737,22,11,50.0,8,2,4,0,0,12,19
+ESP-La Liga,2324,Las Palmas,Marvin,31,17,1855,14,3,21.4,25,15,5,0,0,39,26
+ESP-La Liga,2324,Las Palmas,Mika Mármol,36,36,3178,3,0,0.0,43,43,6,1,1,23,34
+ESP-La Liga,2324,Las Palmas,Munir El Haddadi,38,32,2449,43,12,27.9,28,10,3,0,0,30,73
+ESP-La Liga,2324,Las Palmas,Máximo Perrone,29,20,1623,7,3,42.9,19,24,6,0,0,27,16
+ESP-La Liga,2324,Las Palmas,Omenuke Mfulu,5,1,82,0,0,,3,2,1,0,0,0,2
+ESP-La Liga,2324,Las Palmas,Pejiño,17,6,504,17,8,47.1,9,2,1,0,0,6,4
+ESP-La Liga,2324,Las Palmas,Sandro Ramírez,27,21,1808,52,19,36.5,7,4,3,0,0,20,36
+ESP-La Liga,2324,Las Palmas,Saúl Coco,30,26,2295,20,4,20.0,20,19,6,1,0,19,24
+ESP-La Liga,2324,Las Palmas,Sergi Cardona,35,30,2814,26,5,19.2,58,45,11,0,0,52,59
+ESP-La Liga,2324,Las Palmas,Sory Kaba,17,9,720,13,1,7.7,1,0,2,0,0,16,15
+ESP-La Liga,2324,Las Palmas,Álex Suárez,32,30,2562,7,5,71.4,38,18,7,0,0,26,28
+ESP-La Liga,2324,Las Palmas,Álvaro Lemos,4,3,251,1,0,0.0,1,2,1,0,0,2,3
+ESP-La Liga,2324,Las Palmas,Álvaro Vallés,37,37,3263,0,0,,3,0,2,1,0,1,6
+ESP-La Liga,2324,Mallorca,Abdón Prats,34,11,1270,33,14,42.4,4,2,4,0,0,18,18
+ESP-La Liga,2324,Mallorca,Amath,15,3,394,12,3,25.0,6,3,2,0,0,10,7
+ESP-La Liga,2324,Mallorca,Antonio Raillo,26,25,2195,29,9,31.0,23,36,6,1,1,32,8
+ESP-La Liga,2324,Mallorca,Antonio Sánchez,29,21,1452,23,9,39.1,12,12,3,0,0,26,13
+ESP-La Liga,2324,Mallorca,Copete,19,17,1333,7,1,14.3,26,33,7,0,0,36,13
+ESP-La Liga,2324,Mallorca,Cyle Larin,35,20,1823,69,25,36.2,8,3,8,0,0,27,34
+ESP-La Liga,2324,Mallorca,Dani Rodríguez,36,31,2615,27,4,14.8,26,14,9,0,0,61,43
+ESP-La Liga,2324,Mallorca,Dominik Greif,1,1,90,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2324,Mallorca,Giovanni González,34,27,2464,14,4,28.6,44,28,6,0,0,38,20
+ESP-La Liga,2324,Mallorca,Iván Cuéllar,1,1,90,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2324,Mallorca,Jaume Costa,30,19,1682,6,2,33.3,21,16,7,0,0,25,22
+ESP-La Liga,2324,Mallorca,Javier Llabrés,16,1,247,9,4,44.4,1,3,1,0,0,5,1
+ESP-La Liga,2324,Mallorca,Manu Morlanes,35,16,1615,11,4,36.4,28,18,2,0,0,15,24
+ESP-La Liga,2324,Mallorca,Martin Valjent,28,28,2349,9,0,0.0,19,29,5,0,0,29,10
+ESP-La Liga,2324,Mallorca,Matija Nastasić,26,25,2258,8,2,25.0,17,27,8,0,0,33,7
+ESP-La Liga,2324,Mallorca,Nacho Vidal,8,5,416,8,3,37.5,5,2,2,0,0,9,3
+ESP-La Liga,2324,Mallorca,Nemanja Radonjić,11,4,353,10,7,70.0,2,3,0,0,0,1,5
+ESP-La Liga,2324,Mallorca,Omar Mascarell,29,18,1571,6,0,0.0,15,32,8,1,1,31,14
+ESP-La Liga,2324,Mallorca,Pablo Maffeo,22,17,1454,11,4,36.4,21,11,3,1,0,22,20
+ESP-La Liga,2324,Mallorca,Predrag Rajković,36,36,3240,0,0,,2,0,2,0,0,1,4
+ESP-La Liga,2324,Mallorca,Samu Costa,34,26,2303,22,3,13.6,56,37,8,0,0,62,49
+ESP-La Liga,2324,Mallorca,Sergi Darder,36,21,2157,32,12,37.5,25,16,4,0,0,19,35
+ESP-La Liga,2324,Mallorca,Siebe Van Der Heyden,6,4,286,2,0,0.0,4,7,2,1,0,8,1
+ESP-La Liga,2324,Mallorca,Toni Lato,28,16,1544,5,2,40.0,22,17,3,0,0,19,18
+ESP-La Liga,2324,Mallorca,Vedat Muriqi,29,25,2327,66,25,37.9,6,6,5,0,0,39,43
+ESP-La Liga,2324,Osasuna,Aimar Oroz,33,26,2339,25,6,24.0,27,16,3,0,0,39,46
+ESP-La Liga,2324,Osasuna,Aitor Fernández,7,6,551,0,0,,0,0,2,0,0,0,0
+ESP-La Liga,2324,Osasuna,Ante Budimir,33,29,2435,76,35,46.1,13,5,4,0,0,40,26
+ESP-La Liga,2324,Osasuna,Asier Osambela,1,0,9,0,0,,1,0,0,0,0,1,0
+ESP-La Liga,2324,Osasuna,Catena,30,28,2534,18,5,27.8,20,16,8,1,0,47,14
+ESP-La Liga,2324,Osasuna,Darko Brašanac,2,0,48,0,0,,0,0,0,0,0,1,0
+ESP-La Liga,2324,Osasuna,David García,27,27,2334,15,2,13.3,17,20,5,0,0,33,13
+ESP-La Liga,2324,Osasuna,Ezequiel Ávila,17,10,864,27,6,22.2,2,4,3,2,0,8,20
+ESP-La Liga,2324,Osasuna,Iker Muñoz,28,20,1854,23,6,26.1,17,11,5,0,0,37,55
+ESP-La Liga,2324,Osasuna,Iñigo Arguibide,1,0,17,0,0,,0,0,0,0,0,1,0
+ESP-La Liga,2324,Osasuna,Jesús Areso,37,29,2660,9,2,22.2,26,20,3,0,0,30,20
+ESP-La Liga,2324,Osasuna,Johan Mojica,30,22,2041,17,1,5.9,22,23,1,0,0,22,19
+ESP-La Liga,2324,Osasuna,Jon Moncayola,33,21,1800,16,5,31.3,19,16,2,1,0,24,8
+ESP-La Liga,2324,Osasuna,Jorge Herrando,19,18,1644,4,0,0.0,19,14,4,0,0,26,10
+ESP-La Liga,2324,Osasuna,Jorge Moreno,1,0,15,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2324,Osasuna,José Arnaiz,26,9,929,29,9,31.0,8,3,3,0,0,8,19
+ESP-La Liga,2324,Osasuna,Juan Cruz Armada,26,18,1667,3,0,0.0,15,12,3,0,0,20,4
+ESP-La Liga,2324,Osasuna,Kike Barja,16,3,303,4,2,50.0,2,3,3,0,0,8,4
+ESP-La Liga,2324,Osasuna,Lucas Torró,28,21,1788,30,7,23.3,15,35,5,0,0,43,17
+ESP-La Liga,2324,Osasuna,Max Svensson,1,0,3,0,0,,0,0,0,0,0,1,0
+ESP-La Liga,2324,Osasuna,Moi Gómez,28,23,2006,19,8,42.1,19,10,3,0,0,29,30
+ESP-La Liga,2324,Osasuna,Nacho Vidal,7,0,96,3,1,33.3,4,0,0,0,0,0,1
+ESP-La Liga,2324,Osasuna,Pablo Ibáñez,33,12,1152,27,7,25.9,8,9,5,0,0,26,16
+ESP-La Liga,2324,Osasuna,Raúl,35,13,1355,33,12,36.4,4,5,4,0,0,13,12
+ESP-La Liga,2324,Osasuna,Rubén García,30,19,1547,28,10,35.7,18,12,1,0,0,24,27
+ESP-La Liga,2324,Osasuna,Rubén Peña,29,26,2088,17,5,29.4,22,29,3,0,0,28,23
+ESP-La Liga,2324,Osasuna,Sergio Herrera,32,32,2869,0,0,,1,0,2,0,0,0,7
+ESP-La Liga,2324,Osasuna,Unai García,9,6,560,2,1,50.0,9,7,6,1,1,9,1
+ESP-La Liga,2324,Osasuna,Xabier Huarte Armendáriz,1,0,9,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2324,Rayo Vallecano,Abdul Mumin,20,19,1694,6,1,16.7,10,18,5,1,0,15,16
+ESP-La Liga,2324,Rayo Vallecano,Alfonso Espino,31,29,2507,18,5,27.8,45,40,9,0,0,45,41
+ESP-La Liga,2324,Rayo Vallecano,Andrei Ratiu,12,6,630,6,1,16.7,5,1,1,0,0,2,4
+ESP-La Liga,2324,Rayo Vallecano,Aridane Hernández,19,19,1690,5,0,0.0,9,15,3,0,0,11,12
+ESP-La Liga,2324,Rayo Vallecano,Bebé,19,0,212,16,5,31.3,2,0,1,0,0,0,2
+ESP-La Liga,2324,Rayo Vallecano,Crespo,15,4,527,3,0,0.0,7,11,4,0,0,19,22
+ESP-La Liga,2324,Rayo Vallecano,Dani Cárdenas,1,1,90,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2324,Rayo Vallecano,Diego Méndez,1,0,5,0,0,,1,1,0,0,0,1,0
+ESP-La Liga,2324,Rayo Vallecano,Florian Lejeune,37,37,3327,64,21,32.8,26,23,5,0,0,26,13
+ESP-La Liga,2324,Rayo Vallecano,Isaac Palazón Camacho,37,34,2791,72,33,45.8,28,19,8,0,0,32,76
+ESP-La Liga,2324,Rayo Vallecano,Iván Balliu,33,32,2873,11,4,36.4,31,28,4,0,0,41,30
+ESP-La Liga,2324,Rayo Vallecano,Jorge de Frutos,36,14,1549,29,11,37.9,8,7,1,0,0,15,25
+ESP-La Liga,2324,Rayo Vallecano,José Pozo,2,0,19,0,0,,1,0,0,0,0,1,1
+ESP-La Liga,2324,Rayo Vallecano,Kike Pérez,24,9,835,13,6,46.2,13,8,7,0,0,42,34
+ESP-La Liga,2324,Rayo Vallecano,Pathé Ciss,31,16,1664,22,8,36.4,24,28,10,0,0,27,29
+ESP-La Liga,2324,Rayo Vallecano,Pep Chavarría,22,12,1167,11,2,18.2,16,8,6,1,1,8,22
+ESP-La Liga,2324,Rayo Vallecano,Radamel Falcao,22,2,407,17,7,41.2,6,3,4,0,0,15,10
+ESP-La Liga,2324,Rayo Vallecano,Randy Nteka,16,3,572,15,6,40.0,4,3,3,0,0,19,14
+ESP-La Liga,2324,Rayo Vallecano,Raúl de Tomás,25,15,1272,39,12,30.8,5,1,5,0,0,24,26
+ESP-La Liga,2324,Rayo Vallecano,Salvi,1,0,28,0,0,,0,1,0,0,0,0,1
+ESP-La Liga,2324,Rayo Vallecano,Sergio Camello,31,20,1661,34,13,38.2,6,3,3,0,0,18,11
+ESP-La Liga,2324,Rayo Vallecano,Stole Dimitrievski,37,37,3330,0,0,,1,0,2,0,0,0,3
+ESP-La Liga,2324,Rayo Vallecano,Unai López,35,28,2108,32,5,15.6,27,16,8,0,0,60,21
+ESP-La Liga,2324,Rayo Vallecano,Álvaro García,32,30,2475,45,17,37.8,26,36,8,1,1,25,23
+ESP-La Liga,2324,Rayo Vallecano,Óscar Trejo,31,19,1380,18,3,16.7,15,5,4,1,0,40,40
+ESP-La Liga,2324,Rayo Vallecano,Óscar Valentín,34,32,2692,15,7,46.7,64,35,7,1,1,77,43
+ESP-La Liga,2324,Real Betis,Abde Ezzalzouli,26,6,865,34,9,26.5,14,5,1,0,0,9,16
+ESP-La Liga,2324,Real Betis,Abner,23,15,1400,4,0,0.0,18,16,3,0,0,17,2
+ESP-La Liga,2324,Real Betis,Aitor Ruibal,18,11,1017,13,2,15.4,27,14,5,0,0,16,13
+ESP-La Liga,2324,Real Betis,Andrés Guardado,12,4,447,5,0,0.0,12,6,2,0,0,10,3
+ESP-La Liga,2324,Real Betis,Assane Diao,18,13,1048,21,3,14.3,12,7,4,0,0,12,22
+ESP-La Liga,2324,Real Betis,Ayoze Pérez,31,29,2294,68,26,38.2,34,21,4,0,0,36,48
+ESP-La Liga,2324,Real Betis,Borja Iglesias,11,4,408,10,0,0.0,0,2,2,0,0,7,5
+ESP-La Liga,2324,Real Betis,Chadi Riad,26,24,2164,11,5,45.5,23,22,1,0,0,16,7
+ESP-La Liga,2324,Real Betis,Claudio Bravo,7,7,630,0,0,,0,0,0,0,0,0,1
+ESP-La Liga,2324,Real Betis,Cédric Bakambu,4,2,194,4,1,25.0,0,0,1,0,0,4,3
+ESP-La Liga,2324,Real Betis,Ezequiel Ávila,6,4,298,9,3,33.3,1,1,4,1,1,3,12
+ESP-La Liga,2324,Real Betis,Fran Vieites,4,3,315,0,0,,1,0,0,0,0,0,0
+ESP-La Liga,2324,Real Betis,Germán Pezzella,32,32,2767,23,5,21.7,24,32,7,0,0,22,13
+ESP-La Liga,2324,Real Betis,Guido Rodríguez,24,22,1846,18,7,38.9,30,29,6,0,0,23,35
+ESP-La Liga,2324,Real Betis,Héctor Bellerín,23,20,1711,2,0,0.0,22,21,0,1,0,21,10
+ESP-La Liga,2324,Real Betis,Isco,29,28,2326,64,26,40.6,26,9,10,0,0,31,79
+ESP-La Liga,2324,Real Betis,Johnny Cardoso,17,15,1328,12,3,25.0,30,31,3,0,0,21,19
+ESP-La Liga,2324,Real Betis,Juan Cruz,5,0,76,2,0,0.0,0,0,0,0,0,2,2
+ESP-La Liga,2324,Real Betis,Juan Miranda,25,21,1858,16,6,37.5,24,20,8,0,0,21,34
+ESP-La Liga,2324,Real Betis,Luiz Felipe,4,4,360,2,0,0.0,3,4,1,0,0,2,1
+ESP-La Liga,2324,Real Betis,Luiz Henrique,14,6,616,18,4,22.2,11,5,1,0,0,7,15
+ESP-La Liga,2324,Real Betis,Marc Bartra,3,3,225,3,0,0.0,3,2,1,0,0,4,1
+ESP-La Liga,2324,Real Betis,Marc Roca,26,24,1980,20,7,35.0,37,17,5,0,0,46,23
+ESP-La Liga,2324,Real Betis,Nabil Fekir,19,10,1049,27,9,33.3,9,6,1,0,0,22,35
+ESP-La Liga,2324,Real Betis,Pablo Busto,2,0,44,1,0,0.0,1,1,0,0,0,0,1
+ESP-La Liga,2324,Real Betis,Pablo Fornals,15,14,1148,17,6,35.3,17,21,2,0,0,13,14
+ESP-La Liga,2324,Real Betis,Paul Akouokou,2,0,27,0,0,,3,1,0,0,0,1,1
+ESP-La Liga,2324,Real Betis,Ricardo Visus,3,1,166,0,0,,2,2,0,0,0,3,1
+ESP-La Liga,2324,Real Betis,Rodri,29,9,1051,18,5,27.8,11,8,0,0,0,6,29
+ESP-La Liga,2324,Real Betis,Rui Silva,28,28,2475,0,0,,0,1,4,0,0,2,7
+ESP-La Liga,2324,Real Betis,Sergi Altimira,14,6,568,7,2,28.6,8,8,1,0,0,8,8
+ESP-La Liga,2324,Real Betis,Sokratis Papastathopoulos,15,12,1136,2,1,50.0,15,6,6,0,0,13,6
+ESP-La Liga,2324,Real Betis,William Carvalho,22,4,680,8,3,37.5,12,8,2,0,0,13,5
+ESP-La Liga,2324,Real Betis,Willian José,33,25,1971,48,24,50.0,3,2,0,1,0,9,20
+ESP-La Liga,2324,Real Betis,Youssouf Sabaly,12,12,1046,4,0,0.0,8,11,2,0,0,9,6
+ESP-La Liga,2324,Real Madrid,Andriy Lunin,21,21,1890,0,0,,0,0,2,0,0,0,3
+ESP-La Liga,2324,Real Madrid,Antonio Rüdiger,33,30,2709,19,2,10.5,17,12,7,0,0,26,5
+ESP-La Liga,2324,Real Madrid,Arda Güler,10,4,377,15,6,40.0,4,2,1,0,0,11,8
+ESP-La Liga,2324,Real Madrid,Aurélien Tchouaméni,27,22,1987,27,7,25.9,25,29,7,0,0,20,22
+ESP-La Liga,2324,Real Madrid,Brahim Díaz,31,18,1545,38,17,44.7,18,5,0,0,0,22,42
+ESP-La Liga,2324,Real Madrid,Dani Carvajal,28,25,2171,18,10,55.6,38,20,5,1,1,23,19
+ESP-La Liga,2324,Real Madrid,Dani Ceballos,20,5,598,7,1,14.3,5,0,2,0,0,5,19
+ESP-La Liga,2324,Real Madrid,David Alaba,14,14,1154,14,4,28.6,9,15,2,0,0,4,0
+ESP-La Liga,2324,Real Madrid,Eduardo Camavinga,31,21,1817,17,7,41.2,48,26,9,0,0,49,68
+ESP-La Liga,2324,Real Madrid,Federico Valverde,37,33,2904,56,19,33.9,35,43,2,0,0,19,15
+ESP-La Liga,2324,Real Madrid,Ferland Mendy,23,21,1720,5,2,40.0,10,12,5,0,0,17,14
+ESP-La Liga,2324,Real Madrid,Fran Garcia,25,15,1398,9,1,11.1,16,20,2,0,0,10,15
+ESP-La Liga,2324,Real Madrid,Gonzalo García,2,0,19,1,1,100.0,0,0,0,0,0,0,1
+ESP-La Liga,2324,Real Madrid,Joselu,34,15,1687,63,29,46.0,4,6,1,0,0,10,15
+ESP-La Liga,2324,Real Madrid,Jude Bellingham,28,27,2315,63,35,55.6,35,20,5,1,0,32,72
+ESP-La Liga,2324,Real Madrid,Kepa Arrizabalaga,14,13,1198,0,0,,0,0,1,0,0,0,2
+ESP-La Liga,2324,Real Madrid,Lucas Vázquez,29,14,1419,12,7,58.3,22,12,0,0,0,23,24
+ESP-La Liga,2324,Real Madrid,Luka Modrić,32,18,1688,25,10,40.0,15,19,2,0,0,19,21
+ESP-La Liga,2324,Real Madrid,Mario Martín,2,0,18,0,0,,1,0,0,0,0,1,1
+ESP-La Liga,2324,Real Madrid,Nacho,29,18,1746,5,1,20.0,11,19,4,2,0,21,13
+ESP-La Liga,2324,Real Madrid,Nico Paz,4,0,23,2,0,0.0,0,1,0,0,0,1,0
+ESP-La Liga,2324,Real Madrid,Rodrygo,34,28,2380,87,36,41.4,15,8,2,0,0,10,46
+ESP-La Liga,2324,Real Madrid,Thibaut Courtois,4,4,332,0,0,,0,0,0,0,0,0,1
+ESP-La Liga,2324,Real Madrid,Toni Kroos,33,24,2124,35,13,37.1,32,17,3,0,0,17,38
+ESP-La Liga,2324,Real Madrid,Vinicius Júnior,26,22,1864,78,39,50.0,12,1,7,0,0,24,54
+ESP-La Liga,2324,Real Madrid,Álvaro Rodríguez,1,0,1,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2324,Real Madrid,Éder Militão,10,6,496,2,2,100.0,3,5,0,0,0,5,5
+ESP-La Liga,2324,Real Sociedad,Aihen Muñoz,21,11,1127,7,2,28.6,22,7,2,0,0,18,7
+ESP-La Liga,2324,Real Sociedad,Alberto Dadie,1,0,28,0,0,,1,0,0,0,0,4,0
+ESP-La Liga,2324,Real Sociedad,Alex Sola,2,0,30,0,0,,0,1,0,0,0,2,2
+ESP-La Liga,2324,Real Sociedad,Ander Barrenetxea,29,20,1427,37,12,32.4,21,7,1,0,0,27,22
+ESP-La Liga,2324,Real Sociedad,André Silva,19,9,729,16,6,37.5,2,1,1,0,0,14,8
+ESP-La Liga,2324,Real Sociedad,Aritz Elustondo,15,7,812,6,2,33.3,7,5,2,0,0,9,10
+ESP-La Liga,2324,Real Sociedad,Arsen Zakharyan,29,15,1228,33,9,27.3,15,4,1,0,0,21,11
+ESP-La Liga,2324,Real Sociedad,Beñat Turrientes,29,19,1687,23,10,43.5,18,6,4,0,0,36,36
+ESP-La Liga,2324,Real Sociedad,Brais Méndez,32,27,2413,66,17,25.8,27,12,7,0,0,58,56
+ESP-La Liga,2324,Real Sociedad,Carlos Fernández,10,5,408,9,4,44.4,9,0,3,0,0,15,3
+ESP-La Liga,2324,Real Sociedad,Hamari Traoré,31,27,2292,18,2,11.1,19,24,7,0,0,32,19
+ESP-La Liga,2324,Real Sociedad,Igor Zubeldia,30,29,2518,12,0,0.0,24,28,11,1,0,42,9
+ESP-La Liga,2324,Real Sociedad,Javi Galán,14,13,1075,3,1,33.3,21,12,3,0,0,22,19
+ESP-La Liga,2324,Real Sociedad,Jon Aramburu,11,5,543,4,0,0.0,15,7,3,0,0,11,5
+ESP-La Liga,2324,Real Sociedad,Jon Magunazelaia,5,1,121,4,0,0.0,4,0,0,0,0,2,3
+ESP-La Liga,2324,Real Sociedad,Jon Martin,1,0,24,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2324,Real Sociedad,Jon Pacheco,23,16,1526,6,3,50.0,18,10,8,0,0,29,1
+ESP-La Liga,2324,Real Sociedad,Kieran Tierney,20,14,1238,2,0,0.0,24,10,1,0,0,6,8
+ESP-La Liga,2324,Real Sociedad,Martín Zubimendi,31,29,2654,22,11,50.0,28,39,5,0,0,34,21
+ESP-La Liga,2324,Real Sociedad,Mikel Merino,32,27,2482,30,11,36.7,45,16,10,0,0,70,60
+ESP-La Liga,2324,Real Sociedad,Mikel Oyarzabal,33,23,2156,40,19,47.5,18,4,3,0,0,20,20
+ESP-La Liga,2324,Real Sociedad,Mohamed Ali Cho,11,1,249,3,0,0.0,3,1,0,0,0,5,6
+ESP-La Liga,2324,Real Sociedad,Olasagasti,14,2,360,9,0,0.0,12,3,3,0,0,7,7
+ESP-La Liga,2324,Real Sociedad,Robin Le Normand,29,28,2469,9,5,55.6,22,27,13,0,0,33,23
+ESP-La Liga,2324,Real Sociedad,Sheraldo Becker,15,8,771,21,10,47.6,3,1,1,0,0,11,5
+ESP-La Liga,2324,Real Sociedad,Takefusa Kubo,30,24,2150,46,21,45.7,16,10,1,0,0,22,52
+ESP-La Liga,2324,Real Sociedad,Umar Sadiq,26,12,1077,33,10,30.3,10,0,4,0,0,45,19
+ESP-La Liga,2324,Real Sociedad,Unai Marrero,2,1,142,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2324,Real Sociedad,Urko González,5,2,156,2,0,0.0,0,1,1,0,0,1,2
+ESP-La Liga,2324,Real Sociedad,Álex Remiro,37,37,3275,0,0,,0,0,3,1,0,1,4
+ESP-La Liga,2324,Real Sociedad,Álvaro Odriozola,9,6,393,0,0,,6,9,0,0,0,7,4
+ESP-La Liga,2324,Sevilla,Adnan Januzaj,8,0,193,6,1,16.7,3,1,0,0,0,3,9
+ESP-La Liga,2324,Sevilla,Adrià Pedrosa,31,15,1753,16,4,25.0,26,13,1,0,0,6,32
+ESP-La Liga,2324,Sevilla,Alejo Véliz,6,0,35,2,2,100.0,0,0,0,0,0,4,1
+ESP-La Liga,2324,Sevilla,Boubakary Soumaré,28,26,2286,1,0,0.0,31,25,10,0,0,33,29
+ESP-La Liga,2324,Sevilla,Diego Iturralde,1,0,37,0,0,,0,0,0,0,0,1,0
+ESP-La Liga,2324,Sevilla,Djibril Sow,24,18,1460,18,5,27.8,21,18,6,0,0,27,19
+ESP-La Liga,2324,Sevilla,Dodi Lukebakio,23,12,1125,42,17,40.5,3,2,0,0,0,24,22
+ESP-La Liga,2324,Sevilla,Federico Gattoni,2,0,10,0,0,,0,0,0,0,0,2,0
+ESP-La Liga,2324,Sevilla,Fernando,8,5,459,1,0,0.0,8,8,0,0,0,6,3
+ESP-La Liga,2324,Sevilla,Hannibal Mejbri,6,1,104,1,0,0.0,3,0,2,0,0,4,4
+ESP-La Liga,2324,Sevilla,Isaac Romero,14,14,1039,42,17,40.5,3,0,2,0,0,28,17
+ESP-La Liga,2324,Sevilla,Ivan Rakitić,18,16,1425,32,8,25.0,16,13,6,0,0,16,19
+ESP-La Liga,2324,Sevilla,Jesús Corona,2,0,17,0,0,,0,1,0,0,0,1,0
+ESP-La Liga,2324,Sevilla,Jesús Navas,29,25,2003,7,2,28.6,26,23,6,1,0,12,11
+ESP-La Liga,2324,Sevilla,Joan Jordán,8,4,380,6,1,16.7,6,4,1,0,0,1,3
+ESP-La Liga,2324,Sevilla,Juanlu Sánchez,26,11,1181,11,2,18.2,36,10,2,0,0,11,23
+ESP-La Liga,2324,Sevilla,Kike Salas,23,19,1605,16,5,31.3,24,28,10,0,0,32,10
+ESP-La Liga,2324,Sevilla,Loïc Bade,28,27,2277,14,3,21.4,42,38,5,1,0,24,10
+ESP-La Liga,2324,Sevilla,Lucas Ocampos,35,34,2871,64,24,37.5,47,20,8,0,0,32,71
+ESP-La Liga,2324,Sevilla,Lucien Agoume,12,9,777,6,2,33.3,16,7,3,0,0,19,2
+ESP-La Liga,2324,Sevilla,Manu Bueno,4,1,117,1,0,0.0,2,0,1,0,0,1,2
+ESP-La Liga,2324,Sevilla,Marcos Acuña,21,18,1292,9,4,44.4,20,3,7,0,0,18,17
+ESP-La Liga,2324,Sevilla,Marcão,7,3,355,0,0,,6,3,2,0,0,5,6
+ESP-La Liga,2324,Sevilla,Mariano,9,2,244,14,2,14.3,1,0,1,0,0,8,1
+ESP-La Liga,2324,Sevilla,Marko Dmitrović,13,13,1170,0,0,,1,1,1,0,0,0,1
+ESP-La Liga,2324,Sevilla,Nemanja Gudelj,22,20,1742,19,3,15.8,22,29,7,0,0,30,11
+ESP-La Liga,2324,Sevilla,Rafa Mir,15,3,391,15,7,46.7,2,0,1,0,0,9,5
+ESP-La Liga,2324,Sevilla,Sergio Ramos,28,28,2517,28,11,39.3,30,39,7,1,0,27,22
+ESP-La Liga,2324,Sevilla,Suso,29,15,1517,26,6,23.1,17,5,5,1,0,22,36
+ESP-La Liga,2324,Sevilla,Tanguy Nianzou,8,3,318,1,0,0.0,8,3,3,0,0,6,4
+ESP-La Liga,2324,Sevilla,Yassine Bounou,1,1,90,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2324,Sevilla,Youssef En-Nesyri,33,28,2570,73,30,41.1,7,8,4,0,0,21,21
+ESP-La Liga,2324,Sevilla,Érik Lamela,13,5,463,9,4,44.4,13,1,3,0,0,18,6
+ESP-La Liga,2324,Sevilla,Óliver Torres,27,18,1616,9,3,33.3,22,7,3,0,0,26,23
+ESP-La Liga,2324,Sevilla,Ørjan Nyland,24,24,2160,0,0,,0,0,1,0,0,0,2
+ESP-La Liga,2324,Valencia,Alberto Marí,16,2,276,7,3,42.9,2,0,0,0,0,9,6
+ESP-La Liga,2324,Valencia,André Almeida,18,12,965,10,4,40.0,14,3,0,0,0,12,20
+ESP-La Liga,2324,Valencia,Cenk Özkacar,23,18,1598,6,3,50.0,14,18,3,0,0,13,8
+ESP-La Liga,2324,Valencia,Cristhian Mosquera,36,33,3075,9,2,22.2,34,33,2,0,0,25,27
+ESP-La Liga,2324,Valencia,Cristian,1,0,57,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2324,Valencia,César Tárrega,1,0,8,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2324,Valencia,Diego López,36,30,2656,41,15,36.6,26,21,2,0,0,26,31
+ESP-La Liga,2324,Valencia,Dimitri Foulquier,33,19,1842,7,1,14.3,21,14,3,0,0,24,28
+ESP-La Liga,2324,Valencia,Francisco Perez,32,27,2049,20,2,10.0,17,15,4,0,0,31,23
+ESP-La Liga,2324,Valencia,Gabriel Paulista,18,16,1398,7,0,0.0,6,23,6,1,1,11,4
+ESP-La Liga,2324,Valencia,Giorgi Mamardashvili,37,37,3284,0,0,,3,1,3,1,0,3,4
+ESP-La Liga,2324,Valencia,Hugo Duro,37,35,2976,66,29,43.9,8,6,4,0,0,41,95
+ESP-La Liga,2324,Valencia,Hugo González,9,0,87,1,0,0.0,1,0,0,0,0,3,2
+ESP-La Liga,2324,Valencia,Hugo Guillamón,26,12,1315,3,2,66.7,15,11,7,0,0,36,25
+ESP-La Liga,2324,Valencia,Jaume Doménech,2,1,79,0,0,,0,0,0,0,0,0,1
+ESP-La Liga,2324,Valencia,Javier Guerra,36,28,2498,42,14,33.3,29,18,3,1,0,40,30
+ESP-La Liga,2324,Valencia,Jesus Vazquez,20,6,716,7,2,28.6,10,3,1,0,0,8,7
+ESP-La Liga,2324,Valencia,José Luis García Vayá,37,37,3302,35,12,34.3,55,45,4,0,0,51,40
+ESP-La Liga,2324,Valencia,José Luis Gayà,24,22,1791,10,1,10.0,39,11,2,0,0,24,12
+ESP-La Liga,2324,Valencia,Mario Dominguez,3,0,25,3,1,33.3,0,0,0,0,0,0,0
+ESP-La Liga,2324,Valencia,Mouctar Diakhaby,14,12,1073,7,3,42.9,13,11,6,0,0,9,2
+ESP-La Liga,2324,Valencia,Pablo Gozalbez,5,1,103,1,0,0.0,0,1,0,0,0,7,2
+ESP-La Liga,2324,Valencia,Peter González,15,5,649,17,6,35.3,4,9,1,0,0,11,11
+ESP-La Liga,2324,Valencia,Roman Yaremchuk,25,11,928,18,9,50.0,2,1,2,0,0,7,13
+ESP-La Liga,2324,Valencia,Ruben Lendinez,1,0,11,0,0,,1,0,0,0,0,0,0
+ESP-La Liga,2324,Valencia,Selim Amallah,20,7,604,11,5,45.5,12,10,5,1,1,21,24
+ESP-La Liga,2324,Valencia,Sergi Canós,27,15,1229,43,17,39.5,13,11,1,0,0,17,16
+ESP-La Liga,2324,Valencia,Thierry Correia,31,25,2154,5,2,40.0,36,31,4,1,0,41,41
+ESP-La Liga,2324,Valencia,Yarek Gasiorowski,14,7,735,1,0,0.0,13,14,1,0,0,11,2
+ESP-La Liga,2324,Villarreal,Adrià Altimira,11,10,775,1,0,0.0,7,5,3,0,0,12,4
+ESP-La Liga,2324,Villarreal,Alberto Moreno,27,17,1484,17,5,29.4,20,21,5,2,2,24,14
+ESP-La Liga,2324,Villarreal,Alexander Sørloth,34,30,2489,78,36,46.2,4,0,3,0,0,34,19
+ESP-La Liga,2324,Villarreal,Alfonso Pedraza,19,14,1116,9,4,44.4,10,12,4,1,0,14,17
+ESP-La Liga,2324,Villarreal,Aïssa Mandi,16,12,1113,4,2,50.0,8,7,3,0,0,7,5
+ESP-La Liga,2324,Villarreal,Ben Brereton Díaz,14,2,270,5,1,20.0,2,0,2,0,0,5,4
+ESP-La Liga,2324,Villarreal,Bertrand Traoré,11,6,568,20,7,35.0,5,1,4,0,0,7,21
+ESP-La Liga,2324,Villarreal,Carlos Romero,7,2,262,2,1,50.0,5,1,1,0,0,2,6
+ESP-La Liga,2324,Villarreal,Daniel Parejo,33,29,2580,12,6,50.0,31,20,4,0,0,18,51
+ESP-La Liga,2324,Villarreal,Denis Suárez,4,1,133,1,0,0.0,0,1,0,0,0,4,2
+ESP-La Liga,2324,Villarreal,Eric Bailly,10,9,839,2,0,0.0,3,8,4,0,0,6,5
+ESP-La Liga,2324,Villarreal,Filip Jørgensen,36,36,3240,0,0,,1,2,4,0,0,2,5
+ESP-La Liga,2324,Villarreal,Francis Coquelin,17,10,910,3,0,0.0,12,15,4,0,0,18,8
+ESP-La Liga,2324,Villarreal,Gerard Moreno,30,28,2215,63,21,33.3,11,9,0,0,0,22,38
+ESP-La Liga,2324,Villarreal,Gonçalo Guedes,17,9,951,25,8,32.0,5,2,0,0,0,5,16
+ESP-La Liga,2324,Villarreal,Ilias Akhomach,31,17,1511,30,7,23.3,21,13,4,0,0,42,34
+ESP-La Liga,2324,Villarreal,Jorge Cuenca,29,21,1963,20,7,35.0,27,20,7,0,0,25,12
+ESP-La Liga,2324,Villarreal,José Luis Morales,29,8,1048,26,12,46.2,3,6,0,0,0,3,4
+ESP-La Liga,2324,Villarreal,Juan Foyth,12,12,1062,6,2,33.3,16,12,1,0,0,18,7
+ESP-La Liga,2324,Villarreal,Kiko Femenía,23,16,1583,1,0,0.0,26,31,8,1,1,24,3
+ESP-La Liga,2324,Villarreal,Manu Trigueros,14,2,309,6,3,50.0,5,3,0,0,0,5,3
+ESP-La Liga,2324,Villarreal,Matteo Gabbia,7,6,477,0,0,,6,7,2,0,0,9,3
+ESP-La Liga,2324,Villarreal,Pascu,1,0,14,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2324,Villarreal,Pepe Reina,2,2,180,0,0,,0,0,2,1,0,0,0
+ESP-La Liga,2324,Villarreal,Ramón Terrats,19,6,785,8,1,12.5,13,2,4,0,0,15,17
+ESP-La Liga,2324,Villarreal,Raúl Albiol,26,24,2031,6,1,16.7,15,17,6,0,0,21,8
+ESP-La Liga,2324,Villarreal,Santi Comesaña,27,20,1653,17,7,41.2,23,22,8,2,1,33,22
+ESP-La Liga,2324,Villarreal,Stefan Lekovic,1,0,29,0,0,,0,0,0,0,0,0,0
+ESP-La Liga,2324,Villarreal,Yerson Mosquera,16,14,1229,10,4,40.0,14,18,4,0,0,14,27
+ESP-La Liga,2324,Villarreal,Yéremy Pino,7,7,475,9,4,44.4,18,5,4,0,0,22,9
+ESP-La Liga,2324,Villarreal,Álex Baena,34,33,2579,73,26,35.6,20,14,11,1,0,52,57
+ESP-La Liga,2324,Villarreal,Étienne Capoue,32,15,1455,14,5,35.7,21,23,8,0,0,25,41

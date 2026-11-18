@@ -1,0 +1,570 @@
+league,season,team,player,mp,starts,minutes,shots,shots_on_target,shots_on_target_pct,tackles_won,interceptions,yellow_cards,red_cards,second_yellow_cards,fouls_committed,fouls_drawn
+ENG-Premier League,2223,Arsenal,Aaron Ramsdale,38,38,3420,0,0,,1,0,1,0,0,0,4
+ENG-Premier League,2223,Arsenal,Albert Sambi Lokonga,6,2,198,0,0,,1,4,0,0,0,1,5
+ENG-Premier League,2223,Arsenal,Ben White,38,36,3055,10,3,30.0,33,21,5,0,0,28,30
+ENG-Premier League,2223,Arsenal,Bukayo Saka,38,37,3181,89,32,36.0,33,11,6,0,0,43,65
+ENG-Premier League,2223,Arsenal,Cédric Soares,2,0,29,0,0,,0,0,0,0,0,1,0
+ENG-Premier League,2223,Arsenal,Eddie Nketiah,30,9,1089,41,14,34.1,9,1,3,0,0,30,25
+ENG-Premier League,2223,Arsenal,Emile Smith Rowe,12,0,172,4,1,25.0,1,0,0,0,0,1,0
+ENG-Premier League,2223,Arsenal,Ethan Nwaneri,1,0,1,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2223,Arsenal,Fabio Vieira,22,3,514,15,2,13.3,4,4,0,0,0,3,5
+ENG-Premier League,2223,Arsenal,Gabriel Jesus,26,24,2064,77,32,41.6,24,11,6,0,0,43,56
+ENG-Premier League,2223,Arsenal,Gabriel Magalhães,38,38,3409,32,10,31.3,28,32,5,0,0,26,41
+ENG-Premier League,2223,Arsenal,Gabriel Martinelli,36,34,2789,79,32,40.5,22,9,3,0,0,39,37
+ENG-Premier League,2223,Arsenal,Granit Xhaka,37,36,2993,40,14,35.0,26,15,4,0,0,25,39
+ENG-Premier League,2223,Arsenal,Jakub Kiwior,7,5,427,1,1,100.0,6,6,0,0,0,1,1
+ENG-Premier League,2223,Arsenal,Jorginho,14,9,855,6,0,0.0,12,7,0,0,0,6,18
+ENG-Premier League,2223,Arsenal,Kieran Tierney,27,6,795,7,2,28.6,10,10,0,0,0,5,9
+ENG-Premier League,2223,Arsenal,Leandro Trossard,20,10,931,17,5,29.4,6,5,0,0,0,9,17
+ENG-Premier League,2223,Arsenal,Marquinhos,1,0,1,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2223,Arsenal,Martin Ødegaard,37,37,3127,93,33,35.5,24,5,4,0,0,30,26
+ENG-Premier League,2223,Arsenal,Mohamed Elneny,5,1,113,0,0,,1,0,0,0,0,1,1
+ENG-Premier League,2223,Arsenal,Oleksandr Zinchenko,27,26,2118,28,7,25.0,18,22,3,0,0,6,11
+ENG-Premier League,2223,Arsenal,Reiss Nelson,11,0,212,12,7,58.3,1,0,0,0,0,8,4
+ENG-Premier League,2223,Arsenal,Rob Holding,14,6,566,5,2,40.0,5,3,0,0,0,5,2
+ENG-Premier League,2223,Arsenal,Takehiro Tomiyasu,21,6,663,3,0,0.0,19,12,2,0,0,6,3
+ENG-Premier League,2223,Arsenal,Thomas Partey,33,28,2483,28,4,14.3,40,26,5,0,0,37,23
+ENG-Premier League,2223,Arsenal,William Saliba,27,27,2415,6,3,50.0,19,18,4,0,0,19,13
+ENG-Premier League,2223,Aston Villa,Ashley Young,29,23,2036,15,3,20.0,27,22,7,0,0,24,28
+ENG-Premier League,2223,Aston Villa,Bertrand Traoré,8,1,233,9,3,33.3,1,2,1,0,0,2,8
+ENG-Premier League,2223,Aston Villa,Boubacar Kamara,24,21,1777,4,1,25.0,27,19,4,0,0,34,31
+ENG-Premier League,2223,Aston Villa,Calum Chambers,14,2,353,2,0,0.0,7,7,2,0,0,7,3
+ENG-Premier League,2223,Aston Villa,Cameron Archer,6,0,49,0,0,,0,0,0,0,0,2,1
+ENG-Premier League,2223,Aston Villa,Danny Ings,18,8,824,27,14,51.9,5,1,3,0,0,8,5
+ENG-Premier League,2223,Aston Villa,Diego Carlos,3,2,205,4,0,0.0,0,1,0,0,0,2,0
+ENG-Premier League,2223,Aston Villa,Douglas Luiz,37,33,2927,34,12,35.3,40,42,6,1,0,48,42
+ENG-Premier League,2223,Aston Villa,Emi Buendía,38,27,2412,49,12,24.5,24,19,0,0,0,43,44
+ENG-Premier League,2223,Aston Villa,Emiliano Martínez,36,36,3139,0,0,,0,1,7,0,0,1,6
+ENG-Premier League,2223,Aston Villa,Ezri Konsa,38,37,3322,8,0,0.0,20,27,6,0,0,12,64
+ENG-Premier League,2223,Aston Villa,Jacob Ramsey,35,31,2636,33,13,39.4,40,22,5,0,0,35,45
+ENG-Premier League,2223,Aston Villa,Jan Bednarek,3,1,100,0,0,,3,2,0,0,0,1,1
+ENG-Premier League,2223,Aston Villa,Jhon Durán,12,0,136,7,2,28.6,1,1,1,0,0,9,3
+ENG-Premier League,2223,Aston Villa,John McGinn,34,30,2693,42,11,26.2,36,23,7,0,0,41,64
+ENG-Premier League,2223,Aston Villa,Leander Dendoncker,20,7,697,2,0,0.0,10,8,0,0,0,1,2
+ENG-Premier League,2223,Aston Villa,Leon Bailey,33,26,1967,51,14,27.5,6,3,4,0,0,29,22
+ENG-Premier League,2223,Aston Villa,Lucas Digne,28,18,1502,8,3,37.5,13,18,5,0,0,19,22
+ENG-Premier League,2223,Aston Villa,Ludwig Augustinsson,3,1,77,2,2,100.0,0,0,1,0,0,1,3
+ENG-Premier League,2223,Aston Villa,Matty Cash,26,20,1820,7,1,14.3,33,26,4,0,0,21,16
+ENG-Premier League,2223,Aston Villa,Morgan Sanson,2,0,11,0,0,,1,0,0,0,0,0,2
+ENG-Premier League,2223,Aston Villa,Ollie Watkins,37,36,3127,85,47,55.3,11,10,4,0,0,26,39
+ENG-Premier League,2223,Aston Villa,Philippe Coutinho,20,7,788,21,8,38.1,14,4,3,0,0,16,14
+ENG-Premier League,2223,Aston Villa,Robin Olsen,4,2,281,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2223,Aston Villa,Tyrone Mings,35,35,3150,7,2,28.6,7,52,7,0,0,18,22
+ENG-Premier League,2223,Aston Villa,Álex Moreno,19,14,1329,13,3,23.1,15,7,3,0,0,17,11
+ENG-Premier League,2223,Bournemouth,Adam Smith,37,34,2943,5,1,20.0,28,26,11,0,0,29,27
+ENG-Premier League,2223,Bournemouth,Antoine Semenyo,11,2,258,3,1,33.3,0,2,0,0,0,6,5
+ENG-Premier League,2223,Bournemouth,Ben Pearson,7,3,286,2,1,50.0,4,2,1,0,0,9,2
+ENG-Premier League,2223,Bournemouth,Chris Mepham,26,24,2199,8,4,50.0,23,29,7,0,0,16,7
+ENG-Premier League,2223,Bournemouth,Dango Ouattara,19,15,1241,26,5,19.2,15,10,1,0,0,5,15
+ENG-Premier League,2223,Bournemouth,David Brooks,6,2,173,5,1,20.0,0,2,1,0,0,3,1
+ENG-Premier League,2223,Bournemouth,Dominic Solanke,33,32,2860,76,29,38.2,9,6,2,0,0,41,53
+ENG-Premier League,2223,Bournemouth,Emiliano Marcondes,1,0,9,0,0,,0,0,0,0,0,0,1
+ENG-Premier League,2223,Bournemouth,Hamed Junior Traorè,7,5,427,6,0,0.0,12,3,0,0,0,4,4
+ENG-Premier League,2223,Bournemouth,Illia Zabarnyi,5,3,299,0,0,,2,3,0,0,0,1,2
+ENG-Premier League,2223,Bournemouth,Jack Stacey,10,3,299,1,0,0.0,4,5,2,0,0,4,0
+ENG-Premier League,2223,Bournemouth,Jack Stephens,15,13,1173,2,1,50.0,11,16,3,0,0,8,2
+ENG-Premier League,2223,Bournemouth,Jaidon Anthony,30,11,1257,21,13,61.9,17,10,2,0,0,9,12
+ENG-Premier League,2223,Bournemouth,Jamal Lowe,2,0,12,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2223,Bournemouth,Jefferson Lerma,37,37,3252,35,12,34.3,30,45,7,0,0,37,33
+ENG-Premier League,2223,Bournemouth,Joe Rothwell,20,12,1016,3,2,66.7,15,8,1,0,0,17,3
+ENG-Premier League,2223,Bournemouth,Jordan Zemura,19,17,1454,4,1,25.0,23,15,1,0,0,17,14
+ENG-Premier League,2223,Bournemouth,Junior Stanislas,4,0,61,1,0,0.0,0,0,0,0,0,0,0
+ENG-Premier League,2223,Bournemouth,Kieffer Moore,27,12,1279,23,9,39.1,12,1,1,0,0,26,30
+ENG-Premier League,2223,Bournemouth,Lewis Cook,28,18,1720,6,0,0.0,23,22,4,0,0,15,10
+ENG-Premier League,2223,Bournemouth,Lloyd Kelly,23,23,2040,3,0,0.0,19,25,3,0,0,17,5
+ENG-Premier League,2223,Bournemouth,Marcos Senesi,31,29,2491,8,3,37.5,33,42,7,0,0,29,14
+ENG-Premier League,2223,Bournemouth,Marcus Tavernier,23,19,1743,37,15,40.5,22,8,1,0,0,21,28
+ENG-Premier League,2223,Bournemouth,Mark Travers,12,11,1035,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2223,Bournemouth,Matías Viña,12,5,458,9,6,66.7,11,4,1,0,0,7,11
+ENG-Premier League,2223,Bournemouth,Neto,27,27,2385,0,0,,1,0,4,0,0,0,4
+ENG-Premier League,2223,Bournemouth,Owen Bevan,1,0,9,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2223,Bournemouth,Philip Billing,36,34,2764,38,18,47.4,40,32,5,0,0,30,34
+ENG-Premier League,2223,Bournemouth,Ryan Christie,32,22,1834,33,9,27.3,22,26,2,0,0,35,45
+ENG-Premier League,2223,Bournemouth,Ryan Fredericks,12,5,533,0,0,,3,1,1,0,0,3,1
+ENG-Premier League,2223,Bournemouth,Siriki Dembélé,6,0,110,2,2,100.0,1,1,0,0,0,1,2
+ENG-Premier League,2223,Brentford,Aaron Hickey,26,23,1916,11,2,18.2,25,17,7,0,0,20,35
+ENG-Premier League,2223,Brentford,Ben Mee,37,37,3269,27,7,25.9,25,48,2,0,0,14,15
+ENG-Premier League,2223,Brentford,Bryan Mbeumo,38,36,2906,71,33,46.5,17,11,5,0,0,26,23
+ENG-Premier League,2223,Brentford,Christian Nørgaard,22,21,1763,19,10,52.6,30,33,6,0,0,35,20
+ENG-Premier League,2223,Brentford,David Raya,38,38,3420,1,0,0.0,0,1,1,0,0,0,5
+ENG-Premier League,2223,Brentford,Ethan Pinnock,30,30,2700,15,9,60.0,29,31,0,0,0,6,10
+ENG-Premier League,2223,Brentford,Frank Onyeka,21,8,848,9,4,44.4,12,9,0,0,0,15,26
+ENG-Premier League,2223,Brentford,Halil Dervişoğlu,1,0,8,1,0,0.0,0,0,0,0,0,0,0
+ENG-Premier League,2223,Brentford,Ivan Toney,33,33,2951,94,42,44.7,11,15,9,0,0,54,74
+ENG-Premier League,2223,Brentford,Josh Dasilva,36,14,1389,18,6,33.3,8,5,1,0,0,14,22
+ENG-Premier League,2223,Brentford,Keane Lewis-Potter,10,3,321,7,2,28.6,0,1,0,0,0,1,4
+ENG-Premier League,2223,Brentford,Kevin Schade,18,7,732,12,4,33.3,9,4,2,0,0,13,8
+ENG-Premier League,2223,Brentford,Kristoffer Ajer,9,9,763,1,0,0.0,8,6,0,0,0,5,8
+ENG-Premier League,2223,Brentford,Mads Bech Sørensen,4,0,21,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2223,Brentford,Mads Roerslev,20,12,1108,3,1,33.3,12,8,0,0,0,4,3
+ENG-Premier League,2223,Brentford,Mathias Jensen,37,37,2803,23,7,30.4,35,31,5,0,0,32,26
+ENG-Premier League,2223,Brentford,Mathias Jørgensen,18,11,1103,5,1,20.0,7,16,2,0,0,9,4
+ENG-Premier League,2223,Brentford,Mikkel Damsgaard,26,9,988,12,6,50.0,20,9,4,0,0,13,11
+ENG-Premier League,2223,Brentford,Pontus Jansson,12,9,724,4,2,50.0,3,9,0,0,0,2,1
+ENG-Premier League,2223,Brentford,Rico Henry,37,37,3238,22,4,18.2,30,31,4,0,0,32,36
+ENG-Premier League,2223,Brentford,Saman Ghoddos,15,0,139,1,1,100.0,1,3,0,0,0,3,3
+ENG-Premier League,2223,Brentford,Sergi Canós,5,0,77,1,0,0.0,0,0,0,0,0,3,3
+ENG-Premier League,2223,Brentford,Shandon Baptiste,23,4,618,4,1,25.0,9,6,3,1,1,10,13
+ENG-Premier League,2223,Brentford,Vitaly Janelt,35,24,2208,14,5,35.7,26,28,3,0,0,22,21
+ENG-Premier League,2223,Brentford,Yoane Wissa,38,16,1606,32,15,46.9,13,6,3,0,0,21,27
+ENG-Premier League,2223,Brighton,Adam Lallana,16,12,722,8,5,62.5,6,2,0,0,0,2,7
+ENG-Premier League,2223,Brighton,Adam Webster,27,23,1985,18,2,11.1,11,19,2,0,0,10,6
+ENG-Premier League,2223,Brighton,Alexis Mac Allister,35,31,2886,86,34,39.5,38,20,8,0,0,34,57
+ENG-Premier League,2223,Brighton,Andrew Moran,1,0,12,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2223,Brighton,Billy Gilmour,14,7,507,6,1,16.7,2,5,1,0,0,7,3
+ENG-Premier League,2223,Brighton,Cameron Peupion,1,0,6,1,0,0.0,0,0,0,0,0,0,0
+ENG-Premier League,2223,Brighton,Danny Welbeck,31,21,1854,62,23,37.1,7,5,0,0,0,27,18
+ENG-Premier League,2223,Brighton,Deniz Undav,22,6,628,27,12,44.4,4,1,2,0,0,16,4
+ENG-Premier League,2223,Brighton,Enock Mwepu,6,2,213,2,1,50.0,5,2,0,0,0,2,1
+ENG-Premier League,2223,Brighton,Evan Ferguson,19,10,950,36,17,47.2,3,2,1,0,0,9,11
+ENG-Premier League,2223,Brighton,Facundo Buonanotte,13,6,565,11,3,27.3,1,4,2,0,0,9,7
+ENG-Premier League,2223,Brighton,Jack Hinshelwood,1,0,2,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2223,Brighton,Jan Paul van Hecke,8,3,295,2,0,0.0,6,6,2,0,0,7,4
+ENG-Premier League,2223,Brighton,Jason Steele,15,15,1350,0,0,,0,0,1,0,0,1,1
+ENG-Premier League,2223,Brighton,Jeremy Sarmiento,9,1,176,5,2,40.0,3,1,1,0,0,4,4
+ENG-Premier League,2223,Brighton,Joël Veltman,31,25,2188,14,6,42.9,34,17,6,0,0,27,38
+ENG-Premier League,2223,Brighton,Julio Enciso,20,7,806,38,18,47.4,4,3,1,0,0,13,15
+ENG-Premier League,2223,Brighton,Kaoru Mitoma,33,24,2318,52,21,40.4,26,17,0,0,0,29,27
+ENG-Premier League,2223,Brighton,Leandro Trossard,16,16,1315,38,18,47.4,4,5,1,0,0,10,13
+ENG-Premier League,2223,Brighton,Levi Colwill,17,13,1220,8,0,0.0,7,14,1,0,0,8,10
+ENG-Premier League,2223,Brighton,Lewis Dunk,36,36,3239,22,3,13.6,18,30,4,0,0,18,27
+ENG-Premier League,2223,Brighton,Moisés Caicedo,37,34,3139,27,8,29.6,50,50,10,0,0,65,54
+ENG-Premier League,2223,Brighton,Odeluga Offiah,2,0,25,0,0,,1,0,0,0,0,0,0
+ENG-Premier League,2223,Brighton,Pascal Groß,37,37,3239,40,19,47.5,36,13,6,0,0,35,18
+ENG-Premier League,2223,Brighton,Pervis Estupiñán,35,31,2675,30,5,16.7,33,33,4,0,0,42,26
+ENG-Premier League,2223,Brighton,Robert Sánchez,23,23,2070,0,0,,0,3,2,0,0,1,0
+ENG-Premier League,2223,Brighton,Solly March,33,31,2715,73,33,45.2,31,20,2,0,0,44,39
+ENG-Premier League,2223,Brighton,Tariq Lamptey,20,3,453,5,0,0.0,5,7,1,0,0,6,14
+ENG-Premier League,2223,Brighton,Yasin Ayari,3,1,67,1,0,0.0,2,0,0,0,0,0,3
+ENG-Premier League,2223,Chelsea,Armando Broja,12,2,294,6,5,83.3,1,1,0,0,0,2,6
+ENG-Premier League,2223,Chelsea,Ben Chilwell,23,15,1408,16,4,25.0,18,17,3,0,0,13,23
+ENG-Premier League,2223,Chelsea,Benoît Badiashile,11,10,905,6,2,33.3,9,14,2,0,0,9,6
+ENG-Premier League,2223,Chelsea,Carney Chukwuemeka,14,2,354,5,1,20.0,7,6,0,0,0,2,5
+ENG-Premier League,2223,Chelsea,Christian Pulisic,24,8,821,19,6,31.6,6,3,1,0,0,10,15
+ENG-Premier League,2223,Chelsea,Conor Gallagher,35,18,1621,28,11,39.3,32,23,11,1,1,34,35
+ENG-Premier League,2223,Chelsea,César Azpilicueta,25,16,1527,9,1,11.1,25,19,3,0,0,28,7
+ENG-Premier League,2223,Chelsea,David Datro Fofana,3,1,70,3,2,66.7,1,0,0,0,0,3,2
+ENG-Premier League,2223,Chelsea,Denis Zakaria,7,5,411,2,0,0.0,5,3,0,0,0,5,2
+ENG-Premier League,2223,Chelsea,Enzo Fernández,18,18,1547,20,3,15.0,26,12,3,0,0,11,22
+ENG-Premier League,2223,Chelsea,Hakim Ziyech,18,6,661,16,3,18.8,13,5,1,0,0,12,14
+ENG-Premier League,2223,Chelsea,Jorginho,18,15,1279,5,3,60.0,23,19,4,0,0,12,23
+ENG-Premier League,2223,Chelsea,João Félix,16,11,941,46,16,34.8,7,1,1,1,0,15,29
+ENG-Premier League,2223,Chelsea,Kai Havertz,35,30,2569,71,33,46.5,14,7,5,0,0,59,25
+ENG-Premier League,2223,Chelsea,Kalidou Koulibaly,23,20,1800,11,4,36.4,30,28,7,1,1,22,9
+ENG-Premier League,2223,Chelsea,Kepa Arrizabalaga,29,29,2565,0,0,,2,1,1,0,0,0,8
+ENG-Premier League,2223,Chelsea,Lewis Hall,9,8,654,11,5,45.5,13,8,1,0,0,4,11
+ENG-Premier League,2223,Chelsea,Marc Cucurella,24,21,1671,7,0,0.0,35,16,4,0,0,16,21
+ENG-Premier League,2223,Chelsea,Mason Mount,24,20,1648,33,9,27.3,20,8,4,0,0,28,27
+ENG-Premier League,2223,Chelsea,Mateo Kovačić,27,17,1707,23,2,8.7,23,16,8,0,0,18,12
+ENG-Premier League,2223,Chelsea,Mykhailo Mudryk,15,7,657,14,5,35.7,9,1,1,0,0,8,12
+ENG-Premier League,2223,Chelsea,N'Golo Kanté,7,6,518,8,1,12.5,10,6,1,0,0,4,2
+ENG-Premier League,2223,Chelsea,Noni Madueke,12,7,643,12,6,50.0,8,4,0,0,0,4,15
+ENG-Premier League,2223,Chelsea,Omari Hutchinson,1,0,23,0,0,,0,1,0,0,0,0,0
+ENG-Premier League,2223,Chelsea,Pierre-Emerick Aubameyang,15,5,554,16,7,43.8,0,2,1,0,0,5,1
+ENG-Premier League,2223,Chelsea,Raheem Sterling,28,23,1891,42,17,40.5,10,0,4,0,0,21,32
+ENG-Premier League,2223,Chelsea,Reece James,16,14,1244,16,4,25.0,20,13,4,0,0,9,18
+ENG-Premier League,2223,Chelsea,Ruben Loftus-Cheek,25,19,1536,9,2,22.2,15,13,1,0,0,10,34
+ENG-Premier League,2223,Chelsea,Thiago Silva,27,26,2352,15,2,13.3,25,34,2,0,0,10,13
+ENG-Premier League,2223,Chelsea,Trevoh Chalobah,25,18,1608,9,2,22.2,19,25,4,0,0,11,8
+ENG-Premier League,2223,Chelsea,Wesley Fofana,15,12,1183,6,2,33.3,18,18,3,0,0,11,22
+ENG-Premier League,2223,Chelsea,Édouard Mendy,10,9,855,0,0,,0,0,1,0,0,0,2
+ENG-Premier League,2223,Crystal Palace,Albert Sambi Lokonga,9,6,536,2,1,50.0,10,5,2,0,0,7,12
+ENG-Premier League,2223,Crystal Palace,Cheick Doucouré,34,34,2769,36,7,19.4,48,56,10,1,1,38,13
+ENG-Premier League,2223,Crystal Palace,Chris Richards,9,4,447,4,0,0.0,6,7,0,0,0,2,1
+ENG-Premier League,2223,Crystal Palace,David Ozoh,1,0,1,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2223,Crystal Palace,Eberechi Eze,38,30,2636,70,25,35.7,24,10,3,0,0,27,57
+ENG-Premier League,2223,Crystal Palace,James McArthur,4,0,54,0,0,,1,0,0,0,0,0,1
+ENG-Premier League,2223,Crystal Palace,James Tomkins,6,3,338,3,2,66.7,3,6,3,1,1,3,1
+ENG-Premier League,2223,Crystal Palace,Jaïro Riedewald,6,0,64,1,0,0.0,1,0,0,0,0,2,1
+ENG-Premier League,2223,Crystal Palace,Jean-Philippe Mateta,29,6,770,28,8,28.6,1,3,3,0,0,16,8
+ENG-Premier League,2223,Crystal Palace,Jeffrey Schlupp,34,30,2531,28,9,32.1,46,23,7,0,0,51,33
+ENG-Premier League,2223,Crystal Palace,Joachim Andersen,32,32,2782,22,9,40.9,21,27,8,0,0,27,16
+ENG-Premier League,2223,Crystal Palace,Joel Ward,28,24,2256,7,2,28.6,35,22,6,0,0,29,11
+ENG-Premier League,2223,Crystal Palace,Jordan Ayew,38,31,2714,32,11,34.4,41,15,5,0,0,48,90
+ENG-Premier League,2223,Crystal Palace,Joseph Whitworth,2,2,180,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2223,Crystal Palace,Luka Milivojević,18,5,512,7,0,0.0,8,12,2,0,0,15,3
+ENG-Premier League,2223,Crystal Palace,Malcolm Ebiowei,3,0,34,0,0,,1,0,0,0,0,0,1
+ENG-Premier League,2223,Crystal Palace,Marc Guéhi,37,37,3329,14,6,42.9,27,42,8,0,0,24,40
+ENG-Premier League,2223,Crystal Palace,Michael Olise,37,31,2749,51,14,27.5,35,26,2,0,0,28,69
+ENG-Premier League,2223,Crystal Palace,Naouirou Ahamada,8,0,94,3,0,0.0,3,0,1,0,0,2,0
+ENG-Premier League,2223,Crystal Palace,Nathaniel Clyne,22,19,1640,0,0,,14,19,3,0,0,10,8
+ENG-Premier League,2223,Crystal Palace,Odsonne Édouard,35,20,1803,39,15,38.5,11,1,3,0,0,28,17
+ENG-Premier League,2223,Crystal Palace,Sam Johnstone,9,9,810,0,0,,0,0,1,0,0,1,0
+ENG-Premier League,2223,Crystal Palace,Tyrick Mitchell,36,34,2891,6,1,16.7,48,38,5,1,0,33,10
+ENG-Premier League,2223,Crystal Palace,Vicente Guaita,27,27,2430,0,0,,0,0,1,0,0,1,3
+ENG-Premier League,2223,Crystal Palace,Wilfried Zaha,27,27,2288,66,22,33.3,20,17,5,0,0,35,77
+ENG-Premier League,2223,Crystal Palace,Will Hughes,27,7,842,6,4,66.7,16,16,4,0,0,19,7
+ENG-Premier League,2223,Everton,Abdoulaye Doucouré,25,17,1533,20,8,40.0,20,12,6,1,0,21,4
+ENG-Premier League,2223,Everton,Alex Iwobi,38,38,3378,42,15,35.7,37,27,2,0,0,19,15
+ENG-Premier League,2223,Everton,Amadou Onana,33,29,2488,34,6,17.6,44,38,9,0,0,44,49
+ENG-Premier League,2223,Everton,Anthony Gordon,16,12,1095,26,16,61.5,21,5,6,0,0,20,15
+ENG-Premier League,2223,Everton,Asmir Begović,1,1,90,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2223,Everton,Ben Godfrey,13,10,802,6,1,16.7,11,8,2,0,0,10,5
+ENG-Premier League,2223,Everton,Conor Coady,24,23,2096,4,3,75.0,10,13,2,0,0,11,14
+ENG-Premier League,2223,Everton,Dele Alli,2,0,40,0,0,,0,0,0,0,0,0,1
+ENG-Premier League,2223,Everton,Demarai Gray,33,27,2507,59,24,40.7,24,12,3,0,0,24,51
+ENG-Premier League,2223,Everton,Dominic Calvert-Lewin,17,15,1165,31,10,32.3,2,3,3,0,0,22,14
+ENG-Premier League,2223,Everton,Dwight McNeil,36,28,2498,46,15,32.6,39,28,5,0,0,22,21
+ENG-Premier League,2223,Everton,Ellis Simms,11,2,228,8,1,12.5,0,0,0,0,0,0,1
+ENG-Premier League,2223,Everton,Idrissa Gueye,33,32,2577,15,6,40.0,57,56,7,0,0,43,50
+ENG-Premier League,2223,Everton,Isaac Price,1,0,33,0,0,,0,0,1,0,0,0,0
+ENG-Premier League,2223,Everton,James Garner,16,7,804,9,3,33.3,13,12,3,0,0,16,10
+ENG-Premier League,2223,Everton,James Tarkowski,38,38,3420,32,9,28.1,29,49,6,0,0,40,23
+ENG-Premier League,2223,Everton,Jordan Pickford,37,37,3330,0,0,,0,4,6,0,0,1,5
+ENG-Premier League,2223,Everton,Mason Holgate,8,5,507,4,1,25.0,7,7,3,1,1,9,4
+ENG-Premier League,2223,Everton,Michael Keane,12,10,985,14,4,28.6,4,14,0,0,0,7,4
+ENG-Premier League,2223,Everton,Nathan Patterson,19,14,1279,8,1,12.5,24,14,3,0,0,14,13
+ENG-Premier League,2223,Everton,Neal Maupay,27,11,1118,32,16,50.0,6,6,4,0,0,13,21
+ENG-Premier League,2223,Everton,Rúben Vinagre,2,0,26,0,0,,2,0,0,0,0,0,3
+ENG-Premier League,2223,Everton,Salomón Rondón,7,1,109,4,1,25.0,0,0,0,0,0,4,0
+ENG-Premier League,2223,Everton,Séamus Coleman,23,20,1656,7,2,28.6,26,22,1,0,0,10,21
+ENG-Premier League,2223,Everton,Tom Cannon,2,0,25,1,1,100.0,0,0,0,0,0,0,2
+ENG-Premier League,2223,Everton,Tom Davies,19,4,538,9,2,22.2,9,3,3,0,0,10,6
+ENG-Premier League,2223,Everton,Vitaliy Mykolenko,34,30,2655,10,3,30.0,37,48,4,0,0,29,21
+ENG-Premier League,2223,Everton,Yerry Mina,7,7,594,8,4,50.0,7,6,2,0,0,6,10
+ENG-Premier League,2223,Fulham,Aleksandar Mitrović,24,23,2008,93,35,37.6,6,3,7,0,0,34,40
+ENG-Premier League,2223,Fulham,Andreas Pereira,33,33,2692,62,23,37.1,8,6,8,0,0,41,31
+ENG-Premier League,2223,Fulham,Antonee Robinson,35,35,3088,3,0,0.0,41,52,8,0,0,33,23
+ENG-Premier League,2223,Fulham,Bernd Leno,36,36,3240,0,0,,0,0,3,0,0,1,3
+ENG-Premier League,2223,Fulham,Bobby De Cordova-Reid,36,29,2475,31,10,32.3,24,18,8,0,0,34,21
+ENG-Premier League,2223,Fulham,Carlos Vinícius,28,11,1109,21,12,57.1,2,0,3,0,0,21,15
+ENG-Premier League,2223,Fulham,Cédric Soares,6,2,198,2,0,0.0,5,1,0,0,0,1,2
+ENG-Premier League,2223,Fulham,Daniel James,20,5,621,14,3,21.4,5,1,0,0,0,2,14
+ENG-Premier League,2223,Fulham,Harrison Reed,37,35,2866,20,8,40.0,26,19,5,0,0,38,22
+ENG-Premier League,2223,Fulham,Harry Wilson,29,13,1100,18,4,22.2,13,7,1,0,0,11,32
+ENG-Premier League,2223,Fulham,Issa Diop,25,21,2012,3,2,66.7,18,31,2,0,0,16,8
+ENG-Premier League,2223,Fulham,Jay Stansfield,3,1,87,2,0,0.0,0,1,0,0,0,1,1
+ENG-Premier League,2223,Fulham,Josh Onomah,2,0,15,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2223,Fulham,João Palhinha,35,35,3108,38,8,21.1,82,43,14,0,0,49,50
+ENG-Premier League,2223,Fulham,Kenny Tete,31,29,2569,13,5,38.5,49,51,8,0,0,42,54
+ENG-Premier League,2223,Fulham,Kevin Mbabu,6,1,144,0,0,,2,3,1,0,0,4,0
+ENG-Premier League,2223,Fulham,Layvin Kurzawa,3,2,135,0,0,,2,2,1,0,0,1,0
+ENG-Premier League,2223,Fulham,Luke Harris,3,0,13,0,0,,0,0,0,0,0,1,0
+ENG-Premier League,2223,Fulham,Manor Solomon,19,4,572,11,7,63.6,12,5,0,0,0,5,4
+ENG-Premier League,2223,Fulham,Marek Rodák,2,2,180,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2223,Fulham,Nathaniel Chalobah,4,1,12,1,1,100.0,1,0,0,1,0,2,0
+ENG-Premier League,2223,Fulham,Neeskens Kebano,17,9,764,9,2,22.2,9,1,0,0,0,8,15
+ENG-Premier League,2223,Fulham,Saša Lukić,12,4,412,5,1,20.0,3,5,1,0,0,13,10
+ENG-Premier League,2223,Fulham,Shane Duffy,5,0,20,1,0,0.0,0,0,0,0,0,0,1
+ENG-Premier League,2223,Fulham,Tim Ream,33,33,2897,3,2,66.7,19,42,2,0,0,18,7
+ENG-Premier League,2223,Fulham,Tom Cairney,33,6,988,21,3,14.3,7,4,2,0,0,8,22
+ENG-Premier League,2223,Fulham,Tosin Adarabioyo,25,23,2085,17,4,23.5,14,25,4,0,0,15,5
+ENG-Premier League,2223,Fulham,Tyrese Francois,1,0,1,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2223,Fulham,Willian,27,25,2126,41,18,43.9,8,9,2,0,0,11,24
+ENG-Premier League,2223,Leeds United,Adam Forshaw,12,5,479,1,0,0.0,9,4,0,0,0,6,5
+ENG-Premier League,2223,Leeds United,Brenden Aaronson,36,28,2372,41,9,22.0,18,4,2,0,0,16,55
+ENG-Premier League,2223,Leeds United,Cody Drameh,1,1,69,0,0,,4,1,0,0,0,1,0
+ENG-Premier League,2223,Leeds United,Crysencio Summerville,28,12,1426,29,9,31.0,21,13,4,0,0,21,41
+ENG-Premier League,2223,Leeds United,Daniel James,4,2,198,3,1,33.3,2,2,0,0,0,2,6
+ENG-Premier League,2223,Leeds United,Darko Gyabi,1,0,8,1,0,0.0,2,0,0,0,0,0,1
+ENG-Premier League,2223,Leeds United,Diego Llorente,8,7,649,6,0,0.0,10,16,1,0,0,6,2
+ENG-Premier League,2223,Leeds United,Georginio Rutter,11,1,273,4,0,0.0,10,3,0,0,0,5,6
+ENG-Premier League,2223,Leeds United,Illan Meslier,34,34,3060,1,1,100.0,1,1,3,0,0,1,5
+ENG-Premier League,2223,Leeds United,Jack Harrison,36,34,2708,39,14,35.9,15,22,2,0,0,37,35
+ENG-Premier League,2223,Leeds United,Joe Gelhardt,15,1,212,10,2,20.0,2,0,1,0,0,6,8
+ENG-Premier League,2223,Leeds United,Joel Robles,4,4,360,0,0,,0,0,1,0,0,0,0
+ENG-Premier League,2223,Leeds United,Junior Firpo,19,14,1368,2,1,50.0,23,24,6,1,0,24,8
+ENG-Premier League,2223,Leeds United,Liam Cooper,18,16,1426,10,3,30.0,24,34,5,0,0,12,10
+ENG-Premier League,2223,Leeds United,Luis Sinisterra,19,13,867,28,11,39.3,14,7,3,1,1,14,12
+ENG-Premier League,2223,Leeds United,Luke Ayling,29,22,2054,24,5,20.8,38,25,3,0,0,16,35
+ENG-Premier League,2223,Leeds United,Marc Roca,32,29,2315,35,13,37.1,40,24,7,0,0,40,29
+ENG-Premier League,2223,Leeds United,Mateo Joseph,3,0,26,1,1,100.0,0,0,0,0,0,0,0
+ENG-Premier League,2223,Leeds United,Mateusz Klich,14,0,280,4,1,25.0,8,0,2,0,0,10,3
+ENG-Premier League,2223,Leeds United,Maximilian Wöber,16,14,1266,9,2,22.2,17,26,3,0,0,15,1
+ENG-Premier League,2223,Leeds United,Pascal Struijk,29,26,2200,16,7,43.8,60,34,5,0,0,30,12
+ENG-Premier League,2223,Leeds United,Patrick Bamford,28,18,1515,50,17,34.0,6,5,3,0,0,24,27
+ENG-Premier League,2223,Leeds United,Rasmus Kristensen,26,21,1960,13,5,38.5,34,32,4,0,0,20,6
+ENG-Premier League,2223,Leeds United,Robin Koch,36,36,3175,17,4,23.5,30,42,7,0,0,35,17
+ENG-Premier League,2223,Leeds United,Rodrigo,31,23,1935,67,27,40.3,9,6,6,0,0,29,11
+ENG-Premier League,2223,Leeds United,Sam Greenwood,18,3,424,12,2,16.7,7,1,1,0,0,11,3
+ENG-Premier League,2223,Leeds United,Tyler Adams,24,24,2156,4,0,0.0,44,32,6,1,1,37,21
+ENG-Premier League,2223,Leeds United,Weston McKennie,19,16,1437,13,2,15.4,14,22,7,0,0,20,5
+ENG-Premier League,2223,Leeds United,Wilfried Gnonto,24,14,1354,22,8,36.4,16,4,7,0,0,28,39
+ENG-Premier League,2223,Leicester City,Ayoze Pérez,8,3,382,8,2,25.0,8,2,0,0,0,7,12
+ENG-Premier League,2223,Leicester City,Boubakary Soumaré,26,20,1629,1,0,0.0,34,31,9,0,0,31,22
+ENG-Premier League,2223,Leicester City,Daniel Amartey,20,18,1610,6,2,33.3,8,9,1,0,0,7,3
+ENG-Premier League,2223,Leicester City,Daniel Iversen,12,12,1080,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2223,Leicester City,Danny Ward,26,26,2340,0,0,,1,0,0,0,0,0,5
+ENG-Premier League,2223,Leicester City,Dennis Praet,22,6,649,5,2,40.0,8,5,1,0,0,9,8
+ENG-Premier League,2223,Leicester City,Harry Souttar,12,11,992,8,2,25.0,10,10,2,0,0,5,5
+ENG-Premier League,2223,Leicester City,Harvey Barnes,34,32,2711,72,34,47.2,14,8,3,0,0,39,37
+ENG-Premier League,2223,Leicester City,James Justin,14,14,1252,5,0,0.0,18,14,0,0,0,8,29
+ENG-Premier League,2223,Leicester City,James Maddison,30,28,2480,85,29,34.1,25,12,10,0,0,31,80
+ENG-Premier League,2223,Leicester City,Jamie Vardy,37,19,1857,28,15,53.6,5,2,1,0,0,22,6
+ENG-Premier League,2223,Leicester City,Jonny Evans,13,12,1051,1,1,100.0,5,17,1,0,0,9,7
+ENG-Premier League,2223,Leicester City,Kelechi Iheanacho,28,11,1127,39,14,35.9,2,0,0,0,0,18,5
+ENG-Premier League,2223,Leicester City,Kiernan Dewsbury-Hall,31,28,2306,26,6,23.1,28,28,5,1,1,37,35
+ENG-Premier League,2223,Leicester City,Lewis Brunt,1,0,23,0,0,,0,0,0,0,0,0,1
+ENG-Premier League,2223,Leicester City,Luke Thomas,17,11,1073,3,0,0.0,18,27,3,0,0,11,7
+ENG-Premier League,2223,Leicester City,Marc Albrighton,6,1,237,2,1,50.0,1,1,0,0,0,2,2
+ENG-Premier League,2223,Leicester City,Nampalys Mendy,19,7,757,2,1,50.0,9,13,1,0,0,9,10
+ENG-Premier League,2223,Leicester City,Patson Daka,30,13,1187,30,16,53.3,9,7,2,0,0,23,15
+ENG-Premier League,2223,Leicester City,Ricardo Pereira,10,5,454,2,1,50.0,8,4,2,0,0,4,4
+ENG-Premier League,2223,Leicester City,Tetê,13,9,734,15,2,13.3,8,2,0,0,0,3,17
+ENG-Premier League,2223,Leicester City,Timothy Castagne,37,36,3254,18,6,33.3,42,43,3,0,0,25,15
+ENG-Premier League,2223,Leicester City,Victor Bernth Kristiansen,12,11,892,3,0,0.0,24,3,2,0,0,17,9
+ENG-Premier League,2223,Leicester City,Wesley Fofana,2,2,180,2,1,50.0,2,9,1,0,0,2,3
+ENG-Premier League,2223,Leicester City,Wilfred Ndidi,27,19,1679,7,2,28.6,41,36,4,0,0,29,14
+ENG-Premier League,2223,Leicester City,Wout Faes,31,31,2786,13,3,23.1,31,42,6,1,1,23,17
+ENG-Premier League,2223,Leicester City,Youri Tielemans,31,27,2344,31,10,32.3,41,29,4,0,0,33,25
+ENG-Premier League,2223,Leicester City,Çağlar Söyüncü,7,6,529,5,2,40.0,9,7,2,0,0,7,4
+ENG-Premier League,2223,Liverpool,Alex Oxlade-Chamberlain,9,4,335,7,3,42.9,4,0,0,0,0,3,4
+ENG-Premier League,2223,Liverpool,Alisson,37,37,3330,0,0,,0,0,1,0,0,1,5
+ENG-Premier League,2223,Liverpool,Andy Robertson,34,29,2583,13,4,30.8,21,16,3,0,0,22,10
+ENG-Premier League,2223,Liverpool,Ben Gannon-Doak,2,0,26,0,0,,2,0,0,0,0,1,1
+ENG-Premier League,2223,Liverpool,Bobby Clark,1,0,8,0,0,,0,0,0,0,0,1,0
+ENG-Premier League,2223,Liverpool,Caoimhín Kelleher,1,1,90,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2223,Liverpool,Cody Gakpo,21,17,1458,39,13,33.3,15,4,0,0,0,26,33
+ENG-Premier League,2223,Liverpool,Curtis Jones,18,12,1035,15,5,33.3,17,3,2,0,0,13,16
+ENG-Premier League,2223,Liverpool,Darwin Núñez,29,19,1695,84,37,44.0,5,2,1,1,0,25,17
+ENG-Premier League,2223,Liverpool,Diogo Jota,22,12,1131,35,11,31.4,14,3,2,0,0,19,15
+ENG-Premier League,2223,Liverpool,Fabinho,36,31,2671,18,4,22.2,37,36,11,0,0,53,24
+ENG-Premier League,2223,Liverpool,Fabio Carvalho,13,4,347,11,4,36.4,8,6,0,0,0,6,6
+ENG-Premier League,2223,Liverpool,Harvey Elliott,32,18,1613,36,12,33.3,20,14,2,0,0,14,25
+ENG-Premier League,2223,Liverpool,Ibrahima Konaté,18,17,1552,11,3,27.3,26,26,5,0,0,29,16
+ENG-Premier League,2223,Liverpool,James Milner,31,7,913,7,1,14.3,15,10,2,0,0,16,15
+ENG-Premier League,2223,Liverpool,Joe Gomez,21,15,1466,6,2,33.3,21,22,3,0,0,13,4
+ENG-Premier League,2223,Liverpool,Jordan Henderson,35,23,2074,23,6,26.1,23,21,2,0,0,19,9
+ENG-Premier League,2223,Liverpool,Joël Matip,14,12,1092,5,3,60.0,8,17,3,0,0,10,5
+ENG-Premier League,2223,Liverpool,Kostas Tsimikas,20,9,771,7,2,28.6,9,11,3,0,0,13,9
+ENG-Premier League,2223,Liverpool,Luis Díaz,17,11,996,27,8,29.6,11,5,2,0,0,20,23
+ENG-Premier League,2223,Liverpool,Mohamed Salah,38,37,3290,125,47,37.6,12,6,2,0,0,20,33
+ENG-Premier League,2223,Liverpool,Naby Keïta,8,3,293,10,0,0.0,4,2,1,0,0,12,2
+ENG-Premier League,2223,Liverpool,Nathaniel Phillips,2,1,66,1,0,0.0,1,2,0,0,0,1,0
+ENG-Premier League,2223,Liverpool,Roberto Firmino,25,13,1213,39,25,64.1,13,7,0,0,0,9,6
+ENG-Premier League,2223,Liverpool,Stefan Bajcetic,11,6,526,6,3,50.0,8,6,2,0,0,7,9
+ENG-Premier League,2223,Liverpool,Thiago Alcántara,18,14,1254,10,1,10.0,27,20,2,0,0,18,26
+ENG-Premier League,2223,Liverpool,Trent Alexander-Arnold,37,34,2923,40,8,20.0,38,40,5,0,0,22,5
+ENG-Premier League,2223,Liverpool,Virgil van Dijk,32,32,2835,30,10,33.3,14,26,3,0,0,12,3
+ENG-Premier League,2223,Manchester City,Aymeric Laporte,12,11,993,10,1,10.0,6,3,0,0,0,5,7
+ENG-Premier League,2223,Manchester City,Bernardo Silva,34,24,2205,25,10,40.0,25,14,5,0,0,31,15
+ENG-Premier League,2223,Manchester City,Cole Palmer,14,2,370,11,4,36.4,1,1,1,0,0,1,6
+ENG-Premier League,2223,Manchester City,Ederson Moraes,35,35,3150,0,0,,1,1,3,0,0,1,3
+ENG-Premier League,2223,Manchester City,Erling Haaland,35,33,2769,123,60,48.8,2,3,5,0,0,31,24
+ENG-Premier League,2223,Manchester City,Jack Grealish,28,23,2055,41,16,39.0,16,8,4,0,0,27,78
+ENG-Premier League,2223,Manchester City,John Stones,23,21,1846,11,3,27.3,14,8,2,0,0,11,8
+ENG-Premier League,2223,Manchester City,João Cancelo,17,16,1274,17,3,17.6,18,19,3,1,0,13,18
+ENG-Premier League,2223,Manchester City,Julián Álvarez,31,13,1465,47,22,46.8,16,2,0,0,0,21,14
+ENG-Premier League,2223,Manchester City,Kalvin Phillips,12,2,300,6,0,0.0,4,4,1,0,0,10,3
+ENG-Premier League,2223,Manchester City,Kevin De Bruyne,32,28,2417,65,21,32.3,13,8,1,0,0,20,29
+ENG-Premier League,2223,Manchester City,Kyle Walker,27,22,1958,5,1,20.0,9,19,3,0,0,15,10
+ENG-Premier League,2223,Manchester City,Manuel Akanji,29,24,2287,15,3,20.0,24,15,2,0,0,24,12
+ENG-Premier League,2223,Manchester City,Máximo Perrone,1,0,19,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2223,Manchester City,Nathan Aké,26,22,1873,9,2,22.2,12,19,2,0,0,12,14
+ENG-Premier League,2223,Manchester City,Phil Foden,32,22,1842,46,22,47.8,10,5,1,0,0,10,29
+ENG-Premier League,2223,Manchester City,Rico Lewis,14,10,903,5,2,40.0,10,4,1,0,0,10,17
+ENG-Premier League,2223,Manchester City,Riyad Mahrez,30,22,1920,43,13,30.2,13,9,2,0,0,17,41
+ENG-Premier League,2223,Manchester City,Rodri,36,34,2911,50,14,28.0,41,31,5,0,0,46,20
+ENG-Premier League,2223,Manchester City,Rúben Dias,26,22,1998,10,2,20.0,14,18,3,0,0,18,7
+ENG-Premier League,2223,Manchester City,Sergio Gómez,12,2,349,7,0,0.0,4,2,0,0,0,2,2
+ENG-Premier League,2223,Manchester City,Shea Charles,1,0,28,0,0,,0,1,0,0,0,0,0
+ENG-Premier League,2223,Manchester City,Stefan Ortega,3,3,270,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2223,Manchester City,İlkay Gündoğan,31,27,2353,54,20,37.0,19,20,0,0,0,22,25
+ENG-Premier League,2223,Manchester Utd,Aaron Wan-Bissaka,19,16,1435,10,2,20.0,23,20,2,0,0,11,2
+ENG-Premier League,2223,Manchester Utd,Alejandro Garnacho,19,5,569,24,10,41.7,2,4,3,0,0,8,8
+ENG-Premier League,2223,Manchester Utd,Anthony Elanga,16,5,426,10,4,40.0,0,2,0,0,0,3,7
+ENG-Premier League,2223,Manchester Utd,Anthony Martial,21,11,978,27,13,48.1,3,1,0,0,0,8,14
+ENG-Premier League,2223,Manchester Utd,Antony,25,23,1802,72,24,33.3,9,11,5,0,0,15,25
+ENG-Premier League,2223,Manchester Utd,Bruno Fernandes,37,37,3316,92,35,38.0,42,25,6,0,0,41,39
+ENG-Premier League,2223,Manchester Utd,Casemiro,28,24,2124,34,11,32.4,44,29,7,2,0,49,24
+ENG-Premier League,2223,Manchester Utd,Christian Eriksen,28,25,2048,38,11,28.9,19,10,3,0,0,13,10
+ENG-Premier League,2223,Manchester Utd,Cristiano Ronaldo,10,4,525,25,6,24.0,2,1,2,0,0,7,5
+ENG-Premier League,2223,Manchester Utd,David de Gea,38,38,3420,0,0,,0,0,0,0,0,0,5
+ENG-Premier League,2223,Manchester Utd,Diogo Dalot,26,24,2154,22,7,31.8,40,37,6,0,0,20,3
+ENG-Premier League,2223,Manchester Utd,Donny van de Beek,7,2,167,2,0,0.0,0,1,0,0,0,4,2
+ENG-Premier League,2223,Manchester Utd,Facundo Pellistri,4,0,64,0,0,,1,0,0,0,0,1,2
+ENG-Premier League,2223,Manchester Utd,Fred,35,12,1249,26,5,19.2,31,19,6,0,0,33,22
+ENG-Premier League,2223,Manchester Utd,Harry Maguire,16,8,767,3,0,0.0,6,13,4,0,0,8,4
+ENG-Premier League,2223,Manchester Utd,Jadon Sancho,26,21,1686,21,11,52.4,9,5,0,0,0,9,10
+ENG-Premier League,2223,Manchester Utd,Kobbie Mainoo,1,0,11,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2223,Manchester Utd,Lisandro Martínez,27,24,2114,10,1,10.0,30,34,6,0,0,21,10
+ENG-Premier League,2223,Manchester Utd,Luke Shaw,31,30,2552,14,4,28.6,36,35,8,0,0,46,27
+ENG-Premier League,2223,Manchester Utd,Marcel Sabitzer,11,7,627,11,3,27.3,8,6,1,0,0,8,10
+ENG-Premier League,2223,Manchester Utd,Marcus Rashford,35,32,2879,108,50,46.3,10,6,2,0,0,15,23
+ENG-Premier League,2223,Manchester Utd,Raphaël Varane,24,22,1911,8,4,50.0,10,9,1,0,0,12,3
+ENG-Premier League,2223,Manchester Utd,Scott McTominay,24,10,1160,13,6,46.2,20,10,8,0,0,28,16
+ENG-Premier League,2223,Manchester Utd,Tyrell Malacia,22,14,1396,5,2,40.0,33,24,6,0,0,39,13
+ENG-Premier League,2223,Manchester Utd,Victor Lindelöf,20,14,1365,3,0,0.0,17,19,1,0,0,10,4
+ENG-Premier League,2223,Manchester Utd,Wout Weghorst,17,10,797,14,5,35.7,5,6,1,0,0,14,9
+ENG-Premier League,2223,Newcastle,Alexander Isak,22,17,1522,51,25,49.0,8,4,3,0,0,19,16
+ENG-Premier League,2223,Newcastle,Allan Saint-Maximin,25,12,1120,28,13,46.4,4,4,1,0,0,6,16
+ENG-Premier League,2223,Newcastle,Anthony Gordon,16,4,487,8,2,25.0,11,1,1,0,0,7,8
+ENG-Premier League,2223,Newcastle,Bruno Guimarães,32,32,2726,28,8,28.6,43,36,7,0,0,45,84
+ENG-Premier League,2223,Newcastle,Callum Wilson,31,21,1877,73,35,47.9,3,1,4,0,0,21,30
+ENG-Premier League,2223,Newcastle,Chris Wood,18,4,446,9,4,44.4,4,1,0,0,0,4,4
+ENG-Premier League,2223,Newcastle,Dan Burn,38,35,3111,21,4,19.0,38,29,5,0,0,35,4
+ENG-Premier League,2223,Newcastle,Elliot Anderson,22,3,410,11,4,36.4,5,5,0,0,0,6,10
+ENG-Premier League,2223,Newcastle,Emil Krafth,1,0,1,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2223,Newcastle,Fabian Schär,36,36,3206,56,15,26.8,21,51,7,0,0,20,27
+ENG-Premier League,2223,Newcastle,Jacob Murphy,36,14,1251,29,10,34.5,9,6,0,0,0,8,13
+ENG-Premier League,2223,Newcastle,Jamaal Lascelles,7,2,218,2,0,0.0,0,0,4,0,0,6,2
+ENG-Premier League,2223,Newcastle,Jamal Lewis,2,0,11,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2223,Newcastle,Javier Manquillo,4,0,37,0,0,,2,1,0,0,0,0,0
+ENG-Premier League,2223,Newcastle,Joe Willock,35,31,2558,58,17,29.3,30,27,1,0,0,35,23
+ENG-Premier League,2223,Newcastle,Joelinton,32,30,2661,51,20,39.2,49,46,12,0,0,65,34
+ENG-Premier League,2223,Newcastle,Jonjo Shelvey,3,0,37,0,0,,0,0,0,0,0,1,0
+ENG-Premier League,2223,Newcastle,Kieran Trippier,38,38,3341,14,4,28.6,48,43,5,0,0,47,28
+ENG-Premier League,2223,Newcastle,Lewis Miley,1,0,15,1,0,0.0,0,0,0,0,0,0,0
+ENG-Premier League,2223,Newcastle,Martin Dúbravka,2,1,157,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2223,Newcastle,Matt Ritchie,7,0,39,0,0,,0,1,0,0,0,0,0
+ENG-Premier League,2223,Newcastle,Matt Targett,17,6,610,1,0,0.0,10,10,1,0,0,10,3
+ENG-Premier League,2223,Newcastle,Miguel Almirón,34,29,2491,69,21,30.4,29,10,2,0,0,22,33
+ENG-Premier League,2223,Newcastle,Nick Pope,37,37,3261,0,0,,0,0,3,1,0,1,2
+ENG-Premier League,2223,Newcastle,Ryan Fraser,8,3,313,6,1,16.7,2,0,1,0,0,3,10
+ENG-Premier League,2223,Newcastle,Sean Longstaff,33,28,2518,33,7,21.2,24,16,2,0,0,29,39
+ENG-Premier League,2223,Newcastle,Sven Botman,36,35,3127,22,7,31.8,26,34,2,0,0,15,12
+ENG-Premier League,2223,Nottingham,Alex Mighten,1,0,8,0,0,,0,0,0,0,0,0,1
+ENG-Premier League,2223,Nottingham,André Ayew,13,1,316,4,2,50.0,3,0,1,0,0,3,8
+ENG-Premier League,2223,Nottingham,Brennan Johnson,38,33,2934,55,27,49.1,18,4,6,0,0,37,21
+ENG-Premier League,2223,Nottingham,Cafú,1,0,7,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2223,Nottingham,Cheikhou Kouyaté,21,10,882,6,5,83.3,22,10,3,0,0,21,12
+ENG-Premier League,2223,Nottingham,Chris Wood,7,5,372,3,1,33.3,0,1,0,0,0,2,3
+ENG-Premier League,2223,Nottingham,Danilo Santos,13,12,976,15,4,26.7,6,10,1,0,0,4,3
+ENG-Premier League,2223,Nottingham,Dean Henderson,18,18,1620,0,0,,0,0,2,0,0,1,1
+ENG-Premier League,2223,Nottingham,Emmanuel Dennis,19,6,720,21,7,33.3,12,2,3,0,0,15,29
+ENG-Premier League,2223,Nottingham,Felipe,16,15,1418,13,1,7.7,23,38,4,0,0,15,12
+ENG-Premier League,2223,Nottingham,Giulian Biancone,2,0,17,0,0,,1,1,0,0,0,0,0
+ENG-Premier League,2223,Nottingham,Gustavo Scarpa,6,2,181,7,1,14.3,2,0,1,0,0,4,8
+ENG-Premier League,2223,Nottingham,Harry Toffolo,19,9,940,6,2,33.3,8,7,2,0,0,10,5
+ENG-Premier League,2223,Nottingham,Jack Colback,11,4,497,0,0,,14,2,0,0,0,9,8
+ENG-Premier League,2223,Nottingham,Jesse Lingard,17,12,923,10,2,20.0,5,4,1,0,0,8,9
+ENG-Premier League,2223,Nottingham,Joe Worrall,30,21,2224,7,2,28.6,26,26,6,0,0,26,4
+ENG-Premier League,2223,Nottingham,Jonjo Shelvey,8,6,540,6,0,0.0,1,5,2,0,0,9,1
+ENG-Premier League,2223,Nottingham,Keylor Navas,17,17,1529,0,0,,0,1,2,0,0,0,0
+ENG-Premier League,2223,Nottingham,Lewis O'Brien,13,6,584,7,2,28.6,7,6,2,0,0,5,16
+ENG-Premier League,2223,Nottingham,Morgan Gibbs-White,35,34,2971,59,22,37.3,14,13,5,0,0,32,28
+ENG-Premier League,2223,Nottingham,Moussa Niakhaté,14,14,1163,6,3,50.0,9,20,1,0,0,12,6
+ENG-Premier League,2223,Nottingham,Neco Williams,31,20,1882,25,7,28.0,47,31,7,0,0,33,28
+ENG-Premier League,2223,Nottingham,Orel Mangala,27,20,1550,9,3,33.3,19,24,3,0,0,22,23
+ENG-Premier League,2223,Nottingham,Remo Freuler,28,24,2161,8,1,12.5,26,29,4,0,0,24,12
+ENG-Premier League,2223,Nottingham,Renan Lodi,28,26,2214,15,0,0.0,41,33,7,0,0,28,42
+ENG-Premier League,2223,Nottingham,Ryan Yates,26,21,1837,26,5,19.2,19,10,5,0,0,51,53
+ENG-Premier League,2223,Nottingham,Sam Surridge,20,1,323,9,2,22.2,2,0,2,0,0,12,10
+ENG-Premier League,2223,Nottingham,Scott McKenna,20,19,1571,2,0,0.0,8,11,4,0,0,8,3
+ENG-Premier League,2223,Nottingham,Serge Aurier,24,22,1943,9,3,33.3,41,27,2,0,0,18,19
+ENG-Premier League,2223,Nottingham,Steve Cook,12,11,957,3,0,0.0,4,12,4,0,0,5,2
+ENG-Premier League,2223,Nottingham,Taiwo Awoniyi,27,17,1404,35,15,42.9,10,3,2,0,0,25,19
+ENG-Premier League,2223,Nottingham,Wayne Hennessey,4,3,271,0,0,,0,0,0,0,0,0,1
+ENG-Premier League,2223,Nottingham,Willy Boly,11,9,685,2,1,50.0,6,11,2,0,0,5,5
+ENG-Premier League,2223,Southampton,Adam Armstrong,30,14,1335,25,12,48.0,9,3,2,0,0,17,9
+ENG-Premier League,2223,Southampton,Ainsley Maitland-Niles,22,13,1407,1,1,100.0,24,22,3,0,0,13,8
+ENG-Premier League,2223,Southampton,Alex McCarthy,6,6,540,0,0,,0,1,0,0,0,0,1
+ENG-Premier League,2223,Southampton,Armel Bella Kotchap,24,24,1879,14,2,14.3,18,44,4,0,0,9,33
+ENG-Premier League,2223,Southampton,Carlos Alcaraz,18,13,1029,24,10,41.7,5,1,3,0,0,15,17
+ENG-Premier League,2223,Southampton,Ché Adams,28,23,1992,47,15,31.9,13,4,1,0,0,39,27
+ENG-Premier League,2223,Southampton,Dominic Ballard,2,0,26,0,0,,0,1,0,0,0,0,0
+ENG-Premier League,2223,Southampton,Duje Ćaleta-Car,13,9,946,5,2,40.0,11,15,2,0,0,9,1
+ENG-Premier League,2223,Southampton,Gavin Bazunu,32,32,2880,0,0,,0,1,0,0,0,1,2
+ENG-Premier League,2223,Southampton,Ibrahima Diallo,18,11,819,6,0,0.0,15,7,4,0,0,18,7
+ENG-Premier League,2223,Southampton,Jack Stephens,2,0,46,0,0,,2,1,0,0,0,1,0
+ENG-Premier League,2223,Southampton,James Bree,5,4,367,1,1,100.0,3,6,1,0,0,1,0
+ENG-Premier League,2223,Southampton,James Ward-Prowse,38,38,3371,44,20,45.5,37,52,6,0,0,34,19
+ENG-Premier League,2223,Southampton,Jan Bednarek,20,20,1672,8,0,0.0,19,45,5,0,0,14,7
+ENG-Premier League,2223,Southampton,Joe Aribo,21,13,1224,14,8,57.1,19,10,2,0,0,10,13
+ENG-Premier League,2223,Southampton,Juan Larios,5,2,152,0,0,,6,2,0,0,0,1,0
+ENG-Premier League,2223,Southampton,Kamaldeen Sulemana,18,10,966,25,7,28.0,9,6,1,0,0,9,12
+ENG-Premier League,2223,Southampton,Kami Doyle,1,0,7,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2223,Southampton,Kyle Walker-Peters,31,30,2650,12,5,41.7,34,28,4,0,0,25,41
+ENG-Premier League,2223,Southampton,Lyanco,21,11,1180,12,4,33.3,17,20,4,0,0,16,10
+ENG-Premier League,2223,Southampton,Mislav Oršić,1,0,7,0,0,,1,0,0,0,0,0,0
+ENG-Premier League,2223,Southampton,Mohamed Elyounoussi,33,27,2168,36,11,30.6,30,25,4,0,0,42,17
+ENG-Premier League,2223,Southampton,Mohammed Salisu,22,21,1973,19,5,26.3,31,30,5,0,0,26,3
+ENG-Premier League,2223,Southampton,Moussa Djenepo,16,7,710,3,2,66.7,11,12,1,0,0,11,19
+ENG-Premier League,2223,Southampton,Nathan Redmond,1,0,1,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2223,Southampton,Oriol Romeu,1,1,74,0,0,,0,1,0,0,0,1,2
+ENG-Premier League,2223,Southampton,Paul Onuachu,11,4,407,11,5,45.5,2,0,0,0,0,14,5
+ENG-Premier League,2223,Southampton,Romain Perraud,29,22,1835,30,6,20.0,33,21,4,0,0,31,17
+ENG-Premier League,2223,Southampton,Roméo Lavia,29,26,2221,12,3,25.0,35,33,9,0,0,28,48
+ENG-Premier League,2223,Southampton,Samuel Amo-Ameyaw,1,0,4,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2223,Southampton,Samuel Edozie,17,5,567,8,3,37.5,11,5,0,0,0,1,22
+ENG-Premier League,2223,Southampton,Sekou Mara,22,4,555,16,5,31.3,9,1,1,0,0,20,6
+ENG-Premier League,2223,Southampton,Stuart Armstrong,32,14,1408,23,7,30.4,21,10,6,0,0,17,20
+ENG-Premier League,2223,Southampton,Theo Walcott,20,13,1129,20,8,40.0,6,9,1,0,0,7,10
+ENG-Premier League,2223,Southampton,Tino Livramento,2,0,28,0,0,,1,2,0,0,0,0,2
+ENG-Premier League,2223,Southampton,Yan Valery,1,1,45,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2223,Tottenham,Arnaut Danjuma,9,1,169,6,3,50.0,0,0,0,0,0,0,1
+ENG-Premier League,2223,Tottenham,Ben Davies,31,26,2288,14,5,35.7,12,19,4,0,0,30,17
+ENG-Premier League,2223,Tottenham,Bryan Gil,4,2,148,2,1,50.0,1,1,1,0,0,2,2
+ENG-Premier League,2223,Tottenham,Clément Lenglet,26,24,2019,13,2,15.4,24,20,4,0,0,22,17
+ENG-Premier League,2223,Tottenham,Cristian Romero,27,26,2364,11,2,18.2,38,37,11,1,1,42,12
+ENG-Premier League,2223,Tottenham,Davinson Sánchez,18,8,858,6,2,33.3,10,12,1,0,0,7,4
+ENG-Premier League,2223,Tottenham,Dejan Kulusevski,30,23,2067,43,10,23.3,16,12,2,0,0,36,25
+ENG-Premier League,2223,Tottenham,Djed Spence,4,0,7,1,1,100.0,0,0,0,0,0,0,0
+ENG-Premier League,2223,Tottenham,Emerson,26,20,1735,17,7,41.2,36,18,2,1,0,21,33
+ENG-Premier League,2223,Tottenham,Eric Dier,33,31,2818,17,4,23.5,20,33,3,0,0,25,10
+ENG-Premier League,2223,Tottenham,Fraser Forster,14,13,1215,0,0,,0,0,1,0,0,0,2
+ENG-Premier League,2223,Tottenham,George Abbott,1,0,1,0,0,,0,1,0,0,0,0,0
+ENG-Premier League,2223,Tottenham,Harry Kane,38,38,3405,132,64,48.5,12,2,6,0,0,32,56
+ENG-Premier League,2223,Tottenham,Harvey White,1,0,5,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2223,Tottenham,Hugo Lloris,25,25,2205,0,0,,1,0,0,0,0,0,2
+ENG-Premier League,2223,Tottenham,Ivan Perišić,34,23,2108,29,8,27.6,24,21,6,0,0,31,8
+ENG-Premier League,2223,Tottenham,Japhet Tanganga,4,2,146,0,0,,2,2,0,0,0,3,3
+ENG-Premier League,2223,Tottenham,Lucas Moura,15,0,153,4,1,25.0,5,2,0,1,0,3,3
+ENG-Premier League,2223,Tottenham,Matt Doherty,12,7,667,10,2,20.0,11,7,0,0,0,11,4
+ENG-Premier League,2223,Tottenham,Matthew Craig,1,0,14,0,0,,1,0,0,0,0,0,0
+ENG-Premier League,2223,Tottenham,Oliver Skipp,23,18,1491,7,3,42.9,16,17,7,0,0,23,17
+ENG-Premier League,2223,Tottenham,Pape Matar Sarr,11,2,218,2,0,0.0,6,6,1,0,0,4,3
+ENG-Premier League,2223,Tottenham,Pedro Porro,15,13,1131,26,7,26.9,16,17,0,0,0,12,16
+ENG-Premier League,2223,Tottenham,Pierre Højbjerg,35,35,3131,33,9,27.3,31,47,5,0,0,38,36
+ENG-Premier League,2223,Tottenham,Richarlison,27,12,1010,27,14,51.9,16,5,3,0,0,13,22
+ENG-Premier League,2223,Tottenham,Rodrigo Bentancur,18,17,1500,15,9,60.0,28,19,8,0,0,23,8
+ENG-Premier League,2223,Tottenham,Ryan Sessegnon,17,9,813,18,6,33.3,12,6,4,0,0,15,6
+ENG-Premier League,2223,Tottenham,Son Heung-min,36,33,2888,81,40,49.4,12,13,2,0,0,13,36
+ENG-Premier League,2223,Tottenham,Yves Bissouma,23,10,1010,6,0,0.0,13,12,6,0,0,17,9
+ENG-Premier League,2223,West Ham,Aaron Cresswell,28,24,2235,9,1,11.1,12,27,3,0,0,9,9
+ENG-Premier League,2223,West Ham,Alphonse Areola,5,2,309,0,0,,0,0,0,0,0,1,0
+ENG-Premier League,2223,West Ham,Angelo Ogbonna,16,13,1237,3,0,0.0,4,18,0,0,0,2,4
+ENG-Premier League,2223,West Ham,Ben Johnson,17,9,866,2,1,50.0,15,8,0,0,0,3,5
+ENG-Premier League,2223,West Ham,Conor Coventry,1,0,1,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2223,West Ham,Craig Dawson,8,8,720,6,1,16.7,6,6,2,0,0,6,3
+ENG-Premier League,2223,West Ham,Danny Ings,17,7,775,15,4,26.7,8,3,1,0,0,8,9
+ENG-Premier League,2223,West Ham,Declan Rice,37,36,3273,36,9,25.0,36,62,5,0,0,24,11
+ENG-Premier League,2223,West Ham,Divin Mubama,3,0,38,0,0,,1,0,0,0,0,3,1
+ENG-Premier League,2223,West Ham,Emerson Palmieri,22,16,1320,11,5,45.5,14,14,2,0,0,12,15
+ENG-Premier League,2223,West Ham,Flynn Downes,21,7,762,4,1,25.0,8,7,2,0,0,8,12
+ENG-Premier League,2223,West Ham,Gianluca Scamacca,16,11,926,30,10,33.3,4,5,3,0,0,16,10
+ENG-Premier League,2223,West Ham,Jarrod Bowen,38,36,3233,75,24,32.0,17,35,2,0,0,26,69
+ENG-Premier League,2223,West Ham,Kurt Zouma,25,24,1989,19,6,31.6,4,28,0,0,0,14,6
+ENG-Premier League,2223,West Ham,Lucas Paquetá,28,27,2151,53,16,30.2,53,15,5,0,0,49,30
+ENG-Premier League,2223,West Ham,Manuel Lanzini,10,2,252,3,1,33.3,2,2,0,0,0,1,2
+ENG-Premier League,2223,West Ham,Maxwel Cornet,14,2,245,9,2,22.2,3,2,0,0,0,2,2
+ENG-Premier League,2223,West Ham,Michail Antonio,33,21,1829,39,13,33.3,7,5,2,0,0,28,44
+ENG-Premier League,2223,West Ham,Nayef Aguerd,18,17,1595,12,2,16.7,20,19,4,0,0,8,8
+ENG-Premier League,2223,West Ham,Pablo Fornals,32,17,1503,27,7,25.9,14,14,0,0,0,14,7
+ENG-Premier League,2223,West Ham,Saïd Benrahma,35,22,2069,73,27,37.0,13,9,0,0,0,16,15
+ENG-Premier League,2223,West Ham,Thilo Kehrer,27,25,2230,8,1,12.5,21,35,4,0,0,32,12
+ENG-Premier League,2223,West Ham,Tomáš Souček,36,32,2815,34,13,38.2,41,58,3,0,0,50,16
+ENG-Premier League,2223,West Ham,Vladimír Coufal,27,24,2136,6,1,16.7,30,36,5,0,0,30,21
+ENG-Premier League,2223,West Ham,Łukasz Fabiański,36,36,3111,0,0,,0,0,1,0,0,0,4
+ENG-Premier League,2223,Wolves,Adama Traoré,34,12,1496,19,8,42.1,7,3,2,0,0,20,34
+ENG-Premier League,2223,Wolves,Boubacar Traoré,10,4,411,3,0,0.0,6,7,2,0,0,10,2
+ENG-Premier League,2223,Wolves,Chem Campbell,5,0,74,2,0,0.0,1,1,0,0,0,0,1
+ENG-Premier League,2223,Wolves,Connor Ronan,1,0,1,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2223,Wolves,Craig Dawson,17,17,1414,11,2,18.2,6,13,4,0,0,11,10
+ENG-Premier League,2223,Wolves,Daniel Bentley,2,2,180,0,0,,1,0,0,0,0,0,1
+ENG-Premier League,2223,Wolves,Daniel Podence,32,20,1771,43,18,41.9,17,7,5,0,0,26,23
+ENG-Premier League,2223,Wolves,Dexter Lembikisa,1,0,23,0,0,,0,0,0,0,0,0,0
+ENG-Premier League,2223,Wolves,Diego Costa,23,16,1241,28,14,50.0,1,1,5,1,0,29,10
+ENG-Premier League,2223,Wolves,Gonçalo Guedes,13,8,707,19,6,31.6,6,1,1,0,0,11,24
+ENG-Premier League,2223,Wolves,Hugo Bueno,21,16,1310,4,1,25.0,16,9,1,0,0,7,7
+ENG-Premier League,2223,Wolves,Hwang Hee-chan,27,12,1130,18,7,38.9,9,3,1,0,0,20,19
+ENG-Premier League,2223,Wolves,Joe Hodge,6,1,175,2,0,0.0,2,0,1,0,0,2,1
+ENG-Premier League,2223,Wolves,Jonny Castro,18,14,1261,9,2,22.2,16,13,3,1,0,13,19
+ENG-Premier League,2223,Wolves,José Sá,36,36,3240,0,0,,0,0,2,0,0,1,8
+ENG-Premier League,2223,Wolves,João Gomes,11,7,653,4,2,50.0,14,3,5,0,0,17,15
+ENG-Premier League,2223,Wolves,João Moutinho,31,20,1780,16,3,18.8,30,18,3,0,0,31,15
+ENG-Premier League,2223,Wolves,Leander Dendoncker,4,2,214,3,2,66.7,2,9,0,0,0,0,0
+ENG-Premier League,2223,Wolves,Mario Lemina,19,17,1299,9,2,22.2,25,13,4,1,1,18,9
+ENG-Premier League,2223,Wolves,Matheus Cunha,17,12,965,26,7,26.9,3,8,1,0,0,20,21
+ENG-Premier League,2223,Wolves,Matheus Nunes,34,30,2467,28,9,32.1,42,16,2,1,0,37,50
+ENG-Premier League,2223,Wolves,Max Kilman,37,37,3307,14,1,7.1,21,18,3,0,0,18,12
+ENG-Premier League,2223,Wolves,Morgan Gibbs-White,2,2,180,3,1,33.3,1,1,1,0,0,3,4
+ENG-Premier League,2223,Wolves,Nathan Collins,26,19,1814,3,0,0.0,14,21,2,1,0,17,8
+ENG-Premier League,2223,Wolves,Nélson Semedo,36,31,2632,9,0,0.0,42,26,11,1,0,47,25
+ENG-Premier League,2223,Wolves,Pablo Sarabia,13,9,765,20,5,25.0,6,1,3,0,0,13,8
+ENG-Premier League,2223,Wolves,Pedro Neto,18,13,964,17,3,17.6,5,4,1,0,0,8,15
+ENG-Premier League,2223,Wolves,Rayan Aït-Nouri,21,9,1076,10,5,50.0,19,11,4,0,0,15,11
+ENG-Premier League,2223,Wolves,Raúl Jiménez,15,8,846,20,9,45.0,4,0,0,0,0,14,14
+ENG-Premier League,2223,Wolves,Rúben Neves,35,33,3019,67,16,23.9,40,49,12,0,0,38,19
+ENG-Premier League,2223,Wolves,Saša Kalajdžić,1,1,45,1,0,0.0,0,1,0,0,0,0,1
+ENG-Premier League,2223,Wolves,Toti Gomes,17,10,984,5,2,40.0,9,10,6,0,0,16,5

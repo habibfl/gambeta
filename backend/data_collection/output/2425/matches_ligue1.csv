@@ -1,0 +1,309 @@
+date,week,home_team,away_team,home_goals,away_goals
+2024-08-16,1,Le Havre,Paris SG,1,4
+2024-08-17,1,Brest,Marseille,1,5
+2024-08-17,1,Monaco,Saint-Étienne,1,0
+2024-08-17,1,Reims,Lille,0,2
+2024-08-18,1,Rennes,Lyon,3,0
+2024-08-18,1,Montpellier,Strasbourg,1,1
+2024-08-18,1,Toulouse,Nantes,0,0
+2024-08-18,1,Angers,Lens,0,1
+2024-08-18,1,Auxerre,Nice,2,1
+2024-08-23,2,Paris SG,Montpellier,6,0
+2024-08-24,2,Lille,Angers,2,0
+2024-08-24,2,Lyon,Monaco,0,2
+2024-08-24,2,Saint-Étienne,Le Havre,0,2
+2024-08-25,2,Nice,Toulouse,1,1
+2024-08-25,2,Lens,Brest,2,0
+2024-08-25,2,Marseille,Reims,2,2
+2024-08-25,2,Nantes,Auxerre,2,0
+2024-08-25,2,Strasbourg,Rennes,3,1
+2024-08-30,3,Lyon,Strasbourg,4,3
+2024-08-31,3,Brest,Saint-Étienne,4,0
+2024-08-31,3,Montpellier,Nantes,1,3
+2024-08-31,3,Toulouse,Marseille,1,3
+2024-09-01,3,Angers,Nice,1,4
+2024-09-01,3,Le Havre,Auxerre,3,1
+2024-09-01,3,Lille,Paris SG,1,3
+2024-09-01,3,Monaco,Lens,1,1
+2024-09-01,3,Reims,Rennes,2,1
+2024-09-13,4,Saint-Étienne,Lille,1,0
+2024-09-14,4,Paris SG,Brest,3,1
+2024-09-14,4,Auxerre,Monaco,0,3
+2024-09-14,4,Marseille,Nice,2,0
+2024-09-15,4,Lens,Lyon,0,0
+2024-09-15,4,Nantes,Reims,1,2
+2024-09-15,4,Rennes,Montpellier,3,0
+2024-09-15,4,Strasbourg,Angers,1,1
+2024-09-15,4,Toulouse,Le Havre,2,0
+2024-09-20,5,Nice,Saint-Étienne,8,0
+2024-09-21,5,Rennes,Lens,1,1
+2024-09-21,5,Reims,Paris SG,1,1
+2024-09-21,5,Lille,Strasbourg,3,3
+2024-09-22,5,Angers,Nantes,1,1
+2024-09-22,5,Brest,Toulouse,2,0
+2024-09-22,5,Lyon,Marseille,2,3
+2024-09-22,5,Monaco,Le Havre,3,1
+2024-09-22,5,Montpellier,Auxerre,3,2
+2024-09-27,6,Auxerre,Brest,3,0
+2024-09-27,6,Paris SG,Rennes,3,1
+2024-09-28,6,Lens,Nice,0,0
+2024-09-28,6,Monaco,Montpellier,2,1
+2024-09-28,6,Le Havre,Lille,0,3
+2024-09-29,6,Angers,Reims,1,3
+2024-09-29,6,Nantes,Saint-Étienne,2,2
+2024-09-29,6,Strasbourg,Marseille,1,0
+2024-09-29,6,Toulouse,Lyon,1,2
+2024-10-04,7,Marseille,Angers,1,1
+2024-10-05,7,Lille,Toulouse,2,1
+2024-10-05,7,Rennes,Monaco,1,2
+2024-10-05,7,Saint-Étienne,Auxerre,3,1
+2024-10-06,7,Strasbourg,Lens,2,2
+2024-10-06,7,Reims,Montpellier,4,2
+2024-10-06,7,Brest,Le Havre,2,0
+2024-10-06,7,Lyon,Nantes,2,0
+2024-10-06,7,Nice,Paris SG,1,1
+2024-10-18,8,Monaco,Lille,0,0
+2024-10-19,8,Brest,Rennes,1,1
+2024-10-19,8,Paris SG,Strasbourg,4,2
+2024-10-19,8,Saint-Étienne,Lens,0,2
+2024-10-20,8,Toulouse,Angers,1,1
+2024-10-20,8,Nantes,Nice,1,1
+2024-10-20,8,Montpellier,Marseille,0,5
+2024-10-20,8,Auxerre,Reims,2,1
+2024-10-20,8,Le Havre,Lyon,0,4
+2024-10-25,9,Rennes,Le Havre,1,0
+2024-10-26,9,Angers,Saint-Étienne,4,2
+2024-10-26,9,Lens,Lille,0,2
+2024-10-26,9,Reims,Brest,1,2
+2024-10-27,9,Strasbourg,Nantes,3,1
+2024-10-27,9,Nice,Monaco,2,1
+2024-10-27,9,Lyon,Auxerre,2,2
+2024-10-27,9,Marseille,Paris SG,0,3
+2024-10-27,9,Montpellier,Toulouse,0,3
+2024-11-01,10,Lille,Lyon,1,1
+2024-11-01,10,Monaco,Angers,0,1
+2024-11-02,10,Brest,Nice,0,1
+2024-11-02,10,Paris SG,Lens,1,0
+2024-11-02,10,Saint-Étienne,Strasbourg,2,0
+2024-11-03,10,Toulouse,Reims,1,0
+2024-11-03,10,Nantes,Marseille,1,2
+2024-11-03,10,Le Havre,Montpellier,1,0
+2024-11-03,10,Auxerre,Rennes,4,0
+2024-11-08,11,Marseille,Auxerre,1,3
+2024-11-09,11,Angers,Paris SG,2,4
+2024-11-09,11,Lens,Nantes,3,2
+2024-11-09,11,Strasbourg,Monaco,1,3
+2024-11-10,11,Rennes,Toulouse,0,2
+2024-11-10,11,Nice,Lille,2,2
+2024-11-10,11,Montpellier,Brest,3,1
+2024-11-10,11,Lyon,Saint-Étienne,1,0
+2024-11-10,11,Le Havre,Reims,0,3
+2024-11-22,12,Monaco,Brest,3,2
+2024-11-22,12,Paris SG,Toulouse,3,0
+2024-11-23,12,Lens,Marseille,1,3
+2024-11-23,12,Reims,Lyon,1,1
+2024-11-23,12,Saint-Étienne,Montpellier,1,0
+2024-11-24,12,Nice,Strasbourg,2,1
+2024-11-24,12,Nantes,Le Havre,0,2
+2024-11-24,12,Lille,Rennes,1,0
+2024-11-24,12,Auxerre,Angers,1,0
+2024-11-29,13,Reims,Lens,0,2
+2024-11-30,13,Brest,Strasbourg,3,1
+2024-11-30,13,Paris SG,Nantes,1,1
+2024-11-30,13,Rennes,Saint-Étienne,5,0
+2024-12-01,13,Montpellier,Lille,2,2
+2024-12-01,13,Marseille,Monaco,2,1
+2024-12-01,13,Toulouse,Auxerre,2,0
+2024-12-01,13,Le Havre,Angers,0,1
+2024-12-01,13,Lyon,Nice,4,1
+2024-12-06,14,Auxerre,Paris SG,0,0
+2024-12-06,14,Lille,Brest,3,1
+2024-12-07,14,Angers,Lyon,0,3
+2024-12-07,14,Monaco,Toulouse,2,0
+2024-12-07,14,Nice,Le Havre,2,1
+2024-12-08,14,Strasbourg,Reims,0,0
+2024-12-08,14,Saint-Étienne,Marseille,0,2
+2024-12-08,14,Nantes,Rennes,1,0
+2024-12-08,14,Lens,Montpellier,2,0
+2024-12-13,15,Toulouse,Saint-Étienne,2,1
+2024-12-14,15,Auxerre,Lens,2,2
+2024-12-14,15,Marseille,Lille,1,1
+2024-12-14,15,Reims,Monaco,0,0
+2024-12-15,15,Paris SG,Lyon,3,1
+2024-12-15,15,Montpellier,Nice,2,2
+2024-12-15,15,Rennes,Angers,2,0
+2024-12-15,15,Brest,Nantes,4,1
+2024-12-15,15,Le Havre,Strasbourg,0,3
+2024-12-18,16,Monaco,Paris SG,2,4
+2025-01-03,16,Nice,Rennes,3,2
+2025-01-04,16,Lille,Nantes,1,1
+2025-01-04,16,Lyon,Montpellier,1,0
+2025-01-04,16,Saint-Étienne,Reims,3,1
+2025-01-05,16,Marseille,Le Havre,5,1
+2025-01-05,16,Strasbourg,Auxerre,3,1
+2025-01-05,16,Angers,Brest,2,0
+2025-01-05,16,Lens,Toulouse,0,1
+2025-01-10,17,Auxerre,Lille,0,0
+2025-01-10,17,Nantes,Monaco,2,2
+2025-01-11,17,Brest,Lyon,2,1
+2025-01-11,17,Reims,Nice,2,4
+2025-01-11,17,Rennes,Marseille,1,2
+2025-01-12,17,Toulouse,Strasbourg,1,2
+2025-01-12,17,Le Havre,Lens,1,2
+2025-01-12,17,Montpellier,Angers,1,3
+2025-01-12,17,Paris SG,Saint-Étienne,2,1
+2025-01-17,18,Montpellier,Monaco,2,1
+2025-01-17,18,Lille,Nice,2,1
+2025-01-18,18,Lens,Paris SG,1,2
+2025-01-18,18,Lyon,Toulouse,0,0
+2025-01-18,18,Rennes,Brest,1,2
+2025-01-19,18,Angers,Auxerre,2,0
+2025-01-19,18,Marseille,Strasbourg,1,1
+2025-01-19,18,Reims,Le Havre,1,1
+2025-01-19,18,Saint-Étienne,Nantes,1,1
+2025-01-24,19,Auxerre,Saint-Étienne,1,1
+2025-01-25,19,Strasbourg,Lille,2,1
+2025-01-25,19,Monaco,Rennes,3,2
+2025-01-25,19,Paris SG,Reims,1,1
+2025-01-26,19,Le Havre,Brest,0,1
+2025-01-26,19,Lens,Angers,1,0
+2025-01-26,19,Nantes,Lyon,1,1
+2025-01-26,19,Nice,Marseille,2,0
+2025-01-26,19,Toulouse,Montpellier,1,2
+2025-01-31,20,Montpellier,Lens,0,2
+2025-02-01,20,Monaco,Auxerre,4,2
+2025-02-01,20,Brest,Paris SG,2,5
+2025-02-01,20,Lille,Saint-Étienne,4,1
+2025-02-02,20,Angers,Le Havre,1,1
+2025-02-02,20,Marseille,Lyon,3,2
+2025-02-02,20,Reims,Nantes,1,2
+2025-02-02,20,Rennes,Strasbourg,1,0
+2025-02-02,20,Toulouse,Nice,1,1
+2025-02-07,21,Nantes,Brest,0,2
+2025-02-07,21,Paris SG,Monaco,4,1
+2025-02-08,21,Lille,Le Havre,1,2
+2025-02-08,21,Nice,Lens,2,0
+2025-02-08,21,Saint-Étienne,Rennes,0,2
+2025-02-09,21,Angers,Marseille,0,2
+2025-02-09,21,Auxerre,Toulouse,2,2
+2025-02-09,21,Lyon,Reims,4,0
+2025-02-09,21,Strasbourg,Montpellier,2,0
+2025-02-14,22,Brest,Auxerre,2,2
+2025-02-15,22,Monaco,Nantes,7,1
+2025-02-15,22,Toulouse,Paris SG,0,1
+2025-02-15,22,Marseille,Saint-Étienne,5,1
+2025-02-16,22,Le Havre,Nice,1,3
+2025-02-16,22,Lens,Strasbourg,0,2
+2025-02-16,22,Montpellier,Lyon,1,4
+2025-02-16,22,Reims,Angers,0,1
+2025-02-16,22,Rennes,Lille,0,2
+2025-02-21,23,Rennes,Reims,1,0
+2025-02-22,23,Lille,Monaco,2,1
+2025-02-22,23,Auxerre,Marseille,3,0
+2025-02-22,23,Saint-Étienne,Angers,3,3
+2025-02-23,23,Strasbourg,Brest,0,0
+2025-02-23,23,Nice,Montpellier,2,0
+2025-02-23,23,Le Havre,Toulouse,1,4
+2025-02-23,23,Lyon,Paris SG,2,3
+2025-02-23,23,Nantes,Lens,3,1
+2025-02-28,24,Monaco,Reims,3,0
+2025-03-01,24,Paris SG,Lille,4,1
+2025-03-01,24,Saint-Étienne,Nice,1,3
+2025-03-01,24,Lens,Le Havre,3,4
+2025-03-02,24,Montpellier,Rennes,0,4
+2025-03-02,24,Marseille,Nantes,2,0
+2025-03-02,24,Angers,Toulouse,0,4
+2025-03-02,24,Auxerre,Strasbourg,0,1
+2025-03-02,24,Lyon,Brest,2,1
+2025-03-07,25,Toulouse,Monaco,1,1
+2025-03-08,25,Lille,Montpellier,1,0
+2025-03-08,25,Marseille,Lens,0,1
+2025-03-08,25,Rennes,Paris SG,1,4
+2025-03-09,25,Brest,Angers,2,0
+2025-03-09,25,Le Havre,Saint-Étienne,1,1
+2025-03-09,25,Nantes,Strasbourg,0,1
+2025-03-09,25,Nice,Lyon,0,2
+2025-03-09,25,Reims,Auxerre,0,2
+2025-03-14,26,Nice,Auxerre,1,1
+2025-03-15,26,Lens,Rennes,1,0
+2025-03-15,26,Angers,Monaco,0,2
+2025-03-15,26,Nantes,Lille,1,0
+2025-03-16,26,Strasbourg,Toulouse,2,1
+2025-03-16,26,Paris SG,Marseille,3,1
+2025-03-16,26,Montpellier,Saint-Étienne,0,2
+2025-03-16,26,Lyon,Le Havre,4,2
+2025-03-16,26,Brest,Reims,0,0
+2025-03-28,27,Strasbourg,Lyon,4,2
+2025-03-29,27,Monaco,Nice,2,1
+2025-03-29,27,Reims,Marseille,3,1
+2025-03-29,27,Saint-Étienne,Paris SG,1,6
+2025-03-30,27,Toulouse,Brest,2,4
+2025-03-30,27,Lille,Lens,1,0
+2025-03-30,27,Le Havre,Nantes,3,2
+2025-03-30,27,Auxerre,Montpellier,1,0
+2025-03-30,27,Angers,Rennes,0,3
+2025-04-04,28,Nice,Nantes,1,2
+2025-04-05,28,Brest,Monaco,2,1
+2025-04-05,28,Lyon,Lille,2,1
+2025-04-05,28,Paris SG,Angers,1,0
+2025-04-06,28,Rennes,Auxerre,0,1
+2025-04-06,28,Montpellier,Le Havre,0,2
+2025-04-06,28,Reims,Strasbourg,0,1
+2025-04-06,28,Lens,Saint-Étienne,1,0
+2025-04-06,28,Marseille,Toulouse,3,2
+2025-04-11,29,Lens,Reims,0,2
+2025-04-12,29,Monaco,Marseille,3,0
+2025-04-12,29,Strasbourg,Nice,2,2
+2025-04-12,29,Toulouse,Lille,1,2
+2025-04-13,29,Saint-Étienne,Brest,3,3
+2025-04-13,29,Angers,Montpellier,2,0
+2025-04-13,29,Auxerre,Lyon,1,3
+2025-04-13,29,Le Havre,Rennes,1,5
+2025-04-18,30,Rennes,Nantes,2,1
+2025-04-19,30,Marseille,Montpellier,5,1
+2025-04-19,30,Monaco,Strasbourg,0,0
+2025-04-19,30,Paris SG,Le Havre,2,1
+2025-04-20,30,Nice,Angers,2,1
+2025-04-20,30,Reims,Toulouse,1,0
+2025-04-20,30,Brest,Lens,1,3
+2025-04-20,30,Lille,Auxerre,3,1
+2025-04-20,30,Saint-Étienne,Lyon,2,1
+2025-04-22,29,Nantes,Paris SG,1,1
+2025-04-25,31,Paris SG,Nice,1,3
+2025-04-26,31,Le Havre,Monaco,1,1
+2025-04-26,31,Lyon,Rennes,4,1
+2025-04-26,31,Strasbourg,Saint-Étienne,3,1
+2025-04-27,31,Angers,Lille,0,2
+2025-04-27,31,Lens,Auxerre,0,4
+2025-04-27,31,Marseille,Brest,4,1
+2025-04-27,31,Montpellier,Reims,0,0
+2025-04-27,31,Nantes,Toulouse,0,0
+2025-05-02,32,Nice,Reims,1,0
+2025-05-03,32,Toulouse,Rennes,2,1
+2025-05-03,32,Saint-Étienne,Monaco,1,3
+2025-05-03,32,Strasbourg,Paris SG,2,1
+2025-05-04,32,Auxerre,Le Havre,1,2
+2025-05-04,32,Brest,Montpellier,1,0
+2025-05-04,32,Lille,Marseille,1,1
+2025-05-04,32,Lyon,Lens,1,2
+2025-05-04,32,Nantes,Angers,0,1
+2025-05-10,33,Reims,Saint-Étienne,0,2
+2025-05-10,33,Toulouse,Lens,1,1
+2025-05-10,33,Rennes,Nice,2,0
+2025-05-10,33,Montpellier,Paris SG,1,4
+2025-05-10,33,Angers,Strasbourg,2,1
+2025-05-10,33,Le Havre,Marseille,1,3
+2025-05-10,33,Brest,Lille,2,0
+2025-05-10,33,Auxerre,Nantes,1,1
+2025-05-10,33,Monaco,Lyon,2,0
+2025-05-17,34,Lens,Monaco,4,0
+2025-05-17,34,Lille,Reims,2,1
+2025-05-17,34,Lyon,Angers,2,0
+2025-05-17,34,Marseille,Rennes,4,2
+2025-05-17,34,Nantes,Montpellier,3,0
+2025-05-17,34,Nice,Brest,6,0
+2025-05-17,34,Paris SG,Auxerre,3,1
+2025-05-17,34,Saint-Étienne,Toulouse,2,3
+2025-05-17,34,Strasbourg,Le Havre,2,3
+2025-05-21,,Metz,Reims,1,1
+2025-05-29,,Reims,Metz,1,3

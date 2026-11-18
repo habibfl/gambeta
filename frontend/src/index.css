@@ -270,3 +270,6 @@
    --sidebar-border: oklch(1 0 0 / 10%);
    --sidebar-ring: oklch(0.556 0 0);
 }
+/* Barres de filtres collantes : suivent la navbar (cachée au défilement) */
+:root { --nav-offset: 76px; }
+.sticky-under-nav { top: var(--nav-offset); transition: top 300ms ease; }
