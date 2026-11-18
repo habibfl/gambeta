@@ -5,7 +5,7 @@ requêtes SQL, API, analyses statistiques, modèles prédictifs évalués, étud
 
 **8 908 matchs · 5 saisons (2021-22 à 2025-26) · 5 championnats · 2 775 joueurs**
 
-**Site en ligne : _lien Vercel à ajouter après le déploiement_**
+**Site en ligne : [gambeta-flame.vercel.app](https://gambeta-flame.vercel.app)**
 
 ![CI](https://github.com/habibfl/gambeta/actions/workflows/ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/Python-pandas%20·%20numpy%20·%20scikit--learn-3776AB?logo=python&logoColor=white)
